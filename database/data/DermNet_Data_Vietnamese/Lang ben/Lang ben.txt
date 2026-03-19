@@ -1,0 +1,163 @@
+##### Pityriasis versicolor — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Tinea versicolor, Tinea flava
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B36, B36.0
+
+ICD-11:
+
+1F2D.0
+
+SNOMED CT:
+
+56454009, 29619007, 707291006, 10171000087105, 447178007
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Pityriasis versicolor**
+
+Tác giả: A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 9 năm 2014. Sửa đổi DermNet tháng 8 năm 2021
+
+[Giới thiệu](https://dermnetnz.org/topics/pityriasis-versicolor#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/pityriasis-versicolor#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/pityriasis-versicolor#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/pityriasis-versicolor#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/pityriasis-versicolor#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/pityriasis-versicolor#Treatment%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/pityriasis-versicolor#Outlook)
+
+## Pityriasis versicolor là gì?
+
+Pityriasis versicolor là một nhiễm trùng nấm men phổ biến của da, trong đó các mảng da bong tróc và đổi màu xuất hiện trên ngực và lưng.
+
+![](https://dermnetnz.org/assets/Uploads/fungal/pitver1.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/fungal/pitver4.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/fungal/s/pitver12.jpg)
+
+Thuật ngữ pityriasis được sử dụng để mô tả các tình trạng da trong đó vảy xuất hiện giống như cám. Nhiều màu sắc của pityriasis versicolor tạo nên phần thứ hai của tên gọi, versicolor. Pityriasis versicolor đôi khi được gọi là tinea versicolor, mặc dù thuật ngữ tinea nên được sử dụng cho các nhiễm trùng nấm [dermatophyte](https://dermnetnz.org/topics/tinea).
+
+## Ai bị pityriasis versicolor?
+
+Pityriasis versicolor thường ảnh hưởng đến người trưởng thành trẻ tuổi và phổ biến hơn một chút ở nam giới so với nữ giới. Nó cũng có thể ảnh hưởng đến trẻ em, thanh thiếu niên và người lớn tuổi.
+
+Pityriasis versicolor phổ biến hơn ở các vùng khí hậu nóng, ẩm ướt so với các vùng khí hậu mát mẻ, khô ráo. Nó thường ảnh hưởng đến những người ra mồ hôi nhiều. Nó có thể biến mất vào mùa đông và tái phát mỗi mùa hè.
+
+Mặc dù không được coi là lây nhiễm theo nghĩa thông thường, pityriasis versicolor đôi khi ảnh hưởng đến nhiều thành viên trong một gia đình.
+
+## Nguyên nhân của pityriasis versicolor là gì?
+
+Pityriasis versicolor do sự phát triển của nấm thuộc chi _[Malassezia](https://dermnetnz.org/topics/malassezia-infections)_.
+
+Malassezia là một phần của [vi sinh vật](https://dermnetnz.org/topics/microorganisms-found-on-the-skin) bình thường trên da. Chúng phụ thuộc vào lipid để tồn tại. Mười bốn loài malassezia khác nhau đã được xác định. Các loài phổ biến nhất được nuôi cấy từ pityriasis versicolor là _M globosa_, _M restricta_ và _M sympodialis_.
+
+Thông thường malassezia phát triển thưa thớt ở các vùng da tiết bã nhờn (da đầu, mặt và ngực) mà không gây phát ban. Không rõ tại sao chúng đôi khi phát triển mạnh hơn trên bề mặt da để hình thành pityriasis versicolor. Một giả thuyết cho rằng có liên quan đến con đường chuyển hóa phụ thuộc tryptophan.
+
+Nấm men gây ra sự phì đại của melanosome (hạt sắc tố) trong tế bào melanocyte cơ bản ở loại pityriasis versicolor màu nâu. Dễ dàng chứng minh nấm men trong các mẫu cạo từ loại pityriasis versicolor này hơn là từ loại màu trắng.
+
+Loại pityriasis versicolor màu trắng hoặc giảm sắc tố được cho là do một hóa chất do malassezia sản xuất, khuếch tán vào biểu bì và làm suy giảm chức năng của tế bào melanocyte.
+
+Loại pityriasis versicolor màu hồng bị viêm nhẹ, do viêm da gây ra bởi malassezia hoặc các chất chuyển hóa của nó.
+
+## Đặc điểm lâm sàng của pityriasis versicolor là gì?
+
+Pityriasis versicolor ảnh hưởng đến thân, cổ và/hoặc cánh tay, và hiếm gặp ở các phần khác của cơ thể. Các mảng có thể có màu nâu đồng, nhạt hơn da xung quanh hoặc màu hồng. Các mảng nhạt có thể phổ biến hơn ở da tối màu; hình thức này được gọi là pityriasis versicolor alba. Đôi khi các mảng bắt đầu có vảy và màu nâu, sau đó chuyển sang giai đoạn không có vảy và màu trắng.
+
+Pityriasis versicolor thường không có triệu chứng, nhưng ở một số người nó có thể gây ngứa nhẹ.
+
+Nói chung, các mảng nhạt hoặc tối do pityriasis versicolor không có xu hướng dễ bị [cháy nắng](https://dermnetnz.org/topics/sunburn) hơn hoặc ít hơn so với da xung quanh.
+
+Pityriasis versicolor tăng sắc tố, giảm sắc tố và màu hồng thường được coi là các biến thể riêng biệt nhưng đôi khi có thể cùng tồn tại. Pityriasis versicolor màu hồng cũng có thể cùng tồn tại với [viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) vì cả hai đều liên quan đến sự phát triển quá mức của malassezia.
+
+![Pityriasis versicolor](https://dermnetnz.org/assets/Uploads/fungal/pityriasis-versicolor/3481.jpg)
+
+Pityriasis versicolor
+
+![Pityriasis versicolor](https://dermnetnz.org/assets/Uploads/fungal/pversic.jpg)
+
+Pityriasis versicolor
+
+![Pityriasis versicolor](https://dermnetnz.org/assets/Uploads/fungal/pityriasis-versicolor/3505.jpg)
+
+Pityriasis versicolor
+
+[Xem thêm hình ảnh của pityriasis versicolor](https://dermnetnz.org/topics/pityriasis-versicolor-images).
+
+## Pityriasis versicolor được chẩn đoán như thế nào?
+
+Pityriasis versicolor thường được chẩn đoán lâm sàng. Các xét nghiệm sau có thể hữu ích.
+
+- [Đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination) (ánh sáng đen) — có thể quan sát thấy sự phát sáng màu vàng-xanh lá cây ở các khu vực bị ảnh hưởng
+- [Dermoscopy của pityriasis versicolor](https://dermnetnz.org/topics/dermoscopy-of-pityriasis-versicolor) — nhạt màu, mạng lưới sắc tố nền mờ và vảy
+- Kính hiển vi của mẫu cạo da (sử dụng kali hydroxit (KOH) để loại bỏ tế bào da) — sợi nấm và tế bào nấm men giống như spaghetti và thịt viên
+- Nuôi cấy nấm — thường được báo cáo là âm tính, vì khá khó để thuyết phục nấm men phát triển trong phòng thí nghiệm
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) — các yếu tố nấm có thể được nhìn thấy trong các tế bào ngoài của da (lớp sừng) trên [mô học](https://dermnetnz.org/topics/pityriasis-versicolor-pathology). Có thể cần các vết nhuộm đặc biệt.
+
+![Kính hiển vi của Malassezia furfur](https://dermnetnz.org/assets/Uploads/fungal/pitver3.jpg)
+
+Kính hiển vi của Malassezia furfur
+
+## Điều trị pityriasis versicolor là gì?
+
+### Biện pháp tại chỗ
+
+Pityriasis versicolor nhẹ được điều trị bằng [thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication).
+
+- Dầu gội [Selenium sulfide](https://dermnetnz.org/topics/selenium-sulfide)
+- Kem/dầu gội azole tại chỗ (econazole, ketoconazole)
+- Gel terbinafine
+
+Thuốc nên được bôi rộng rãi lên da từ đường hàm trở xuống và để trên da trong 5-15 phút trước khi rửa sạch dưới vòi hoa sen. Điều này nên được thực hiện hàng ngày trong một tuần sau đó hàng tuần trong một tháng.
+
+### Biện pháp toàn thân
+
+[Thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication), [itraconazole](https://dermnetnz.org/topics/itraconazole) và [fluconazole](https://dermnetnz.org/topics/fluconazole), được sử dụng để điều trị pityriasis versicolor khi lan rộng hoặc nếu các biện pháp tại chỗ đã thất bại.
+
+Tập thể dục mạnh mẽ một giờ sau khi uống thuốc có thể giúp đổ mồ hôi lên bề mặt da, nơi nó có thể tiêu diệt hiệu quả nấm men. Nên tránh tắm trong vài giờ. Điều trị trong vài ngày sẽ làm sạch nhiều trường hợp pityriasis lâu dài, hoặc ít nhất là trong vài tháng.
+
+[Terbinafine](https://dermnetnz.org/topics/terbinafine) đường uống, một thuốc chống nấm được sử dụng để điều trị nhiễm trùng dermatophyte, không hiệu quả đối với các nhiễm trùng nấm men như pityriasis versicolor.
+
+### Biện pháp phòng ngừa
+
+Bôi lại một phương pháp điều trị tại chỗ như dầu gội selenium sulfide mỗi tháng một lần khi phát ban đã biến mất thường sẽ ngăn ngừa tái phát.
+
+## Triển vọng cho pityriasis versicolor là gì?
+
+Pityriasis versicolor thường được làm sạch một cách thỏa đáng với điều trị nhưng thường tái phát khi điều kiện thuận lợi cho malassezia phát triển. Vảy bề mặt mịn là dấu hiệu của nhiễm trùng hoạt động và khi điều này đã biến mất, nhiễm trùng không còn tiếp diễn. Màu sắc có thể tồn tại trong vài tuần hoặc vài tháng, đặc biệt là giảm sắc tố, và không chỉ ra thất bại điều trị.
+
+Pityriasis versicolor thường tái phát khi thời tiết trở nên ấm áp và ẩm ướt trở lại. Sử dụng thường xuyên phương pháp điều trị tại chỗ giảm thiểu nguy cơ này.
+
+### Tài liệu tham khảo
+
+- Cantrell WC, Elewksi BE. Pityriasis versicolor có thể được điều trị bằng bọt ketoconazole 2% không?. J Drugs Dermatol. 2014;13(7):855–9. [Tạp chí](https://jddonline.com/articles/dermatology/S1545961614P0855X)
+- Gaitanis G, Magiatis P, Hantschke M, Bassukas ID, Velegraki A. Chi Malassezia trong các bệnh da và hệ thống. Clin Microbiol Rev. 2012;25(1):106–41. doi:10.1128/CMR.00021-11. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3255962/)
+- Gupta AK, Foley KA. Điều trị chống nấm cho pityriasis versicolor. J Fungi (Basel). 2015;1(1):13–29. doi:10.3390/jof1010013. [Tạp chí](https://www.mdpi.com/2309-608X/1/1/13/htm)
+- Kallini JR, Riaz F, Khachemoune A. Tinea versicolor ở người da tối màu. Int J Dermatol. 2014;53(2):137–41. doi:10.1111/ijd.12345. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24320140/)
+- Thoma W, Krämer HJ, Mayser P. Pityriasis versicolor alba. J Eur Acad Dermatol Venereol. 2005;19(2):147–52. doi:10.1111/j.1468-3083.2004.01085.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15752280/)
+
+### Trên DermNet
+
+- [Các tình trạng da liên quan đến malassezia](https://dermnetnz.org/topics/malassezia-infections)
+- [Nhiễm trùng da do nấm](https://dermnetnz.org/topics/fungal-skin-infections)
+- [Mô học pityriasis versicolor](https://dermnetnz.org/topics/pityriasis-versicolor-pathology)
+
+### Các trang web khác
+
+- [Nhiễm trùng da do nấm](https://www.youtube.com/watch?v=usvkbJATeo0&t=2s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Tinea versicolor](http://emedicine.medscape.com/article/1091575-overview) — Tham khảo Medscape
+- [Pityriasis Versicolor](https://www.bad.org.uk/pils/pityriasis-versicolor/) — Hiệp hội Da liễu Anh
+- [Tinea versicolor](https://www.aad.org/public/diseases/color-problems/tinea-versicolor) — Học viện Da liễu Hoa Kỳ
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

@@ -1,0 +1,25 @@
+##### Mề đay và các tình trạng giống mề đay — thông tin bổ sung
+
+Danh mục:
+
+Phản ứng, Phát ban
+
+ICD-10:
+
+L50, T78.3, L50.1, L50.9, L50.8, L50.3, L50.5, L50.2, L50.6, L56.3, L28.2, L12.0, L24, L23, L51, L51.9, L27.0, D47.01, Q82.2, L13.9, O26.86, L53.1, L98.3, L74.8, L61.1, M31.8, L98.2, M04.2
+
+ICD-11:
+
+EB05, 4A00.15, EB04, EB00, EB00.0, EB00.1, ME62.2, ME63.1, EB01, EB01.0, EB03.0, EB01.1, EB01.Y, EB01.3, EK10, EK10.1, EK01.2, EK50.0Z, EK50.02, EK50.00, EB41.0, EK0Z, EB12.0, EH61.0, 2A21.20, ME63.3, JA65.12, EB11, EB30, EB2Y, NE61, PB36, EF40.10, EB20, EB2Y, 4A60.1, EB03
+
+SNOMED CT:
+
+126485001, 41291007, 404177007, 247472004, 402383003, 42265009, 402408009, 302161006, 51611005, 302162004, 402601007, 7632005, 73098005, 302165002, 74774004, 201261003, 62211002, 19364004, 19364004, 402305008, 402304007, 89870006, 10347006, 387788000, 402385005, 55608001, 238938000, 110979008, 36715001, 28664002, 89322006, 78745000, 88697005, 200920000, 400009001, 773732005, 238931006, 238754005, 83227006, 718217000, 402656007, 239945009, 402855009, 403510002, 84625002, 402417009, 238687000, 724
+
+**[Phản ứng](https://dermnetnz.org/topics?category=Reactions) [Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Mề đay và các tình trạng giống mề đay**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. 2011.
+
+[Giới thiệu - chẩn đoán mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions#Introduction%20-%20diagnoses%20of%20urticaria%3Cbr%20/%3E) [Giới thiệu - mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions#Introduction%20-%20urticaria%3Cbr%20/%3E) [Mề đay thông thường](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions#Ordinary%20urticaria%3Cbr%20/%3E) [Tổn thương da giống mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions#Urticaria-like%20skin%20lesions%3Cbr%20/%3E) [Mề đay liên quan đến bệnh hệ thống](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions#Urticaria%20associated%20with%20systemic%20disease)

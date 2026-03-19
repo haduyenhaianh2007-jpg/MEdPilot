@@ -1,0 +1,29 @@
+##### Thông tin thêm về Onycholysis
+
+Từ đồng nghĩa:
+
+Tách móng, Tách rời móng
+
+Danh mục:
+
+Thuật ngữ
+
+ICD-10:
+
+L60.1, L62
+
+ICD-11:
+
+EE10.2, EA90.51, EH73, EH75, EC22.0
+
+SNOMED CT:
+
+75789001, 95342006, 238607003, 403286002, 403301006, 726475009, 726476005, 403108008
+
+**[Thuật ngữ](https://dermnetnz.org/topics?category=Terminology)**
+
+# **Onycholysis**
+
+Tác giả: Vanessa Ngan, Nhà văn nhân viên, 2003. Cập nhật: Bác sĩ Fleur Weiqian Kong, Bác sĩ Da liễu Danh dự, Bệnh viện Mater Adult, Brisbane QLD, Úc; Bác sĩ James Muir, Bác sĩ Da liễu, Bệnh viện Mater Adult, Brisbane QLD, Úc. Biên tập bởi Gus Mitchell. Tháng 12 năm 2020.
+
+[Giới thiệu](https://dermnetnz.org/topics/onycholysis#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/onycholysis#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/onycholysis#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/onycholysis#Clinical%20features) [Biến chứng](https://dermnetnz.org/topics/onycholysis#Complications) [Chẩn đoán](https://dermnetnz.org/topics/onycholysis#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/onycholysis#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/onycholysis#Treatment) [Kết quả](https://dermnetnz.org/topics/onycholysis#Outcome)

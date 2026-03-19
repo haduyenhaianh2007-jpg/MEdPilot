@@ -1,0 +1,12 @@
+## Cường độ
+
+Một khu vực đại diện của bệnh chàm được chọn. Trong khu vực này, cường độ của từng dấu hiệu sau được đánh giá là không có (0), nhẹ (1), trung bình (2) hoặc nặng (3).
+
+- Đỏ
+- Sưng
+- Rỉ dịch/đóng vảy
+- Dấu vết gãi
+- Dày da (lichen hóa)
+- Khô (điều này được đánh giá ở khu vực không có viêm)
+
+Các điểm cường độ được cộng lại để cho ra 'B' (tối đa 18).

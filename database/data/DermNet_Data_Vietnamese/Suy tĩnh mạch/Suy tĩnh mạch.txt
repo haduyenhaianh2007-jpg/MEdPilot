@@ -1,0 +1,233 @@
+##### Suy tĩnh mạch — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Suy tĩnh mạch mạn tính, Suy tĩnh mạch ngoại vi, Suy tĩnh mạch chân
+
+Danh mục:
+
+Vấn đề mạch máu
+
+ICD-10:
+
+I87.2, I83, I83.009, I83.10, I87.319
+
+ICD-11:
+
+BD74.Z, BD74.0, BD74.1Z, BD74.2, BD74.3Z, BD93.10, ED62.0, MG29.10,
+
+SNOMED CT:
+
+443904006, 20696009, 234050002, 703283003, 440346008, 703280000, 238788004, 402863005, 35498005, 410016009, 762536003, 762537007, 128060009, 72866009, 706913006, 10692931000119102, 275700003, 403261006
+
+**[Vấn đề mạch máu](https://dermnetnz.org/topics?category=Blood%20vessel%20problems)**
+
+# **Suy tĩnh mạch**
+
+Tác giả: Bác sĩ Jenny Caesar, Bác sĩ Da liễu, Bệnh viện Singleton, Swansee, Vương quốc Anh. Tháng 11 năm 2020; Cập nhật: Bác sĩ Ian Coulson, Bác sĩ Da liễu Tư vấn, East Lancashire NHS Trust, Vương quốc Anh. Biên tập bởi Gus Mitchell. Tháng 8 năm 2021
+
+[What is venous insufficiency?](https://dermnetnz.org/topics/venous-insufficiency#What%20is%20venous%20insufficiency?%3Cbr%20/%3E) [Demographics](https://dermnetnz.org/topics/venous-insufficiency#Demographics%3Cbr%20/%3E) [Causes](https://dermnetnz.org/topics/venous-insufficiency#Causes%3Cbr%20/%3E) [Clinical features](https://dermnetnz.org/topics/venous-insufficiency#Clinical%20features%3Cbr%20/%3E) [Variation in skin types](https://dermnetnz.org/topics/venous-insufficiency#Variation%20in%20skin%20types%3Cbr%20/%3E) [Complications](https://dermnetnz.org/topics/venous-insufficiency#Complications%3Cbr%20/%3E) [Diagnosis](https://dermnetnz.org/topics/venous-insufficiency#Diagnosis%3Cbr%20/%3E) [Differential diagnoses](https://dermnetnz.org/topics/venous-insufficiency#Differential%20diagnoses%3Cbr%20/%3E) [Treatment](https://dermnetnz.org/topics/venous-insufficiency#Treatment%3Cbr%20/%3E) [Outcome](https://dermnetnz.org/topics/venous-insufficiency#Outcome)
+
+## Suy tĩnh mạch là gì?
+
+Suy tĩnh mạch xảy ra khi dòng máu bình thường từ các tĩnh mạch nông đến tim qua các tĩnh mạch sâu xuyên thấu ở chi dưới bị suy giảm, dẫn đến tắc nghẽn tĩnh mạch mạn tính. Nó có thể được phân loại là suy tĩnh mạch nông, xuyên thấu, hoặc suy tĩnh mạch sâu.
+
+![ ](https://dermnetnz.org/assets/collection-O/Venous-insufficiency/venous-insufficiency-00001.jpg)
+
+![ ](https://dermnetnz.org/assets/collection-O/Venous-insufficiency/venous-insufficiency-00003.jpg)
+
+![ ](https://dermnetnz.org/assets/collection-O/Venous-insufficiency/venous-insufficiency-00006.jpg)
+
+## Ai bị suy tĩnh mạch?
+
+Suy tĩnh mạch phổ biến, ảnh hưởng đến tất cả các chủng tộc và cả hai giới. Ước tính cho thấy tỷ lệ có thể lên tới 50% ở một số dân số. Một nghiên cứu tại Mỹ cho thấy người da trắng có tỷ lệ suy tĩnh mạch cao hơn so với người gốc Tây Ban Nha, người Mỹ gốc Phi và người châu Á. Nghiên cứu Edinburgh Vein báo cáo tỷ lệ mắc suy tĩnh mạch mạn tính tương tự ở nam và nữ. Tỷ lệ phổ biến tăng theo tuổi, béo phì, tiền sử gia đình có [giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins), và nhiều lần mang thai.
+
+## Nguyên nhân gây suy tĩnh mạch là gì?
+
+Hệ thống tĩnh mạch ở chân dưới bao gồm một mạng lưới nông áp suất thấp được kết nối bởi các tĩnh mạch xuyên thấu với một mạng lưới sâu áp suất cao. Máu tĩnh mạch chảy từ tĩnh mạch nông đến tĩnh mạch sâu nhờ hoạt động của bơm cơ bắp chân. Dòng chảy ngược được ngăn chặn bởi các van hoạt động tốt.
+
+Suy tĩnh mạch mạn tính có thể do:
+
+- Yếu tố tĩnh mạch
+  - Van không hoạt động trong hệ thống nông, xuyên thấu và sâu
+  - Nén bên ngoài của tĩnh mạch
+  - Tắc nghẽn tĩnh mạch sâu
+  - Huyết khối tĩnh mạch sâu trước đó
+- Bơm cơ bắp chân bị suy giảm
+  - Không di chuyển bao gồm thiếu tập thể dục và liệt
+  - Bệnh khớp đặc biệt là khớp cổ chân
+  - [Béo phì](https://dermnetnz.org/topics/obesity-and-the-skin)
+  - Đứng hoặc ngồi lâu
+  - Chấn thương chân trước đó.
+
+Khi tăng huyết áp tĩnh mạch được thiết lập, các đặc điểm da của suy tĩnh mạch mạn tính được gây ra bởi:
+
+- Bạch cầu bị mắc kẹt trong mao mạch giải phóng enzyme phân giải protein và gốc tự do oxy gây tổn thương màng đáy mao mạch
+- Protein huyết tương, như fibrinogen, rò rỉ vào mô xung quanh, hình thành một vòng fibrin làm giảm cung cấp oxy cho mô
+- Viêm và mất mô.
+
+## Các đặc điểm lâm sàng của suy tĩnh mạch là gì?
+
+Suy tĩnh mạch nông có thể không có triệu chứng nhưng có thể gây đau nhức, chuột rút, nhói, nóng rát hoặc nặng ở chân. Đau là đặc trưng của suy tĩnh mạch sâu. Triệu chứng cải thiện khi nâng chân lên.
+
+Dấu hiệu lâm sàng của suy tĩnh mạch mạn tính bao gồm:
+
+- [Phù lõm](https://dermnetnz.org/topics/pitting-oedema) quanh mắt cá chân, tệ hơn vào cuối ngày
+- Corona phlebectatica paraplantaris (bùng phát quanh mắt cá) ở mặt trong của mắt cá và lòng bàn chân – phân bố hình quạt của telangiectasia xanh và đỏ (tĩnh mạch nông và nội bì), đốm ứ đọng mao mạch (vùng hình đồng xu đỏ-tím được hình thành bởi mao mạch nhú), và cốc tĩnh mạch (tĩnh mạch giãn hội tụ trên lòng bàn chân)
+- [Telangiectasia](https://dermnetnz.org/topics/telangiectasia) gần tĩnh mạch xuyên thấu
+- Sắc tố có thể là điểm nhỏ hoặc loang lổ màu đỏ gỉ do thoát mạch của hồng cầu và tích tụ hemosiderin trong lớp bì
+- Giãn tĩnh mạch.
+
+### Đặc điểm lâm sàng của suy tĩnh mạch
+
+![Phù mắt cá cuối ngày](https://dermnetnz.org/assets/collection-O/Venous-insufficiency-DDS/venous-insufficiency-004.jpg)
+
+Phù mắt cá cuối ngày
+
+![Corona phlebectatica và chàm tĩnh mạch](https://dermnetnz.org/assets/collection-O/Venous-insufficiency/venous-insufficiency-00002.jpg)
+
+Corona phlebectatica và chàm tĩnh mạch
+
+![Giãn tĩnh mạch và chàm tĩnh mạch](https://dermnetnz.org/assets/Uploads/varicose-veins-06.jpg)
+
+Giãn tĩnh mạch và chàm tĩnh mạch
+
+### Thay đổi sắc tố trong suy tĩnh mạch
+
+![Sắc tố điểm nhỏ](https://dermnetnz.org/assets/collection-O/Venous-insufficiency-DDS/venous-insufficiency-001.jpg)
+
+Sắc tố điểm nhỏ
+
+![Giãn tĩnh mạch và sắc tố](https://dermnetnz.org/assets/Uploads/varicose-veins-03.jpg)
+
+Giãn tĩnh mạch và sắc tố
+
+![Sắc tố loang lổ màu đỏ gỉ](https://dermnetnz.org/assets/Uploads/doctors/wound-healing/images/ven-pigt.jpg)
+
+Sắc tố loang lổ màu đỏ gỉ
+
+## Các đặc điểm lâm sàng thay đổi như thế nào ở các loại da khác nhau?
+
+Suy tĩnh mạch ở bệnh nhân Thái Lan được báo cáo là ít có khả năng liên quan đến đau, phù, viêm và giãn tĩnh mạch nhìn thấy so với người da trắng.
+
+## Các biến chứng của suy tĩnh mạch là gì?
+
+- [Chàm tĩnh mạch](https://dermnetnz.org/topics/venous-eczema)
+- [Loét tĩnh mạch](https://dermnetnz.org/topics/stasis-ulcer)
+- [Lipodermatosclerosis](https://dermnetnz.org/topics/lipodermatosclerosis)
+- [Atrophie blanche](https://dermnetnz.org/topics/atrophie-blanche)
+
+### Chàm tĩnh mạch
+
+![Chàm tĩnh mạch](https://dermnetnz.org/assets/Uploads/eczema-dark-skin.jpg)
+
+Chàm tĩnh mạch
+
+![Chàm giãn tĩnh mạch](https://dermnetnz.org/assets/Uploads/varicose-veins-05.jpg)
+
+Chàm giãn tĩnh mạch
+
+![](https://dermnetnz.org/assets/collection-O/Venous-insufficiency-DDS/venous-eczema-001.jpg)
+
+### Loét tĩnh mạch: hoạt động và đã lành
+
+![Loét chân](https://dermnetnz.org/assets/Uploads/site-age-specific/leg-ulcer/3053.jpg)
+
+Loét chân
+
+![Loét chân](https://dermnetnz.org/assets/Uploads/site-age-specific/leg-ulcer/3038.jpg)
+
+Loét chân
+
+![Loét tĩnh mạch](https://dermnetnz.org/assets/Uploads/site-age-specific/s/ulcer-ven5.jpg)
+
+Loét tĩnh mạch
+
+### Biến chứng của suy tĩnh mạch
+
+![Lipodermatosclerosis và xói mòn](https://dermnetnz.org/assets/collection-O/Venous-insufficiency/venous-insufficiency-00004.jpg)
+
+Lipodermatosclerosis và xói mòn
+
+![Atrophie blanche](https://dermnetnz.org/assets/collection/Atrophie-blanche/atrophie-blanche-0003.jpg)
+
+Atrophie blanche
+
+![Chàm tĩnh mạch và lipodermatosclerosis](https://dermnetnz.org/assets/Uploads/dermatitis/lipodermatosclerosis.jpg)
+
+Chàm tĩnh mạch và lipodermatosclerosis
+
+## Suy tĩnh mạch được chẩn đoán như thế nào?
+
+Suy tĩnh mạch thường được chẩn đoán dựa trên tiền sử và khám lâm sàng. Giãn tĩnh mạch có thể yêu cầu bệnh nhân đứng để đánh giá. Siêu âm duplex là phương pháp điều tra ưu tiên để chứng minh dòng chảy ngược và liên kết giữa mạng lưới tĩnh mạch sâu và nông.
+
+Hệ thống CEAP (Lâm sàng, Nguyên nhân, Giải phẫu, Bệnh lý) được sử dụng để phân loại và phân loại suy tĩnh mạch nhưng không hữu ích như một thang điểm mức độ nghiêm trọng. \[xem chi tiết [Giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins)\]
+
+Corona phlebectatica paraplantaris là dấu hiệu lâm sàng của tắc nghẽn tĩnh mạch nghiêm trọng. Cụ thể, telangiectasia xanh và đốm ứ đọng mao mạch có thể là những chỉ số hữu ích nhất với mức độ nghiêm trọng của suy tĩnh mạch mạn tính.
+
+## Chẩn đoán phân biệt cho suy tĩnh mạch là gì?
+
+- Phù — [lipoedema](https://dermnetnz.org/topics/lipoedema-definition-and-pathogenesis), [lymphoedema](https://dermnetnz.org/topics/lymphoedema)
+- Sắc tố — [capillaritis](https://dermnetnz.org/topics/capillaritis)
+- Viêm da — [viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis), [chàm khô](https://dermnetnz.org/topics/asteatotic-eczema), [chàm đĩa](https://dermnetnz.org/topics/discoid-eczema)
+
+## Điều trị suy tĩnh mạch là gì?
+
+### Biện pháp chung
+
+- Tránh [xà phòng](https://dermnetnz.org/topics/soaps-and-cleansers) và chất tẩy rửa
+- Sử dụng thường xuyên [kem dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) cho khô và ngứa
+- Thay đổi lối sống — tập thể dục thường xuyên, nâng chân, giảm cân
+
+### Biện pháp cụ thể
+
+- Vớ hoặc băng ép theo mức độ \[xem [Liệu pháp nén](https://dermnetnz.org/topics/compression-therapy)\]
+- Telangiectasia — liệu pháp laser, [sclerotherapy](https://dermnetnz.org/topics/sclerotherapy)
+- Giãn tĩnh mạch — sclerotherapy, liệu pháp laser nội tĩnh mạch, đốt sóng radio, phẫu thuật \[xem [Liệu pháp tĩnh mạch chân](https://dermnetnz.org/topics/leg-vein-therapies)\]
+
+## Kết quả của suy tĩnh mạch là gì?
+
+Suy tĩnh mạch tiến triển không ngừng. Tỷ lệ phát triển biến chứng chưa được biết.
+
+Hầu hết bệnh nhân bị suy tĩnh mạch mạn tính sẽ trải qua ít nhất các đợt chàm tĩnh mạch không liên tục.
+
+Loét chân là biến chứng quan trọng nhất và là gánh nặng lớn cho hệ thống y tế trên toàn thế giới. Ước tính cho thấy 4% bệnh nhân bị giãn tĩnh mạch sẽ phát triển loét chân tĩnh mạch trong suốt cuộc đời.
+
+### Thư mục
+
+- Chiesa R, Marone EM, Limoni C, Volontè M, Petrini O. Rối loạn tĩnh mạch mạn tính: mối tương quan giữa dấu hiệu nhìn thấy, triệu chứng và sự hiện diện của bệnh chức năng. J Vasc Surg. 2007;46(2):322–36 doi:10.1016/j.jvs.2007.04.030. [Tạp chí](https://www.jvascsurg.org/article/S0741-5214(07)00633-7/fulltext)
+- Criqui MH, Jamosmos M, Fronek A, et al. Bệnh tĩnh mạch mạn tính trong một dân số đa dạng về sắc tộc: Nghiên cứu Dân số San Diego. Am J Epidemiol. 2003;158(5):448–56. doi:10.1093/aje/kwg166. [Tạp chí](https://academic.oup.com/aje/article/158/5/448/67635)
+- Jawien A. Ảnh hưởng của các yếu tố môi trường trong suy tĩnh mạch mạn tính. Angiology. 2003;54 Suppl 1:S19–S31. doi:10.1177/0003319703054001S04. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12934754/)
+- Labropoulos N. Bệnh tĩnh mạch mạn tính tiến triển như thế nào từ các triệu chứng đầu tiên đến các giai đoạn tiến triển? Một đánh giá. Adv Ther. 2019;36(Suppl 1):13–9. doi:10.1007/s12325-019-0885-3. [Tạp chí](https://link.springer.com/article/10.1007/s12325-019-0885-3)
+- Langer RD, Ho E, Denenberg JO, Fronek A, Allison M, Criqui MH. Mối quan hệ giữa triệu chứng và bệnh tĩnh mạch: Nghiên cứu dân số San Diego. Arch Intern Med. 2005;165(12):1420–4. doi:10.1001/archinte.165.12.1420. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15983292/)
+- Necas M. Siêu âm duplex trong đánh giá suy tĩnh mạch chi dưới. Australas J Ultrasound Med. 2010;13(4):37–45. doi:10.1002/j.2205-0140.2010.tb00178.x. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024873/)
+- Novak CJ, Khimani N, Kaye AD, Jason Yong R, Urman RD. Các can thiệp điều trị hiện tại trong suy tĩnh mạch chi dưới: một đánh giá toàn diện. Curr Pain Headache Rep. 2019;23(3):16. doi:10.1007/s11916-019-0759-z. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30830460/)
+- Robertson L, Lee AJ, Evans CJ, et al. Tỷ lệ mắc bệnh tĩnh mạch mạn tính trong Nghiên cứu Tĩnh mạch Edinburgh. J Vasc Surg Venous Lymphat Disord. 2013;1(1):59–67. doi:10.1016/j.jvsv.2012.05.006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26993896/)
+- Uhl JF, Cornu-Thenard A, Satger B, Carpentier PH. Phân tích lâm sàng của corona phlebectatica. J Vasc Surg. 2012;55(1):150–3. doi:10.1016/j.jvs.2011.04.070. [Tạp chí](https://www.jvascsurg.org/article/S0741-5214(11)01605-3/fulltext)
+- Youn YJ, Lee J. Suy tĩnh mạch mạn tính và giãn tĩnh mạch chi dưới. Korean J Intern Med. 2019;34(2):269–83. doi:10.3904/kjim.2018.230. [Tạp chí](https://www.kjim.org/journal/view.php?doi=10.3904/kjim.2018.230)
+
+### Trên DermNet
+
+- [Atrophie blanche](https://dermnetnz.org/topics/atrophie-blanche)
+- [Liệu pháp nén](https://dermnetnz.org/topics/compression-therapy)
+- [Liệu pháp tĩnh mạch chân](https://dermnetnz.org/topics/leg-vein-therapies)
+- [Loét chân](https://dermnetnz.org/topics/leg-ulcer)
+- [Lipodermatosclerosis](https://dermnetnz.org/topics/lipodermatosclerosis)
+- [Loét tĩnh mạch](https://dermnetnz.org/topics/stasis-ulcer)
+- [Giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins)
+- [Chàm tĩnh mạch](https://dermnetnz.org/topics/venous-eczema)
+
+### Các trang web khác
+
+- [Suy tĩnh mạch](https://emedicine.medscape.com/article/1085412-overview) — Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

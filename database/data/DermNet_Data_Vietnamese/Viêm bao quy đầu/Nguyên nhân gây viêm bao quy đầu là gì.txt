@@ -1,0 +1,47 @@
+## Nguyên nhân gây viêm bao quy đầu?
+
+Viêm bao quy đầu có thể được phân loại tốt nhất thành các nguyên nhân nhiễm trùng và không nhiễm trùng.
+
+Các nguyên nhân nhiễm trùng bao gồm, nhưng không giới hạn:
+
+- Nhiễm nấm (nguyên nhân phổ biến nhất)
+  - [Candida](https://dermnetnz.org/topics/candida)
+  - [Nấm da](https://dermnetnz.org/topics/tinea-corporis)
+- Nhiễm khuẩn (nguyên nhân phổ biến thứ hai)
+
+  - [Liên cầu khuẩn tan huyết](https://dermnetnz.org/topics/streptococcal-skin-infections)
+  - [Tụ cầu khuẩn epidermidis/aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection)
+- Nhiễm virus
+  - [Virus herpes simplex (HSV)](https://dermnetnz.org/topics/herpes-simplex)
+  - [Virus varicella zoster (VZV)](https://dermnetnz.org/topics/chickenpox)
+  - [Virus papilloma ở người (HPV)](https://dermnetnz.org/topics/non-sexually-acquired-human-papillomavirus-infection)
+  - [Bệnh đậu mùa khỉ](https://dermnetnz.org/topics/mpox)
+- Nguyên sinh động vật
+  - [Trichomonas vaginalis](https://dermnetnz.org/topics/trichomoniasis)
+- Ký sinh trùng
+  - [_Sarcoptes scabiei var. hominis_ (ghẻ)](https://dermnetnz.org/topics/scabies)
+  - [Chí rận](https://dermnetnz.org/topics/lice).
+
+Các nguyên nhân không nhiễm trùng bao gồm, nhưng không giới hạn:
+
+- Các tình trạng viêm
+  - Viêm bao quy đầu vòng ( [viêm khớp phản ứng](https://dermnetnz.org/topics/reactive-arthropathy))
+  - [Lichen phẳng](https://dermnetnz.org/topics/lichen-planus) ở cơ quan sinh dục
+  - [Viêm bao quy đầu Zoon](https://dermnetnz.org/topics/balanitis)
+  - [Vảy nến](https://dermnetnz.org/topics/psoriasis)
+  - [Lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus-in-men) (viêm bao quy đầu xơ hóa, BXO)
+  - [Viêm bao quy đầu giả biểu mô, sừng hóa và có vảy](https://dermnetnz.org/topics/pseudoepitheliomatous-keratotic-and-micaceous-balanitis-pathology)
+- Các tình trạng tiền ác tính
+
+  - [Erythroplasia của Queyrat](https://dermnetnz.org/topics/penile-intraepithelial-neoplasia)
+  - [Bowenoid papulosis](https://dermnetnz.org/topics/bowenoid-papulosis)
+  - [Bệnh Bowen](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma)
+- Các tình trạng ác tính
+
+  - [Ung thư biểu mô tế bào vảy (SCC)](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- Khác
+  - Chấn thương
+  - Vệ sinh cơ quan sinh dục kém
+  - [Phản ứng cố định do thuốc](https://dermnetnz.org/topics/fixed-drug-eruption)
+  - Do hóa trị liệu, ví dụ: [fluorouracil (5FU)](https://dermnetnz.org/topics/5-fluorouracil-cream)
+  - [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) ( [kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) và [dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis)).

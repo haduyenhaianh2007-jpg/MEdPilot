@@ -1,0 +1,36 @@
+## Điều trị cho lichen planopilaris là gì?
+
+Điều trị nên được tìm kiếm và cung cấp sớm, vì không có phương pháp điều trị nào có thể phục hồi tóc đã mất và bị thay thế bởi sẹo. Mục tiêu của điều trị là làm chậm tiến triển của bệnh và giảm triệu chứng. Rụng tóc có thể tiếp tục, mặc dù với tốc độ chậm hơn.
+
+Các lựa chọn điều trị chống viêm bao gồm:
+
+- Corticosteroid — mạnh [bôi ngoài da](https://dermnetnz.org/topics/topical-steroid), [tiêm trong tổn thương](https://dermnetnz.org/topics/intralesional-injection), [uống](https://dermnetnz.org/topics/oral-retinoids)
+- [Tacrolimus bôi ngoài da](https://dermnetnz.org/topics/tacrolimus)
+- Minoxidil bôi ngoài da
+- [Ruxolitinib bôi ngoài da](https://dermnetnz.org/topics/ruxolitinib)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- [Tetracycline](https://dermnetnz.org/topics/tetracycline) ví dụ doxycycline
+- [Acitretin](https://dermnetnz.org/topics/acitretin)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- Pioglitazone (một chất kích thích PPAR-γ uống): hiệu quả biến đổi; lên đến 50–70% bệnh nhân có triệu chứng giảm, viêm và tiến triển bệnh
+- Huyết tương giàu tiểu cầu
+- Adalimumab, một chất ức chế yếu tố hoại tử khối u-alpha (TNFα), cũng đã được báo cáo là hiệu quả ở một số ít bệnh nhân
+- [Ức chế JAK uống](https://dermnetnz.org/topics/janus-kinase-inhibitors) với [tofacitinib](https://dermnetnz.org/topics/tofacitinib).
+
+Phản ứng với điều trị là biến đổi và một số nghiên cứu đã công bố mâu thuẫn với nhau về hiệu quả của chúng. Điều tốt nhất mà bệnh nhân có thể mong đợi là ngừng tiến triển rụng tóc và giảm thiểu khó chịu da đầu.
+
+Một giao thức quản lý như được đề xuất bởi Svigos et al. (2021) bao gồm:
+
+- Chẩn đoán lichen planopilaris lâm sàng, [trichoscopically](https://dermnetnz.org/topics/trichoscopy), và với sinh thiết da đầu.
+- Mức độ nghiêm trọng của triệu chứng, mức độ rụng tóc và sự hiện diện của hoạt động bệnh được ghi nhận tại mỗi lần khám, khoảng mỗi 3 tháng.
+- Sử dụng [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) mạnh hoặc siêu mạnh, với [minoxidil bôi ngoài da](https://dermnetnz.org/topics/minoxidil-solution) 5% và [tacrolimus](https://dermnetnz.org/topics/tacrolimus) 0.3%.
+- [Hydroxychloroquine uống](https://dermnetnz.org/topics/hydroxychloroquine) (thường là 200 mg hai lần mỗi ngày) được bắt đầu sau khi kiểm tra phòng thí nghiệm và mắt thích hợp nếu bệnh nhân có triệu chứng, rụng tóc tiến triển hoặc dấu hiệu của bệnh hoạt động.
+- Cân nhắc [doxycycline uống](https://dermnetnz.org/topics/tetracycline) nếu có tiến triển trên hydroxychloroquine.
+- Với tiến triển thêm, cân nhắc điều chỉnh miễn dịch với [methotrexate](https://dermnetnz.org/topics/methotrexate) hoặc [ciclosporin](https://dermnetnz.org/topics/ciclosporin).
+
+### Biện pháp không dùng thuốc
+
+- Ngụy trang với kiểu tóc cẩn thận, nhuộm tóc và các phụ kiện tóc như tóc giả có thể được thảo luận với bệnh nhân.
+- Phẫu thuật như giảm da đầu và cấy tóc đã được sử dụng cho bệnh không hoạt động giai đoạn cuối với các vùng sẹo lớn nhưng không phải lúc nào cũng thành công. Nguy cơ của [hiện tượng Koebner](https://dermnetnz.org/topics/the-koebner-phenomenon) và giảm sống sót của mảnh ghép có thể xảy ra.

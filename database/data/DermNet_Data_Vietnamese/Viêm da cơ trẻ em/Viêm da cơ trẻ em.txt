@@ -1,0 +1,180 @@
+##### Viêm da cơ trẻ em — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Viêm da cơ đa cơ trẻ em, Viêm da cơ loại trẻ em
+
+Danh mục:
+
+Tự miễn/dị ứng, Phát ban
+
+ICD-10:
+
+M33.0, L94.4, L94.2, E83.59, E88.1
+
+ICD-11:
+
+4A41.01, 5C64.5, EF01.Z
+
+SNOMED CT:
+
+1212005, 838312001, 247455006, 85905009, 6595006, 21323007, 71325002,
+
+**[Tự miễn/dị ứng](https://dermnetnz.org/topics?category=Autoimmune/autoinflammatory) [Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Viêm da cơ trẻ em**
+
+Tác giả: Bác sĩ Hellen Geros, Sĩ quan Y tế Bệnh viện (PGY2), Western Health, Melbourne, Úc. Biên tập bởi Gus Mitchell. Tháng 11 năm 2020.
+
+[Giới thiệu](https://dermnetnz.org/topics/juvenile-dermatomyositis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/juvenile-dermatomyositis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/juvenile-dermatomyositis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/juvenile-dermatomyositis#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/juvenile-dermatomyositis#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/juvenile-dermatomyositis#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/juvenile-dermatomyositis#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/juvenile-dermatomyositis#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/juvenile-dermatomyositis#Outcome)
+
+## Viêm da cơ trẻ em là gì?
+
+Viêm da cơ trẻ em là dạng viêm cơ tự phát phổ biến nhất ảnh hưởng đến trẻ em và thanh thiếu niên dưới 18 tuổi.
+
+## Ai bị viêm da cơ trẻ em?
+
+Viêm da cơ trẻ em có thể ảnh hưởng đến tất cả các chủng tộc và cả hai giới, mặc dù có sự ưu thế rõ rệt ở nữ giới với tỷ lệ 5:1. Không giống như [viêm da cơ khởi phát ở người lớn](https://dermnetnz.org/topics/adult-onset-dermatomyositis), không có sự thiên vị chủng tộc nào được ghi nhận. Tuổi khởi phát cao nhất là 5–10 tuổi (trung bình 7,4 tuổi). Một phần tư bệnh nhân xuất hiện trước 4 tuổi. Nó ảnh hưởng đến 2–4 trẻ em trên một triệu mỗi năm.
+
+## Nguyên nhân gây ra viêm da cơ trẻ em là gì?
+
+Viêm da cơ trẻ em là một bệnh lý tự miễn mạch máu nhỏ trong đó hệ thống miễn dịch tấn công các mạch máu dẫn đến viêm cơ. Cơ chế bệnh sinh chính xác vẫn chưa rõ ràng; tuy nhiên, các yếu tố sau có thể đóng vai trò:
+
+- Yếu tố di truyền
+- Yếu tố môi trường, như khói thuốc lá và ô nhiễm không khí
+- Tác nhân kích thích nhiễm trùng, như nhiễm virus.
+
+Có rất ít báo cáo về viêm da cơ do thuốc ở trẻ em. Bệnh ác tính không liên quan đến viêm da cơ trẻ em, không giống như bệnh khởi phát ở người lớn.
+
+## Các đặc điểm lâm sàng của viêm da cơ trẻ em là gì?
+
+Các đặc điểm lâm sàng của viêm da cơ trẻ em tương tự như viêm da cơ khởi phát ở người lớn, với các thay đổi trên da thường xuất hiện trước sự yếu cơ.
+
+### Đặc điểm da của viêm da cơ trẻ em
+
+- Phát ban heliotrope — sự đổi màu tím quanh mắt
+- Sẩn Gottron và/hoặc dấu hiệu Gottron — sẩn và mảng tím trên các khớp nhỏ ở tay, khuỷu tay và đầu gối
+- Dấu hiệu khăn choàng và/hoặc chữ V, và các phát ban nhạy cảm ánh sáng khác như ban đỏ má
+- Mao mạch giãn hoặc ngoằn ngoèo ở nếp móng gần nhất, thấy rõ nhất qua soi da
+- Loét da ảnh hưởng đến 20% do bệnh lý mạch máu trong da.
+
+### Dấu hiệu da của viêm da cơ trẻ em
+
+![Phát ban heliotrope trên mí mắt](https://dermnetnz.org/assets/Uploads/dermatomyositis-eyelids-7.jpg)
+
+Phát ban heliotrope trên mí mắt
+
+![Sẩn Gottron trên khớp](https://dermnetnz.org/assets/Uploads/dermatomyositis-hand-19.jpg)
+
+Sẩn Gottron trên khớp
+
+![Thay đổi nếp móng](https://dermnetnz.org/assets/Uploads/dermatomyositis-nailfold-3.jpg)
+
+Thay đổi nếp móng
+
+### Viêm cơ của viêm da cơ trẻ em
+
+- Yếu cơ đối xứng gần (đùi, cánh tay trên)
+- Dấu hiệu Gowers mô tả việc sử dụng tay và cánh tay để 'đi bộ' lên chân khi đứng dậy từ tư thế ngồi xổm
+- Khó nuốt và khàn giọng
+- Đau cơ, nhức mỏi hoặc đau.
+
+![](https://dermnetnz.org/assets/Uploads/Gowers_Sign.png)
+
+## Các biến chứng của viêm da cơ trẻ em là gì?
+
+Canxi hóa phổ biến hơn ở trẻ em bị viêm da cơ so với người lớn, ảnh hưởng đến tới 40%. Đây là sự canxi hóa loạn dưỡng trong cơ, mạc, mô dưới da hoặc da xuất hiện 1–3 năm sau khi bệnh khởi phát. [Canxi hóa da](https://dermnetnz.org/topics/calcinosis-cutis) trên khuỷu tay, đầu gối, thân, tay, chân, mông và đầu xuất hiện dưới dạng các nốt cứng màu vàng hoặc trắng với sự loét sau đó. Sự phát triển của canxi hóa liên quan đến chẩn đoán và điều trị chậm trễ, và hoạt động bệnh nghiêm trọng hoặc kéo dài.
+
+[Loạn dưỡng mỡ](https://dermnetnz.org/topics/lipodystrophy) có thể khu trú, một phần hoặc lan rộng, và ảnh hưởng đến 10% bệnh nhân viêm da cơ trẻ em, đặc biệt là những người có quá trình bệnh mãn tính liên tục; loạn dưỡng mỡ hiếm gặp ở viêm da cơ khởi phát ở người lớn. Sự khởi phát thường bị trì hoãn; trong một nghiên cứu lớn với 28 bệnh nhân, loạn dưỡng mỡ bắt đầu 4,6 năm sau khi chẩn đoán viêm da cơ trẻ em. Co rút khớp và canxi hóa da được tìm thấy là những yếu tố dự đoán mạnh mẽ cho sự phát triển của loạn dưỡng mỡ. Vì sự phát triển của loạn dưỡng mỡ liên quan đến [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus), [kháng insulin](https://dermnetnz.org/topics/insulin-resistance), tăng triglyceride máu, và viêm gan nhiễm mỡ không do rượu, cần theo dõi cẩn thận ở những bệnh nhân này.
+
+Viêm khớp, dù là bệnh khớp nguyên phát hay thứ phát do yếu cơ, là phổ biến.
+
+Bệnh phổi kẽ, bệnh tim, và sự tham gia của gan/ruột là những biến chứng hiếm gặp nhưng nghiêm trọng của viêm da cơ trẻ em.
+
+![Canxi hóa da](https://dermnetnz.org/assets/Uploads/systemic/calcinosis2.jpg)
+
+Canxi hóa da
+
+## Viêm da cơ trẻ em được chẩn đoán như thế nào?
+
+Chẩn đoán viêm da cơ trẻ em được nghi ngờ lâm sàng ở một đứa trẻ xuất hiện với các dấu hiệu da cổ điển của phát ban heliotrope, sẩn/dấu hiệu Gottron, và viêm cơ (tiêu chuẩn chẩn đoán Bohan Peters).
+
+Các xét nghiệm, có thể bao gồm một số trong những điều sau, sẽ xác nhận chẩn đoán và hỗ trợ dự đoán tiên lượng.
+
+- Sàng lọc tự kháng thể: Tự kháng thể chống p155/140 và chống MJ phổ biến hơn ở trẻ em so với người lớn bị viêm da cơ. Tự kháng thể chống tRNA synthetase không phổ biến trong viêm da cơ trẻ em trái ngược với bệnh khởi phát ở người lớn.
+
+  - Tự kháng thể chống p155/140 — phát ban nhạy cảm ánh sáng, loét da và phù nề, loạn dưỡng mỡ toàn thân, quá trình mãn tính.
+  - Tự kháng thể chống MJ — trẻ em da trắng, khởi phát bệnh sớm, ảnh hưởng cơ đáng kể với chức năng thể chất suy giảm, nhập viện thường xuyên, bệnh nặng ít có khả năng đạt được thuyên giảm.
+  - Tự kháng thể chống MDA5 — trẻ em châu Á, bệnh phổi xâm lấn, loét miệng và da, viêm khớp, bệnh cơ nhẹ.
+  - Tự kháng thể chống Jo-1 — bệnh phổi, viêm khớp, sốt, [hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon), tay thợ cơ khí.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy).
+- Điều tra cơ — enzyme cơ, sinh thiết cơ, MRI, điện cơ.
+
+## Chẩn đoán phân biệt cho viêm da cơ trẻ em là gì?
+
+Dấu hiệu da không có viêm cơ:
+
+- Viêm da cơ không có viêm cơ khởi phát ở trẻ em; được định nghĩa là các dấu hiệu da điển hình của viêm da cơ không có sự tham gia của cơ trong ít nhất sáu tháng
+- [Vảy nến](https://dermnetnz.org/topics/psoriasis).
+
+Yếu cơ và/hoặc viêm cơ không có thay đổi da:
+
+- Loạn dưỡng cơ và các bệnh cơ di truyền khác
+- Rối loạn thấp khớp, bao gồm [lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus), [viêm khớp tự phát ở trẻ em](https://dermnetnz.org/topics/juvenile-idiopathic-arthritis), [xơ cứng bì](https://dermnetnz.org/topics/scleroderma), và viêm đa cơ trẻ em.
+
+## Điều trị viêm da cơ trẻ em là gì?
+
+Mục tiêu của điều trị viêm da cơ trẻ em là kiểm soát hoạt động bệnh và gây thuyên giảm, ngăn ngừa tổn thương cơ quan lâu dài và biến dạng, và cải thiện chức năng và chất lượng cuộc sống. Nó thường yêu cầu một đội ngũ đa ngành bao gồm bác sĩ đa khoa, nhà vật lý trị liệu, bác sĩ da liễu, và bác sĩ thấp khớp nhi khoa.
+
+### Biện pháp chung
+
+- [Bảo vệ da khỏi ánh nắng](https://dermnetnz.org/topics/sun-protection), bao gồm [quần áo chống nắng](https://dermnetnz.org/topics/sun-protective-clothing) và sử dụng [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents): tiếp xúc với bức xạ cực tím có thể làm trầm trọng thêm các triệu chứng da.
+- Mức [vitamin D](https://dermnetnz.org/topics/vitamin-d) và canxi đầy đủ
+- Vật lý trị liệu, trị liệu nghề nghiệp, và trị liệu ngôn ngữ
+
+### Biện pháp cụ thể
+
+Điều trị ban đầu yêu cầu liều cao [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) để nhanh chóng giảm viêm da và cơ. Việc bổ sung các tác nhân tiết kiệm steroid, như [methotrexate](https://dermnetnz.org/topics/methotrexate) hoặc [ciclosporin](https://dermnetnz.org/topics/ciclosporin), hiệu quả hơn so với chỉ dùng prednisone, và cho phép giảm liều corticosteroid nhanh chóng, giảm thiểu tác dụng phụ liên quan đến việc sử dụng liều cao/dài hạn. [Rituximab](https://dermnetnz.org/topics/rituximab) đã được báo cáo là cải thiện một số đặc điểm da và viêm cơ trong viêm da cơ trẻ em; canxi hóa, rụng tóc, poikiloderma, và loạn dưỡng mỡ không cho thấy cải thiện lớn trong một thử nghiệm lớn với 48 bệnh nhân. Không có điều trị nào được tìm thấy để cải thiện nhất quán canxi hóa.
+
+## Kết quả cho viêm da cơ trẻ em là gì?
+
+Tiên lượng cho viêm da cơ trẻ em đã được cải thiện đáng kể kể từ khi sử dụng sớm steroid liều cao trở thành tiêu chuẩn chăm sóc.
+
+Quá trình bệnh ở một phần ba là đơn chu kỳ (ngừng điều trị trong vòng 2 năm với thuyên giảm lâu dài), một phần tư là đa chu kỳ (cần điều trị lại sau khi thuyên giảm), và phần còn lại theo một quá trình mãn tính không thể ngừng điều trị.
+
+Với điều trị đầy đủ, một số trẻ em có thể sống cuộc sống bình thường với sự phục hồi hoàn toàn. Tuy nhiên, một tỷ lệ đáng kể có quá trình kéo dài với yếu cơ và teo cơ còn lại, co rút khớp, và canxi hóa. Tổn thương cơ không thể phục hồi và canxi hóa da có thể ảnh hưởng đáng kể đến chức năng thể chất và chất lượng cuộc sống, đòi hỏi sự trợ giúp trong việc tự chăm sóc hoặc không thể đi lại mà không có sự hỗ trợ.
+
+Tỷ lệ tử vong là 2–3%, với nguyên nhân tử vong do suy phổi, tiêu hóa, tim, và đa hệ thống.
+
+### Thư mục
+
+- Aggarwal R, Loganathan P, Koontz D, Qi Z, Reed AM, Oddis CV. Cải thiện da ở viêm da cơ người lớn và trẻ em khó chữa sau khi điều trị bằng rituximab. Rheumatology (Oxford). 2017;56(2):247–54. doi:10.1093/rheumatology/kew396. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27837048/)
+- Bingham A, Mamyrova G, Rother KI, et al. Dự đoán loạn dưỡng mỡ mắc phải trong viêm da cơ khởi phát ở trẻ em và mức độ nghiêm trọng. Medicine (Baltimore). 2008;87(2):70–86. doi:10.1097/MD.0b013e31816bc604. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2674585/)
+- Hoeltzel MF, Oberle EJ, Robinson AB, Agarwal A, Rider LG. Trình bày, đánh giá, cơ chế bệnh sinh, và điều trị canxi hóa trong viêm da cơ trẻ em. Curr Rheumatol Rep. 2014;16(12):467. doi:10.1007/s11926-014-0467-y. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25366934/)
+- Huber A, Feldman BM. Kết quả lâu dài trong viêm da cơ trẻ em: chúng ta đã đến đây như thế nào và chúng ta đang đi đâu? Curr Rheumatol Rep. 2005;7(6):441–6. doi:10.1007/s11926-005-0048-1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16303103/)
+- Lundberg IE, Tjärnlund A, Bottai M, et al. Tiêu chuẩn phân loại của Liên đoàn Châu Âu Chống Thấp khớp/Hiệp hội Thấp khớp Hoa Kỳ năm 2017 cho các bệnh viêm cơ tự phát ở người lớn và trẻ em và các nhóm chính của chúng \[sửa chữa được công bố trong Ann Rheum Dis. 2018 Sep;77(9):e64\]. Ann Rheum Dis. 2017;76(12):1955–64. doi:10.1136/annrheumdis-2017-211468. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29079590/)
+- Orione MA, Silva CA, Sallum AM, et al. Các yếu tố nguy cơ cho viêm da cơ trẻ em: tiếp xúc với thuốc lá và chất ô nhiễm không khí trong thai kỳ. Arthritis Care Res (Hoboken). 2014;66(10):1571–5. doi:10.1002/acr.22358. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24757124/)
+- Rider LG, Nistala K. Các bệnh viêm cơ tự phát ở trẻ em: cơ chế bệnh sinh, kiểu hình lâm sàng và tự kháng thể, và kết quả. J Intern Med. 2016;280(1):24–38. doi:10.1111/joim.12444. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27028907/)
+- Ruperto N, Pistorio A, Oliveira S, et al. Prednisone so với prednisone cộng với ciclosporin so với prednisone cộng với methotrexate trong viêm da cơ trẻ em mới khởi phát: một thử nghiệm ngẫu nhiên. Lancet. 2016;387(10019):671–8. doi:10.1016/S0140-6736(15)01021-1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26645190/)
+- Wu JQ, Lu MP, Reed AM. Viêm da cơ trẻ em: tiến bộ trong trình bày lâm sàng, tự kháng thể đặc hiệu viêm cơ và điều trị. World J Pediatr. 2020;16(1):31–43. doi:10.1007/s12519-019-00313-8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31556011/)
+
+### Trên DermNet
+
+- [Viêm da cơ khởi phát ở người lớn](https://dermnetnz.org/topics/adult-onset-dermatomyositis)
+- [Hình ảnh viêm da cơ](https://dermnetnz.org/topics/dermatomyositis-images)
+- [Viêm da cơ do thuốc](https://dermnetnz.org/topics/drug-induced-dermatomyositis)
+
+### Các trang web khác
+
+- [Viêm da cơ trẻ em](https://emedicine.medscape.com/article/1417215-overview) — Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

@@ -1,0 +1,439 @@
+##### Phụ gia thực phẩm và số E — thông tin bổ sung
+
+Danh mục:
+
+Phản ứng
+
+SNOMED CT:
+
+59533004
+
+**[Phản ứng](https://dermnetnz.org/topics?category=Reactions)**
+
+# **Phụ gia thực phẩm và số E**
+
+### Tháng 1 năm 2023
+
+Tác giả: Bác sĩ Phyo Zaw Aung, Bác sĩ Da liễu, Bangkok, Thái Lan; Bác sĩ Libby Whittaker, Nhà văn Y khoa, DermNet (2023)
+
+Những người đóng góp trước đây: GS. TS. Marius Rademaker, Bác sĩ Da liễu (2003)
+
+Bác sĩ da liễu đánh giá: Bác sĩ Ian Coulson
+
+Chỉnh sửa bởi bộ phận nội dung DermNet
+
+[Giới thiệu](https://dermnetnz.org/topics/food-additives-and-e-numbers#Introduction%3Cbr%20/%3E) [Quá mẫn cảm với phụ gia thực phẩm](https://dermnetnz.org/topics/food-additives-and-e-numbers#Food%20additive%20hypersensitivity%3Cbr%20/%3E) [Giới thiệu](https://dermnetnz.org/topics/food-additives-and-e-numbers#Introduction%3Cbr%20/%3E) [Số E cho chất bảo quản](https://dermnetnz.org/topics/food-additives-and-e-numbers#E%20numbers%20for%20preservatives%3Cbr%20/%3E) [Số E cho chất chống oxy hóa](https://dermnetnz.org/topics/food-additives-and-e-numbers#E%20numbers%20for%20antioxidants%3Cbr%20/%3E) [Số E cho chất tạo ngọt](https://dermnetnz.org/topics/food-additives-and-e-numbers#E%20numbers%20for%20sweeteners%3Cbr%20/%3E) [Số E cho chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel](https://dermnetnz.org/topics/food-additives-and-e-numbers#E%20numbers%20for%20emulsifiers,%20stabilisers,%20thickeners,%20and%20gelling%20agents%3Cbr%20/%3E) [Số E cho các phụ gia thực phẩm khác](https://dermnetnz.org/topics/food-additives-and-e-numbers#E%20numbers%20for%20other%20food%20additives%3Cbr%20/%3E) [Phụ gia thực phẩm không có số E](https://dermnetnz.org/topics/food-additives-and-e-numbers#Food%20additives%20without%20E%20numbers)
+
+## Phụ gia thực phẩm là gì?
+
+[Phụ gia thực phẩm](https://dermnetnz.org/topics/food-additives) là các chất hóa học được thêm vào thực phẩm để duy trì chất lượng (chất bảo quản), giá trị dinh dưỡng, hương vị (chất tạo hương) và hình thức (chất tạo màu).
+
+Nguồn gốc của phụ gia thực phẩm có thể là:
+
+- Tự nhiên — ví dụ, màu đỏ từ củ cải đường, màu tím từ vỏ nho (anthocyanins)
+- Sản xuất tổng hợp của:
+
+  - Các sản phẩm không có trong tự nhiên (ví dụ, aspartame, một chất thay thế đường)
+  - Nhiều phụ gia tự nhiên (ví dụ, axit ascorbic), vì sản xuất tổng hợp thường ít tốn kém hơn.
+
+Sự an toàn của [phụ gia thực phẩm](https://dermnetnz.org/topics/food-additives) được đánh giá bởi các cơ quan như Tiêu chuẩn Thực phẩm Úc New Zealand (FSANZ), Cơ quan An toàn Thực phẩm Châu Âu (EFSA) trong Liên minh Châu Âu (EU), hoặc Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA).
+
+## Quá mẫn cảm với phụ gia thực phẩm
+
+Phản ứng bất lợi với [phụ gia thực phẩm](https://dermnetnz.org/topics/food-additives) (quá mẫn cảm) có thể xảy ra thông qua cơ chế miễn dịch hoặc không miễn dịch. Phản ứng không miễn dịch đôi khi được gọi là ‘không dung nạp thực phẩm’.
+
+Phụ gia thực phẩm liên quan đến phản ứng bất lợi bao gồm, nhưng không giới hạn:
+
+- [Sulfites](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin)
+- Aspartame
+- Tartrazine
+- Monosodium glutamate (MSG)
+- Butylated hydroxytoluene (BHT) và butylated hydroxyanisole (BHA)
+- Parabens
+- Benzoates.
+
+#### Dịch tễ học
+
+Tỷ lệ phản ứng bất lợi với phụ gia thực phẩm trong dân số chung là thấp, ước tính khoảng 1–2% ở trẻ em và 1% ở người lớn. Dường như phổ biến hơn ở trẻ em [atopic](https://dermnetnz.org/topics/atopy) (2–7%).
+
+#### Đặc điểm lâm sàng
+
+Phản ứng có thể từ nhẹ đến nặng, và có thể liên quan đến triệu chứng da và không da.
+
+- Triệu chứng da có thể bao gồm đỏ mặt, [ngứa](https://dermnetnz.org/topics/pruritus), phát ban, [mề đay](https://dermnetnz.org/topics/urticaria-an-overview), và [phù mạch](https://dermnetnz.org/topics/angioedema). Benzoates và chất tạo hương đã được cho là nguyên nhân gây ra [viêm hạt orofacial](https://dermnetnz.org/topics/orofacial-granulomatosis).
+- Triệu chứng không da có thể bao gồm chảy nước mũi, ho, buồn nôn và nôn, trào ngược hoặc ‘ợ nóng’, co thắt bụng, tiêu chảy hoặc táo bón, và [sốc phản vệ](https://dermnetnz.org/topics/anaphylaxis).
+
+Đôi khi phản ứng với phụ gia thực phẩm có thể góp phần làm trầm trọng thêm bệnh hiện có, chẳng hạn như bùng phát [viêm da dị ứng (eczema)](https://dermnetnz.org/topics/atopic-dermatitis) hoặc hen suyễn.
+
+Lịch sử gợi ý khả năng quá mẫn cảm với phụ gia thực phẩm bao gồm:
+
+- Phản ứng bất lợi với một số loại thực phẩm không liên quan
+- Phản ứng với một loại thực phẩm khi được chế biến thương mại, nhưng không phải khi nấu tại nhà
+- Làm trầm trọng thêm tình trạng hiện có (ví dụ, eczema) mà không có nguyên nhân rõ ràng khác.
+
+#### Chẩn đoán
+
+Công cụ chẩn đoán cho phản ứng bất lợi với phụ gia thực phẩm bao gồm:
+
+- [Thử nghiệm chích da](https://dermnetnz.org/topics/skin-prick-testing)
+- Xét nghiệm máu — [Xét nghiệm Immunoglobulin E (IgE)](https://dermnetnz.org/topics/immunoglobulin-e-tests) cho các phụ gia thực phẩm cụ thể như carmine, mannitol, saffron, và gum thực vật
+- [Thử nghiệm miếng dán atopy](https://dermnetnz.org/topics/atopy-patch-test)
+- Thử thách thực phẩm bằng miệng
+
+#### Điều trị
+
+- Tránh các phụ gia đã được xác định là phương pháp điều trị chính.
+- Kiểm tra danh sách thành phần trên nhãn thực phẩm, cũng như thuốc và [mỹ phẩm](https://dermnetnz.org/topics/contact-reactions-to-cosmetics) được khuyến nghị.
+
+Điều trị cụ thể phụ thuộc vào phản ứng quan sát được. Điều trị có thể bao gồm [thuốc kháng histamine uống](https://dermnetnz.org/topics/antihistamines), [steroid bôi](https://dermnetnz.org/topics/topical-steroid), xịt mũi, hoặc trong trường hợp sốc phản vệ, [adrenaline](https://dermnetnz.org/topics/the-physiology-and-pharmacology-of-adrenaline)(epinephrine). Cũng khuyến nghị đeo vòng tay cảnh báo y tế cho những người có phản ứng nghiêm trọng và sốc phản vệ.
+
+## Số E của phụ gia thực phẩm là gì?
+
+Thực phẩm được bán trên toàn EU đã có nhãn thành phần đầy đủ từ giữa những năm 1980. Chúng bao gồm các mã tiêu chuẩn (số E) mô tả chính xác các phụ gia. Những số này cũng được sử dụng ở các khu vực khác như Úc và New Zealand, không có chữ E (‘Châu Âu’).
+
+- E100s: thường là màu thực phẩm.
+- E200s: chủ yếu là chất bảo quản và axit.
+- E300s: chủ yếu là chất chống oxy hóa và chất điều chỉnh axit.
+- E400s: bao gồm chất nhũ hóa, chất ổn định và chất làm đặc.
+- E500s: bao gồm chất chống vón cục và chất điều chỉnh độ chua.
+- E600s: chủ yếu là chất tăng cường hương vị.
+- E900s: bao gồm chất tạo ngọt, chất tạo bóng, chất tạo bọt và khí.
+- E1000s: các phụ gia khác.
+
+Các phụ gia thực phẩm thường được sử dụng được liệt kê trong Bảng 1-6 dưới đây. Các bảng này không đầy đủ hoặc toàn diện và có thể thay đổi khi các phụ gia được phân loại lại.
+
+Danh sách đầy đủ các phụ gia trong EU được công bố bởi Cơ quan Tiêu chuẩn Thực phẩm (Vương quốc Anh). Một danh sách tương tự cho Úc và New Zealand được công bố bởi Hiệp hội An toàn Thực phẩm New Zealand.
+
+### Bảng 1. Chất tạo màu (E100s)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| \*\*Số E\*\* | \*\*Tên\*\* | \*\*Mô tả\*\* | \*\*Ví dụ sử dụng\*\* |
+| E100 | Curcumin | \- Màu cam/vàng tự nhiên<br>\- Chiết xuất từ gia vị nghệ | \- Sử dụng trong bánh ngọt, kẹo, nước sốt và súp |
+| E101 | Riboflavin hoặc lactoflavin (Vitamin B2) | \- Vitamin nhóm B tự nhiên<br>\- Thường được lấy từ men hoặc sản xuất tổng hợp | \- Tăng cường và bổ sung thực phẩm<br>\- Thêm vào phô mai chế biến như màu vàng/cam |
+| E102 | Tartrazine | \- Màu vàng/cam được sử dụng rộng rãi | \- Có trong nước ngọt, bánh ngọt, bánh quy, bánh pudding, sản phẩm thịt, nước sốt, thực phẩm đóng hộp và đóng gói tiện lợi và kẹo |
+| E104 | Quinoline Yellow | \- Thuốc nhuộm than đá tổng hợp, màu vàng xanh | \- Sử dụng với các màu vàng khác, đặc biệt là trong cá hun khói |
+| E110 | Sunset Yellow FCF; Orange Yellow S | \- Thuốc nhuộm than đá tổng hợp, màu vàng, sử dụng với E102 | \- Có trong nước ngọt, bánh ngọt, bánh quy, bánh pudding, sản phẩm thịt, nước sốt, thực phẩm đóng hộp và đóng gói tiện lợi và kẹo |
+| E120 | Cochineal; Axit carminic; Carmines | \- Màu đỏ tự nhiên lấy từ lòng đỏ trứng và côn trùng khô<br>\- Có thể được sản xuất | \- Màu đỏ trong thực phẩm |
+| E122 | Azorubine; Carmoisine | \- Thuốc nhuộm than đá tổng hợp, màu đỏ/tím | \- Thường được thêm vào món tráng miệng có hương vị mâm xôi và sô cô la, marzipan, mứt, cherryade, nước sốt đóng chai và sản phẩm có lớp vỏ bánh |
+| E123 | Amaranth | \- Thuốc nhuộm than đá tổng hợp, màu đỏ | \- Đôi khi được sử dụng trong hỗn hợp nước sốt, bánh thịt và đồ uống nho đen |
+| E124 | Ponceau 4R; Cochineal Red A | \- Thuốc nhuộm than đá tổng hợp, màu đỏ | \- Thường được sử dụng để khôi phục màu đỏ cho dâu tây đóng hộp<br>- Cũng được thêm vào mứt dâu, thạch và kem, súp cà chua, cơm mặn, hỗn hợp bánh phô mai và một số sản phẩm thịt |
+| E127 | Erythrosine | \- Thuốc nhuộm than đá tổng hợp, màu đỏ<br>\- Giàu iốt khoáng | \- Thành phần thường xuyên của anh đào glace, sữa chua đào melba, giăm bông và thịt lợn đóng gói chân không, dâu tây đóng hộp và một số hương vị của khoai tây chiên và đồ ăn nhẹ từ khoai tây |
+| E128 | Red 2G | \- Thuốc nhuộm than đá tổng hợp, màu đỏ | \- Hiện bị cấm ở nhiều quốc gia bao gồm EU và Mỹ |
+| E129 | Allura Red AC | \- Chất tạo màu | \- Sử dụng trong đồ uống, bánh nướng, sản phẩm thịt và kẹo |
+| E131 | Patent Blue V | \- Chất tạo màu | \- Sử dụng trong một số sản phẩm thịt |
+| E132 | lndigotine; Indigo Carmine | \- Thuốc nhuộm than đá tổng hợp, màu xanh | \- Thêm vào hỗn hợp nước sốt và một số sản phẩm thịt |
+| E133 | Brilliant Blue FCF | \- Thuốc nhuộm than đá tổng hợp, màu xanh<br>\- Thường được trộn với E102 để tạo màu xanh lá cây | \- Đồ ăn nhẹ có hương vị thịt xông khói |
+| E140 | Chlorophyll và chlorophyllins | \- Sắc tố xanh tự nhiên có trong lá và thân cây<br>\- Cũng được sản xuất | \- Thêm vào rau xanh để tăng cường màu sắc |
+| E141 | Phức hợp đồng của chlorophyll và chlorophyllins | \- Màu ổn định hơn thu được từ phản ứng giữa đồng và chlorophyll sản xuất | \- Sử dụng để tăng cường màu xanh của các sản phẩm như dưa chuột ngâm |
+| E142 | Green S | \- Thuốc nhuộm than đá tổng hợp, màu xanh lá cây | \- Sử dụng để khôi phục màu xanh lá cây mong đợi cho đậu đóng hộp<br>\- Cũng được thêm vào súp măng tây, đồ uống và thạch chanh hoặc chanh, và nước sốt bạc hà |
+| E150a | Caramel thường | \- Màu nâu và chất tạo hương vị thường được sử dụng làm từ quá trình caramel hóa hoặc đốt cháy đường bằng nhiệt hoặc hóa chất<br>\- Không có phản ứng ammonium hoặc sulphite | \- Sử dụng trong nước ngọt, hỗn hợp nước sốt, bánh mì nâu, bánh ngọt, bánh quy, giấm mạch nha, mứt cam và sản phẩm thịt bò |
+| E150b | Caramel sulphite caustic | \- Chất tạo màu<br>\- Với phản ứng sulphite, nhưng không có ammonium | \- Sử dụng trong trà, rượu whisky và rượu brandy |
+| E150c | Caramel ammonium | \- Chất tạo màu<br>\- Với phản ứng ammonium, nhưng không có sulphite | \- Sử dụng để tạo màu cho nước tương và bia |
+| E150d | Caramel sulphite ammonium | \- Chất tạo màu<br>\- Với cả phản ứng sulphite và ammonium | \- Được sử dụng rộng rãi cho nước ngọt |
+| E151 | Brilliant Black BN; Black PN | \- Thuốc nhuộm than đá tổng hợp, màu đen | \- Sử dụng để làm tối nước sốt trái cây |
+| E153 | Carbon thực vật | \- Màu đen tự nhiên thu được từ vật liệu thực vật bị đốt cháy, hiện thường được sản xuất | \- Thêm vào nước trái cây cô đặc, mứt và thạch |
+| E155 | Brown HT | \- Thuốc nhuộm than đá tổng hợp, màu nâu | \- Các loại thực phẩm khác nhau |
+| E160 a - e | Carotenoids | \- Sắc tố thực vật có nguồn gốc từ cà rốt, cà chua, mơ, cam, quả tầm xuân và rau lá xanh<br>\- Hiện chủ yếu được sản xuất | \- Cung cấp một loạt màu sắc từ vàng đến đỏ |
+| E160a | Alpha-, beta, và gamma-carotenes | \- Beta-carotene là một chất nổi tiếng được cơ thể chuyển đổi thành Vitamin A<br>\- Màu cam | \- Thêm vào bánh quy, bánh ngọt, bơ thực vật, cơm kem, sản phẩm phô mai và một số loại súp |
+| E160b | Annatto | \- Sắc tố cam/đào tự nhiên có trong bơ và phô mai | \- Sử dụng để tạo màu kem cho cơm kem, kem cà phê, bánh ngọt, phô mai và sản phẩm phô mai |
+| E160c | Chiết xuất ớt bột; Capsanthian; Capsorubin | \- Chất tạo màu (đỏ) | \- Có thể được sử dụng để thêm màu và hương vị cho các sản phẩm thực phẩm khác nhau |
+| E160d | Lycopene | \- Chất tạo màu (đỏ)<br>\- Carotenoid | \- Có thể được sử dụng trong thực phẩm chế biến, đồ uống và ketchup |
+| E160e | Beta-apo-8'-carotenal (C30); apocarotenal | \- Chất tạo màu (cam/đỏ)<br>\- Carotenoid | \- Đôi khi được sử dụng trong phô mai chế biến |
+| E161b | Lutein | \- Chất tạo màu (vàng/cam)<br>- Carotenoid | \- Đã được sử dụng như một chất phụ gia thức ăn cho gà để thúc đẩy màu vàng của lòng đỏ trứng |
+| E161g | Canthaxanthin | \- Chất tạo màu (đỏ/cam)<br>\- Carotenoid | \- Có thể có trong thực phẩm và sản phẩm tự nhuộm da |
+| E162 | Betanin (Beetroot Red) | \- Màu đỏ/tím tự nhiên có trong củ cải đường | \- Có thể được thêm vào súp đuôi bò |
+| E163 | Anthocyanins | \- Sắc tố thực vật với màu sắc từ đỏ đến xanh<br>\- Tự nhiên có trong bắp cải đỏ và nho | \- Sử dụng trong sản xuất đồ uống màu tím, kẹo và mứt |
+| E170 | Canxi cacbonat (phấn) | \- Khoáng chất tự nhiên | \- Các chức năng khác nhau bao gồm chất điều chỉnh axit, chất làm cứng, chất giải phóng và chất dinh dưỡng<br>\- Thêm vào bột mì trắng như một chất bổ sung canxi để thay thế sự mất mát do tinh chế<br>\- Thường là thành phần trong bánh mì và sản phẩm nướng |
+| E171 | Titanium dioxide | \- Chất tạo màu | \- Không còn được phép sử dụng trong EU và Bắc Ireland từ tháng 2 năm 2022 |
+| E172 | Oxit sắt và hydroxide | \- Khoáng chất tự nhiên | \- Thêm vào để tăng cường thực phẩm<br>\- Thêm vào bột mì và ngũ cốc ăn sáng |
+| E173 | Nhôm | \- Chất tạo màu (bạc/xám) | \- Lớp phủ bề mặt (ví dụ, cho trang trí bánh hoặc kẹo) |
+| E174 | Bạc | \- Chất tạo màu | \- Có thể được sử dụng cho lớp phủ bề mặt bạc |
+| E175 | Vàng | \- Chất tạo màu | \- Có thể được sử dụng cho lớp phủ bề mặt vàng |
+| E180 | Lithol rubine BK | \- Chất tạo màu (đỏ) | \- Sử dụng để tạo màu cho vỏ phô mai |
+
+## Số E cho chất bảo quản
+
+### Bảng 2. Chất bảo quản (chủ yếu E200s)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Số E | Tên | Mô tả | Ví dụ sử dụng |
+| E200 | Axit sorbic | \- Tự nhiên có trong một số loại trái cây nhưng thường được sản xuất tổng hợp để sử dụng làm chất bảo quản thực phẩm | \- Thường được thêm vào nước ngọt, phô mai phết, pizza đông lạnh và bánh ngọt |
+| E202 | Kali sorbate | \- Muối của axit sorbic | \- Sử dụng để bảo quản anh đào glace |
+| E210 | Axit benzoic | \- Tự nhiên có trong vỏ anh đào, quả mâm xôi, trà, hồi và vỏ quế, nhưng chủ yếu được chuẩn bị tổng hợp để sử dụng thương mại | \- Hoạt động như một chất bảo quản và chất chống oxy hóa thường xuyên nhất trong sản phẩm trái cây, nước ngọt, sản phẩm ngâm và nước sốt salad |
+| E211 | Natri benzoate | \- Muối của axit benzoic | \- Trong nước sốt đóng chai |
+| E212 | Kali benzoate | \- Muối của axit benzoic | \- Như axit benzoic (E210) |
+| E213 | Canxi benzoate | \- Muối của axit benzoic | \- Như axit benzoic (E210) |
+| E214 | Ethyl p-hydroxybenzoate | \- Chất bảo quản<br>\- Muối của axit benzoic | \- Như axit benzoic (E210) |
+| E215 | Natri ethyl p-hydroxybenzoate | \- Chất bảo quản<br>\- Muối của axit benzoic | \- Như axit benzoic (E210) |
+| E218 | Methyl p-hydroxybenzoate | \- Chất bảo quản<br>\- Muối của axit benzoic | \- Như axit benzoic (E210) |
+| E219 | Natri methyl p-hydroxybenzoate | \- Chất bảo quản<br>\- Muối của axit benzoic | \- Như axit benzoic (E210) |
+| E220 | Lưu huỳnh dioxide | \- Khí được chuẩn bị hóa học để sử dụng làm chất bảo quản thực phẩm, chất cải thiện bột mì, chất tẩy trắng và chất ổn định Vitamin C | \- Có trong nước ngọt có ga, mứt cam, anh đào glace, vỏ hỗn hợp, bánh ngọt, sản phẩm trái cây và sản phẩm thịt |
+| E221 | Natri sulphite | \- Chất bảo quản | \- Có thể được sử dụng để ngăn ngừa sự đổi màu trong trái cây khô |
+| E222 | Natri hydrogen sulphite | \- Chất bảo quản và chất tẩy trắng tổng hợp | \- Thường được thêm vào rượu vang và bia |
+| E223 | Natri metabisulphite | \- Chất bảo quản tổng hợp | \- Thêm vào xúc xích và một số nước sốt đóng chai |
+| E224 | Kali metabisulphite | \- Chất bảo quản | \- Đôi khi được sử dụng để bảo quản bia, rượu vang và các đồ uống lên men khác |
+| E226 | Canxi sulphite | \- Chất bảo quản | \- Bị cấm ở Úc |
+| E227 | Canxi hydrogen sulphite | \- Chất bảo quản | \- Có thể được sử dụng trong trái cây đóng hộp và sản phẩm bia |
+| E228 | Kali hydrogen sulphite | \- Chất bảo quản | \- Có thể được sử dụng trong đồ uống có cồn |
+| E234 | Nisin | \- Chất bảo quản | \- Phô mai và sản phẩm sữa |
+| E235 | Natamycin | \- Chất bảo quản | \- Phô mai và xúc xích |
+| E239 | Hexamethylene tetramine | \- Chất bảo quản | \- Phô mai và sản phẩm cá |
+| E242 | Dimethyl dicarbonate | \- Chất bảo quản | \- Đồ uống |
+| E243 | Ethyl lauroyl arginate | \- Chất bảo quản | \- Sản phẩm thịt đã qua xử lý nhiệt |
+| E249 | Kali nitrite | \- Khoáng chất tự nhiên được sử dụng làm chất bảo quản và chất cố định màu | \- Sử dụng trong thịt nấu chín, xúc xích và thịt ướp |
+| E250 | Natri nitrite | \- Được chiết xuất từ natri nitrate bằng hành động hóa học hoặc vi khuẩn<br>\- Hoạt động như một chất bảo quản và chất cố định màu | \- Thêm vào thịt nấu chín và ướp, thịt xông khói và xúc xích thịt lợn |
+| E251 | Natri nitrate | \- Khoáng chất tự nhiên, thường được sản xuất tổng hợp để sử dụng làm chất bảo quản thực phẩm và chất cố định màu | \- Trong thịt nấu chín, thịt xông khói, giăm bông và phô mai |
+| E252 | Kali nitrate | \- Tự nhiên có nhưng thường được sản xuất nhân tạo từ chất thải động vật và vật liệu thực vật<br>\- Một trong những chất bảo quản hiệu quả nhất và lâu đời nhất cho thịt<br>\- Cũng hoạt động như một chất làm cứng | \- Có trong thịt ướp và nấu chín, và xúc xích |
+| E280 | Axit propionic | \- Axit béo được sản xuất bởi động vật trong quá trình tiêu hóa, nhưng thường được sản xuất tổng hợp | \- Thêm vào sản phẩm nướng<br>\- Hoạt động như một chất bảo quản |
+| E281 | Natri propionate | \- Muối của axit propionic | \- Thêm vào sản phẩm nướng |
+| E282 | Canxi propionate | \- Muối của axit propionic<br>\- Tự nhiên có trong phô mai Thụy Sĩ | \- Thêm vào sản phẩm nướng |
+| E283 | Kali propionate | \- Muối của axit propionic | \- Thêm vào sản phẩm nướng |
+| E284 | Axit boric | \- Chất bảo quản và chất điều chỉnh độ chua | \- Đôi khi được sử dụng trong sản phẩm thịt, cá và sữa<br>\- Các ứng dụng khác bao gồm chất khử trùng và thuốc trừ sâu |
+| E285 | Natri tetraborate; borax | \- Chất bảo quản<br>\- Muối natri của axit boric (xem E284) | \- Đôi khi được sử dụng làm chất bảo quản trứng cá muối<br>\- Bị cấm ở một số quốc gia bao gồm Hoa Kỳ |
+| E1105 | Lysozyme | \- Chất bảo quản<br>\- Enzyme tự nhiên có trong nước mắt, nước bọt, máu, mồ hôi và sữa mẹ<br>\- Được tinh chế thương mại từ lòng trắng trứng | \- Sản phẩm dinh dưỡng trẻ em<br>\- Sản phẩm phô mai |
+
+## Số E cho chất chống oxy hóa
+
+### Bảng 3. Chất chống oxy hóa (chủ yếu E300s)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| \*\*Số E\*\* | \*\*Tên\*\* | \*\*Mô tả\*\* | \*\*Ví dụ sử dụng\*\* |
+| E300 | Axit ascorbic (Vitamin C) | \- Tự nhiên có trong trái cây và rau quả nhưng được tổng hợp sinh học<br>\- Hoạt động như một chất bảo quản, chất chống oxy hóa, chất cố định màu thịt và chất cải thiện bột mì<br>\- Cũng là một vitamin | \- Có trong nước trái cây, bánh mì, sản phẩm nướng, khoai tây nghiền bột và các sản phẩm khác |
+| E301 | Natri ascorbate | \- Muối của axit ascorbic | \- Thêm vào thịt ướp |
+| E302 | Canxi ascorbate | \- Muối của axit ascorbic | \- Chức năng tương tự như axit ascorbic (E300) |
+| E304 | Este axit béo của axit ascorbic | \- Muối của axit ascorbic | \- Sử dụng trong xúc xích và thịt ướp |
+| E306 | Tocopherol (Vitamin E) | \- Được chiết xuất từ dầu đậu nành, mầm lúa mì, mầm gạo, hạt bông, ngô và lá xanh<br>\- Sử dụng như một chất chống oxy hóa và chất dinh dưỡng | \- Thêm vào chất béo và dầu |
+| E307 | Alpha-tocopherol | \- Sản phẩm tổng hợp của tocopherol với chức năng tương tự (xem E306) | \- Thêm vào chất béo và dầu |
+| E308 | Gamma-tocopherol | \- Sản phẩm tổng hợp của tocopherol với chức năng tương tự (xem E306) | \- Thêm vào chất béo và dầu |
+| E309 | Delta-tocopherol | \- Sản phẩm tổng hợp của tocopherol với chức năng tương tự (xem E306) | \- Thêm vào chất béo và dầu |
+| E310 | Propyl gallate | \- Chất chống oxy hóa được chuẩn bị tổng hợp | \- Thêm vào chất béo và dầu<br>\- Có trong thực phẩm chiên<br>\- Có thể gây ra vị đắng |
+| E315 | Axit erythorbic | \- Chất chống oxy hóa | \- Sản phẩm thịt và cá chế biến |
+| E316 | Natri erythorbate | \- Chất chống oxy hóa | \- Sản phẩm thịt |
+| E319 | Tertiary-butyl hydroquinone (TBHQ) | \- Chất chống oxy hóa | \- Chất béo và dầu |
+| E320 | Butylated hydroxyanisole (BHA) | \- Chất chống oxy hóa được sản xuất tổng hợp để sử dụng một mình hoặc với E280, E310 hoặc E330 | \- Thường có trong khoai tây chiên và các đồ ăn nhẹ từ khoai tây khác, bánh quy, bánh ngọt, nước sốt đóng chai và thực phẩm chiên |
+| E321 | Butylated hydroxytoluene (BHT) | \- Chất chống oxy hóa được chuẩn bị tổng hợp | \- Tương tự như butylated hydroxyanisole (E320) |
+| E392 | Chiết xuất từ hương thảo | \- Chất chống oxy hóa | \- Chất phết béo |
+| E586 | 4-Hexylresorcinol | \- Chất chống oxy hóa | \- Tôm và động vật giáp xác |
+
+## Số E cho chất tạo ngọt
+
+### Bảng 4. Chất tạo ngọt (E400s và E900s)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| \*\*Số E\*\* | \*\*Tên\*\* | \*\*Mô tả\*\* | \*\*Ví dụ sử dụng\*\* |
+| E420 | Sorbitol | \- Rượu đường được sản xuất từ glucose<br>\- Hấp thụ chậm hơn đường nên thường được sử dụng làm chất tạo ngọt<br>\- Cũng được sử dụng như một chất giữ ẩm và chất pha loãng màu thực phẩm<br>\- Có thể có tác dụng nhuận tràng ở liều lượng lớn | \- Được sử dụng rộng rãi trong kẹo dành cho người tiểu đường, mứt, bánh quy, bánh ngọt và nước ngọt |
+| E421 | Mannitol | \- Rượu đường được chiết xuất từ mannose, nhưng thường được sản xuất từ rong biển<br>\- Hoạt động như một chất tạo ngọt, chất nhũ hóa, chất chống vón cục và chất làm đặc | \- Sử dụng trong kẹo và món tráng miệng |
+| E950 | Acesulfame K | \- Chất tạo ngọt | \- Chất tạo ngọt ít calo được sử dụng trong nhiều loại thực phẩm và đồ uống |
+| E951 | Aspartame | \- Chất tạo ngọt nhân tạo mới có nguồn gốc protein<br>\- Chứa phenylalanine | \- Chất tạo ngọt nhân tạo, kẹo, kem, món tráng miệng ít calo và nước ngọt |
+| E952 | Axit cyclamic và muối Na và Ca của nó | \- Chất tạo ngọt nhân tạo |  |
+| E953 | lsomalt | \- Chất tạo ngọt<br>\- Ổn định nhiệt độ cao | \- Sử dụng làm chất tạo ngọt trong các sản phẩm đã qua xử lý nhiệt ví dụ, sản phẩm nướng |
+| E954 | Saccharin và muối Na, K và Ca của nó | \- Chất tạo ngọt nhân tạo không calo | \- Sản phẩm ít calo, nước ngọt và kẹo |
+| E955 | Sucralose | \- Chất tạo ngọt | \- Kẹo, thanh ăn sáng, nước ngọt, trái cây đóng hộp |
+| E957 | Thaumatin | \- Chất tạo ngọt<br>\- Protein thực vật tự nhiên | \- Có thể được sử dụng trong đồ uống, sản phẩm sữa hoặc kẹo cao su |
+| E959 | Neohesperidine DC | \- Chất tạo ngọt<br>\- Chiết xuất từ cam quýt | \- Được sử dụng rộng rãi trong món tráng miệng, sản phẩm sữa, kẹo và đồ uống |
+| E960 | Steviol glycoside | \- Chất tạo ngọt | \- Được sử dụng rộng rãi trong nước ngọt có ga, nước ép, trà, món tráng miệng, sản phẩm sữa, kẹo và các sản phẩm khác |
+| E961 | Neotame | \- Chất tạo ngọt, tương tự như aspartame (E951) | \- Được sử dụng rộng rãi (xem E951) |
+| E962 | Muối của aspartame-acesulfame | \- Chất tạo ngọt ít calo |  |
+| E964 | Xi-rô polyglycitol | \- Chất tạo ngọt |  |
+| E965 | Maltitol | \- Đường tự nhiên có trong nho và ngô | \- Kẹo, bánh ngọt, bánh quy, bánh pudding, món tráng miệng, nước ngọt, thực phẩm tiện lợi |
+| E966 | Lactitol | \- Chất tạo ngọt tổng hợp<br>\- Chiết xuất từ lactose | \- Chất tạo ngọt thay thế cho thực phẩm ít calo |
+| E967 | Xylitol | \- Chất tạo ngọt | \- Được sử dụng rộng rãi như chất thay thế đường ví dụ, kẹo, nước sốt ngọt, rượu mùi, mứt, món tráng miệng |
+| E968 | Erythritol | \- Chất tạo ngọt<br>\- Làm từ quá trình lên men carbohydrate |  |
+| E969 | Advantame | \- Chất tạo ngọt | \- Chất tạo ngọt trên bàn, kẹo, kẹo cao su, đồ uống có hương vị và các sản phẩm khác |
+
+## Số E cho chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel
+
+### Bảng 5. Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel (chủ yếu E400s)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| \*\*Số E\*\* | \*\*Tên\*\* | \*\*Mô tả\*\* | \*\*Ví dụ sử dụng\*\* |
+| E322 | Lecithins | \- Loại chất béo hoặc hợp chất lipid có tự nhiên trong tất cả các sinh vật sống, bảo vệ chống lại sự lắng đọng cholesterol<br>\- Lòng đỏ trứng là nguồn lecithins phong phú, nhưng thương mại, hầu hết được chiết xuất từ đậu nành<br>\- Sử dụng như một chất chống oxy hóa và chất nhũ hóa | \- Có trong sô cô la và sản phẩm sô cô la, sữa bột, bơ thực vật và đồ ăn nhẹ từ khoai tây |
+| E400 | Axit alginic | \- Chất nhũ hóa, chất ổn định, chất tạo gel và chất làm đặc được chiết xuất từ rong biển nâu | \- Thường được thêm vào kem, món tráng miệng tức thì và bánh pudding |
+| E401 | Natri alginate | \- Muối của axit alginic với chức năng tương tự (xem E400) | \- Xem E400 (axit alginic) |
+| E402 | Kali alginate | \- Muối của axit alginic với chức năng tương tự (xem E400) | \- Xem E400 (axit alginic) |
+| E403 | Ammonium alginate | \- Muối của axit alginic với chức năng tương tự (xem E400) | \- Xem E400 (axit alginic) |
+| E404 | Canxi alginate | \- Muối của axit alginic với chức năng tương tự (xem E400) | \- Xem E400 (axit alginic) |
+| E405 | Propane-1,2-diol alginate; propylene glycol alginate (PGA) | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel<br>\- Este được làm từ axit alginic (E400) và \[propylene glycol\](/topics/contact-allergy-to-propylene-glycol) (E1520) |  |
+| E406 | Agar | \- Gum tự nhiên được chiết xuất từ rong biển<br>\- Không tiêu hóa nên hoạt động như một nguồn chất xơ thực phẩm<br>\- Cũng hoạt động như một chất ổn định và chất tạo gel | \- Sử dụng trong giăm bông đóng hộp, men thịt và trong kem |
+| E407 | Carrageenan (rêu Ireland) | \- Gum tự nhiên có trong rong biển đỏ<br>\- Sử dụng như một chất nhũ hóa, chất ổn định và chất tạo gel | \- Có trong kem<br>\- Thay thế cho gelatin |
+| E407a | Rong biển eucheuma đã qua xử lý | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E410 | Gum hạt châu chấu; gum carob | \- Chiết xuất tự nhiên từ hạt cây Carob<br>\- Tương tự như E407 | \- Thêm vào kem và súp<br>\- Carob là một chất thay thế không chứa caffeine cho ca cao và sô cô la<br>\- Sử dụng trong đồ uống, kẹo và sản phẩm nướng |
+| E412 | Gum guar (gum hạt đậu cụm) | \- Gum hạt tự nhiên từ một cây thuộc họ đậu<br>\- Sử dụng như một chất làm đặc và chất ổn định | \- Thêm vào nước sốt đóng chai, súp, kem và món tráng miệng đông lạnh |
+| E413 | Tragacanth | \- Gum tự nhiên thu được từ một cây thuộc họ đậu<br>\- Sử dụng như một chất ổn định, chất nhũ hóa và chất làm đặc<br>\- Sử dụng để ngăn ngừa sự kết tinh của đường | \- Tương tự như E412 và trong kẹo |
+| E414 | Gum acacia; gum arabic | \- Tương tự như E413 | \- Tương tự như E413 |
+| E415 | Gum xanthan | \- Làm từ quá trình lên men carbohydrate bởi vi khuẩn<br>\- Sử dụng như một chất nhũ hóa, chất ổn định và chất làm đặc | \- Thêm vào kem và nước sốt đóng chai |
+| E416 | Gum karaya | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E417 | Gum tara | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E418 | Gum gellan | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E425 | Konjac | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E426 | Hemicellulose đậu nành | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E427 | Gum cassia | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E432 | Polyoxyethylene sorbitan monolaurate; Polysorbate 20 | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E433 | Polyoxyethylene sorbitan mono-oleate; Polysorbate 80 | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E434 | Polyoxyethylene sorbitan monopalmitate; Polysorbate 40 | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E435 | Polyoxyethylene sorbitan monostearate; Polysorbate 60 | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel<br>\- Được chuẩn bị từ sorbitol (E420) | \- Bánh mì và sản phẩm nướng |
+| E436 | Polyoxyethylene sorbitan tristearate; Polysorbate 65 | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E440a | Pectin | \- Tự nhiên có trong trái cây, rễ và thân cây | \- Sử dụng như một chất ổn định và chất tạo gel<br>\- Thêm vào mứt, thạch và nước sốt bạc hà |
+| E440b | Pectin amidated | \- Pectin được xử lý hóa học sử dụng như một chất nhũ hóa và chất tạo gel | \- Mứt và thạch |
+| E442 | Ammonium phosphatide | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E444 | Sucrose acetate isobutyrate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E445 | Este glycerol của nhựa gỗ | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E460 | Cellulose | \- Phần sợi của thành tế bào thực vật được sử dụng như một chất làm đầy | \- Sử dụng trong bánh mì giàu chất xơ và sản phẩm ít calo |
+| E461 | Methyl cellulose | \- Chiết xuất từ cellulose với các tính chất tương tự | \- Sử dụng trong thực phẩm giảm cân |
+| E462 | Ethyl cellulose | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E463 | Hydroxypropyl cellulose | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E464 | Hydroxypropyl methyl cellulose | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E465 | Ethyl methyl cellulose | \- Chiết xuất từ cellulose với các tính chất tương tự | \- Thêm vào bánh trái cây và nước sốt đóng chai |
+| E466 | Carboxymethyl cellulose | \- Chiết xuất từ cellulose với các tính chất tương tự | \- Sử dụng trong kem, sản phẩm kem và hỗn hợp bánh phô mai |
+| E468 | Carboxymethyl cellulose natri liên kết chéo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E469 | Carboxymethyl cellulose thủy phân enzyme | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E470a | Muối natri, kali và canxi của axit béo | \- Chất nhũ hóa, chất ổn định và chất chống vón cục được sản xuất tổng hợp | \- Khoai tây chiên và đồ ăn nhẹ từ khoai tây |
+| E470b | Muối magiê của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E471 | Mono- và diglycerides của axit béo | \- Sản phẩm bình thường của quá trình tiêu hóa chất béo nhưng được chuẩn bị tổng hợp | \- Thường được thêm vào sữa bột, súp đóng gói, bánh, khoai tây chiên, đồ ăn nhẹ từ khoai tây, bánh mì, sản phẩm nướng và bơ thực vật |
+| E472a | Este axit acetic của mono- và diglycerides của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E472b | Este axit lactic của mono- và diglycerides của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E472c | Este axit citric của mono- và diglycerides của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E472d | Este axit tartaric của mono- và diglycerides của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E472e | Este axit mono- và diacetyltartaric của mono- và diglycerides của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E472f | Este axit acetic và tartaric hỗn hợp của mono- và diglycerides của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E473 | Este sucrose của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E474 | Sucroglycerides | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E475 | Este polyglycerol của axit béo | \- Sản phẩm tổng hợp của E471 được sử dụng như một chất nhũ hóa và chất ổn định | \- Bánh pudding và bánh phô mai đóng gói |
+| E476 | Polyglycerol polyricinoleate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E477 | Este propane-1,2-diol của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E479b | Dầu đậu nành oxy hóa nhiệt tương tác với mono- và diglycerides của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E481 | Natri stearoyl-2-lactylate | \- Được chuẩn bị tổng hợp từ axit lactic<br>\- Sử dụng như một chất ổn định và chất nhũ hóa | \- Đồ ăn nhẹ từ khoai tây |
+| E482 | Canxi stearoyl-2-lactylate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E483 | Stearyl tartrate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E491 | Sorbitan monostearate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E492 | Sorbitan tristearate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E493 | Sorbitan monolaurate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E494 | Sorbitan monooleate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E495 | Sorbitan monopalmitate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E1103 | Invertase | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+
+## Số E cho các phụ gia thực phẩm khác
+
+### Bảng 6. Các phụ gia thực phẩm khác
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| \*\*Số E\*\* | \*\*Tên\*\* | \*\*Mô tả\*\* | \*\*Ví dụ sử dụng\*\* |
+| E260 | Axit acetic | \- Thành phần tự nhiên của giấm nhưng thường được sản xuất từ gỗ<br>\- Sử dụng như một chất bảo quản, axit hoặc chất pha loãng màu | \- Có trong dưa chua, nước sốt đóng chai và chutneys |
+| E261 | Kali acetate | \- Chất tạo hương, chất bảo quản và chất điều chỉnh độ chua<br>\- Muối kali của axit acetic (E260) | \- Sử dụng như chất tạo hương trong đồ ăn nhẹ như khoai tây chiên (vị giấm)<br>\- Cũng được sử dụng trong chất bổ sung kali |
+| E262 | Natri acetate | \- Chất tạo hương, chất bảo quản và axit<br>\- Muối natri của axit acetic (E260) | \- Hương vị khoai tây chiên muối và giấm, trong số các ứng dụng khác |
+| E263 | Canxi acetate | \- Chất tạo hương, chất bảo quản và axit<br>\- Muối canxi của axit acetic (E260) |  |
+| E270 | Axit lactic | \- Được sản xuất bởi quá trình lên men lactose (đường có trong sữa)<br>\- Tự nhiên có trong sữa chua và sữa chua<br>\- Hoạt động như một chất bảo quản, axit, hương vị và hỗ trợ hành động của chất chống oxy hóa | \- Được sử dụng rộng rãi trong nước sốt salad, bánh ngọt, bánh quy, kẹo và một số loại món ăn thịt chế biến sẵn |
+| E290 | Carbon dioxide | \- Khí có trong không khí, nhưng được sản xuất tổng hợp cho thực phẩm<br>\- Thêm sự sủi bọt vào đồ uống có ga (carbonation)<br>\- Cũng được sử dụng như một chất làm mát, chất làm đông, chất đẩy, chất bảo quản và khí đóng gói | \- Đồ uống có ga |
+| E296 | Axit malic | \- Chất tạo hương, chất điều chỉnh độ chua, chất ổn định màu |  |
+| E297 | Axit fumaric | \- Được chuẩn bị tổng hợp như một axit tạo hương | \- Sản phẩm nướng |
+| E325 | Natri lactate | \- Chất bảo quản, chất điều chỉnh độ chua và chất làm đầy |  |
+| E326 | Kali lactate | \- Chất bảo quản | \- Sản phẩm thịt và gia cầm |
+| E327 | Canxi lactate | \- Chất làm cứng, chất tạo hương, chất làm đặc, chất ổn định, chất chống oxy hóa | \- Sử dụng trong chế biến trái cây và rau quả<br>\- Có thể được sử dụng trong chất bổ sung canxi |
+| E330 | Axit citric; muối chanh | \- Chất điều chỉnh độ chua, chất bảo quản | \- Thường được sử dụng trong thực phẩm đóng hộp, đồ ăn nhẹ, kem, nước ngọt |
+| E331 | Natri citrates | \- Chất bảo quản, chất tạo hương, chất nhũ hóa<br>\- Muối natri của axit citric (E330) |  |
+| E332 | Kali citrates | \- Chất điều chỉnh độ chua, chất tạo hương<br>\- Muối kali của axit citric (E330) | \- Ngoài việc là phụ gia thực phẩm, có thể được sử dụng để điều trị sỏi thận |
+| E333 | Canxi citrates | \- Chất bảo quản, chất tạo hương<br>\- Muối canxi của axit citric (E330) | \- Ngoài việc là phụ gia thực phẩm, đôi khi được sử dụng trong chất bổ sung canxi |
+| E334 | Axit tartaric (L-(+)) | \- Chất điều chỉnh độ chua, chất tạo hương, chất làm nổi, chất ổn định | \- Sản xuất đường, kẹo, sản xuất rượu |
+| E335 | Natri tartrates | \- Chất điều chỉnh độ chua, chất ổn định<br>\- Muối natri của axit tartaric (E334) | \- Chất kết dính trong thạch, bơ thực vật và vỏ xúc xích |
+| E336 | Kali tartrates | \- Chất điều chỉnh độ chua, chất ổn định<br>\- Muối kali của axit tartaric (E334)<br>\- Kali bitartrate = kem tartar |  |
+| E337 | Natri kali tartrates | \- Chất điều chỉnh độ chua, chất ổn định<br>\- Muối kép của axit tartaric |  |
+| E338 | Axit phosphoric | \- Axit, chất tạo hương | \- Nước ngọt, mứt |
+| E339 | Natri phosphates | \- Chất điều chỉnh độ chua, chất làm đặc, chất nhũ hóa<br>\- Muối natri của axit phosphoric (E338) | \- Có trong thịt, phô mai và sản phẩm nướng |
+| E340 | Kali phosphates | \- Chất điều chỉnh độ chua, chất làm nổi, chất ổn định<br>\- Muối kali của axit phosphoric (E338) | \- Ngoài việc là phụ gia thực phẩm, cũng được sử dụng trong một số chất bổ sung kali |
+| E341 | Canxi phosphates | \- Chất chống vón cục, chất nhũ hóa, chất ổn định, chất điều chỉnh độ chua<br>\- Muối canxi của axit phosphoric (E338) | \- Sử dụng để ngăn ngừa cục trong thực phẩm bột<br>\- Cũng được sử dụng trong một số chất bổ sung dinh dưỡng |
+| E343 | Magiê phosphates | \- Chất điều chỉnh độ chua, chất chống vón cục, chất ổn định | \- Có trong chất thay thế muối |
+| E350 | Natri malate | \- Chất điều chỉnh độ chua, chất tạo hương<br>\- Muối natri của axit malic (E296) |  |
+| E351 | Kali malate | \- Chất điều chỉnh độ chua, chất chống oxy hóa, chất tạo hương<br>\- Muối kali của axit malic (E296) |  |
+| E352 | Canxi malate | \- Chất điều chỉnh độ chua, chất tạo hương, chất làm đặc<br>\- Muối canxi của axit malic (E296) |  |
+| E353 | Axit metatartaric | \- Chất điều chỉnh độ chua | \- Sử dụng trong sản xuất rượu |
+| E354 | Canxi tartrate | \- Chất bảo quản và chất điều chỉnh độ chua<br>\- Muối canxi của axit tartaric (E334) |  |
+| E355 | Axit adipic | \- Chất điều chỉnh độ chua, chất tạo hương và chất làm nổi<br>\- Tự nhiên có trong củ cải đường và mía | \- Sử dụng trong bột nở, nước ngọt có ga và hỗn hợp đồ uống |
+| E356 | Natri adipate | \- Muối natri của axit adipic |  |
+| E357 | Kali adipate | \- Muối kali của axit adipic |  |
+| E363 | Axit succinic | \- Chất điều chỉnh độ chua, chất tạo hương, hương thơm |  |
+| E380 | Triammonium citrate | \- Chất điều chỉnh axit, chất đệm, chất nhũ hóa<br>\- Muối ammonium của axit citric |  |
+| E385 | Canxi disodium ethylene diamine tetra-acetate; canxi disodium EDTA | \- Chất bảo quản, chất chống oxy hóa | \- Thực phẩm đóng hộp, nước ngọt |
+| E422 | Glycerol | \- Chất tăng cường hương vị, chất tạo ngọt, chất tạo màu, chất bảo quản | \- Được sử dụng rộng rãi trong sản phẩm nướng và kẹo |
+| E423 | Axit octenyl succinic gum arabic đã được sửa đổi | \- Chất nhũ hóa<br>\- Sửa đổi hóa học của gum arabic | \- Thịt chế biến, phô mai, mứt, đồ ăn nhẹ, kẹo cao su |
+| E450 | Diphosphates | \- Chất điều chỉnh axit, chất nhũ hóa<br>\- Muối của natri / kali / canxi với phosphates | \- Nhiều sản phẩm khác nhau |
+| E451 | Triphosphates | \- Chất bảo quản, chất nhũ hóa, chất ổn định<br>\- Triphosphates kali và natri | \- Nhiều sản phẩm khác nhau |
+| E452 | Polyphosphates | \- Chất ổn định, chất nhũ hóa<br>\- Polyphosphates của kali, canxi, ammonium, natri | \- Nhiều sản phẩm khác nhau |
+| E459 | Beta-cyclodextrin; betadex | \- Chất nhũ hóa, chất tạo hương | \- Hỗn hợp khô (ví dụ, cho nướng, súp, cà phê hoặc trà có hương vị), ngũ cốc, các sản phẩm chế biến khác |
+| E499 | Sterol thực vật giàu stigmasterol |  |  |
+| E500 | Natri carbonate | \- Chất điều chỉnh độ chua, chất chống vón cục, chất làm nổi, chất ổn định |  |
+| E501 | Kali carbonate | \- Chất điều chỉnh độ chua, chất ổn định, chất làm nổi | \- Nướng<br>\- Có thể được sử dụng trong chất bổ sung kali |
+| E503 | Ammonium carbonate | \- Chất điều chỉnh độ chua, chất ổn định, chất làm nổi | \- Bánh nướng phẳng (ví dụ, bánh quy, bánh quy) |
+| E504 | Magiê carbonate | \- Chất điều chỉnh độ chua, chất tạo màu, chất chống vón cục<br>\- Có thể có tác dụng nhuận tràng ở nồng độ cao | \- Muối, đường bột, hỗn hợp khô<br>\- Chất bổ sung dinh dưỡng (nguồn magiê) |
+| E507 | Axit hydrochloric | \- Chất điều chỉnh độ chua | \- Sản xuất xi-rô |
+| E508 | Kali chloride | \- Chất tạo hương, chất làm đặc | \- Muối thay thế không chứa natri |
+| E509 | Canxi chloride | \- Chất bảo quản, chất ổn định, chất làm cứng, chất chống vón cục, chất điều chỉnh độ chua | \- Các sản phẩm thực phẩm khác nhau, cũng được sử dụng trong một số chất bổ sung canxi |
+| E511 | Magiê chloride | \- Chất ổn định, chất làm cứng | \- Chuẩn bị đậu phụ từ sữa đậu nành |
+| E512 | Stannous chloride | \- Chất chống oxy hóa, chất giữ màu | \- Thực phẩm đóng hộp và đóng chai |
+| E513 | Axit sulphuric | \- Chất điều chỉnh độ chua | \- Chuẩn bị bia và sản phẩm sữa |
+| E514 | Natri sulphate | \- Chất điều chỉnh độ chua, chất chống vón cục, chất ổn định<br>\- Muối natri của axit sulphuric | \- Bia, bánh quy, kẹo, kẹo cao su |
+| E515 | Kali sulphate | \- Chất điều chỉnh axit, chất chống vón cục<br>\- Muối kali của axit sulphuric | \- Muối thay thế<br>\- Sản xuất bia |
+| E516 | Canxi sulphate | \- Chất đệm, chất làm cứng<br>\- Muối canxi của axit sulphuric | \- Sản phẩm đậu nành, đậu phụ |
+| E517 | Ammonium sulphate | \- Chất điều chỉnh độ chua<br>\- Muối ammonium của axit sulphuric | \- Sử dụng trong bột, sản phẩm nướng |
+| E520 | Nhôm sulphate | \- Muối nhôm của axit sulphuric | \- Sản xuất bia |
+| E521 | Nhôm natri sulphate | \- Chất điều chỉnh độ chua, chất tẩy trắng | \- Bột mì, phô mai, kẹo |
+| E522 | Nhôm kali sulphate | \- Chất điều chỉnh độ chua, chất làm nổi | \- Sản phẩm nướng |
+| E523 | Nhôm ammonium sulphate | \- Chất điều chỉnh độ chua, chất ổn định | \- Sản phẩm nướng |
+| E524 | Natri hydroxide | \- Chất điều chỉnh độ chua | \- Nướng, và chế biến sô cô la, ca cao, trái cây và ô liu |
+| E525 | Kali hydroxide | \- Chất điều chỉnh độ chua, chất ổn định, chất làm đặc |  |
+| E526 | Canxi hydroxide | \- Chất điều chỉnh độ chua, chất bảo quản | \- Sản xuất bia<br>\- Tráng bánh quy<br>\- Chế biến rau |
+| E527 | Ammonium hydroxide | \- Chất điều chỉnh độ chua | \- Sản phẩm nướng<br>\- Kẹo<br>\- Bánh pudding |
+| E528 | Magiê hydroxide | \- Chất chống vón cục, chất điều chỉnh độ chua | \- Phô mai, rau đóng hộp |
+| E529 | Canxi oxide (vôi sống) | \- Chất điều chỉnh độ chua, chất làm nổi | \- Sản xuất đường<br>\- Sản phẩm nướng |
+| E530 | Magiê oxide | \- Chất chống vón cục, chất điều chỉnh độ chua | \- Sản xuất hàng hóa bột (ví dụ, sữa bột)<br>\- Cũng được sử dụng để giảm chứng ợ nóng / trào ngược |
+| E535 | Natri ferrocyanide | \- Chất chống vón cục | \- Thêm vào muối ăn |
+| E536 | Kali ferrocyanide | \- Chất chống vón cục | \- Trong muối ăn |
+| E538 | Canxi ferrocyanide | \- Chất chống vón cục | \- Trong muối ăn |
+| E541 | Natri nhôm phosphate | \- Chất làm nổi được chuẩn bị tổng hợp | \- Bột tự nổi |
+| E551 | Silicon dioxide (Silica) | \- Chiết xuất từ cát<br>\- Sử dụng như một chất chống vón cục | \- Đồ ăn nhẹ từ khoai tây |
+| E552 | Canxi silicate | \- Muối của silicon dioxide với chức năng tương tự<br>\- Cũng được sử dụng như một chất tạo bóng, chất điều chỉnh độ chua, chất giải phóng và chất phủ | \- Có trong kẹo cao su, bánh thịt, muối và kẹo |
+| E553a | (i) Magiê silicate (ii) Magiê trisilicate | \- Muối của silicon dioxide với chức năng tương tự |  |
+| E553b | Talc | \- Chất chống vón cục, chất làm đầy, chất tạo bóng |  |
+| E554 | Natri nhôm silicate | \- Chất chống vón cục | \- Sử dụng trong sản phẩm muối và đường, hỗn hợp trứng, bột mì, chất thay thế sữa khô |
+| E555 | Kali nhôm silicate | \- Chất chống vón cục |  |
+| E570 | Axit béo; axit stearic | \- Chất chống vón cục, chất tạo hương | \- Sản phẩm nướng, kẹo cao su, kẹo, chất tạo ngọt nhân tạo |
+| E574 | Axit gluconic | \- Chất điều chỉnh độ chua |  |
+| E575 | Glucono delta-lactone (GDL); gluconolactone | \- Chất điều chỉnh độ chua, chất bảo quản, chất làm nổi | \- Làm đậu phụ<br>\- Sản phẩm nướng, thịt và phô mai |
+| E576 | Natri gluconate | \- Chất ổn định, chất làm đặc, chất chelat<br>\- Muối natri của axit gluconic |  |
+| E577 | Kali gluconate | \- Chất chelat, chất ổn định, chất chống vón cục, chất làm đặc<br>\- Muối kali của axit gluconic |  |
+| E578 | Canxi gluconate | \- Chất chống vón cục, chất làm đặc, chất ổn định, chất điều chỉnh độ chua<br>\- Muối canxi của axit gluconic | \- Sản phẩm sức khỏe ví dụ, công thức xây dựng cơ bắp, đồ uống thể thao<br>\- Ngũ cốc<br>\- Đồ uống<br>\- Chất bổ sung dinh dưỡng (nguồn canxi) |
+| E579 | Ferrous gluconate | \- Chất tạo màu, chất bổ sung dinh dưỡng | \- Chế biến ô liu đen<br>\- Nguồn sắt (tăng cường thực phẩm) |
+| E585 | Ferrous lactate | \- Chất điều chỉnh độ chua, chất tạo hương, chất giữ màu, chất bổ sung dinh dưỡng | \- Nguồn sắt (tăng cường thực phẩm) |
+| E620 | Axit L-Glutamic | \- Axit amin tự nhiên có trong protein nhưng thường được sản xuất bằng cách lên men vi khuẩn của carbohydrate<br>\- Sử dụng như một chất tăng cường hương vị và chất thay thế muối | \- Sử dụng như một chất dinh dưỡng để tăng giá trị protein |
+| E621 | Monosodium glutamate (MSG) | \- Tự nhiên có trong rong biển nhưng thường được chuẩn bị hóa học từ củ cải đường<br>\- Chất tăng cường hương vị của thực phẩm giàu protein | \- Thịt, thực phẩm Trung Quốc, bữa ăn tiện lợi đóng gói và đồ ăn nhẹ (ví dụ, súp), sản phẩm khô, khoai tây chiên và đồ ăn nhẹ từ khoai tây |
+| E622 | Monopotassium glutamate | \- Tương tự như monosodium glutamate | \- Tương tự như E621 |
+| E623 | Canxi glutamate | \- Tương tự như monosodium glutamate | \- Tương tự như E621 |
+| E624 | Monoammonium glutamate | \- Muối ammonium của axit glutamic |  |
+| E625 | Magiê diglutamate |  |  |
+| E626 | Axit guanylic | \- Phụ gia đắt tiền hơn | \- Có thể có trong đồ ăn nhẹ, súp đóng gói và mì ăn liền |
+| E627 | Disodium guanylate | \- Tự nhiên có trong cá mòi và chiết xuất men nhưng thường được sản xuất tổng hợp<br>\- Sử dụng như một chất tăng cường hương vị | \- Thường được thêm vào khoai tây chiên và các đồ ăn nhẹ từ khoai tây khác, hạt nêm và gạo khô đã nấu chín trước |
+| E628 | Dipotassium guanylate | \- Chất tăng cường hương vị<br>\- Muối kali của axit guanylic |  |
+| E629 | Canxi guanylate | \- Chất tăng cường hương vị<br>\- Muối canxi của axit guanylic |  |
+| E630 | Axit inosinic | \- Chất tăng cường hương vị |  |
+| E631 | Disodium inosinate | \- Làm từ cá mòi và chiết xuất thịt | \- Tương tự như E627 |
+| E632 | Dipotassium inosinate | \- Chất tăng cường hương vị |  |
+| E633 | Canxi inosinate | \- Chất tăng cường hương vị |  |
+| E634 | Canxi 5'-ribonucleotides | \- Chất tăng cường hương vị | \- Chủ yếu được sử dụng trong sản phẩm ít natri (ít muối) |
+| E635 | Natri-5-ribonucleotide | \- Hỗn hợp của E627 và E631 | \- Thêm vào khoai tây chiên, đồ ăn nhẹ từ khoai tây và súp đóng gói |
+| E640 | Glycine và muối natri của nó | \- Glycine là một axit amin<br>\- Sử dụng như một chất tăng cường hương vị và chất tạo ngọt | \- Chất tăng cường bánh mì<br>\- Cũng được sử dụng trong chất bổ sung thực phẩm và đồ uống protein |
+| E641 | L-leucine | \- Chất tạo hương<br>\- Axit amin |  |
+| E650 | Kẽm acetate | \- Chất tăng cường hương vị |  |
+| E900 | Dimethylpolysiloxane | \- Chất chống tạo bọt | \- Chất béo và dầu |
+| E901 | Sáp ong, trắng và vàng | \- Chất tạo bóng |  |
+| E902 | Sáp candelilla | \- Chất tạo bóng, chất ngăn chặn | \- Kẹo cao su<br>\- Chất hoàn thiện bề mặt |
+| E903 | Sáp carnauba | \- Chất tạo bóng | \- Kẹo, trái cây, hạt, sô cô la, kẹo cao su, sản phẩm nướng và hạt cà phê |
+| E904 | Shellac | \- Chất tạo bóng | \- Trái cây, lớp phủ kẹo |
+| E905 | Sáp vi tinh thể | \- Chất tạo bóng | \- Trái cây, kẹo, phô mai, kẹo cao su |
+| E907 | Poly-1-decene hydro hóa |  |  |
+| E914 | Sáp polyethylene oxy hóa | \- Chất tạo bóng / lớp phủ | \- Trái cây |
+| E920 | L-cyste

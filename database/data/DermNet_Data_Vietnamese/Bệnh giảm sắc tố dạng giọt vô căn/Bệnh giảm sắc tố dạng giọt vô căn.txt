@@ -1,0 +1,173 @@
+##### Bệnh giảm sắc tố đốm trắng vô căn — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Giảm sắc tố đốm trắng, Bệnh bạch biến dạng đốm lan tỏa
+
+Danh mục:
+
+Rối loạn sắc tố
+
+ICD-10:
+
+L81.6
+
+ICD-11:
+
+2D63.Y
+
+SNOMED CT:
+
+1717003, 398656003
+
+**[Rối loạn sắc tố](https://dermnetnz.org/topics?category=Pigmentary%20disorders)**
+
+# **Bệnh giảm sắc tố đốm trắng vô căn**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 2004; Cập nhật: Willian Hao Syuen Ng, Sinh viên Y khoa, Đại học Newcastle, Newcastle, Úc; Bác sĩ Paul Chee, Chuyên gia Da liễu và Giám đốc Khoa Da liễu, Bệnh viện John Hunter và Trung tâm Royal Newcastle, Newcastle, Úc. Biên tập bởi Gus Mitchell. Tháng 6 năm 2021
+
+[Giới thiệu](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis#Clinical%20features%3Cbr%20/%3E) [Biến thể theo loại da](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis#Variation%20in%20skin%20types%3Cbr%20/%3E) [Dermoscopy](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis#Dermoscopy%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis#Outcome)
+
+## Bệnh giảm sắc tố đốm trắng vô căn là gì?
+
+Bệnh giảm sắc tố đốm trắng vô căn là một dạng bạch biến lành tính, phổ biến, mắc phải, xuất hiện dưới dạng các đốm phẳng nhỏ màu nhạt hoặc trắng trên các chi tiếp xúc với ánh nắng.
+
+![](https://dermnetnz.org/assets/Uploads/colour/igh2.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/colour/igh3.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/guttate-hypomelanosis-3.jpg)
+
+## Ai mắc bệnh giảm sắc tố đốm trắng vô căn?
+
+Bệnh giảm sắc tố đốm trắng vô căn có thể ảnh hưởng đến cả hai giới, mọi chủng tộc và mọi loại da. Phụ nữ và bệnh nhân có màu da thường có khả năng tìm kiếm sự chăm sóc y tế cao hơn.
+
+Bệnh giảm sắc tố đốm trắng vô căn trở nên phổ biến hơn theo tuổi, ảnh hưởng đến <50% trong thập kỷ thứ tư (31–40 tuổi), 50–80% người trên 40 tuổi, và >90% trong thập kỷ thứ chín (81–90 tuổi). Nó đã được báo cáo không phổ biến ở trẻ em và thanh thiếu niên. Các trường hợp gia đình là phổ biến.
+
+## Nguyên nhân gây ra bệnh giảm sắc tố đốm trắng vô căn?
+
+Mặc dù chưa được hiểu rõ hoàn toàn, sinh bệnh học của bệnh giảm sắc tố đốm trắng vô căn có thể là đa yếu tố:
+
+- Lão hóa da
+- Tiếp xúc với ánh nắng mặt trời kéo dài
+- Yếu tố di truyền
+- Khác — chấn thương, yếu tố tự miễn.
+
+Sự thực bào keratinocyte bất thường đã được chứng minh dẫn đến giảm chuyển giao melanin từ melanocyte.
+
+## Đặc điểm lâm sàng của bệnh giảm sắc tố đốm trắng vô căn là gì?
+
+Bệnh giảm sắc tố đốm trắng vô căn thường xuất hiện dưới dạng các đốm nhạt (giảm sắc tố) hoặc trắng (mất sắc tố) mịn có đường kính 2–5mm (phạm vi lên đến 1,5cm) thường gặp nhất trên các vùng da tiếp xúc với ánh nắng của cẳng tay, cẳng chân và vùng ngực. Các tổn thương thường là nhiều và không có triệu chứng.
+
+![](https://dermnetnz.org/assets/Uploads/colour/igh1.jpg)
+
+![Mảng trắng sứ mở rộng ra ngoại vi](https://dermnetnz.org/assets/Uploads/guttate-hypomelanosis-2.jpg)
+
+Mảng trắng sứ mở rộng ra ngoại vi
+
+![](https://dermnetnz.org/assets/Uploads/figure-63-face4.jpg)
+
+Ba biến thể hình thái đã được mô tả:
+
+- Đốm giảm sắc tố đơn lẻ hoặc nhiều trên nền da bị tổn thương do ánh nắng
+- Đốm trắng đơn lẻ dạng sao
+- Đốm giảm sắc tố nhỏ với viền răng cưa và bề mặt dày sừng.
+
+Khám bằng đèn Wood nhấn mạnh sự mất sắc tố.
+
+## Đặc điểm lâm sàng thay đổi như thế nào ở các loại da khác nhau?
+
+Bệnh giảm sắc tố đốm trắng vô căn rõ ràng hơn ở da có màu.
+
+## Dermoscopy của bệnh giảm sắc tố đốm trắng vô căn
+
+- Khu vực trắng không có cấu trúc được xác định rõ với 'ánh sáng'
+- Mạng lưới sắc tố bị thiếu
+- Các mẫu và hình dạng khác nhau đã được mô tả
+
+Để có mô tả chi tiết hơn và hình ảnh, xem [Dermoscopy của bệnh giảm sắc tố đốm trắng vô căn](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis-dermoscopy)
+
+![Cảnh quan đại thể](https://dermnetnz.org/assets/Uploads/igh-ts-macro.jpg)
+
+Cảnh quan đại thể
+
+![Cảnh quan dermoscopy không phân cực](https://dermnetnz.org/assets/Uploads/igh-ts-dnp.jpg)
+
+Cảnh quan dermoscopy không phân cực
+
+![Cảnh quan dermoscopy phân cực](https://dermnetnz.org/assets/Uploads/igh-ts-dpJPG.jpg)
+
+Cảnh quan dermoscopy phân cực
+
+## Biến chứng của bệnh giảm sắc tố đốm trắng vô căn là gì?
+
+Bệnh giảm sắc tố đốm trắng vô căn là một tình trạng lành tính có ý nghĩa thẩm mỹ. Nó có thể ảnh hưởng đến chất lượng cuộc sống đặc biệt ở da có màu.
+
+## Bệnh giảm sắc tố đốm trắng vô căn được chẩn đoán như thế nào?
+
+Bệnh giảm sắc tố đốm trắng vô căn thường được chẩn đoán lâm sàng.
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể được thực hiện để loại trừ các tình trạng khác và mô học là đặc hiệu:
+
+- Biểu bì mỏng phẳng với dày sừng dạng giỏ và mất mạng lưới
+- Melanin trong biểu bì bị thiếu hoặc giảm
+- Số lượng và hoạt động của melanocyte bình thường hoặc giảm; melanocyte lớn với melanin được giữ lại và các quá trình dendritic nhỏ co lại
+- Các ổ nhỏ của melanin được giữ lại trong lớp đáy; 'tổn thương bỏ qua'.
+
+## Chẩn đoán phân biệt cho bệnh giảm sắc tố đốm trắng vô căn là gì?
+
+- [Bạch biến](https://dermnetnz.org/topics/vitiligo)
+- [Lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus) và [morphoea](https://dermnetnz.org/topics/morphoea) dạng đốm
+- Giảm sắc tố sau viêm như sau [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Bạch biến do tiếp xúc](https://dermnetnz.org/topics/contact-leukoderma)
+
+## Điều trị cho bệnh giảm sắc tố đốm trắng vô căn là gì?
+
+Bệnh giảm sắc tố đốm trắng vô căn thường không cần điều trị ngoài việc trấn an về tính chất lành tính của tình trạng này.
+
+[Chống nắng](https://dermnetnz.org/topics/sun-protection) được khuyến nghị.
+
+Các lựa chọn điều trị:
+
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) — 5 giây, một phiên, tái sắc tố thấy rõ sau 4 tháng
+- Điều trị tại chỗ — [steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid), [tacrolimus](https://dermnetnz.org/topics/tacrolimus), [retinoids tại chỗ](https://dermnetnz.org/topics/topical-retinoids)
+- Điều trị thủ thuật — [lột da hóa học](https://dermnetnz.org/topics/chemical-peels), [laser excimer](https://dermnetnz.org/topics/excimer-308-nm-light-treatment), [ghép da](https://dermnetnz.org/topics/skin-grafting).
+
+## Kết quả cho bệnh giảm sắc tố đốm trắng vô căn là gì?
+
+Bệnh giảm sắc tố đốm trắng vô căn không cần điều trị do tính chất lành tính của nó.
+
+Nó không tự tái sắc tố. Theo tuổi, các tổn thương có thể từ từ mở rộng và tăng số lượng.
+
+### Thư mục
+
+- Bulat V, Šitum M, Maričić G, et al. Bệnh giảm sắc tố đốm trắng vô căn: một cái nhìn tổng quan toàn diện. Rối loạn sắc tố. 2014;1:150. doi: 10.4172/2376-0427.1000150. [Tạp chí](https://www.hilarispublisher.com/open-access/idiopathic-guttate-hypomelanosis-a-comprehensive-overview-2376-0427.1000150.pdf)
+- Juntongjin P, Laosakul K. Bệnh giảm sắc tố đốm trắng vô căn: một đánh giá về nguyên nhân, sinh bệnh học, phát hiện và điều trị. Am J Clin Dermatol. 2016;17(4):403-11. doi:10.1007/s40257-016-0195-3. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27206417/)
+- Ploysangam T, Dee-Ananlap S, Suvanprakorn P. Điều trị bệnh giảm sắc tố đốm trắng vô căn bằng nitơ lỏng: nghiên cứu ánh sáng và kính hiển vi điện tử. J Am Acad Dermatol. 1990;23(4 Pt 1):681-4. doi:10.1016/0190-9622(90)70273-k. [PubMed](https://pubmed.ncbi.nlm.nih.gov/2229495/)
+- Podder I, Sarkar R. Bệnh giảm sắc tố đốm trắng vô căn: một cái nhìn tổng quan. Pigment Int. 2018;5:83–90. doi: 10.4103/Pigmentinternational.Pigmentinternational\_. [Tạp chí](https://www.pigmentinternational.com/article.asp?issn=2349-5847;year=2018;volume=5;issue=2;spage=83;epage=90;aulast=Podder)
+- Saleem MD, Oussedik E, Picardo M, Schoch JJ. Các rối loạn mắc phải với giảm sắc tố: một cách tiếp cận lâm sàng để chẩn đoán và điều trị. J Am Acad Dermatol. 2019;80(5):1233–50.e10. doi:10.1016/j.jaad.2018.07.070. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30236514/)
+
+### Trên DermNet
+
+- [Bạch biến hóa học](https://dermnetnz.org/topics/contact-leukoderma)
+- [Bạch biến do thuốc](https://dermnetnz.org/topics/drug-induced-vitiligo)
+- [Dermoscopy của bệnh giảm sắc tố đốm trắng vô căn](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis-dermoscopy)
+- [Bạch biến](https://dermnetnz.org/topics/leukoderma)
+- [Rối loạn sắc tố](https://dermnetnz.org/topics/pigmentation-disorders)
+- [Vấn đề sắc tố da](https://dermnetnz.org/topics/skin-pigmentation-problems)
+- [Bạch biến](https://dermnetnz.org/topics/vitiligo)
+
+### Các trang web khác
+
+- [Bệnh giảm sắc tố đốm trắng vô căn](https://emedicine.medscape.com/article/1068422-overview%20%C2%A0) — Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

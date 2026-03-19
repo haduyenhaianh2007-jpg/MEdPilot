@@ -1,0 +1,419 @@
+##### Hội chứng Stevens–Johnson / hoại tử biểu bì nhiễm độc — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Hội chứng Lyell, Hồng ban đa dạng tiết dịch, Ectodermosis erosiva pluriorificialis, Hội chứng Stevens Johnson / hoại tử biểu bì nhiễm độc
+
+Danh mục:
+
+Phản ứng
+
+ICD-10:
+
+L51.1, L51.2, L51.3
+
+ICD-11:
+
+EB13.0, EB13.1, EB13.2, EB12, EH63, EH63.0, EH 63.1, EH63.2
+
+SNOMED CT:
+
+73442001, 768962006, 124911000119100, 768946000, 403609001, 724833000, 402744003, 441837004
+
+**[Phản ứng](https://dermnetnz.org/topics?category=Reactions)**
+
+# **Hội chứng Stevens–Johnson / hoại tử biểu bì nhiễm độc**
+
+Tác giả: Vanessa Ngan, Nhà văn; Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 2003. Cập nhật bởi Bác sĩ Delwyn Dyall-Smith, 2009. Cập nhật thêm bởi Bác sĩ Amanda Oakley, Tháng 1 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis#Prevention%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis#Outlook)
+
+## Hội chứng Stevens–Johnson và hoại tử biểu bì nhiễm độc là gì?
+
+Hội chứng Stevens–Johnson (SJS) và hoại tử biểu bì nhiễm độc (TEN) hiện được cho là các biến thể của cùng một tình trạng, khác biệt với [hồng ban đa dạng](https://dermnetnz.org/topics/erythema-multiforme). SJS/TEN là một phản ứng da hiếm gặp, cấp tính, nghiêm trọng và có thể gây tử vong, trong đó có sự mất da và niêm mạc dạng tấm. Theo các định nghĩa hiện tại, nó gần như luôn luôn do thuốc gây ra.
+
+## Ai có thể mắc SJS/TEN?
+
+SJS/TEN là một biến chứng rất hiếm gặp của việc sử dụng thuốc (ước tính 1–2/một triệu mỗi năm đối với SJS, và 0.4–1.2/một triệu mỗi năm đối với TEN).
+
+- Bất kỳ ai đang dùng thuốc đều có thể phát triển SJS/TEN một cách không thể đoán trước.
+- Nó có thể ảnh hưởng đến tất cả các nhóm tuổi và tất cả các chủng tộc.
+- Nó phổ biến hơn một chút ở nữ giới so với nam giới.
+- Nó phổ biến hơn 100 lần khi liên quan đến nhiễm [virus suy giảm miễn dịch ở người](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) (HIV).
+
+Yếu tố di truyền là quan trọng.
+
+- Có sự liên kết HLA ở một số chủng tộc với thuốc chống co giật và allopurinol.
+- Đã phát hiện các đa hình gen cụ thể (ví dụ, CYP2C mã hóa cho cytochrome P450 ở bệnh nhân phản ứng với thuốc chống co giật).
+
+Hơn 200 loại thuốc đã được báo cáo có liên quan đến SJS/TEN.
+
+- Nó thường thấy hơn với các loại thuốc có thời gian bán hủy dài so với ngay cả một loại thuốc liên quan hóa học tương tự có thời gian bán hủy ngắn. Thời gian bán hủy của một loại thuốc là thời gian mà một nửa liều đã được cung cấp vẫn còn lưu thông trong cơ thể.
+- Các loại thuốc thường là hệ thống (uống hoặc tiêm), nhưng TEN đã được báo cáo sau khi sử dụng tại chỗ.
+- Không có loại thuốc nào được liên quan trong khoảng 20% trường hợp.
+- SJS/TEN hiếm khi liên quan đến [tiêm chủng](https://dermnetnz.org/topics/adverse-cutaneous-reactions-to-vaccines) và các nhiễm trùng như [mycoplasma](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection) và cytomegalovirus. Các nhiễm trùng thường liên quan đến sự tham gia của niêm mạc và bệnh da ít nghiêm trọng hơn so với khi thuốc là nguyên nhân.
+
+Các loại thuốc thường gây ra SJS/TEN nhất là kháng sinh trong 40%. Các loại thuốc khác bao gồm:
+
+- [Sulfonamides](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin): cotrimoxazole
+- Beta-lactam: penicillins, cephalosporins
+- Thuốc chống co giật: lamotrigine, carbamazepine, phenytoin, phenobarbitone
+- Allopurinol
+- Paracetamol/acetaminophen
+- Nevirapine (chất ức chế men sao chép ngược không nucleoside)
+- Thuốc chống viêm không steroid (NSAIDs) (chủ yếu loại oxicam)
+- Các thuốc chống ung thư, chất ức chế PD-1.
+
+[Các tác nhân khác gây SJS/TEN](https://dermnetnz.org/topics/sjsten-triggers).
+
+## Nguyên nhân gây ra SJS/TEN là gì?
+
+SJS/TEN là một phản ứng hiếm gặp và không thể đoán trước đối với một loại thuốc. Cơ chế vẫn chưa được hiểu rõ và phức tạp.
+
+Các tế bào lympho CD8+ đặc hiệu với thuốc có thể được phát hiện trong dịch bọng nước sớm. Chúng có một số hoạt động của tế bào giết tự nhiên và có thể giết chết các tế bào sừng bằng cách tiếp xúc trực tiếp. Các cytokine liên quan bao gồm perforin/granzyme, granulysin, Fas-L và yếu tố hoại tử khối u alpha (TNFα).
+
+Có lẽ có hai con đường chính liên quan:
+
+- Con đường Fas-Fas ligand của apoptosis được coi là một bước then chốt trong sinh bệnh học của TEN. Ligand Fas (FasL), một dạng của yếu tố hoại tử khối u, được tiết ra bởi các tế bào lympho máu và có thể liên kết với thụ thể 'chết' Fas được biểu hiện bởi các tế bào sừng.
+- Sự xuất tiết qua hạt qua perforin và granzyme B dẫn đến độc tế bào (chết tế bào). Perforin và granzyme B có thể được phát hiện trong dịch bọng nước sớm, và đã được đề xuất rằng mức độ có thể liên quan đến mức độ nghiêm trọng của bệnh.
+
+## Các đặc điểm lâm sàng của SJS/TEN là gì?
+
+SJS/TEN thường phát triển trong tuần đầu tiên của liệu pháp [kháng sinh](https://dermnetnz.org/treatments/antibiotics.html) nhưng có thể lên đến 2 tháng sau khi bắt đầu dùng thuốc chống co giật. Đối với hầu hết các loại thuốc, khởi phát là trong vài ngày đến 1 tháng.
+
+Trước khi phát ban xuất hiện, thường có một bệnh tiền triệu kéo dài vài ngày giống như nhiễm trùng đường hô hấp trên hoặc bệnh giống cúm. Các triệu chứng có thể bao gồm:
+
+- Sốt > 39 C
+- Đau họng, khó nuốt
+- Chảy nước mũi và ho
+- Mắt đỏ đau, viêm kết mạc
+- Đau nhức và mệt mỏi toàn thân.
+
+Sau đó, có sự khởi phát đột ngột của phát ban da đỏ đau/nhạy cảm bắt đầu từ thân và lan nhanh trong vài giờ đến vài ngày lên mặt và chi (nhưng hiếm khi ảnh hưởng đến da đầu, lòng bàn tay hoặc lòng bàn chân). Mức độ tối đa thường đạt được trong bốn ngày.
+
+Các tổn thương da có thể là:
+
+- Macules — phẳng, đỏ và lan rộng (đốm giống [sởi](https://dermnetnz.org/viral/morbilli.html)) hoặc đốm tím ([purpuric](https://dermnetnz.org/vascular/purpura.html))
+- Hồng ban lan tỏa
+- [Targetoid](https://dermnetnz.org/reactions/target-lesion.html) — như trong [hồng ban đa dạng](https://dermnetnz.org/reactions/erythema-multiforme.html)
+- Bọng nước — mềm (tức là không căng).
+
+Các bọng nước sau đó hợp nhất để tạo thành các tấm da bị tách rời, lộ ra lớp hạ bì đỏ, rỉ dịch. Dấu hiệu [Nikolsky](https://dermnetnz.org/topics/nikolskys-sign) dương tính ở các vùng da đỏ. Điều này có nghĩa là bọng nước và xói mòn xuất hiện khi da bị cọ xát nhẹ nhàng.
+
+![Hoại tử biểu bì nhiễm độc](https://dermnetnz.org/assets/Uploads/reactions/ten1.jpg)
+
+Hoại tử biểu bì nhiễm độc
+
+![Hoại tử biểu bì nhiễm độc](https://dermnetnz.org/assets/Uploads/reactions/ten2.jpg)
+
+Hoại tử biểu bì nhiễm độc
+
+![Hoại tử biểu bì nhiễm độc](https://dermnetnz.org/assets/Uploads/reactions/ten4.jpg)
+
+Hoại tử biểu bì nhiễm độc
+
+Sự tham gia của niêm mạc là nổi bật và nghiêm trọng, mặc dù không hình thành bọng nước thực sự. Ít nhất hai bề mặt niêm mạc bị ảnh hưởng bao gồm:
+
+- Mắt (viêm kết mạc, ít thường xuyên hơn loét giác mạc, viêm màng bồ đào trước, viêm toàn bộ mắt) — mắt đỏ, đau, dính, nhạy cảm với ánh sáng
+- Môi/miệng (viêm môi, viêm miệng) — môi đỏ đóng vảy, loét miệng đau đớn
+- Hầu, thực quản — gây khó khăn khi ăn
+- Khu vực sinh dục và đường tiết niệu — xói mòn, loét, bí tiểu
+- Đường hô hấp trên (khí quản và phế quản) — ho và khó thở
+- Đường tiêu hóa — tiêu chảy.
+
+Bệnh nhân rất ốm yếu, cực kỳ lo lắng và đau đớn đáng kể. Ngoài sự tham gia của da/niêm mạc, các cơ quan khác có thể bị ảnh hưởng bao gồm gan, thận, phổi, tủy xương và khớp.
+
+![Hoại tử biểu bì nhiễm độc](https://dermnetnz.org/assets/Uploads/reactions/s/sjs3.jpg)
+
+Hoại tử biểu bì nhiễm độc
+
+![Hội chứng Stevens Johnson](https://dermnetnz.org/assets/Uploads/reactions/sjs6.jpg)
+
+Hội chứng Stevens Johnson
+
+![Hội chứng Stevens Johnson](https://dermnetnz.org/assets/Uploads/reactions/s/sjs4.jpg)
+
+Hội chứng Stevens Johnson
+
+## Các biến chứng của SJS/TEN là gì?
+
+SJS/TEN có thể gây tử vong do các biến chứng trong giai đoạn cấp tính. Tỷ lệ tử vong lên đến 10% đối với SJS và ít nhất 30% đối với TEN.
+
+Trong giai đoạn cấp tính, các biến chứng có thể gây tử vong bao gồm:
+
+- Mất nước và suy dinh dưỡng cấp tính
+- Nhiễm trùng da, niêm mạc, phổi (viêm phổi), nhiễm trùng huyết (nhiễm trùng máu) với vi khuẩn và Candida
+- Hội chứng suy hô hấp cấp tính
+- Loét đường tiêu hóa, thủng và lồng ruột
+- Sốc và suy đa cơ quan bao gồm suy thận
+- Huyết khối và rối loạn đông máu nội mạch lan tỏa.
+
+## SJS/TEN được chẩn đoán như thế nào?
+
+SJS/TEN được nghi ngờ lâm sàng và được phân loại dựa trên diện tích bề mặt da bị tách rời ở mức độ tối đa.
+
+SJS
+
+- Tách da < 10% diện tích bề mặt cơ thể (BSA)
+- Macules đỏ hoặc purpuric lan rộng hoặc mục tiêu không điển hình phẳng
+
+Chồng chéo SJS/TEN
+
+- Tách giữa 10% và 30% BSA
+- Macules purpuric lan rộng hoặc mục tiêu không điển hình phẳng
+
+TEN có đốm
+
+- Tách > 30% BSA
+- Macules purpuric lan rộng hoặc mục tiêu không điển hình phẳng
+
+TEN không có đốm
+
+- Tách > 10% BSA
+- Tấm biểu bì lớn và không có macules purpuric
+
+Danh mục không phải lúc nào cũng có thể được xác định chắc chắn khi trình bày ban đầu. Do đó, chẩn đoán có thể thay đổi trong vài ngày đầu tiên trong bệnh viện.
+
+### Điều tra trong SJS/TEN
+
+Nếu xét nghiệm có sẵn, mức độ granulysin huyết thanh tăng cao được lấy trong vài ngày đầu tiên của một vụ nổ thuốc có thể dự đoán SJS/TEN.
+
+[Sinh thiết da](https://dermnetnz.org/procedures/biopsy.html) thường được yêu cầu để xác nhận chẩn đoán lâm sàng và loại trừ [hội chứng da bị bỏng do tụ cầu](https://dermnetnz.org/bacterial/scalded-skin-syndrome.html) (SSSS) và các phát ban tổng quát khác với [bọng nước](https://dermnetnz.org/topics/blistering-skin-conditions).
+
+[Mô bệnh học](https://dermnetnz.org/pathology/dermatopathology.html) cho thấy hoại tử tế bào sừng (chết của các tế bào da riêng lẻ), hoại tử biểu bì/biểu mô toàn bộ độ dày (chết của một lớp da hoàn chỉnh), viêm tối thiểu (xâm nhập lympho nhẹ của lớp hạ bì nông). Xét nghiệm miễn dịch huỳnh quang trực tiếp trên sinh thiết da là âm tính, cho thấy bệnh không phải do lắng đọng kháng thể trong da.
+
+Xét nghiệm máu không giúp chẩn đoán nhưng cần thiết để đảm bảo chất lỏng và chất dinh dưỡng quan trọng đã được thay thế, để xác định các biến chứng và đánh giá các yếu tố tiên lượng (xem bên dưới). Các bất thường có thể bao gồm:
+
+- Thiếu máu xảy ra trong hầu hết các trường hợp (giảm hemoglobin).
+- Giảm bạch cầu (giảm tế bào trắng), đặc biệt là giảm lympho (giảm tế bào lympho) rất phổ biến (90%).
+- Giảm bạch cầu trung tính (giảm bạch cầu trung tính), nếu có, là một dấu hiệu tiên lượng xấu.
+- Tăng bạch cầu ái toan (tăng số lượng bạch cầu ái toan) và tăng lympho không điển hình (tế bào lympho trông kỳ lạ) không xảy ra.
+- Enzyme gan tăng nhẹ là phổ biến (30%), và khoảng 10% phát triển viêm gan rõ rệt.
+- Protein niệu nhẹ (protein rò rỉ vào nước tiểu) xảy ra trong khoảng 50%. Một số thay đổi trong chức năng thận xảy ra ở đa số.
+
+Các xét nghiệm chẩn đoán in vitro cho dị ứng thuốc bao gồm SJS/TEN đang được điều tra.
+
+[Thử nghiệm miếng dán](https://dermnetnz.org/procedures/patch-tests.html) hiếm khi xác định được thủ phạm trong SJS/TEN, và không được khuyến nghị.
+
+### SCORTEN
+
+SCORTEN là một điểm số mức độ nghiêm trọng của bệnh đã được phát triển để dự đoán tỷ lệ tử vong trong các trường hợp SJS và TEN. Một điểm được ghi cho mỗi tiêu chí bảy tiêu chí có mặt tại thời điểm nhập viện. Các tiêu chí SCORTEN là:
+
+- Tuổi > 40 tuổi
+- Có mặt của bệnh ác tính (ung thư)
+- Nhịp tim > 120
+- Tỷ lệ tách biểu bì ban đầu > 10%
+- Mức độ urea huyết thanh > 10 mmol/L
+- Mức độ glucose huyết thanh > 14 mmol/L
+- Mức độ bicarbonate huyết thanh < 20 mmol/L.
+
+Nguy cơ tử vong do SJS/TEN phụ thuộc vào điểm số.
+
+- SCORTEN 0-1 > 3.2%
+- SCORTEN 2 > 12.1%
+- SCORTEN 3 > 35.3%
+- SCORTEN 4 > 58.3%
+- SCORTEN 5 hoặc nhiều hơn > 90%
+
+Năm 2019, một mô hình dự đoán mới được đề xuất, ABCD-10.
+
+A: tuổi trên 50 tuổi (một điểm)
+
+B: mức độ bicarbonate < 20 mmol/L (một điểm)
+
+C: ung thư có mặt và hoạt động (hai điểm)
+
+D: lọc máu trước khi nhập viện (3 điểm)
+
+10: tách biểu bì ≥ 10% diện tích bề mặt cơ thể khi nhập viện (một điểm)
+
+ABCD-10 đã được đánh giá trong một nhóm 370 bệnh nhân >với SJS/TEN tại nhiều cơ sở ở Mỹ và dự đoán tỷ lệ tử vong trong bệnh viện cũng như SCORTEN. Tỷ lệ tử vong dự đoán trong nhóm này được hiển thị trong bảng.
+
+![Điểm mô hình dự đoán tỷ lệ tử vong ABCD 10](https://dermnetnz.org/assets/Uploads/ABCD-10-table.png)
+
+Điểm mô hình dự đoán tỷ lệ tử vong ABCD 10
+
+Cần xác nhận trong các quần thể khác.
+
+## Chẩn đoán phân biệt của SJS/TEN là gì?
+
+Trong chẩn đoán phân biệt của SJS/TEN, hãy xem xét:
+
+- Các phản ứng bất lợi nghiêm trọng khác của da (SCARs) đối với thuốc (ví dụ, [hội chứng quá mẫn thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome))
+- [Hội chứng da bị bỏng do tụ cầu](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome) và [hội chứng sốc độc](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome)
+- [Hồng ban đa dạng](https://dermnetnz.org/topics/erythema-multiforme), đặc biệt là hồng ban đa dạng lớn (với sự tham gia của niêm mạc)
+- Nhiễm trùng [Mycoplasma](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection)
+- [Lupus ban đỏ hệ thống dạng bọng nước](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+- [Pemphigus paraneoplastic](https://dermnetnz.org/topics/paraneoplastic-pemphigus).
+
+## Điều trị SJS/TEN là gì?
+
+Để biết thêm chi tiết, xem [Hội chứng Stevens Johnson / hoại tử biểu bì nhiễm độc: quản lý điều dưỡng](https://dermnetnz.org/topics/sjs-ten-nursing).
+
+Chăm sóc bệnh nhân SJS/TEN yêu cầu:
+
+- Ngừng thuốc gây nghi ngờ — bệnh nhân ít có khả năng tử vong, và biến chứng ít hơn nếu thuốc thủ phạm được ngừng trước hoặc vào ngày mà bọng nước/xói mòn xuất hiện
+- Nhập viện — tốt nhất là ngay lập tức vào đơn vị chăm sóc đặc biệt và đơn vị bỏng với chăm sóc điều dưỡng chuyên khoa, vì điều này cải thiện sự sống sót, giảm nhiễm trùng và rút ngắn thời gian nằm viện
+- Xem xét giường không khí lưu động
+- Thay thế dinh dưỡng và chất lỏng (crystalloid) qua đường tĩnh mạch và đường mũi dạ dày — được xem xét và điều chỉnh hàng ngày
+- Duy trì nhiệt độ — vì điều chỉnh nhiệt độ cơ thể bị suy giảm, bệnh nhân nên ở trong phòng ấm (30–32C)
+- Giảm đau — vì đau có thể rất nghiêm trọng
+- Xử lý vô trùng và quy trình cách ly ngược.
+
+Chăm sóc da
+
+- Kiểm tra hàng ngày để xác định mức độ tách rời và nhiễm trùng (lấy mẫu để nuôi cấy vi khuẩn).
+- Có thể sử dụng [chất khử trùng](https://dermnetnz.org/treatments/antiseptics.html) tại chỗ (ví dụ, bạc nitrat, chlorhexidine \[nhưng không phải bạc sulfadiazine vì nó là một loại thuốc sulfa\])
+- Băng như gạc với petrolatum, gạc không dính chứa [bạc](https://dermnetnz.org/treatments/topical-silver.html) hoặc các chất thay thế da sinh học như Biobrane® có thể giảm đau.
+- Tránh sử dụng băng dính và loại bỏ da chết không cần thiết; để lại mái bọng nước như một 'băng sinh học'.
+
+Chăm sóc mắt
+
+- Đánh giá hàng ngày bởi bác sĩ nhãn khoa
+- Nhỏ mắt/thuốc mỡ thường xuyên ([chất khử trùng](https://dermnetnz.org/treatments/antiseptics.html), kháng sinh, corticosteroid)
+
+Chăm sóc miệng
+
+- [Nước súc miệng](https://dermnetnz.org/treatments/mouthwash.html)
+- Thuốc gây tê miệng tại chỗ
+
+Chăm sóc sinh dục
+
+- Nếu bị loét, ngăn ngừa dính âm đạo bằng cách sử dụng thuốc mỡ steroid trong âm đạo, dụng cụ giãn âm đạo mềm.
+
+Chăm sóc phổi
+
+- Xem xét khí dung, hút phế quản, vật lý trị liệu
+- Có thể cần đặt nội khí quản và thông khí cơ học nếu khí quản và phế quản bị ảnh hưởng
+
+Chăm sóc tiết niệu
+
+- Đặt ống thông vì sự tham gia của sinh dục và không di chuyển
+- Nuôi cấy nước tiểu để phát hiện nhiễm trùng vi khuẩn
+
+Chung
+
+- Hỗ trợ tâm lý cho sự lo lắng cực độ và sự không ổn định cảm xúc
+- Vật lý trị liệu để duy trì chuyển động khớp và giảm nguy cơ viêm phổi
+- Đánh giá thường xuyên để phát hiện nhiễm trùng [tụ cầu](https://dermnetnz.org/bacterial/staphylococci.html) hoặc gram âm
+- Kháng sinh thích hợp nên được sử dụng nếu nhiễm trùng phát triển; kháng sinh dự phòng không được khuyến nghị và thậm chí có thể tăng nguy cơ nhiễm trùng huyết
+- Xem xét heparin để ngăn ngừa huyết khối (cục máu đông).
+
+Vai trò của [corticosteroid hệ thống](https://dermnetnz.org/treatments/systemic-steroids.html) (cortisone) vẫn còn gây tranh cãi. Một số bác sĩ kê đơn liều cao corticosteroid trong một thời gian ngắn khi bắt đầu phản ứng, thường là prednisone 1–2 mg/kg/ngày trong 3–5 ngày. Tuy nhiên, có lo ngại rằng chúng có thể tăng nguy cơ nhiễm trùng, làm chậm lành vết thương và các biến chứng khác, và chúng chưa được chứng minh là có lợi. Chúng không hiệu quả sau này trong quá trình bệnh.
+
+Các báo cáo trường hợp và loạt bệnh nhân nhỏ đã báo cáo lợi ích từ các phương pháp điều trị bổ trợ tích cực được thực hiện trong 24–48 giờ đầu tiên của bệnh. Vì SJS/TEN là một tình trạng hiếm gặp, các thử nghiệm kiểm soát liệu pháp trên số lượng lớn bệnh nhân là khó khăn.
+
+[Ciclosporin](https://dermnetnz.org/treatments/cyclosporin.html) 3–5 mg/kg/ngày được báo cáo giảm tỷ lệ tử vong 60% so với bệnh nhân có điểm SCORTEN tương tự khi nhập viện không được điều trị bằng ciclosporin. Có các chống chỉ định điều trị như suy thận.
+
+Các lựa chọn khác bao gồm:
+
+- Kháng thể đơn dòng chống TNFα (ví dụ, [infliximab](https://dermnetnz.org/treatments/infliximab.html), [etanercept](https://dermnetnz.org/treatments/etanercept.html))
+- [Cyclophosphamide](https://dermnetnz.org/treatments/cyclophosphamide.html)
+- [Immunoglobulin tiêm tĩnh mạch](https://dermnetnz.org/treatments/immunoglobulin.html) (IVIG) 2–3 g/kg được tiêm trong 2–3 ngày
+- [Plasmapheresis](https://dermnetnz.org/topics/plasmapheresis-for-skin-disease)
+- Yếu tố kích thích thuộc địa bạch cầu hạt (GCS-F).
+
+[Thalidomide](https://dermnetnz.org/treatments/thalidomide.html), được thử nghiệm vì tác dụng chống TNFα của nó, tăng tỷ lệ tử vong, và không nên sử dụng.
+
+## Làm thế nào để phòng ngừa SJS/TEN?
+
+Những người đã sống sót sau SJS/TEN phải được giáo dục để tránh dùng thuốc gây ra hoặc các loại thuốc có cấu trúc liên quan vì SJS/TEN có thể tái phát. Phản ứng chéo có thể xảy ra giữa:
+
+- Các [thuốc chống co giật](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-anticonvulsant-drugs) carbamazepine, phenytoin, lamotrigine và phenobarbital
+- Kháng sinh beta-lactam [penicillin](https://dermnetnz.org/topics/penicillin), cephalosporin và carbapenem
+- [Thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects)
+- [Sulfonamides](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin): sulfamethoxazole, sulfadiazine, sulfapyridine.
+
+Trong tương lai, chúng ta có thể dự đoán ai có nguy cơ mắc SJS/TEN bằng cách sàng lọc di truyền.
+
+Allopurinol nên được kê đơn cho các chỉ định tốt (ví dụ, [gout](https://dermnetnz.org/topics/gout) với tăng acid uric máu) và bắt đầu ở liều thấp (100 mg/ngày), vì SJS/TEN có nhiều khả năng xảy ra ở liều > 200 mg/ngày.
+
+## Triển vọng cho SJS/TEN là gì?
+
+Giai đoạn cấp tính của SJS/TEN kéo dài 8–12 ngày.
+
+Sự tái biểu mô của các khu vực bị lột da mất vài tuần và đi kèm với sự bong tróc của da ít bị ảnh hưởng nghiêm trọng hơn. Những người sống sót sau giai đoạn cấp tính có tỷ lệ tử vong tăng cao hơn, đặc biệt nếu già hoặc ốm yếu.
+
+Các di chứng lâu dài bao gồm:
+
+- Thay đổi sắc tố — một mảng vá của tăng và giảm sắc tố
+- Sẹo da, đặc biệt là tại các vị trí áp lực hoặc nhiễm trùng
+- Mất móng với sẹo vĩnh viễn (pterygium) và không mọc lại
+- Sẹo bộ phận sinh dục — hẹp bao quy đầu (bao quy đầu bị co lại không thể rút lại) và dính âm đạo (âm đạo bị tắc nghẽn)
+- Co rút khớp
+- Bệnh phổi — viêm tiểu phế quản, giãn phế quản, rối loạn tắc nghẽn.
+
+Các vấn đề về mắt có thể dẫn đến mù lòa:
+
+- Mắt khô và chảy nước, có thể bị bỏng và đau khi tiếp xúc với ánh sáng
+- Viêm kết mạc: kết mạc đỏ, đóng vảy hoặc loét
+- Loét giác mạc, mờ đục và sẹo
+- Symblepharon: dính kết mạc của mí mắt vào nhãn cầu
+- Ectropion hoặc entropion: mí mắt bị lật ra ngoài hoặc lật vào trong
+- Trichiasis: lông mi bị lật vào trong
+- Synechiae: mống mắt dính vào giác mạc.
+
+Có thể mất vài tuần đến vài tháng để các triệu chứng và dấu hiệu lắng xuống.
+
+![Thay đổi sắc tố](https://dermnetnz.org/assets/Uploads/reactions/dyspigmentation.jpg)
+
+Thay đổi sắc tố
+
+![Rụng móng](https://dermnetnz.org/assets/Uploads/reactions/nail-loss.jpg)
+
+Rụng móng
+
+![Symblepharon](https://dermnetnz.org/assets/Uploads/reactions/symblepharon.jpg)
+
+Symblepharon
+
+### Tài liệu tham khảo
+
+- Carr DR, Houshmand E, Heffernan MP. Tiếp cận bệnh nhân bị phồng rộp cấp tính, tổng quát. Semin Cutan Med Surg 2007; 26: 139–46. [PubMed.](http://www.ncbi.nlm.nih.gov/pubmed/18070680)
+- Chantelot L, Gaillet A, Botterel F, Ingen-Housz-Oro S, de Prost N. Candidaemia và Candida colonization ở bệnh nhân bị hoại tử biểu bì: một loạt trường hợp hồi cứu. Br J Dermatol. 2024;191(5):841–843. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38874355/)
+- Cotliar J. Tiếp cận bệnh nhân nghi ngờ bị phát ban do thuốc. Semin Cutan Med Surg 2007; 26: 147. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/18070680)
+- Meth MJ, Sperber KE. Sự đa dạng về kiểu hình trong quá mẫn thuốc chậm: Một giải thích miễn dịch học. Mount Sinai Journal of Medicine 2006; 73: 769–76. [PubMed.](http://www.ncbi.nlm.nih.gov/pubmed/17008937)
+- Mockenhaupt M. Phản ứng da nghiêm trọng do thuốc: mô hình lâm sàng, chẩn đoán và điều trị. Journal der Deutschen Dermatologischen Gesellschaft 2009; 7: 142–62. [PubMed.](http://www.ncbi.nlm.nih.gov/pubmed/19371237)
+- Roujeau J-C. Sự không đồng nhất lâm sàng của quá mẫn thuốc. Toxicology 2005; 209: 123–129. [PubMed.](http://www.ncbi.nlm.nih.gov/pubmed/15767024)
+- Wolf R, Orion E, Marcos B, Matz H. Phản ứng da cấp tính nghiêm trọng đe dọa tính mạng. Clinics in Dermatology 2005; 23; 171–81. [PubMed.](http://www.ncbi.nlm.nih.gov/pubmed/15802211)
+- Wolkenstein P, Chosidow O, Fléchet ML, et al. Thử nghiệm miếng dán trong các phản ứng da nghiêm trọng do thuốc, bao gồm hội chứng Stevens–Johnson và hoại tử biểu bì nhiễm độc. Contact Dermatitis. 1996; 35: 234–6. [PubMed.](http://www.ncbi.nlm.nih.gov/pubmed/8957644)
+- Fujita Y, Yoshioka N, Abe R, et al. Thử nghiệm miễn dịch nhanh cho Granulysin huyết thanh có ích cho dự đoán hội chứng Stevens–Johnson và hoại tử biểu bì nhiễm độc. J Am Acad Dermatol 2011; 65: 65–8. [PubMed.](http://www.ncbi.nlm.nih.gov/pubmed/21507517)
+- Fernando SL. Quản lý hoại tử biểu bì nhiễm độc. Aust J of Dermatol 2012; 53: 165–71. [PubMed.](http://www.ncbi.nlm.nih.gov/pubmed/22881464)
+- [UpToDate](http://www.uptodate.com/) truy cập ngày 17 tháng 1 năm 2016.
+- González-Herrada C, Rodríguez-Martín S, Cachafeiro L et al; Nhóm Quản lý Điều trị PIELenRed. Sử dụng Cyclosporine trong Hoại tử Biểu bì có liên quan đến giảm tỷ lệ tử vong quan trọng: Bằng chứng từ ba cách tiếp cận khác nhau. J Invest Dermatol. 2017 Oct;137(10):2092–2100. doi: 10.1016/j.jid.2017.05.022. Epub 2017 Jun 17. Review. PubMed PMID: 28634032. [PubMed](http://https//www.ncbi.nlm.nih.gov/pubmed/28634032).
+- Noe MH, Rosenbach M, Hubbard RA, et al. Phát triển và xác nhận mô hình dự đoán nguy cơ tử vong trong bệnh viện ở bệnh nhân mắc hội chứng Stevens-Johnson/Hoại tử Biểu bì Nhiễm độc—ABCD-10. JAMA Dermatol.Published online March 06, 2019. doi:10.1001/jamadermatol.2018.5605. [Journal](https://jamanetwork.com/journals/jamadermatology/fullarticle/2727365)
+
+### Trên DermNet
+
+- [Tác nhân gây SJS/TEN](https://dermnetnz.org/topics/sjsten-triggers)
+- [Hội chứng Stevens-Johnson / hoại tử biểu bì nhiễm độc: quản lý điều dưỡng](https://dermnetnz.org/topics/sjs-ten-nursing)
+- [Hồng ban đa dạng](https://dermnetnz.org/reactions/erythema-multiforme.html)
+- [Phát ban do thuốc](https://dermnetnz.org/reactions/drug-eruptions.html)
+- [Nhiễm trùng Mycoplasma pneumoniae](https://dermnetnz.org/bacterial/mycoplasma.html)
+- [Giải thích dị ứng](https://dermnetnz.org/topics/allergies-explained)
+- [Phản ứng da nghiêm trọng](https://dermnetnz.org/topics/severe-cutaneous-adverse-reaction)
+- [Tình trạng da phồng rộp](https://dermnetnz.org/topics/blistering-skin-conditions)
+- [Plasmapheresis cho bệnh da](https://dermnetnz.org/topics/plasmapheresis-for-skin-disease)
+- [Dấu hiệu da của bệnh thấp khớp](https://dermnetnz.org/topics/skin-signs-of-rheumatic-disease)
+
+### Các trang web khác
+
+- Bài giảng điện tử DermNet \[Youtube\]
+  - [Rối loạn phồng rộp](https://www.youtube.com/watch?v=xvBTdPl0uao&t=1s)
+  - [Hiểu về Phát ban do thuốc](https://www.youtube.com/watch?v=qVaP9skHsh0&t=1s)
+  - [Cấp cứu da liễu](https://www.youtube.com/watch?v=FLulWftTPBk&t=1s)
+- Medscape
+  - [Hiểu biết hiện tại về hội chứng Stevens](http://www.medscape.org/viewarticle/751622) [–](http://www.ncbi.nlm.nih.gov/pubmed/18070680) [Johnson và hoại tử biểu bì nhiễm độc](http://www.medscape.org/viewarticle/751622)
+  - [Hoại tử biểu bì nhiễm độc](http://emedicine.medscape.com/article/229698-overview)
+  - [Hội chứng Stevens](http://emedicine.medscape.com/article/1124127-overview) [–](http://www.ncbi.nlm.nih.gov/pubmed/18070680) [Johnson và hoại tử biểu bì nhiễm độc](http://emedicine.medscape.com/article/1124127-overview)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ hiểu_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

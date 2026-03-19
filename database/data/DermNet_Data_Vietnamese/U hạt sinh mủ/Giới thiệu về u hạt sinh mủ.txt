@@ -1,0 +1,29 @@
+##### U hạt sinh mủ — thông tin thêm
+
+Từ đồng nghĩa:
+
+U máu phản ứng, U hạt sinh mủ, U hạt giãn mao mạch, U hạt thai kỳ, Khối u thai kỳ, U lợi thai kỳ
+
+Danh mục:
+
+Tổn thương (lành tính)
+
+ICD-10:
+
+L98.0, K13.4
+
+ICD-11:
+
+2F26, DA01.2Y, DA0D.Y
+
+SNOMED CT:
+
+200722003, 39629007, 403961004, 235002009, 76813008, 713249002
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics?category=Lesions%20(benign))**
+
+# **U hạt sinh mủ**
+
+Tác giả: Vanessa Ngan, Nhà văn, 2003. Cập nhật bởi Bác sĩ Malini Sivasaththivel, RMO, Eastern Health, Box Hill, Úc; Bác sĩ Smriti Tandon, Đăng ký Da liễu, Eastern Health, Box Hill, Úc; Bác sĩ Lena Ly, Bác sĩ Da liễu, Eastern Health, Box Hill, Úc. Biên tập bởi Gus Mitchell. Tháng 1 năm 2021.
+
+[Giới thiệu](https://dermnetnz.org/topics/pyogenic-granuloma#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/pyogenic-granuloma#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/pyogenic-granuloma#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/pyogenic-granuloma#Clinical%20features%3Cbr%20/%3E) [Đặc điểm soi da](https://dermnetnz.org/topics/pyogenic-granuloma#Dermoscopic%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/pyogenic-granuloma#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/pyogenic-granuloma#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/pyogenic-granuloma#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/pyogenic-granuloma#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/pyogenic-granuloma#Outcome)

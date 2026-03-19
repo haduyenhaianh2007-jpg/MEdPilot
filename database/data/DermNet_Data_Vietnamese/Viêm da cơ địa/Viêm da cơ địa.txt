@@ -1,0 +1,341 @@
+##### Viêm da cơ địa — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Chàm cơ địa, ngứa Besnier
+
+Danh mục:
+
+Phát ban, Chàm
+
+ICD-10:
+
+L20
+
+ICD-11:
+
+EA80, EA80.0, EA80.1, EA80.2, EA80.Y, EA85.20
+
+SNOMED CT:
+
+24079001, 200773006, 402195009, 402196005, 402197001, 402183009
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes) [Chàm](https://dermnetnz.org/topics?category=Eczemas)**
+
+# **Viêm da cơ địa**
+
+Tác giả: Bác sĩ Amy Stanway, Khoa Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, tháng 2 năm 2004; Cập nhật: Phó Giáo sư Danh dự Paul Jarrett, Bác sĩ Da liễu, Bệnh viện Middlemore và Khoa Y học, Đại học Auckland, Auckland, New Zealand, tháng 2 năm 2021. Cập nhật nội bộ nhỏ tháng 5 năm 2023.
+
+[Giới thiệu](https://dermnetnz.org/topics/atopic-dermatitis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/atopic-dermatitis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/atopic-dermatitis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/atopic-dermatitis#Clinical%20features%3Cbr%20/%3E) [Biến thể trong các loại da](https://dermnetnz.org/topics/atopic-dermatitis#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/atopic-dermatitis#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/atopic-dermatitis#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/atopic-dermatitis#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/atopic-dermatitis#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/atopic-dermatitis#Outcome)
+
+## Viêm da cơ địa là gì?
+
+Viêm da cơ địa, còn được gọi là chàm cơ địa, là bệnh da viêm phổ biến nhất trên toàn thế giới, biểu hiện bằng da khô tổng quát, ngứa và phát ban.
+
+![Viêm da cơ địa khô theo mẫu duỗi](https://dermnetnz.org/assets/Uploads/SCORAD/atopic-dryness-3.jpg)
+
+Viêm da cơ địa khô theo mẫu duỗi
+
+![Viêm da cơ địa cấp tính ở nếp gấp](https://dermnetnz.org/assets/Uploads/SCORAD/atopic-oozy-2.jpg)
+
+Viêm da cơ địa cấp tính ở nếp gấp
+
+![Viêm da cơ địa mãn tính ở nếp gấp](https://dermnetnz.org/assets/Uploads/atopic-eczema-02.jpg)
+
+Viêm da cơ địa mãn tính ở nếp gấp
+
+## Ai bị viêm da cơ địa?
+
+Khoảng 230 triệu người trên thế giới mắc viêm da cơ địa và tỷ lệ mắc trong suốt đời là >15%, đặc biệt ở các nước giàu có. Nó thường ảnh hưởng đến những người có xu hướng 'cơ địa' kết hợp với viêm mũi dị ứng, hen suyễn và dị ứng thực phẩm. Tất cả các chủng tộc đều có thể bị ảnh hưởng; một số chủng tộc dễ phát triển viêm da cơ địa hơn, và các nghiên cứu di truyền đang cho thấy sự đa dạng rõ rệt về mức độ của tình trạng này (dị biệt) giữa các quần thể.
+
+Viêm da cơ địa thường bắt đầu từ thời thơ ấu, ảnh hưởng đến tới 20% trẻ em. Khoảng 80% trẻ em bị ảnh hưởng phát triển bệnh trước 6 tuổi. Tất cả các độ tuổi đều có thể bị ảnh hưởng. Mặc dù nó có thể ổn định trong thời thơ ấu muộn và thanh thiếu niên, tỷ lệ mắc ở người trẻ tuổi đến 26 tuổi vẫn là 5–15%.
+
+![Viêm da cơ địa ở trẻ sơ sinh trên má](https://dermnetnz.org/assets/Uploads/dermatitis/at-derm7.jpg)
+
+Viêm da cơ địa ở trẻ sơ sinh trên má
+
+![Viêm da cơ địa ở nếp gấp trong thời thơ ấu](https://dermnetnz.org/assets/Uploads/dermatitis/flexural-eczema22.jpg)
+
+Viêm da cơ địa ở nếp gấp trong thời thơ ấu
+
+![Viêm da cơ địa lichen hóa bị trầy xước ở lưng dưới của người lớn](https://dermnetnz.org/assets/Uploads/SCORAD/atopic-excoriation-2.jpg)
+
+Viêm da cơ địa lichen hóa bị trầy xước ở lưng dưới của người lớn
+
+## Nguyên nhân gây viêm da cơ địa là gì?
+
+Viêm da cơ địa là kết quả của sự tương tác phức tạp giữa các yếu tố môi trường và di truyền \[xem [Nguyên nhân của viêm da cơ địa](https://dermnetnz.org/topics/causes-of-atopic-dermatitis)\].
+
+## Đặc điểm lâm sàng của viêm da cơ địa là gì?
+
+Kiểu hình lâm sàng của viêm da cơ địa có thể thay đổi rất nhiều, nhưng được đặc trưng bởi sự thuyên giảm và tái phát với các đợt bùng phát cấp tính trên nền viêm da mãn tính.
+
+Viêm da cấp tính có màu đỏ (ban đỏ), chảy nước/đóng vảy (xuất tiết) và có thể có mụn nước (bọng nước hoặc bọng nước lớn). Theo thời gian, viêm da trở nên mãn tính và da trở nên ít đỏ hơn nhưng dày lên (lichen hóa) và có vảy. Nứt da (nứt nẻ) có thể xảy ra.
+
+### Viêm da cơ địa ở trẻ sơ sinh
+
+Tại hoặc ngay sau khi sinh, viêm da cơ địa có thể ban đầu xuất hiện dưới dạng viêm da tiết bã nhờn ở trẻ sơ sinh liên quan đến da đầu, nếp gấp nách và bẹn. Da thường cảm thấy khô và thô ráp. Theo thời gian, mặt, đặc biệt là má, và các nếp gấp bị ảnh hưởng. Trẻ sơ sinh không thể gãi và thường sẽ cọ xát các vùng bị ảnh hưởng, ví dụ như phía sau đầu, gây rụng tóc tạm thời. Mặt sau của bàn tay có thể bị ảnh hưởng do mút. Viêm da không nhất thiết bị giới hạn ở các vị trí này và có thể lan rộng hơn. Khu vực tã thường được bảo vệ do giữ ẩm của tã, mặc dù viêm da tiếp xúc kích ứng vẫn có thể phát triển.
+
+![Viêm da cơ địa ở trẻ sơ sinh, mặt](https://dermnetnz.org/assets/Uploads/dermatitis/at-derm1.jpg)
+
+Viêm da cơ địa ở trẻ sơ sinh, mặt
+
+![Viêm da cơ địa ở trẻ sơ sinh, tay](https://dermnetnz.org/assets/Uploads/dermatitis/s/atopic26.jpg)
+
+Viêm da cơ địa ở trẻ sơ sinh, tay
+
+![Viêm da cơ địa ở trẻ sơ sinh, thân mình](https://dermnetnz.org/assets/Uploads/dermatitis/atopic32.jpg)
+
+Viêm da cơ địa ở trẻ sơ sinh, thân mình
+
+### Viêm da cơ địa ở trẻ mới biết đi và tuổi đi học
+
+Khi trẻ lớn lên và phát triển, sự phân bố của viêm da thay đổi. Khi bò, các mặt duỗi của khuỷu tay và cổ tay, đầu gối và mắt cá chân bị ảnh hưởng. Sự phân bố trở nên gấp nếp khi đi bộ, đặc biệt là liên quan đến hố khuỷu tay và hố khoeo (nếp gấp khuỷu tay và đầu gối). Nước dãi và thức ăn có thể gây viêm da quanh miệng và cằm. Gãi và cọ xát mãn tính có thể làm da trở nên lichen hóa (dày và khô), và quanh mắt có thể dẫn đến tổn thương mắt. [Pityriasis alba](https://dermnetnz.org/topics/pityriasis-alba), [pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema), [chàm dạng đĩa](https://dermnetnz.org/topics/discoid-eczema), [pityriasis amiantacea](https://dermnetnz.org/topics/pityriasis-amiantacea), [viêm da do liếm môi](https://dermnetnz.org/topics/lip-lickers-dermatitis), và cổ bẩn cơ địa là các biểu hiện khác nhau của viêm da cơ địa thường thấy ở trẻ em tuổi đi học và thanh thiếu niên. Trong những năm học, viêm da cơ địa thường cải thiện, mặc dù chức năng hàng rào của da không bao giờ hoàn toàn bình thường \[xem [Chức năng hàng rào trong viêm da cơ địa](https://dermnetnz.org/topics/barrier-function-in-atopic-dermatitis)\].
+
+### Viêm da cơ địa ở trẻ em
+
+![Viêm da cơ địa ngứa](https://dermnetnz.org/assets/Uploads/dermatitis/s/eapsimplex1.jpg)
+
+Viêm da cơ địa ngứa
+
+![Viêm môi cơ địa](https://dermnetnz.org/assets/Uploads/site-age-specific/s/cheilatop2.jpg)
+
+Viêm môi cơ địa
+
+![Chàm cơ địa ở mí mắt](https://dermnetnz.org/assets/Uploads/site-age-specific/s/eyelid-24.jpg)
+
+Chàm cơ địa ở mí mắt
+
+### Cổ bẩn cơ địa
+
+![](https://dermnetnz.org/assets/Uploads/SCORAD/atopic-oozy-1.jpg)
+
+![Viêm da cơ địa ở cổ](https://dermnetnz.org/assets/Uploads/atopic-100.jpg)
+
+Viêm da cơ địa ở cổ
+
+![Viêm da cơ địa](https://dermnetnz.org/assets/Uploads/doctors/dermatitis/images/ecz-atopic19.jpg)
+
+Viêm da cơ địa
+
+### Viêm da cơ địa ở người lớn
+
+Viêm da cơ địa ở người lớn có thể có nhiều dạng khác nhau. Nó có thể tiếp tục theo mẫu gấp nếp ở tuổi đi học hoặc trở nên lan tỏa. [Madarosis](https://dermnetnz.org/topics/madarosis), [ngứa nốt](https://dermnetnz.org/topics/nodular-prurigo), và lichen hóa có thể xảy ra sau khi cọ xát mãn tính. Các mẫu dạng đĩa và dạng nốt có thể phát triển. Đối với một số người đã bị viêm da cơ địa trong thời thơ ấu và sau đó hoàn toàn khỏi, nó có thể tái phát trên tay do công việc và nhiệm vụ gia đình \[xem [Viêm da cơ địa ở tay](https://dermnetnz.org/topics/atopic-hand-dermatitis)\]. Không thường xuyên, viêm da cơ địa có thể phát triển lần đầu tiên ở tuổi trưởng thành, như viêm da cơ địa khởi phát ở người lớn. Ở phụ nữ và một số nam giới, sự tham gia của núm vú và quầng vú có thể gây vấn đề \[xem [Chàm núm vú](https://dermnetnz.org/topics/nipple-eczema)\].
+
+![Viêm da cơ địa ở tay](https://dermnetnz.org/assets/Uploads/dermatitis/scorad1.jpg)
+
+Viêm da cơ địa ở tay
+
+![Viêm da cơ địa lichen hóa ở nếp gấp](https://dermnetnz.org/assets/Uploads/dermatitis/flexural-eczema27.jpg)
+
+Viêm da cơ địa lichen hóa ở nếp gấp
+
+![Viêm da cơ địa, núm vú](https://dermnetnz.org/assets/Uploads/nipple-eczema-08.jpg)
+
+Viêm da cơ địa, núm vú
+
+[Keratosis pilaris](https://dermnetnz.org/topics/keratosis-pilaris), [dermographism](https://dermnetnz.org/topics/dermographism) trắng, lòng bàn tay có nếp gấp nhiều, và nếp gấp Dennie-Morgan có thể là những dấu hiệu hữu ích cho [cơ địa](https://dermnetnz.org/topics/atopy). Nếp gấp Dennie-Morgan là một nếp gấp da dưới mí mắt dưới do viêm da mí mắt mãn tính.
+
+### Nếp gấp Dennie-Morgan
+
+![Viêm da tiếp xúc ở mí mắt](https://dermnetnz.org/assets/Uploads/dermatitis/atopic3.jpg)
+
+Viêm da tiếp xúc ở mí mắt
+
+![](https://dermnetnz.org/assets/Uploads/dermatitis/s/atopic30.jpg)
+
+![Chàm cơ địa](https://dermnetnz.org/assets/Uploads/atopic-eczema-01.jpg)
+
+Chàm cơ địa
+
+### Dấu hiệu viêm da cơ địa ở người lớn
+
+![Madarosis do cọ xát lông mày](https://dermnetnz.org/assets/Uploads/madarosis-13.jpg)
+
+Madarosis do cọ xát lông mày
+
+![Lòng bàn tay có nếp gấp nhiều](https://dermnetnz.org/assets/Uploads/dermatitis/atopic2.jpg)
+
+Lòng bàn tay có nếp gấp nhiều
+
+![Lichen hóa](https://dermnetnz.org/assets/Uploads/doctors/dermatitis/images/ecz-lich8.jpg)
+
+Lichen hóa
+
+Để xem thêm hình ảnh: [Hình ảnh viêm da cơ địa](https://dermnetnz.org/images/atopic-dermatitis-images) và [Hình ảnh chàm cơ địa ở nếp gấp](https://dermnetnz.org/topics/atopic-flexural-eczema-images)
+
+Dermoscopy của viêm da cho thấy sự phân bố không đều của các mạch chấm, vảy trắng cục bộ và vảy vàng. Dấu hiệu vảy vàng được thấy đặc biệt trong viêm da xuất tiết cấp tính.
+
+### Dermoscopy của viêm da cơ địa trên da màu
+
+![Các mảng viêm da cơ địa trên da màu](https://dermnetnz.org/assets/collection-O/Atopic-dermatitis-skin-of-colour/atopic-dermatitis-skin-of-colour-00019.jpg)
+
+Các mảng viêm da cơ địa trên da màu
+
+![Vảy trắng cục bộ và mạch chấm không đều trên dermoscopy](https://dermnetnz.org/assets/collection-O/Atopic-dermatitis-skin-of-colour/atopic-dermatitis-skin-of-colour-00020.jpg)
+
+Vảy trắng cục bộ và mạch chấm không đều trên dermoscopy
+
+## Đặc điểm lâm sàng thay đổi như thế nào trong các loại da khác nhau?
+
+Có sự khác biệt về kiểu mẫu viêm da cơ địa giữa các dân tộc. Ở người Māori, người Đảo Thái Bình Dương và người châu Phi, biến thể dạng nốt được quan sát thấy. Các mẫu quanh nang lông và duỗi, thay vì gấp nếp, cũng có thể phổ biến hơn ở bệnh nhân gốc châu Phi.
+
+Các hệ thống chấm điểm thông thường cho viêm da cơ địa có thể đánh giá thấp mức độ nghiêm trọng của bệnh và ảnh hưởng đến chất lượng cuộc sống ở những người có da màu do ban đỏ xuất hiện màu tím. Đánh giá thấp cũng có thể xảy ra do các yếu tố văn hóa và khó khăn trong giao tiếp giữa bệnh nhân, cha mẹ và nhà cung cấp dịch vụ chăm sóc sức khỏe.
+
+Bệnh nhân có da màu dường như có nguy cơ đặc biệt phát triển [lichen simplex](https://dermnetnz.org/topics/lichen-simplex) và ngứa nốt với việc gãi và cọ xát.
+
+Sự giảm sắc tố sau viêm và [tăng sắc tố](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) xảy ra phổ biến hơn với da màu và có thể dễ nhận thấy hơn so với da trắng, dẫn đến căng thẳng tâm lý đáng kể.
+
+### Viêm da cơ địa trên da màu
+
+![Mẫu quanh nang lông của viêm da cơ địa](https://dermnetnz.org/assets/Uploads/atopic-dermatitis-1.jpg)
+
+Mẫu quanh nang lông của viêm da cơ địa
+
+![Viêm da cơ địa ở tay và mẫu quanh nang lông trên thân mình](https://dermnetnz.org/assets/Uploads/systemic/w/itchy-skin-41.jpg)
+
+Viêm da cơ địa ở tay và mẫu quanh nang lông trên thân mình
+
+![Tăng sắc tố do viêm da cơ địa](https://dermnetnz.org/assets/Uploads/atopic-eczema-black-skin.jpg)
+
+Tăng sắc tố do viêm da cơ địa
+
+![Giảm sắc tố sau viêm do viêm da cơ địa](https://dermnetnz.org/assets/Uploads/SCORAD/atopic-red-0.jpg)
+
+Giảm sắc tố sau viêm do viêm da cơ địa
+
+![Lichen hóa của viêm da cơ địa](https://dermnetnz.org/assets/Uploads/dermatitis/atopic44.jpg)
+
+Lichen hóa của viêm da cơ địa
+
+![Ngứa nốt](https://dermnetnz.org/assets/Uploads/prurigo-01.jpg)
+
+Ngứa nốt
+
+## Biến chứng của viêm da cơ địa là gì?
+
+Biến chứng của viêm da cơ địa được đề cập chi tiết trên các trang web khác của DermNet.
+
+- [Biến chứng của viêm da cơ địa](https://dermnetnz.org/topics/complications-of-atopic-dermatitis)
+- [Ảnh hưởng tâm lý của viêm da cơ địa](https://dermnetnz.org/topics/psychological-effects-of-atopic-dermatitis)
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis), [Bệnh da nghề nghiệp](https://dermnetnz.org/topics/occupational-skin-disease)
+- [Nhiễm trùng da do tụ cầu](https://dermnetnz.org/topics/staphylococcal-skin-infection)
+- [Eczema herpeticum](https://dermnetnz.org/topics/eczema-herpeticum), [Eczema coxsackium](https://dermnetnz.org/topics/eczema-coxsackium), [Molluscum contagiosum](https://dermnetnz.org/topics/molluscum-contagiosum)
+- [Erythroderma](https://dermnetnz.org/topics/erythroderma)
+
+### Biến chứng nhiễm trùng của viêm da cơ địa
+
+![Eczema herpeticum](https://dermnetnz.org/assets/Uploads/viral/eczema-herpticum09.jpg)
+
+Eczema herpeticum
+
+![Molluscum contagiosum phát sinh trong viêm da cơ địa](https://dermnetnz.org/assets/Uploads/dermatitis/at-mol.jpg)
+
+Molluscum contagiosum phát sinh trong viêm da cơ địa
+
+![Nhiễm trùng tụ cầu của viêm da cơ địa](https://dermnetnz.org/assets/Uploads/dermatitis/atopic1.jpg)
+
+Nhiễm trùng tụ cầu của viêm da cơ địa
+
+## Viêm da cơ địa được chẩn đoán như thế nào?
+
+Viêm da cơ địa thường được chẩn đoán lâm sàng và không cần điều tra. Nên xem xét thử nghiệm miếng dán, đặc biệt nếu viêm da trở nên kháng điều trị \[xem [Hướng dẫn chẩn đoán và đánh giá chàm](https://dermnetnz.org/topics/guidelines-for-the-diagnosis-and-assessment-of-eczema), [Thử nghiệm miếng dán cơ địa](https://dermnetnz.org/topics/atopy-patch-test), [Bệnh lý chàm](https://dermnetnz.org/topics/eczema-pathology)\].
+
+[EASI](https://dermnetnz.org/topics/easi-score) và [SCORAD](https://dermnetnz.org/topics/scorad) là hai hệ thống chấm điểm được phát triển để ghi lại mức độ nghiêm trọng của chàm cơ địa.
+
+## Chẩn đoán phân biệt cho viêm da cơ địa là gì?
+
+Danh sách chẩn đoán phân biệt cho viêm da cơ địa rất dài. Một danh sách ngắn các chẩn đoán phổ biến và quan trọng cần xem xét ở trẻ em bao gồm:
+
+- [Viêm da tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-dermatitis) và [vảy nến](https://dermnetnz.org/topics/psoriasis)
+- Rối loạn di truyền với da có vảy, bao gồm các dạng di truyền của [ichthyosis](https://dermnetnz.org/topics/ichthyosis), bệnh suy giảm miễn dịch nguyên phát, và rối loạn chuyển hóa di truyền
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis).
+
+Một danh sách mở rộng hơn, nhưng vẫn chưa đầy đủ, được cung cấp trong [Hướng dẫn chẩn đoán và đánh giá chàm](https://dermnetnz.org/topics/guidelines-for-the-diagnosis-and-assessment-of-eczema).
+
+## Điều trị viêm da cơ địa là gì?
+
+Điều trị viêm da cơ địa được đề cập chi tiết trên các trang web khác của DermNet: [Điều trị viêm da cơ địa](https://dermnetnz.org/topics/treatment-of-atopic-dermatitis)
+
+## Kết quả của viêm da cơ địa là gì?
+
+Viêm da cơ địa ảnh hưởng đến 15–20% trẻ em và ít phổ biến hơn ở người lớn. [Da nhạy cảm](https://dermnetnz.org/topics/sensitive-skin) tồn tại suốt đời. Không thể dự đoán liệu viêm da cơ địa sẽ tự cải thiện hay không ở một cá nhân. Một phân tích tổng hợp bao gồm hơn 110.000 đối tượng cho thấy 20% trẻ em bị viêm da cơ địa có bệnh kéo dài 8 năm sau đó; ít hơn 5% có bệnh kéo dài 20 năm sau đó. Trẻ em phát triển viêm da cơ địa trước 2 tuổi có nguy cơ bệnh kéo dài thấp hơn so với những trẻ phát triển viêm da cơ địa muộn hơn trong thời thơ ấu hoặc thanh thiếu niên.
+
+Viêm da cơ địa thường tồi tệ nhất trong độ tuổi từ hai đến bốn tuổi, và thường cải thiện hoặc thậm chí khỏi sau đó. Tuy nhiên, viêm da cơ địa có thể bị kích thích hoặc tái phát trong cuộc sống người lớn do tiếp xúc với các chất kích thích hoặc dị ứng liên quan đến chăm sóc, nhiệm vụ gia đình, hoặc một số nghề nghiệp nhất định.
+
+### Thư mục
+
+- Abuabara K, Yu AM, Okhovat JP, Allen IE, Langan SM. Tỷ lệ mắc viêm da cơ địa ngoài thời thơ ấu: một đánh giá hệ thống và phân tích tổng hợp các nghiên cứu dọc. Dị ứng. 2018;73(3):696–704. doi:10.1111/all.13320. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28960336/)
+- Asher MI, Montefort S, Björkstén B, et al. Xu hướng thời gian toàn cầu trong tỷ lệ mắc triệu chứng của hen suyễn, viêm mũi dị ứng, và chàm trong thời thơ ấu: ISAAC Phases One and Three lặp lại các khảo sát đa quốc gia \[sửa chữa được công bố trong Lancet. 2007 Sep 29;370(9593):1128\]. Lancet. 2006;368(9537):733–43. doi:10.1016/S0140-6736(06)69283-0. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16935684/)
+- Errichetti E, Stinco G. Dermoscopy trong da liễu tổng quát: một cái nhìn tổng quan thực tế. Dermatol Ther (Heidelb). 2016;6(4):471–507. doi:10.1007/s13555-016-0141-6. [Journal](https://link.springer.com/article/10.1007/s13555-016-0141-6)
+- Kaufman BP, Guttman-Yassky E, Alexis AF. Viêm da cơ địa trong các nhóm chủng tộc và dân tộc đa dạng - sự khác biệt trong dịch tễ học, di truyền, biểu hiện lâm sàng và điều trị. Exp Dermatol. 2018;27(4):340–57. doi:10.1111/exd.13514. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29457272/)
+- Kristal L, Klein PA. Viêm da cơ địa ở trẻ sơ sinh và trẻ em. Cập nhật. Pediatr Clin North Am. 2000;47(4):877–95. doi:10.1016/s0031-3955(05)70246-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10943263/)
+- Langan SM, Irvine AD, Weidinger S. Viêm da cơ địa \[sửa chữa được công bố trong Lancet. 2020 Sep 12;396(10253):758\]. Lancet. 2020;396(10247):345–60. doi:10.1016/S0140-6736(20)31286-1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32738956/)
+- Owen JL, Vakharia PP, Silverberg JI. Vai trò và chẩn đoán viêm da tiếp xúc dị ứng ở bệnh nhân bị viêm da cơ địa. Am J Clin Dermatol. 2018;19(3):293–302. doi:10.1007/s40257-017-0340-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29305764/)
+- Seghers AC, Lee JS, Tan CS, et al. Cổ bẩn cơ địa hoặc tăng sắc tố cơ địa mắc phải? Một nghiên cứu dịch tễ học và lâm sàng từ Trung tâm Da liễu Quốc gia ở Singapore. Dermatology. 2014;229(3):174–82. doi:10.1159/000362596. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25227244/)
+- Torrelo A. Viêm da cơ địa trong các loại da khác nhau. Cần biết gì?. J Eur Acad Dermatol Venereol. 2014;28 Suppl 3:2–4. doi:10.1111/jdv.12480. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24702443/)
+- Torres T, Ferreira EO, Gonçalo M, Mendes-Bastos P, Selores M, Filipe P. Cập nhật về viêm da cơ địa. Acta Med Port. 2019;32(9):606–13. doi:10.20344/amp.11963. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31493365/)
+- Weidinger S, Beck LA, Bieber T, Kabashima K, Irvine AD. Viêm da cơ địa. Nat Rev Dis Primers. 2018;4(1):1. doi:10.1038/s41572-018-0001-z. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29930242/)
+
+### Trên DermNet
+
+- [Viêm da cơ địa ở tay](https://dermnetnz.org/topics/atopic-hand-dermatitis)
+- [Peptide kháng khuẩn](https://dermnetnz.org/topics/antimicrobial-peptides)
+- [Hình ảnh viêm da cơ địa](https://dermnetnz.org/images/atopic-dermatitis-images)
+- [Hình ảnh chàm cơ địa ở nếp gấp](https://dermnetnz.org/topics/atopic-flexural-eczema-images)
+- [Viêm da cơ địa ở tay](https://dermnetnz.org/topics/atopic-hand-dermatitis)
+- [Cơ địa](https://dermnetnz.org/topics/atopy)
+- [Thử nghiệm miếng dán cơ địa](https://dermnetnz.org/topics/atopy-patch-test)
+- [Chức năng hàng rào trong viêm da cơ địa](https://dermnetnz.org/topics/barrier-function-in-atopic-dermatitis)
+- [Nguyên nhân của viêm da cơ địa](https://dermnetnz.org/topics/causes-of-atopic-dermatitis)
+- [Viêm da](https://dermnetnz.org/topics/dermatitis)
+- [Điểm EASI](https://dermnetnz.org/topics/easi-score)
+- [Bệnh lý chàm](https://dermnetnz.org/topics/eczema-pathology)
+- [Da liễu dân tộc](https://dermnetnz.org/topics/ethnic-dermatology)
+- [Hướng dẫn chẩn đoán và đánh giá chàm](https://dermnetnz.org/topics/guidelines-for-the-diagnosis-and-assessment-of-eczema)
+- [Ảnh hưởng tâm lý của viêm da cơ địa](https://dermnetnz.org/topics/psychological-effects-of-atopic-dermatitis)
+- [SCORAD](https://dermnetnz.org/topics/scorad)
+- [Điều trị viêm da cơ địa](https://dermnetnz.org/topics/treatment-of-atopic-dermatitis)
+
+### Các trang web khác
+
+- [Eczema: A Complete Overview](https://www.youtube.com/watch?v=XEMJTssM7P0&t=1s) – Bài giảng điện tử DermNet \[Youtube\]
+- Video từ Kidshealth.org.nz:
+  - [Chăm sóc eczema: 3 bước dễ dàng](http://www.kidshealth.org.nz/eczema-care-3-easy-steps)
+  - [Chăm sóc eczema: Kem dưỡng ẩm](http://www.kidshealth.org.nz/eczema-care-moisturisers)
+  - [Chăm sóc eczema: Tắm](http://www.kidshealth.org.nz/eczema-care-bathing)
+  - [Chăm sóc eczema: Steroid](http://www.kidshealth.org.nz/eczema-care-steroids)
+- [Eczema](http://www.nlm.nih.gov/medlineplus/eczema.html) — Medline Plus
+- [Mạng lưới lâm sàng quốc gia New Zealand cho điều trị Eczema ở trẻ em và thanh thiếu niên](https://www.starship.org.nz/health-professionals/child-and-youth-eczema-clinical-network/)
+- [Hiệp hội Eczema của Úc Inc.](http://www.eczema.org.au/)
+- [Hiệp hội Eczema của New Zealand](http://eczema.org.nz/)
+- [Hiệp hội Eczema Quốc gia](http://www.eczema.org/) (Anh)
+- [Hiệp hội Khoa học và Giáo dục Quốc gia](http://www.nationaleczema.org/) (Mỹ)
+- [TalkEczema.com](http://www.talkeczema.com/)
+- [Bộ công cụ chăm sóc Eczema trực tuyến](https://www.eczemasupport.org.au/eczema-care-online/) — Hỗ trợ Eczema Úc
+- [Bộ công cụ chăm sóc Eczema trực tuyến](https://www.eczemacareonline.org.uk/) — Hỗ trợ Eczema Anh
+- [Viêm da cơ địa](http://emedicine.medscape.com/article/1049085-overview) — Medscape Drugs & Diseases
+- [Viêm da cơ địa trong Y học Cấp cứu](http://emedicine.medscape.com/article/762045-overview) — Medscape Drugs & Diseases
+- [Hướng dẫn Eczema](http://www.eczemaguide.ca/) — SkinCareGuide.com
+- [Eczema (Chàm cơ địa)](https://www.bad.org.uk/pils/atopic-eczema/) — Hiệp hội Da liễu Anh
+- [Thông tin bệnh nhân: Viêm da cơ địa (eczema) (Beyond the Basics)](http://www.uptodate.com/contents/atopic-dermatitis-eczema-beyond-the-basics) — UpToDate
+- [Chàm cơ địa](http://www.nhs.uk/conditions/Eczema-(atopic)/Pages/Introduction.aspx) — NHS Choices
+- [Tài liệu hướng dẫn bệnh nhân: Viêm da cơ địa (eczema)](http://pedsderm.net/for-patients-families/patient-handouts/) — Hiệp hội Da liễu Nhi khoa
+- [Viêm da cơ địa](https://www.aad.org/public/diseases/eczema/atopic-dermatitis) — Học viện Da liễu Mỹ
+- [Hướng dẫn của bạn về eczema](https://www.youtube.com/watch?v=3ZkCvmKVDek&index=2&list=PLN_lXZ2w-6oxHVwotbWXHykBRcV11k0Mf) — Trường Cao đẳng Da liễu Úc – YouTube
+- [Kế hoạch hành động viết tay cho Eczema (EWAP)](http://www.bristol.ac.uk/primaryhealthcare/researchthemes/apache/ewap/) — Trung tâm Chăm sóc Sức khỏe Học thuật Đại học Bristol
+- [Đánh giá hệ thống về eczema](https://www.nottingham.ac.uk/research/groups/cebd/resources/eczema-systematic-reviews.aspx) — Đại học Nottingham
+- [Đo lường eczema hướng đến bệnh nhân (POEM)](https://www.nottingham.ac.uk/research/groups/cebd/documents/methodological-resources/poem-for-self-completion.pdf)
+- [AltogetherEczema](https://globalskin.org/administrator/components/com_civicrm/civicrm/extern/url.php?u=379&qid=3650) — một trung tâm trung tâm cho những người bị ảnh hưởng bởi eczema. Liên minh Quốc tế của các Tổ chức Bệnh nhân Da liễu (IADPO)
+- [Băng dính ngâm steroid](https://www.youtube.com/watch?v=Q4o1nY5y4uc) — YouTube: hướng dẫn áp dụng băng dính
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

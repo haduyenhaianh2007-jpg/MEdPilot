@@ -1,0 +1,22 @@
+## Chẩn đoán phát ban do thuốc dạng sởi như thế nào?
+
+Một nghi ngờ lâm sàng mạnh mẽ về phát ban do thuốc dạng sởi phụ thuộc vào:
+
+- Phát ban dạng phát ban điển hình
+- Thuốc mới được sử dụng gần đây
+
+Để xác định loại thuốc có thể gây ra, một lịch sử dùng thuốc, bao gồm tất cả các sản phẩm kê đơn và không kê đơn, có thể hữu ích. Ngày bắt đầu của mỗi loại thuốc mới được ghi lại cùng với thời điểm phát ban. Lịch sử này phải kéo dài ít nhất 2 tuần và lên đến một tháng. Các loại thuốc sau đó có thể được phân loại là nguyên nhân không thể hoặc có thể dựa trên:
+
+- Thời gian liên quan đến thời điểm phát ban
+- Loại thuốc cụ thể; một số loại thuốc có thể được loại trừ vì hiếm khi gây dị ứng
+- Kinh nghiệm trước đây của bệnh nhân với các loại thuốc khác trong cùng nhóm
+
+Không có xét nghiệm thường quy nào để chẩn đoán hoặc xác định loại thuốc gây ra. Chẩn đoán phân biệt bao gồm [bệnh sởi](https://dermnetnz.org/topics/measles), [bệnh rubella](https://dermnetnz.org/topics/rubella), [bệnh sốt đỏ](https://dermnetnz.org/topics/scarlet-fever), ban đỏ không đặc hiệu liên quan đến nhiễm trùng, [bệnh Kawasaki](https://dermnetnz.org/topics/kawasaki-disease), [bệnh mô liên kết](https://dermnetnz.org/topics/connective-tissue-diseases) và [bệnh ghép chống chủ](https://dermnetnz.org/topics/graft-versus-host-disease) cấp tính.
+
+Xét nghiệm thường không cần thiết nếu nguyên nhân đã được xác định và ngừng, phát ban nhẹ và bệnh nhân khỏe mạnh. Chúng có thể bao gồm:
+
+- Đếm máu thường quy, xét nghiệm chức năng gan và thận, protein C-reactive
+- Xét nghiệm huyết thanh cho các nhiễm trùng có thể gây ra phát ban tương tự
+- Có thể [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy), cho thấy viêm da giao diện, thâm nhiễm quanh mạch hỗn hợp và các đặc điểm mô học khác.
+
+Tăng bạch cầu ái toan hỗ trợ nhưng không chẩn đoán. Các điều tra thêm sẽ phụ thuộc vào các đặc điểm lâm sàng, tiến triển của bệnh nhân và kết quả của các xét nghiệm ban đầu.

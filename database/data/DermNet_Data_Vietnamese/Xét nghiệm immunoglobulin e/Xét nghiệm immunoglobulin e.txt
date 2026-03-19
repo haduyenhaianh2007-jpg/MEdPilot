@@ -1,0 +1,202 @@
+##### Xét nghiệm Immunoglobulin E — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Xét nghiệm IgE, Kiểm tra IgE
+
+Danh mục:
+
+Chẩn đoán và kiểm tra
+
+ICD-10:
+
+T78.40
+
+SNOMED CT:
+
+12263007, 76978006, 397587005, 397698003, 404273000, 399844005
+
+**[Chẩn đoán và kiểm tra](https://dermnetnz.org/topics?category=Diagnosis%20and%20testing)**
+
+# **Xét nghiệm Immunoglobulin E**
+
+Tác giả: Bác sĩ Tim Aung, Chuyên gia chăm sóc ban đầu, Brisbane & Logan, Queensland, Úc. Phó Giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 2 năm 2019.
+
+[Immunoglobulin E (IgE)](https://dermnetnz.org/topics/immunoglobulin-e-tests#Immunoglobulin%20E%20(IgE)%3Cbr%20/%3E) [Phản ứng quá mẫn loại I](https://dermnetnz.org/topics/immunoglobulin-e-tests#Type%20I%20Hypersensitivity%20reaction%3Cbr%20/%3E) [Xét nghiệm IgE](https://dermnetnz.org/topics/immunoglobulin-e-tests#IgE%20test%3Cbr%20/%3E) [Chỉ định xét nghiệm IgE](https://dermnetnz.org/topics/immunoglobulin-e-tests#Indications%20for%20IgE%20testing%3Cbr%20/%3E) [Các chất gây dị ứng được kiểm tra](https://dermnetnz.org/topics/immunoglobulin-e-tests#Allergens%20tested%3Cbr%20/%3E) [Kết quả mức độ IgE](https://dermnetnz.org/topics/immunoglobulin-e-tests#IgE%20level%20results%3Cbr%20/%3E) [Diễn giải kết quả mức độ IgE](https://dermnetnz.org/topics/immunoglobulin-e-tests#IgE%20level%20result%20interpretation%3Cbr%20/%3E) [Xét nghiệm IgE so với kiểm tra da](https://dermnetnz.org/topics/immunoglobulin-e-tests#IgE%20testing%20vs.%20skin%20prick%20testing)
+
+## Immunoglobulin E là gì?
+
+Immunoglobulin E (IgE) là một kháng thể được sản xuất trong phản ứng quá mẫn loại I đối với một chất gây dị ứng. (Xem trang của DermNet [Giải thích về dị ứng](https://dermnetnz.org/topics/allergies-explained/).) Một sơ đồ cho con đường phản ứng loại I được hiển thị dưới đây \[1\].
+
+Kháng thể IgE thường được tìm thấy với số lượng nhỏ trong máu. Mức độ cao hơn bình thường cho thấy có thể có một rối loạn dị ứng \[2\].
+
+## Phản ứng quá mẫn loại I là gì?
+
+Sau khi tiếp xúc và tái tiếp xúc với một kháng nguyên (chất gây dị ứng) ở những người dễ bị tổn thương, một phản ứng dị ứng loại I, hoặc ngay lập tức, liên quan đến các tế bào trình diện kháng nguyên, sự kích hoạt của các tế bào T-helper (Th), sự kích thích của các tế bào B giải phóng IgE đặc hiệu, và sự giải phóng các chất trung gian dược lý khác nhau (như histamine, cytokine, leukotriene và các chất khác) từ các tế bào mast và basophil. Sự giải phóng các chất trung gian gây ra các triệu chứng như hắt hơi, thở khò khè và nổi mề đay.
+
+![Phản ứng quá mẫn loại 1](https://dermnetnz.org/assets/Uploads/type1-hypersensitivity.jpg)
+
+Phản ứng quá mẫn loại 1
+
+APC, tế bào trình diện kháng nguyên; IgE, immunoglobulin E; Th, T-helper \[cell\].
+
+Nguồn: [Gaurab Karki, Nhà vi sinh học Kathmandu, qua Online Biology Notes](https://www.onlinebiologynotes.com/type-i-hypersensitivity-reaction-mechanism-and-clinical-manifestation/).
+
+## Xét nghiệm IgE là gì?
+
+Xét nghiệm IgE là một xét nghiệm máu phát hiện IgE lưu hành. Xét nghiệm bao gồm hai loại:
+
+1. Kiểm tra tổng IgE — mức độ tổng IgE trong máu.
+2. Kiểm tra IgE đặc hiệu — mức độ IgE đặc hiệu đối với một chất gây dị ứng cụ thể.
+
+Xét nghiệm tổng IgE và IgE đặc hiệu có thể được yêu cầu cùng lúc hoặc độc lập.
+
+Mức độ IgE có thể được đo bằng một trong số các phương pháp. Việc sử dụng xét nghiệm radioallergosorbent (RAST) để đo IgE đã được thay thế bằng việc sử dụng các xét nghiệm enzyme-linked immunosorbent assays (ELISA), fluorescent enzyme immunoassays (FEIA), và chemiluminescent immunoassays (CLIA) \[3,4\].
+
+![Ống nghiệm](https://dermnetnz.org/assets/Uploads/venepuncture-bottles.JPG)
+
+Ống nghiệm
+
+![Lấy máu cho xét nghiệm IgE](https://dermnetnz.org/assets/Uploads/IgE-blood-test.jpg)
+
+Lấy máu cho xét nghiệm IgE
+
+Màu của nắp ống cho biết xét nghiệm nào phù hợp. Trong trường hợp này, ống có nắp màu vàng (ống tách huyết thanh) được sử dụng cho xét nghiệm IgE.
+
+## Chỉ định xét nghiệm IgE là gì?
+
+Xét nghiệm IgE được chỉ định khi việc lấy lịch sử bệnh nhân cẩn thận và khám xét dẫn đến nghi ngờ dị ứng loại I.
+
+Xét nghiệm IgE cũng có thể được sử dụng để theo dõi một bệnh nhân với tình trạng dị ứng đã biết, chẳng hạn như:
+
+- [Phản vệ](https://dermnetnz.org/topics/anaphylaxis/)
+- Viêm mũi dị ứng (sốt cỏ khô)
+- [Viêm kết mạc dị ứng](https://dermnetnz.org/topics/allergic-conjunctivitis/)
+- Hen suyễn
+- Viêm xoang mạn tính.
+
+Xét nghiệm IgE cũng hữu ích để xác định liệu một bệnh nhân có dị ứng với một protein cụ thể, chẳng hạn như:
+
+- Các loại [dị ứng thực phẩm](https://dermnetnz.org/topics/food-allergy) (ví dụ, [đậu phộng](https://dermnetnz.org/topics/peanut-allergy/))
+- [Mạt bụi nhà](https://dermnetnz.org/topics/house-dust-mite/)
+- Phấn hoa cỏ, cỏ dại hoặc cây
+- Lông hoặc lông động vật
+- Một số loại thuốc và [mỹ phẩm](https://dermnetnz.org/topics/contact-reactions-to-cosmetics)
+- Nấm mốc
+- Nọc độc của [ong hoặc ong bắp cày](https://dermnetnz.org/topics/bee-and-wasp-stings/).
+
+Xét nghiệm IgE có thể được sử dụng khi [kiểm tra da](https://dermnetnz.org/topics/skin-prick-testing/) không có sẵn hoặc không phù hợp; ví dụ, ở một cá nhân với [chứng da vẽ nổi](https://dermnetnz.org/topics/dermographism/), bệnh da rộng, sử dụng gần đây của [thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines/) hoặc [steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids/), hoặc khi có lo ngại rằng kiểm tra da có thể gây ra một [phản ứng phản vệ](https://dermnetnz.org/topics/anaphylaxis/).
+
+Xét nghiệm IgE hiếm khi được chỉ định trong [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis/), [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis/), [mề đay tự phát mạn tính](https://dermnetnz.org/topics/chronic-spontaneous-urticaria/), hoặc [phù mạch](https://dermnetnz.org/topics/angioedema/) vì sự liên quan của IgE tăng cao không chắc chắn trong các bệnh này.
+
+### Khuyến nghị của Choosing Wisely
+
+Mặc dù không có chống chỉ định tuyệt đối cho xét nghiệm IgE, Học viện Dị ứng, Hen suyễn & Miễn dịch học Hoa Kỳ, Hiệp hội Miễn dịch học Lâm sàng và Dị ứng Úc, và Choosing Wisely đưa ra các khuyến nghị sau \[5,6\].
+
+- Không thực hiện một loạt xét nghiệm IgE không phân biệt trong đánh giá dị ứng.
+- Xét nghiệm IgE đặc hiệu cho thực phẩm không nên được thực hiện mà không có lịch sử bệnh nhân lâm sàng gợi ý dị ứng thực phẩm qua trung gian IgE.
+- Xét nghiệm IgE đặc hiệu cho các chất hít hoặc thực phẩm không được chỉ định trong [mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions/) trừ khi có một lịch sử rõ ràng liên quan đến một chất gây dị ứng như một yếu tố kích thích hoặc duy trì cho mề đay.
+- Các loạt xét nghiệm IgE không phân biệt cho thực phẩm là đắt đỏ và không hữu ích, có thể dẫn đến chẩn đoán sai và chế độ ăn kiêng không phù hợp.
+
+## Những chất gây dị ứng cụ thể nào có thể được kiểm tra?
+
+Các chất gây dị ứng cụ thể có thể được kiểm tra có thể được phân loại như sau \[7\]:
+
+- [Chất gây dị ứng trong không khí (chất hít)](https://dermnetnz.org/topics/aeroallergens)
+- Chất gây dị ứng trong nhà — bao gồm [mạt bụi nhà](https://dermnetnz.org/topics/house-dust-mite), lông động vật (ví dụ, mèo, chó, và gián), nấm mốc, và bào tử nấm
+- Chất gây dị ứng ngoài trời — như phấn hoa (từ cỏ, lúa mạch đen, cỏ dại, và cây) và không khí ô nhiễm (khói)
+- Chất gây dị ứng thực phẩm — bao gồm sữa, trứng, đậu phộng, hạt cây, lúa mì, đậu nành, cá tuyết, và động vật có vỏ
+- Nọc độc — bao gồm [ong](https://dermnetnz.org/topics/bee-and-wasp-stings), [ong bắp cày](https://dermnetnz.org/topics/bee-and-wasp-stings), [ong vò vẽ](https://dermnetnz.org/topics/bee-and-wasp-stings), [kiến](https://dermnetnz.org/topics/ant-bites-and-stings) nọc độc
+- [Mạt bụi ( _Dermatophagoides_)](https://dermnetnz.org/topics/house-dust-mite)
+- Thuốc — như [penicillin](https://dermnetnz.org/topics/penicillin), aspirin, và các loại khác
+- [Latex](https://dermnetnz.org/topics/latex-allergy)
+- Kim loại (đặc biệt là [nickel](https://dermnetnz.org/topics/nickel-allergy), [cobalt](https://dermnetnz.org/topics/allergy-to-cobalt), [chromium](https://dermnetnz.org/topics/chrome-allergy), và kẽm)
+- Hóa chất gia dụng
+- Mỹ phẩm.
+
+Xét nghiệm IgE cũng có sẵn để kiểm tra các hỗn hợp chất gây dị ứng khác nhau. Bao gồm:
+
+- Hỗn hợp thực phẩm (tức là lòng trắng trứng, sữa, cá tuyết, lúa mì, [đậu phộng](https://dermnetnz.org/topics/peanut-allergy), và đậu nành)
+- Hỗn hợp ngũ cốc (tức là lúa mì, yến mạch, ngô, hạt mè, và kiều mạch)
+- Hỗn hợp trái cây (tức là chuối, lê, đào, và táo)
+- Hỗn hợp hải sản (tức là cá tuyết, tôm, vẹm, cá ngừ, cá hồi)
+- Hỗn hợp cỏ (tức là cỏ Bermuda, lúa mạch đen, Timothy, đồng cỏ, Johnson, và Bahia)
+- Hỗn hợp cây (tức là ô liu, liễu, bạch đàn, thông trắng, Melaleuca)
+- Hỗn hợp hạt — thông thường (tức là [đậu phộng](https://dermnetnz.org/topics/peanut-allergy), hạt phỉ, hạt Brazil, hạnh nhân, và dừa)
+- Hỗn hợp hạt — thêm (tức là hạt hồ đào, hạt điều, hạt dẻ cười, và quả óc chó)
+- Hỗn hợp nấm mốc (tức là _Penicillium_, _Aspergillus fumigatus_, _Cladosporium_, _Candida albicans_, và _Alternaria_).
+
+## Mức độ IgE được báo cáo như thế nào?
+
+Phạm vi tham chiếu tổng IgE phụ thuộc vào độ tuổi của cá nhân (nó dao động từ 0 đến 4 kU/L ở trẻ sơ sinh và 0 đến ~148 kU/L ở trẻ lớn hơn hoặc người lớn).
+
+Kết quả của một xét nghiệm IgE đặc hiệu được báo cáo cho một hỗn hợp chất gây dị ứng hoặc một chất gây dị ứng riêng lẻ. Bảng dưới đây cho thấy cách các kết quả thường được đánh giá và diễn giải \[2,8,9\].
+
+##### Bảng. Đánh giá và diễn giải mức độ IgE
+
+| Đánh giá mức độ IgE đặc hiệu (kUA/L) | Cấp/Bậc | Diễn giải |
+| --- | --- | --- |
+| Không có hoặc không phát hiện được ( 0.35) | 0 | Không có khả năng |
+| Thấp (0.35–0.69) | I | Ý nghĩa không chắc chắn |
+| Trung bình (0.70–3.49) | II | Có thể |
+| Cao (3.50–17.49) | III | Có khả năng hơn |
+| Rất cao (17.50–49.99) | IV | Có khả năng hơn nữa |
+| Rất cao (50.00–100.00) | V | Rất có khả năng |
+| Cực kỳ cao (> 100.00) | VI | Cực kỳ có khả năng |
+
+Bảng này hiển thị các số liệu tham chiếu quốc tế tùy ý. Phạm vi tham chiếu thực tế và phân loại thay đổi theo phòng thí nghiệm và dựa trên phương pháp được sử dụng cho xét nghiệm, hiệu chuẩn, độ tuổi của bệnh nhân, và loại chất gây dị ứng.
+
+## Kết quả xét nghiệm IgE được diễn giải như thế nào?
+
+Kết quả xét nghiệm IgE nên được diễn giải cẩn thận trong bối cảnh trình bày của bệnh nhân. Mức độ cao của tổng IgE có thể xảy ra trong [các tình trạng dị ứng](https://dermnetnz.org/topics/allergies-explained), [nhiễm trùng ký sinh trùng](https://dermnetnz.org/topics/bugs), một số [rối loạn liên quan đến miễn dịch](https://dermnetnz.org/topics/immunological-disorders), và [ung thư](https://dermnetnz.org/topics/cutaneous-markers-of-internal-malignancy).
+
+Độ nhạy của các xét nghiệm IgE đặc hiệu dao động từ 60% đến 95% và độ đặc hiệu từ 30% đến 95%, tùy thuộc vào loại chất gây dị ứng và độ tuổi của bệnh nhân \[3\]. Có giá trị dự đoán tốt (> 90%) cho [thực phẩm](https://dermnetnz.org/topics/food-allergy) (sữa bò, trứng, cá, và đậu phộng), phấn hoa (cỏ và cây) và [mạt bụi](https://dermnetnz.org/topics/house-dust-mite). Các xét nghiệm cho một số loại thuốc, [latex](https://dermnetnz.org/topics/latex-allergy), nấm mốc, và nọc độc có độ nhạy kém nhưng độ đặc hiệu cao hơn \[3,4\]. Lưu ý:
+
+- Kết quả xét nghiệm dương tính có nghĩa là nhạy cảm với một chất gây dị ứng.
+- Mức độ IgE được chỉ định có thể không tương quan với mức độ hoặc mức độ nghiêm trọng của các triệu chứng khi tiếp xúc với chất gây dị ứng.
+- Mức độ IgE bình thường có thể không loại trừ các rối loạn dị ứng.
+- Kết quả có thể gây hiểu lầm. Kết quả dương tính giả và âm tính giả có thể do phản ứng chéo, độ tuổi của bệnh nhân, hoặc loại và thời gian tiếp xúc với chất gây dị ứng.
+
+Đánh giá thêm có thể được thực hiện bằng [kiểm tra da](https://dermnetnz.org/topics/skin-prick-testing/) hoặc bằng cách thách thức bệnh nhân với một chất gây dị ứng cụ thể trong cơ thể.
+
+## Xét nghiệm IgE so với kiểm tra da như thế nào?
+
+Kiểm tra da cụ thể hơn so với xét nghiệm IgE và cho kết quả nhanh (thường trong vòng 30 phút), nhưng nó đòi hỏi một chuyên gia được đào tạo và không phải lúc nào cũng được trẻ nhỏ chấp nhận.
+
+Xét nghiệm máu IgE đặc hiệu đơn giản và an toàn. Chúng có thể đắt đỏ, tùy thuộc vào số lượng chất gây dị ứng được kiểm tra. Cần thận trọng khi diễn giải kết quả \[10\].
+
+### Tài liệu tham khảo
+
+01. Karki G. Phản ứng quá mẫn loại I: cơ chế và biểu hiện lâm sàng. Có sẵn tại: [http://www.onlinebiologynotes.com/type-i-hypersensitivity-reaction-mechanism-and-clinical-manifestation/](http://www.onlinebiologynotes.com/type-i-hypersensitivity-reaction-mechanism-and-clinical-manifestation/) (truy cập ngày 11 tháng 2 năm 2019).
+02. Heyworth-Smith D, Campbell P. Chẩn đoán phòng thí nghiệm của dị ứng. Bản tin QML pathology, Brisbane, 2017.
+03. Siles RI, Hsieh FH. Xét nghiệm máu dị ứng: Hướng dẫn thực tế cho các bác sĩ lâm sàng. Cleve Clin J Med 2011; 78: 585–92. doi: 10.3949/ccjm.78a.11023. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21885690)
+04. Diaz RC, Liang J, Hallet L, Meyers AD. Xét nghiệm dị ứng chẩn đoán: Xét nghiệm IgE đặc hiệu. Cập nhật ngày 29 tháng 2 năm 2016. [Medscape](https://emedicine.medscape.com/article/2068676-overview#a2) (truy cập ngày 7 tháng 6 năm 2018).
+05. Không thực hiện xét nghiệm IgE thực phẩm mà không có lịch sử phù hợp với dị ứng thực phẩm qua trung gian IgE tiềm năng. Choosing Wisely. Học viện Dị ứng, Hen suyễn & Miễn dịch học Hoa Kỳ. Ngày 3 tháng 3 năm 2014. Có sẵn tại: [http://www.choosingwisely.org/clinician-lists/american-academy-allergy-asthma-immunology-food-ige-testing/](http://www.choosingwisely.org/clinician-lists/american-academy-allergy-asthma-immunology-food-ige-testing/) (truy cập ngày 5 tháng 2 năm 2019).
+06. Xét nghiệm IgE đặc hiệu cho thực phẩm không nên được thực hiện mà không có lịch sử lâm sàng gợi ý dị ứng thực phẩm qua trung gian IgE tiềm năng. Hiệp hội Miễn dịch học Lâm sàng và Dị ứng Úc. Choosing Wisely. Có sẵn tại: [https://choosingwisely.org.nz/professional-resource/ascia/](https://choosingwisely.org.nz/professional-resource/ascia/) (truy cập ngày 5 tháng 2 năm 2019)
+07. Chapman MD. Danh pháp chất gây dị ứng. Clin Allergy Immunol 2008; 21: 47–58. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18828497)
+08. Williams P, Sewell WA, Bunn C, Pumphrey R, Read G, Jolles S. Loạt bài đánh giá miễn dịch học lâm sàng: một cách tiếp cận để sử dụng phòng thí nghiệm miễn dịch học trong chẩn đoán dị ứng lâm sàng. Clin Exp Immunol 2008; 153: 10–8. doi: 10.1111/j.1365-2249.2008.03695.x. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18577028)
+09. Sheldon J, Miller L. Hướng dẫn tham khảo chẩn đoán dị ứng. Clinical Biochemistry, East Kent University Hospitals, NHS. Tháng 10 năm 2014. P-6.
+10. Hiệp hội Miễn dịch học Lâm sàng và Dị ứng Úc (ASCIA). Xét nghiệm phòng thí nghiệm trong chẩn đoán các bệnh dị ứng. Cập nhật tháng 1 năm 2010. Có sẵn tại: [www.allergy.org.au/health-professionals/papers/tests-in-the-diagnosis-of-allergic-diseases](https://allergy.org.au/hp/papers/tests-in-the-diagnosis-of-allergic-diseases/) (truy cập ngày 8 tháng 6 năm 2018).
+
+### Trên DermNet
+
+- [Kiểm tra da](https://dermnetnz.org/topics/skin-prick-testing/)
+- [Giải thích về dị ứng](https://dermnetnz.org/topics/allergies-explained/)
+- [Dị ứng thực phẩm](https://dermnetnz.org/topics/food-allergy/)
+- [Chất gây dị ứng trong không khí](https://dermnetnz.org/topics/aeroallergens)
+
+### Các trang web khác
+
+- [Dị ứng NZ](http://www.allergy.org.nz/)
+- [Hiệp hội Miễn dịch học Lâm sàng và Dị ứng Úc (ASCIA)](http://www.allergy.org.au/)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

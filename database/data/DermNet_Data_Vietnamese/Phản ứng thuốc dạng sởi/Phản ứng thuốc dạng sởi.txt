@@ -1,0 +1,182 @@
+##### Phản ứng thuốc dạng sởi — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Phát ban thuốc dạng dát sẩn, Phát ban thuốc dạng ngoại ban, Phát ban thuốc dạng dát sẩn
+
+Danh mục:
+
+Phản ứng
+
+ICD-10:
+
+L27.0
+
+ICD-11:
+
+EH60
+
+SNOMED CT:
+
+247470007, 50495000, 238814003
+
+**[Phản ứng](https://dermnetnz.org/topics?category=Reactions)**
+
+# **Phản ứng thuốc dạng sởi**
+
+Tác giả: Bác sĩ Delwyn Dyall-Smith FACD, Chuyên gia Da liễu, Úc, 2009. Cập nhật bởi A/Prof Amanda Oakley, Tháng 1 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/morbilliform-drug-reaction#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/morbilliform-drug-reaction#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/morbilliform-drug-reaction#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/morbilliform-drug-reaction#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/morbilliform-drug-reaction#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/morbilliform-drug-reaction#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/morbilliform-drug-reaction#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/morbilliform-drug-reaction#Prevention%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/morbilliform-drug-reaction#Outlook)
+
+## Phản ứng thuốc dạng sởi là gì?
+
+Phát ban thuốc dạng sởi là dạng phổ biến nhất của [phát ban thuốc](https://dermnetnz.org/topics/drug-eruptions). Nhiều loại thuốc có thể gây ra phản ứng dị ứng này, nhưng [kháng sinh](https://dermnetnz.org/topics/antibiotics) là nhóm phổ biến nhất. Phát ban có thể giống với [ngoại ban](https://dermnetnz.org/topics/exanthems) do nhiễm [virus](https://dermnetnz.org/topics/viral-skin-infections) và [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) gây ra.
+
+- Phát ban da dạng sởi ở người lớn thường do thuốc gây ra.
+- Ở trẻ em, nó có khả năng có nguồn gốc từ virus hơn.
+
+Phát ban thuốc dạng sởi còn được gọi là phát ban thuốc dạng dát sẩn, phát ban thuốc dạng ngoại ban và phát ban dạng dát sẩn.
+
+![Phát ban thuốc dạng sởi](https://dermnetnz.org/assets/Uploads/reactions/morbilliform1.jpg)
+
+Phát ban thuốc dạng sởi
+
+![Phát ban thuốc dạng sởi](https://dermnetnz.org/assets/Uploads/reactions/morbilliform2.jpg)
+
+Phát ban thuốc dạng sởi
+
+![Phát ban dạng sởi do giảm tiểu cầu](https://dermnetnz.org/assets/Uploads/reactions/morbilliform3.jpg)
+
+Phát ban dạng sởi do giảm tiểu cầu
+
+## Ai bị phát ban thuốc dạng sởi?
+
+Khoảng 2% đơn thuốc mới gây ra phát ban thuốc. Khoảng 95% trong số này là phát ban thuốc dạng sởi.
+
+Chúng chủ yếu ảnh hưởng đến những người được kê đơn kháng sinh beta-lactam ([penicillin](https://dermnetnz.org/topics/penicillin), cephalosporin), [sulfonamide](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin), allopurinol, [thuốc chống động kinh](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-anticonvulsant-drugs) và [thuốc chống viêm không steroid (NSAID)](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects). Nhiều loại thuốc khác đã được báo cáo gây ra phát ban thuốc dạng sởi, bao gồm cả liệu pháp thảo dược và tự nhiên.
+
+Các yếu tố tiền đề bao gồm:
+
+- Tiền sử phát ban thuốc trước đó hoặc tiền sử gia đình mạnh về phát ban thuốc
+- Nhiễm [virus](https://dermnetnz.org/topics/viral-skin-infections) tiềm ẩn, đặc biệt là virus [Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus) cấp tính (EBV, [bệnh tăng bạch cầu đơn nhân nhiễm trùng](https://dermnetnz.org/topics/infectious-mononucleosis)) và virus herpes người 6 và 7 (xem thêm [roseola](https://dermnetnz.org/topics/roseola), [pityriasis rosea](https://dermnetnz.org/topics/pityriasis-rosea))
+- [Suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) bao gồm [virus suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection), xơ nang, rối loạn tự miễn
+- Nhiều loại thuốc
+
+## Nguyên nhân gây ra phát ban thuốc dạng sởi là gì?
+
+Phát ban thuốc dạng sởi là một dạng phản ứng dị ứng. Nó được trung gian bởi tế bào T gây độc tế bào và được phân loại là phản ứng miễn dịch Loại IV. Mục tiêu tấn công có thể là thuốc, một chất chuyển hóa của thuốc hoặc một protein liên kết với thuốc. Viêm xảy ra sau khi giải phóng cytokine và các tế bào miễn dịch hiệu ứng khác.
+
+## Đặc điểm lâm sàng của phát ban thuốc dạng sởi là gì?
+
+Lần đầu tiên, phát ban dạng sởi thường xuất hiện 1–2 tuần sau khi bắt đầu dùng thuốc, nhưng có thể xảy ra đến 1 tuần sau khi ngừng thuốc. Khi tái tiếp xúc với thuốc gây ra (hoặc liên quan), tổn thương da xuất hiện trong vòng 1–3 ngày. Rất hiếm khi một loại thuốc đã được sử dụng trong nhiều tháng hoặc nhiều năm gây ra phát ban thuốc dạng sởi.
+
+Phát ban thuốc dạng sởi thường xuất hiện đầu tiên ở thân mình và sau đó lan ra các chi và cổ. Phân bố là hai bên và đối xứng.
+
+Tổn thương chính là dát hoặc sẩn phẳng màu hồng đến đỏ.
+
+- Hình thái vòng, [dạng mục tiêu](https://dermnetnz.org/topics/target-and-targetoid-lesions), [mề đay](https://dermnetnz.org/topics/urticaria-an-overview) hoặc đa hình có thể xảy ra.
+- Tổn thương chủ yếu nhạt màu khi ấn nhưng có thể không nhạt màu ([xuất huyết](https://dermnetnz.org/topics/purpura)) ở chân dưới.
+- Các tổn thương riêng lẻ có thể hợp nhất với nhau tạo thành các mảng hoặc mảng đỏ lớn.
+- Nách, háng, tay và chân thường không bị ảnh hưởng.
+- Phát ban nổi bật nghịch lý ở nách và háng có thể do [ngoại ban đối xứng liên quan đến thuốc và nếp gấp](https://dermnetnz.org/topics/symmetrical-drug-related-intertriginous-and-flexural-exanthema) (SDRIFE)
+- Niêm mạc, tóc và móng không bị ảnh hưởng trong các phát ban thuốc không phức tạp.
+
+Phát ban có thể kèm theo sốt nhẹ và ngứa. Khi nó cải thiện, đỏ dần biến mất và bề mặt da bong tróc.
+
+## Biến chứng của phát ban thuốc dạng sởi là gì?
+
+Trong giai đoạn đầu, có thể không thể phân biệt lâm sàng phát ban dạng sởi không phức tạp với các phản ứng bất lợi nghiêm trọng hơn trên da (SCAR). Chúng bao gồm:
+
+- [Hội chứng quá mẫn thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome)
+- [Hội chứng Stevens Johnson – hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis) (SJS/TEN)
+- [Ngoại ban mụn mủ cấp tính toàn thân (AGEP)](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis)
+
+Bệnh nhân có các triệu chứng/dấu hiệu sau nên được nhập viện để đánh giá chuyên khoa và chăm sóc hỗ trợ.
+
+- [Erythroderma](https://dermnetnz.org/topics/erythroderma) (liên quan đến toàn bộ cơ thể)
+- Sốt cao hoặc mệt mỏi đáng kể
+- Bất kỳ liên quan đến niêm mạc nào
+- Đau da
+- Phồng rộp
+- Mụn mủ
+- Xuất huyết có thể sờ thấy
+- Bằng chứng về sự liên quan của các cơ quan khác (ví dụ gan, thận, phổi, máu)
+
+## Phát ban thuốc dạng sởi được chẩn đoán như thế nào?
+
+Nghi ngờ lâm sàng mạnh mẽ về phát ban thuốc dạng sởi phụ thuộc vào:
+
+- Phát ban ngoại ban điển hình
+- Thuốc mới được giới thiệu gần đây
+
+Để xác định thuốc có thể gây ra, một lịch trình thuốc, bao gồm tất cả các sản phẩm kê đơn và không kê đơn, có thể hữu ích. Ngày bắt đầu của mỗi loại thuốc mới được ghi lại cùng với sự khởi phát của phát ban. Lịch trình phải kéo dài ít nhất 2 tuần và lên đến một tháng. Các loại thuốc sau đó có thể được phân loại là nguyên nhân không thể hoặc có thể dựa trên:
+
+- Thời gian liên quan đến sự khởi phát của phát ban
+- Thuốc cụ thể; một số loại thuốc có thể được loại trừ vì hiếm khi gây dị ứng
+- Kinh nghiệm trước đây của bệnh nhân với các loại thuốc khác trong cùng một nhóm
+
+Không có xét nghiệm thường quy nào để chẩn đoán hoặc xác định thuốc gây ra. Chẩn đoán phân biệt bao gồm [sởi](https://dermnetnz.org/topics/measles), [rubella](https://dermnetnz.org/topics/rubella), [sốt đỏ](https://dermnetnz.org/topics/scarlet-fever), ngoại ban độc không đặc hiệu liên quan đến nhiễm trùng, [bệnh Kawasaki](https://dermnetnz.org/topics/kawasaki-disease), [bệnh mô liên kết](https://dermnetnz.org/topics/connective-tissue-diseases) và [bệnh ghép chống chủ cấp tính](https://dermnetnz.org/topics/graft-versus-host-disease).
+
+Các xét nghiệm thường không cần thiết nếu nguyên nhân đã được xác định và ngừng, phát ban nhẹ và bệnh nhân khỏe mạnh. Chúng có thể bao gồm:
+
+- Đếm máu thường quy, xét nghiệm chức năng gan và thận, protein C-reactive
+- Xét nghiệm huyết thanh cho các nhiễm trùng có thể gây ra phát ban tương tự
+- Có thể [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy), cho thấy viêm da giao diện, thâm nhiễm quanh mạch hỗn hợp và các đặc điểm mô học khác.
+
+Tăng bạch cầu ái toan hỗ trợ nhưng không chẩn đoán. Các điều tra thêm sẽ phụ thuộc vào các đặc điểm lâm sàng, tiến triển của bệnh nhân và kết quả của các xét nghiệm ban đầu.
+
+## Điều trị phát ban thuốc dạng sởi là gì?
+
+Điều quan trọng nhất là xác định thuốc gây ra và nếu có thể, ngừng nó. Nếu phản ứng nhẹ, và thuốc là cần thiết và không thể thay thế, hãy xin ý kiến chuyên gia xem có an toàn để tiếp tục dùng thuốc trước khi làm như vậy.
+
+- Theo dõi bệnh nhân cẩn thận trong trường hợp có biến chứng.
+- Áp dụng [chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) và kem [steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) mạnh.
+- Cân nhắc [bọc ướt](https://dermnetnz.org/topics/wet-wraps) cho da rất đỏ, viêm.
+- [Thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) thường được kê đơn, nhưng nhìn chung chúng không rất hữu ích.
+
+## Làm thế nào để ngăn ngừa phát ban thuốc dạng sởi?
+
+Không thể hoàn toàn ngăn ngừa phát ban dạng sởi. Người kê đơn phải cảnh giác. Tỷ lệ của chúng có thể giảm bằng cách:
+
+- Giảm thiểu kê đơn kháng sinh
+- Giáo dục bệnh nhân về nguyên nhân gây ra phát ban của họ và nguy hiểm của việc tái tiếp xúc với cùng một loại thuốc
+- Thêm phản ứng vào cảnh báo hồ sơ y tế
+
+## Triển vọng cho phát ban thuốc dạng sởi là gì?
+
+Nếu thuốc gây ra được ngừng, phát ban bắt đầu cải thiện trong vòng 48 giờ và biến mất trong vòng 1–2 tuần.
+
+Nếu thuốc được tiếp tục, phát ban có thể:
+
+- Biến mất mặc dù tiếp tục tiếp xúc với thuốc
+- Duy trì không thay đổi
+- Tiến triển đến [erythroderma](https://dermnetnz.org/topics/erythroderma)
+
+### Tham khảo
+
+- Da liễu. Jean L. Bolognia, Joseph Jorizzo và Ronald Rapini. Bộ 2 tập. Ấn bản thứ 2 năm 2007. 2432 trang. Mosby.
+- Cotliar J. Tiếp cận bệnh nhân nghi ngờ phát ban thuốc. Semin. Cutan. Med. Surg. 2007; 26:147–154. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/18070681)
+- Mays SR, Kunishige JH, Truong E, Kontoyiannis DP, Hymes SR. Tiếp cận phát ban dạng sởi ở bệnh nhân ghép tủy. Semin. Cutan. Med. Surg. 2007; 26:155–162. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/18070682)
+- Yawalkar N. Phát ban do thuốc. Toxicology 2005; 209: 131–4. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/15767025)
+
+### Trên DermNet
+
+- [Ngoại ban](https://dermnetnz.org/topics/exanthems)
+- [Phát ban thuốc](https://dermnetnz.org/topics/drug-eruptions)
+- [Giải thích về dị ứng](https://dermnetnz.org/topics/allergies-explained)
+
+### Các trang web khác
+
+- [Hiểu về phát ban thuốc](https://www.youtube.com/watch?v=qVaP9skHsh0&t=1s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Phát ban thuốc](http://emedicine.medscape.com/article/1049474-overview) — Tham khảo Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ hiểu_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

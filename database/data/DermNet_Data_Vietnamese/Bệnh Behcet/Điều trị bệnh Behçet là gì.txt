@@ -1,0 +1,60 @@
+## Điều trị bệnh Behçet là gì?
+
+### Nguyên tắc chung
+
+Điều trị bệnh Behçet cần được điều chỉnh cho từng bệnh nhân dựa trên các biểu hiện lâm sàng và mức độ của bệnh — cần có sự tiếp cận của nhóm đa ngành (MDT). Bệnh Behçet thường có quá trình tái phát và thuyên giảm, và các phương pháp điều trị nên nhằm mục đích ngăn chặn bất kỳ đợt viêm nào và ngăn ngừa tổn thương cơ quan không thể phục hồi, đặc biệt là trong giai đoạn đầu của bệnh.
+
+Các biểu hiện về mắt, mạch máu và thần kinh thường nghiêm trọng hơn và cần điều trị tích cực hơn.
+
+### Điều trị bệnh niêm mạc
+
+Các phương pháp điều trị tại chỗ bao gồm:
+
+- Corticosteroid bôi dưới dạng kem, gel hoặc nước súc miệng
+- Pimecrolimus — như một lựa chọn thay thế cho corticosteroid tại chỗ
+- Sucralfate
+- Kháng sinh như tetracycline
+- Chất sát khuẩn — nước súc miệng chlorhexidine
+- Hydroxypropyl cellulose
+- Diclofenac
+- Lidocaine.
+
+Các phương pháp điều trị toàn thân cho bệnh niêm mạc bao gồm:
+
+- Colchicine
+- Glucocorticoid
+- Apremilast
+- Azathioprine
+- Chất ức chế TNF-alpha
+- Ciclosporin
+- Interferon alpha-21 và interferon alpha-2b
+- Thalidomide
+- Methotrexate
+- Roflumilast
+- Secukinumab
+- Ustekinumab.
+
+### Điều trị các biểu hiện trên da
+
+Ngoại trừ erythema nodosum và pyoderma gangrenosum, hầu hết các tổn thương da khác đáp ứng tốt với các phương pháp điều trị trên. Các tổn thương dạng mụn trứng cá khó chữa có thể cần isotretinoin uống.
+
+Erythema nodosum trong bệnh Behçet:
+
+- Làm tăng khả năng viêm mạch da tiềm ẩn
+- Colchicine thường được sử dụng đầu tiên, nhưng nếu thất bại, glucocorticoid toàn thân kết hợp với một tác nhân ức chế miễn dịch khác có thể được sử dụng.
+
+Bằng chứng về loét hoặc phát hiện viêm mạch trung bình trên sinh thiết da là chỉ định cho glucocorticoid toàn thân với một tác nhân ức chế miễn dịch khác (thường là azathioprine).
+
+Pyoderma gangrenosum trong bệnh Behçet nên được quản lý như trong các nguyên nhân khác của bệnh này.
+
+### Điều trị bệnh Behçet đa hệ thống
+
+Các điểm quản lý chính là:
+
+- Corticosteroid uống: được khuyến nghị điều trị cho bệnh nhân có bệnh từ trung bình đến nặng với sự tham gia của mắt, mạch máu, tiêu hóa hoặc thần kinh.
+- Azathioprine: như một tác nhân tiết kiệm steroid
+- Chất ức chế TNF-alpha, đặc biệt là infliximab cho bệnh Behçet mắt khó chữa
+- Cyclophosphamide — dành cho các biến chứng đe dọa tính mạng của bệnh Behçet chủ yếu khi có sự tham gia của mạch máu lớn hoặc hệ thần kinh trung ương
+- Bệnh mạch máu lớn, bao gồm huyết khối được điều trị bằng ức chế miễn dịch và không phải chống đông máu
+- Sự tham gia của hệ thần kinh trung ương thường khó chữa hơn
+- Các tác nhân khác có thể được sử dụng bao gồm chất đối kháng thụ thể interleukin-1 (ví dụ: anakinra), alemtuzumab, tocilizumab, rituximab, và cấy ghép tế bào gốc.

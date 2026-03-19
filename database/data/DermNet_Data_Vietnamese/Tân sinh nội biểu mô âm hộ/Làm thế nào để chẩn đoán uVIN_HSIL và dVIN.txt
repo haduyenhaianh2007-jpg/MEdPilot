@@ -1,0 +1,12 @@
+## Làm thế nào để chẩn đoán uVIN/HSIL và dVIN?
+
+Một hoặc nhiều mảng đỏ, trắng hoặc sắc tố không đều, phẳng hoặc dày lên trên âm hộ có thể gợi ý chẩn đoán uVIN/HSIL hoặc dVIN. Soi cổ tử cung (kiểm tra bằng cách sử dụng kính phóng đại và ánh sáng đặc biệt) có thể được sử dụng để kiểm tra hình dạng và mức độ của tình trạng này. Một [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) là cần thiết để xác nhận các tế bào biểu mô bất thường trong biểu mô, và để xác định bất kỳ [ung thư](https://dermnetnz.org/topics/skin-cancer) xâm lấn nào.
+
+- Biểu mô có thể bị tăng sừng (có vảy) và tăng gai (dày lên).
+- uVIN/HSIL cho thấy các tế bào không bào và loạn sản với sự phân bào khắp biểu mô, có thể bao gồm biểu mô nang.
+- dVIN cho thấy các tế bào loạn sản và sự phân bào giới hạn ở lớp đáy.
+- [Nhuộm hóa mô miễn dịch](https://dermnetnz.org/topics/immunohistochemistry-stains): uVIN/HSIL dương tính với p16, và dVIN dương tính với p53.
+
+Các tổn thương có mụn cóc ở phụ nữ sau mãn kinh nên được sinh thiết, đặc biệt nếu chúng không biến mất với điều trị đơn giản.
+
+Phụ nữ có [lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus) âm hộ và [lichen phẳng ăn mòn](https://dermnetnz.org/topics/erosive-lichen-planus) nên được theo dõi cẩn thận. Bất kỳ khu vực nào không đáp ứng với [corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) có hiệu lực cao, đặc biệt nếu bị tăng sừng, nên được sinh thiết để loại trừ dVIN.

@@ -1,0 +1,14 @@
+## Nguyên nhân gây viêm khớp tự phát thiếu niên là gì?
+
+Nguyên nhân chính xác của viêm khớp tự phát thiếu niên (JIA) chưa rõ ràng, nhưng một phản ứng miễn dịch mạnh mẽ trong một vòng lặp kéo dài của cả miễn dịch bẩm sinh và miễn dịch thích ứng được cho là góp phần vào cơ chế bệnh sinh của JIA. Sự kích hoạt bất thường của hệ thống miễn dịch bẩm sinh dẫn đến sản xuất không điều hòa các cytokine tiền viêm. Yếu tố hoại tử khối u alpha (TNF-α), interleukin (IL)-1, và IL-6 đóng vai trò khởi phát quan trọng. Tác động của các cytokine này cung cấp lời giải thích cho các đặc điểm lâm sàng khác nhau được thấy trong JIA hệ thống. Những tác động này bao gồm:
+
+- Tăng sinh tủy xương (sự phát triển của bạch cầu hạt)
+- Tăng hoạt động của tế bào hủy xương (tế bào hấp thụ xương)
+- Kích thích tế bào gan
+- Kích hoạt các chức năng điều hòa nhiệt (nhiệt độ cơ thể) \[3,4\].
+
+Sự gia tăng tuyển dụng các tế bào viêm trong màng hoạt dịch khớp đã được chứng minh trong một số nghiên cứu bằng sự gia tăng đáng kể các cytokine tiền viêm trong dịch hoạt dịch của trẻ bị ảnh hưởng. Cytokine tiền viêm trong hoạt dịch dẫn đến tăng sản xuất và tích tụ dịch hoạt dịch và làm dày lớp lót hoạt dịch. Viêm hoạt dịch mãn tính này rõ ràng và phổ biến đối với tất cả các loại JIA. Ngoài ra, cytokine RANKL (thụ thể kích hoạt yếu tố nhân kappa-Β ligand), liên quan đến sự tiêu xương (phân hủy) và tổn thương sụn, đã được báo cáo có mặt với số lượng lớn trong màng hoạt dịch của trẻ em bị JIA.
+
+Một số nghiên cứu đã liên tục ủng hộ mối liên hệ giữa JIA liên quan đến viêm điểm bám và đa hình kháng nguyên bạch cầu người (HLA); dường như có sự gia tăng mối liên hệ, đặc biệt là với bệnh khởi phát sớm. Một dạng đơn gen của JIA hệ thống với một đột biến cơ bản trong một protein điều hòa liên quan đến chuyển hóa đại thực bào đã được mô tả \[2,3\].
+
+Các yếu tố môi trường có thể góp phần vào sự phát triển của JIA. Một số nghiên cứu đã gợi ý mối liên hệ với việc tiếp xúc với kháng sinh, nhiễm khuẩn ở những người bị suy giảm miễn dịch, và việc hút thuốc của mẹ trong thời kỳ mang thai \[2,4\].

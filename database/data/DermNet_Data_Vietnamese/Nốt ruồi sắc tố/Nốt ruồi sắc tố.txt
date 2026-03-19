@@ -1,0 +1,265 @@
+##### Nốt ruồi sắc tố — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Nốt ruồi, Nốt sắc tố, Nốt sắc tố tế bào
+
+Danh mục:
+
+Tổn thương (lành tính)
+
+ICD-10:
+
+D22
+
+ICD-11:
+
+2F20.Z, 2F20.2Z, 2F20.0
+
+SNOMED CT:
+
+400096001, 402552003, 399899001, 400010006, 398696001, 302838006, 398943008, 254804007, 398028009, 254806009, 254815002, 201281002, 398660000, 254817005, 40467008, 398028009, 254811006, 254812004, 254818000
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics?category=Lesions%20(benign))**
+
+# **Nốt ruồi sắc tố**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton New Zealand, năm 1997. Cập nhật vào tháng 1 năm 2016.
+
+Tín dụng: Nhiều hình ảnh được cung cấp bởi MoleMap NZ.
+
+[Giới thiệu](https://dermnetnz.org/topics/melanocytic-naevus#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/melanocytic-naevus#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/melanocytic-naevus#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/melanocytic-naevus#Clinical%20features%3Cbr%20/%3E) [Phân loại](https://dermnetnz.org/topics/melanocytic-naevus#Classification%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/melanocytic-naevus#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/melanocytic-naevus#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/melanocytic-naevus#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/melanocytic-naevus#Prevention%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/melanocytic-naevus#Outlook)
+
+## Nốt ruồi sắc tố là gì?
+
+Nốt ruồi sắc tố (chính tả Mỹ ‘nevus’), hay nốt ruồi, là một tổn thương da lành tính phổ biến do sự tăng sinh cục bộ của các tế bào sắc tố (melanocytes). Đôi khi nó được gọi là nốt sắc tố tế bào hoặc chỉ đơn giản là 'nốt' (nhưng lưu ý rằng có các loại [nốt khác](https://dermnetnz.org/topics/congenital-naevi)). Một nốt ruồi sắc tố màu nâu hoặc đen chứa sắc tố melanin, vì vậy cũng có thể được gọi là nốt sắc tố.
+
+Nốt ruồi sắc tố có thể có từ khi sinh ra (nốt ruồi sắc tố bẩm sinh) hoặc xuất hiện sau này (nốt ruồi mắc phải). Có nhiều loại nốt ruồi sắc tố bẩm sinh và mắc phải khác nhau.
+
+## Ai có nốt ruồi sắc tố?
+
+Hầu như ai cũng có ít nhất một nốt ruồi sắc tố.
+
+- Khoảng 1% cá nhân sinh ra với một hoặc nhiều nốt ruồi sắc tố bẩm sinh. Điều này thường là ngẫu nhiên, với các trường hợp hiếm gặp của nốt ruồi bẩm sinh gia đình.
+- Người da sáng thường có nhiều nốt ruồi sắc tố hơn người da tối.
+- Nốt ruồi sắc tố xuất hiện trong thời thơ ấu (từ 2 đến 10 tuổi) có xu hướng nổi bật và tồn tại lâu dài trong suốt cuộc đời.
+- Nốt ruồi sắc tố mắc phải sau này trong thời thơ ấu hoặc tuổi trưởng thành thường xuất hiện sau khi tiếp xúc với ánh nắng mặt trời và có thể mờ đi hoặc biến mất sau đó.
+
+Hầu hết người da trắng ở New Zealand có từ 20–50 nốt ruồi sắc tố.
+
+## Nguyên nhân gây ra nốt ruồi sắc tố là gì?
+
+Mặc dù lý do chính xác cho sự tăng sinh cục bộ của các tế bào nốt ruồi chưa được biết, rõ ràng là số lượng nốt ruồi sắc tố mà một người có phụ thuộc vào các yếu tố di truyền, tiếp xúc với ánh nắng mặt trời và tình trạng miễn dịch.
+
+- Người có nhiều nốt ruồi sắc tố thường có thành viên gia đình cũng có nhiều tổn thương tương tự.
+- Đột biến soma trong các gen RAS có liên quan đến [nốt ruồi sắc tố bẩm sinh](https://dermnetnz.org/topics/congenital-melanocytic-naevi).
+- Nốt ruồi sắc tố mới có thể xuất hiện sau khi sử dụng các thuốc ức chế BRAF ([vemurafenib](https://dermnetnz.org/topics/vemurafenib), [dabrafenib](https://dermnetnz.org/topics/dabrafenib)).
+- Người sống ở Úc và New Zealand có nhiều nốt ruồi hơn so với người thân của họ sống ở Bắc Âu.
+- [Điều trị ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) dẫn đến sự gia tăng số lượng nốt ruồi.
+
+## Đặc điểm lâm sàng của nốt ruồi sắc tố là gì?
+
+Nốt ruồi sắc tố có sự khác biệt rộng rãi về hình thức lâm sàng, da liễu và mô học.
+
+- Chúng có thể xuất hiện trên bất kỳ phần nào của cơ thể.
+- Chúng khác nhau về hình thức tùy thuộc vào vị trí trên cơ thể.
+- Chúng có thể phẳng hoặc nhô lên.
+- Chúng có màu sắc khác nhau từ hồng hoặc màu da đến nâu đậm, xanh thép hoặc đen.
+- Người da sáng thường có nốt ruồi màu sáng và người da tối thường có nốt ruồi màu nâu đậm hoặc đen.
+- Mặc dù chủ yếu có hình dạng tròn hoặc bầu dục, nốt ruồi đôi khi có hình dạng khác thường.
+- Chúng có kích thước từ vài milimet đến vài centimet đường kính.
+
+## Phân loại nốt ruồi sắc tố
+
+### Nốt ruồi sắc tố bẩm sinh
+
+[Nốt ruồi sắc tố bẩm sinh](https://dermnetnz.org/topics/congenital-melanocytic-naevi) được phân loại theo kích thước thực tế hoặc dự đoán của người trưởng thành và các đặc điểm cụ thể.
+
+| Nốt ruồi bẩm sinh nhỏ | Nốt ruồi bẩm sinh trung bình | Nốt ruồi khổng lồ | Nốt ruồi bẩm sinh có lông |
+| --- | --- | --- | --- |
+| Nốt ruồi bẩm sinh nhỏ có đường kính 1.5 cm. | Nốt ruồi bẩm sinh trung bình có đường kính 1.5–19.9 cm. | Nốt ruồi sắc tố bẩm sinh lớn hoặc khổng lồ có kích thước ≥ 20 cm | Nốt ruồi bẩm sinh có lông mọc lông dài dày. |
+| ![](https://dermnetnz.org/assets/Uploads/lesions/small.jpg) | ![ ](https://dermnetnz.org/assets/Uploads/lesions/medium.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/giant.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/w/hairy2.jpg) |
+
+| Đốm cà phê sữa | Nốt sắc tố lốm đốm | Nốt Ota | Đốm Mông Cổ |
+| --- | --- | --- | --- |
+| Đốm cà phê sữa là một mảng nâu phẳng. | Nốt sắc tố lốm đốm là một mảng nâu phẳng với các đốm tối hơn. | [Nốt Ota](https://dermnetnz.org/topics/naevus-of-ota-ito-hori) là một dấu xanh nâu quanh trán, mắt và má. | [Đốm Mông Cổ](https://dermnetnz.org/topics/lumbosacral-dermal-melanocytosis) là một dấu xanh lớn thường thấy ở mông của trẻ sơ sinh. |
+| ![ ](https://dermnetnz.org/assets/Uploads/lesions/calm2.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/speckled2.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/w/ota4.jpg) | ![ ](https://dermnetnz.org/assets/Uploads/lesions/w/mongolian.jpg) |
+
+Phân loại mô học của nốt ruồi sắc tố liên quan đến vị trí của các tế bào nốt ruồi trong da.
+
+| Nốt ruồi nối | Nốt ruồi bì | Nốt ruồi hợp chất | Nốt ruồi kết hợp |
+| --- | --- | --- | --- |
+| Nốt ruồi nối có các nhóm hoặc tổ hợp tế bào nốt ruồi tại điểm nối của biểu bì và bì. Một nốt ruồi phẳng. | Nốt ruồi bì hoặc nội bì có các tổ hợp tế bào nốt ruồi trong bì. Một nốt, mảng hoặc nốt có bề mặt có cuống, nhú (nốt Unna) hoặc bề mặt mịn (nốt Miescher). | Nốt ruồi hợp chất có các tổ hợp tế bào nốt ruồi tại điểm nối biểu bì-bì cũng như trong bì. Một khu vực nhô lên trung tâm bao quanh bởi một mảng phẳng. | Nốt ruồi kết hợp có hai loại nốt ruồi khác nhau trong cùng một tổn thương – thường là nốt ruồi xanh và nốt ruồi hợp chất. |
+| ![ ](https://dermnetnz.org/assets/Uploads/lesions/mole2.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/mole3.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/compound-naevus.jpg) | ![](https://dermnetnz.org/assets/manualthumbnails/lesions/img/combined-naevus-sm.jpg) |
+
+[Xem thêm hình ảnh về nốt ruồi](https://dermnetnz.org/topics/mole-images).
+
+[Da liễu học](https://dermnetnz.org/topics/dermoscopy) đã tạo ra một phân loại mới dựa trên các mẫu sắc tố của nốt ruồi sắc tố. Ví dụ bao gồm:
+
+| Nốt ruồi dạng lưới | Nốt ruồi dạng cầu | Nốt ruồi xanh | Nốt ruồi dạng sao |
+| --- | --- | --- | --- |
+| Nốt ruồi dạng lưới tiết lộ một mạng lưới các đường nâu giao nhau. | Nốt ruồi dạng cầu đặc trưng bởi các cấu trúc hình bầu dục nâu tập hợp. | Nốt ruồi xanh là một tổn thương không có cấu trúc đồng nhất, màu xanh thép. | Nốt ruồi dạng sao tiết lộ các đường tia xung quanh ngoại vi của tổn thương. |
+| ![](https://dermnetnz.org/assets/Uploads/lesions/reticular.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/globular.jpg) | ![ ](https://dermnetnz.org/assets/Uploads/lesions/blue-naevus.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/starburst.jpg) |
+
+| Nốt ruồi liên quan đến vị trí: mặt | Nốt ruồi liên quan đến vị trí: lòng bàn tay | Nốt ruồi có đặc điểm đặc biệt | Nốt ruồi không phân loại được |
+| --- | --- | --- | --- |
+| Nốt ruồi mặt tiết lộ mạng lưới giả quanh nang lông | Nốt ruồi lòng bàn tay (trên lòng bàn tay và lòng bàn chân) có xu hướng tạo thành các đường song song. | Nốt ruồi có đặc điểm đặc biệt bao gồm nốt ruồi bị chàm hóa (minh họa), nốt ruồi bị kích thích và [nốt ruồi halo](https://dermnetnz.org/topics/halo-naevus). | Nốt ruồi không phân loại được không có bất kỳ mẫu nào khác. |
+| ![ ](https://dermnetnz.org/assets/Uploads/lesions/facial.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/acral.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/meyerson.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/unclassifiable.jpg) |
+
+### Nốt ruồi sắc tố mắc phải
+
+Nốt ruồi thông thường xuất hiện sau khi sinh có thể được gọi là nốt ruồi mắc phải. Nốt ruồi sắc tố mắc phải được đặt nhiều tên khác nhau và có sự chồng chéo đáng kể trong mô tả.
+
+Nốt ruồi đặc trưng là nhóm nốt ruồi chủ yếu ở một cá nhân có nhiều nốt ruồi.
+
+| Nốt ruồi nâu đặc | Nốt ruồi hồng đặc | Nốt ruồi nhật thực | Nốt ruồi cockade |
+| --- | --- | --- | --- |
+| Nốt ruồi nâu đặc có sắc tố nâu đồng nhất. | Nốt ruồi hồng đặc thấy ở người da sáng và thiếu sắc tố melanin. | Nốt ruồi nhật thực có một vòng, hoặc đoạn của một vòng, sắc tố tối hơn xung quanh trung tâm màu nâu hoặc hồng. Thường thấy ở da đầu. | Nốt ruồi cockade, hoặc nốt ruồi en cocarde/cockade, có một nốt ruồi tối trung tâm bao quanh bởi các vòng tròn đồng tâm của sắc tố sáng và tối như một bông hoa hồng. |
+| ![](https://dermnetnz.org/assets/Uploads/lesions/solid-brown.jpg) | ![](https://dermnetnz.org/assets/Uploads/solid-pink.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/eclipse-naevus.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/naevus-en-cocarde.jpg) |
+
+| Nốt ruồi với giảm sắc tố quanh nang lông | Nốt ruồi trứng chiên | Nốt ruồi dạng lentiginous | Nốt ruồi với sắc tố lệch tâm |
+| --- | --- | --- | --- |
+| Nốt ruồi với giảm sắc tố quanh nang lông có các đốm trắng quanh mỗi sợi lông. Dễ thấy hơn khi soi da. | Nốt ruồi trứng chiên là một nốt ruồi hợp chất với một vành sắc tố phẳng xung quanh một phần trung tâm gồ ghề – phần gồ ghề có thể sáng hơn hoặc tối hơn vành sắc tố. | Nốt ruồi dạng lentiginous là các tổn thương nhỏ, nâu đậm hoặc đen, phẳng, thường có một vành hơi nhạt hơn – người có nhiều nốt ruồi dạng lentiginous được cho là có kiểu hình báo đốm. | Dấu hiệu Bolognia đề cập đến một khu vực nhỏ vô hại của màu sắc tối hơn ở một bên của nốt ruồi. |
+| ![](https://dermnetnz.org/assets/Uploads/follicular-hypopigmentation.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/fried-egg-naevus-sm.jpg) | ![ ](https://dermnetnz.org/assets/Uploads/doctors/dermoscopy-course/images/lentiginous-naevus-1.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/eccentric-pigment.jpg) |
+
+Các loại nốt ruồi sắc tố không phổ biến bao gồm:
+
+- [Nốt ruồi Spitz](https://dermnetnz.org/topics/spitz-naevus) hoặc nốt ruồi tế bào biểu mô: một nốt ruồi hình vòm màu hồng (Spitz cổ điển) hoặc nâu (Spitz sắc tố) xuất hiện ở trẻ em và người trẻ tuổi.
+- Nốt ruồi Reed: loại nốt ruồi Spitz có sắc tố đậm với mẫu da liễu dạng sao
+- Nốt ruồi agminated: một cụm nốt ruồi tương tự
+- Nốt ruồi kissing: nốt ruồi sắc tố liền kề trên mí mắt trên và dưới, do hình thành nốt ruồi trước khi tách mí mắt _trong tử cung._
+
+Thuật ngữ [nốt ruồi không điển hình](https://dermnetnz.org/topics/atypical-melanocytic-naevus) có thể được sử dụng theo nhiều cách.
+
+- Một tổn thương lành tính có một số đặc điểm lâm sàng hoặc mô học của [melanoma](https://dermnetnz.org/topics/melanoma)
+- Một nốt ruồi sắc tố có đặc điểm cụ thể: lớn (> 5 mm); biên giới không rõ ràng hoặc không đều; sắc thái màu sắc khác nhau; với các thành phần phẳng và gồ ghề.
+- Hoặc, bất kỳ nốt ruồi nào trông kỳ lạ; lớn, hoặc khác với các nốt ruồi khác của bệnh nhân.
+
+Nốt ruồi không điển hình thường xảy ra ở người da sáng và do tiếp xúc với ánh nắng mặt trời. Chúng có thể đơn độc hoặc nhiều. Mô học được báo cáo là nốt ruồi nối hoặc hợp chất loạn sản và có các đặc điểm mô học cụ thể (nốt ruồi Clark).
+
+| Nốt ruồi thông thường | Nốt ruồi trên da tối | Nốt ruồi không điển hình | Nốt ruồi loạn sản |
+| --- | --- | --- | --- |
+| Nốt ruồi thông thường là một nốt ruồi phẳng với một màu đồng nhất. | Trên da tối, nốt ruồi thường có màu đen. | Người có nhiều nốt ruồi không điển hình có nguy cơ cao mắc melanoma (nốt ruồi ung thư). | Nốt ruồi loạn sản mô tả một nốt ruồi không điển hình có tiêu chí mô học cụ thể. |
+| ![](https://dermnetnz.org/assets/Uploads/lesions/common-mole.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/dark-naevus.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/img/moles-sm.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/dysplastic.jpg) |
+
+| Nốt ruồi xanh | Nốt ruồi tế bào | Nốt ruồi Miescher | Nốt ruồi Unna |
+| --- | --- | --- | --- |
+| [Nốt ruồi xanh](https://dermnetnz.org/topics/blue-naevus) là một loại nốt ruồi bì có sắc tố sâu. | Nốt ruồi tế bào là một nốt ruồi bì không có sắc tố. | Nốt ruồi Miescher là một nốt ruồi bì hình vòm mịn thường thấy trên mặt. | Nốt ruồi Unna là một nốt ruồi bì có nhú hình quả mâm xôi. |
+| ![ ](https://dermnetnz.org/assets/Uploads/lesions/blue-naevus5.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/cellular-naevus.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/miescher.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/unna-naevus.jpg) |
+
+| Nốt ruồi Meyerson | Nốt ruồi halo | Nốt ruồi Spitz | Nốt ruồi Reed |
+| --- | --- | --- | --- |
+| [Nốt ruồi Meyerson](https://dermnetnz.org/topics/meyerson-naevus) là một nốt ruồi bị ảnh hưởng bởi một vòng [eczema/viêm da](https://dermnetnz.org/topics/dermatitis). | [Nốt ruồi halo](https://dermnetnz.org/topics/halo-naevus) hoặc nốt ruồi Sutton có một vòng trắng xung quanh nốt ruồi. Nốt ruồi dần dần mờ đi trong vài năm. | [Nốt ruồi Spitz](https://dermnetnz.org/topics/spitz-naevus) hoặc nốt ruồi tế bào biểu mô là một nốt ruồi hình vòm màu hồng (Spitz cổ điển) hoặc nâu (Spitz sắc tố) xuất hiện ở trẻ em và người trẻ tuổi. | Nốt ruồi Reed hoặc nốt ruồi tế bào hình thoi là một nốt ruồi có màu rất tối với các tế bào sắc tố bì hình thoi, thường thấy trên các chi. |
+| ![](https://dermnetnz.org/assets/Uploads/lesions/w/meyerson5.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/halo.jpg) | ![ ](https://dermnetnz.org/assets/Uploads/lesions/s/spitz3.jpg) | ![ ](https://dermnetnz.org/assets/Uploads/lesions/w/reed-naevus.jpg) |
+
+| Nốt ruồi tái phát | Nốt ruồi agminated | Nốt ruồi lòng bàn tay | Nốt ruồi đơn vị móng |
+| --- | --- | --- | --- |
+| Nốt ruồi tái phát đề cập đến sự tái xuất hiện của sắc tố trong một vết sẹo sau khi loại bỏ nốt ruồi bằng phẫu thuật – điều này có thể có hình dạng kỳ lạ. | Nốt ruồi agminated là một cụm nốt ruồi hoặc tàn nhang tương tự. | Nốt ruồi lòng bàn tay đề cập đến một nốt trên lòng bàn tay hoặc lòng bàn chân. | Nốt ruồi đơn vị móng gây ra một dải sắc tố dọc đồng nhất trên một móng. |
+| ![](https://dermnetnz.org/assets/Uploads/lesions/recurrent-naevus.jpg) | ![](https://dermnetnz.org/assets/Uploads/lesions/agminated.jpg) | ![ ](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/acral-naevus.jpg) | ![](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/a/nail-nevus-dermoscopy.jpg) |
+
+[Xem thêm hình ảnh về nốt ruồi halo](https://dermnetnz.org/topics/halo-mole-images)
+
+[Xem thêm hình ảnh về nốt ruồi không điển hình.](https://dermnetnz.org/topics/atypical-naevus-images)
+
+## Biến chứng của nốt ruồi sắc tố là gì?
+
+Mọi người lo lắng về nốt ruồi của họ vì họ đã nghe nói về [melanoma](https://dermnetnz.org/topics/melanoma), một sự tăng sinh ác tính của các tế bào sắc tố là lý do phổ biến nhất gây tử vong do [ung thư da](https://dermnetnz.org/topics/skin-cancer).
+
+- Ban đầu, melanoma có thể trông giống như một nốt ruồi sắc tố vô hại, nhưng theo thời gian nó trở nên rối loạn hơn về cấu trúc và có xu hướng lớn lên.
+- Người có nhiều nốt ruồi có nguy cơ phát triển melanoma cao hơn so với người có ít nốt ruồi, đặc biệt nếu họ có trên 100 nốt.
+
+Nốt ruồi sắc tố đôi khi thay đổi vì các lý do khác ngoài melanoma, ví dụ sau khi tiếp xúc với ánh nắng mặt trời hoặc trong thời kỳ mang thai. Chúng có thể lớn lên, thoái hóa hoặc biến mất.
+
+- Một [nốt ruồi Meyerson](https://dermnetnz.org/topics/meyerson-naevus) ngứa và khô vì nó được bao quanh bởi eczema.
+- Một nốt ruồi Sutton hoặc [nốt ruồi halo](https://dermnetnz.org/topics/halo-naevus) được bao quanh bởi một mảng trắng và mờ đi trong vài năm
+- Một nốt ruồi tái phát là một nốt xuất hiện trong một vết sẹo sau khi loại bỏ nốt ruồi sắc tố bằng phẫu thuật — điều này có thể có hình dạng kỳ lạ.
+
+## Làm thế nào để chẩn đoán nốt ruồi sắc tố?
+
+Nốt ruồi sắc tố thường được chẩn đoán lâm sàng dựa trên hình thức điển hình của chúng. Nếu có bất kỳ nghi ngờ nào về chẩn đoán, một chuyên gia có thể được tư vấn trực tiếp hoặc với sự trợ giúp của hình ảnh lâm sàng và da liễu. Điều này đặc biệt quan trọng nếu:
+
+- Một nốt ruồi thay đổi kích thước, hình dạng, cấu trúc hoặc màu sắc
+- Một nốt ruồi mới phát triển trong cuộc sống trưởng thành (> 40 tuổi)
+- Nó trông khác với các nốt ruồi khác của người đó (một nốt ruồi xấu xí)
+- Nó có các đặc điểm ABCD (Bất đối xứng, Biên giới không đều, Biến đổi màu sắc, Đường kính > 6 mm)
+- Nó đang chảy máu, có vảy hoặc ngứa.
+
+Hầu hết các tổn thương da có các đặc điểm này thực sự vô hại khi được đánh giá bởi một chuyên gia sử dụng [da liễu học](https://dermnetnz.org/topics/dermoscopy). Hình ảnh da liễu kỹ thuật số ngắn hạn có thể được sử dụng trong các tổn thương phẳng không rõ ràng để kiểm tra sự thay đổi theo thời gian.
+
+Nốt ruồi vẫn nghi ngờ là [melanoma](https://dermnetnz.org/topics/melanoma) được cắt bỏ để làm mô học (sinh thiết chẩn đoán). Một [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) một phần không được khuyến khích, vì nó có thể bỏ qua một khu vực thay đổi ung thư.
+
+## Điều trị nốt ruồi sắc tố là gì?
+
+Hầu hết các nốt ruồi sắc tố là vô hại và có thể được để lại an toàn. Chúng có thể được loại bỏ trong các trường hợp sau:
+
+- Để loại trừ ung thư
+- Nếu một nốt ruồi gây phiền toái: có thể bị kích thích bởi quần áo, lược hoặc dao cạo
+- Lý do thẩm mỹ: nốt ruồi không đẹp.
+
+Các kỹ thuật phẫu thuật bao gồm:
+
+- [Sinh thiết cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) của một nốt ruồi sắc tố phẳng hoặc nghi ngờ
+- [Sinh thiết cạo](https://dermnetnz.org/topics/skin-biopsy) của một nốt ruồi sắc tố nhô lên
+- [Phá hủy điện](https://dermnetnz.org/topics/electrosurgery)
+- [Laser](https://dermnetnz.org/topics/lasers-in-dermatology) để giảm sắc tố hoặc loại bỏ lông thô.
+
+## Có thể ngăn ngừa nốt ruồi sắc tố không?
+
+Số lượng nốt ruồi sắc tố có thể được giảm thiểu bằng cách bảo vệ nghiêm ngặt khỏi ánh nắng mặt trời, bắt đầu từ khi sinh ra. [Kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) một mình không đủ để ngăn ngừa nốt ruồi mới xuất hiện.
+
+Ở bất kỳ độ tuổi nào, [bảo vệ khỏi ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) là quan trọng để giảm [lão hóa da](https://dermnetnz.org/topics/ageing-skin) và nguy cơ [ung thư da](https://dermnetnz.org/topics/skin-cancer).
+
+- Ở New Zealand, [Cảnh báo Bảo vệ khỏi ánh nắng mặt trời SunSmart](https://www.sunsmart.org.nz/resources/sun-protection-alert/) khuyên khi nào cần bảo vệ.
+- [Che chắn](https://dermnetnz.org/topics/sun-protective-clothing). Đội mũ, mặc áo dài tay và váy dài hoặc quần dài. Chọn vải được thiết kế cho ánh nắng mặt trời (UPF 40+) khi ra ngoài.
+- Thoa [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) lên các khu vực bạn không thể che chắn. Chọn kem chống nắng phổ rộng có độ bảo vệ cao (SPF 50+), thoa thường xuyên lên các khu vực tiếp xúc.
+
+## Triển vọng cho nốt ruồi sắc tố là gì?
+
+Hầu hết các nốt ruồi sắc tố xuất hiện trong thời thơ ấu sẽ tồn tại mãi mãi. Thanh thiếu niên và người trẻ tuổi có xu hướng có số lượng nốt ruồi nhiều nhất. Có ít hơn trong cuộc sống sau này vì một số trong số chúng dần dần mờ đi.
+
+Để tăng cơ hội phát hiện [melanoma](https://dermnetnz.org/topics/melanoma) sớm, khuyến nghị:
+
+- [Tự kiểm tra da](https://dermnetnz.org/topics/self-skin-examination) hàng tháng
+- Bệnh nhân nhận thấy sự thay đổi đáng kể trong một nốt ruồi hoặc một tổn thương mới nên cho bác sĩ hoặc chuyên gia da liễu của họ xem
+- Kiểm tra da thường xuyên ở bệnh nhân có nhiều nốt ruồi, [nốt ruồi không điển hình](https://dermnetnz.org/topics/atypical-melanocytic-naevus), hoặc đã từng mắc ung thư da trước đó
+- Chụp ảnh toàn thân và hình ảnh da liễu kỹ thuật số ( [bản đồ nốt ruồi](https://dermnetnz.org/topics/photographic-skin-surveillance)) cho bệnh nhân có nguy cơ cao mắc melanoma, đặc biệt nếu họ có nhiều nốt ruồi sắc tố.
+
+### Tài liệu tham khảo
+
+- Nốt ruồi đặc trưng. Suh KY, Bolognia JL. J Am Acad Dermatol. 2009 Mar;60(3):508–14. Đánh giá. [Medline](http://www.ncbi.nlm.nih.gov/pubmed/19231649).
+
+### Trên DermNet
+
+- [Nốt ruồi sắc tố – mô học](https://dermnetnz.org/topics/melanocytic-naevi-pathology)
+- [Melanoma](https://dermnetnz.org/topics/melanoma)
+- [Nốt ruồi không điển hình](https://dermnetnz.org/topics/atypical-melanocytic-naevus)
+- [Nốt ruồi halo](https://dermnetnz.org/topics/halo-naevus)
+- [Tàn nhang](https://dermnetnz.org/topics/brown-spots-and-freckles)
+- [Tự kiểm tra da](https://dermnetnz.org/topics/self-skin-examination)
+- [Da liễu học](https://dermnetnz.org/topics/dermoscopy)
+- [Tổn thương da, khối u và ung thư](https://dermnetnz.org/topics/skin-lesions-tumours-and-cancers)
+- [Tổn thương da lành tính phổ biến](https://dermnetnz.org/topics/benign-skin-lesions)
+- [Tổn thương sắc tố lành tính](https://dermnetnz.org/cme/lesions/benign-melanocytic-lesions) — khóa học tổn thương da phổ biến
+- [Bức xạ tia cực tím](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health)
+
+### Các trang web khác
+
+- [Nốt ruồi](http://www.nlm.nih.gov/medlineplus/moles.html) — Medline Plus
+- [Nevus Outreach, Inc.](http://www.nevus.org/): Một tổ chức phi lợi nhuận dành riêng để nâng cao nhận thức và tìm kiếm phương pháp chữa trị cho Nốt ruồi Bẩm sinh và Bệnh Melanosis Thần kinh.
+- [MoleMap New Zealand](http://www.molemap.co.nz/)
+- [Nốt ruồi sắc tố](http://emedicine.medscape.com/article/1058445-overview) — Tham khảo Medscape
+- [Nốt ruồi sắc tố (Nốt ruồi)](https://www.bad.org.uk/pils/melanocytic-naevi-pigmented-moles/) — Hiệp hội Da liễu Anh
+- [Grain de beauté](http://www.abimelec.com/melanome_malin.htm) — Trang web của Dr Ph Abimelec (tiếng Pháp)
+- [Nốt ruồi và melanoma: Tài liệu cho bệnh nhân](http://pedsderm.net/for-patients-families/patient-handouts/) — Hiệp hội Da liễu Nhi khoa
+- [Nốt ruồi](https://www.aad.org/public/diseases/bumps-and-growths/moles) — Học viện Da liễu Hoa Kỳ
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

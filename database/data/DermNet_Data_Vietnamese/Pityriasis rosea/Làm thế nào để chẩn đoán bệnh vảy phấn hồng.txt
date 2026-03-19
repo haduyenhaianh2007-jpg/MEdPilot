@@ -1,0 +1,20 @@
+## Làm thế nào để chẩn đoán bệnh vảy phấn hồng?
+
+Việc nhận diện có thể gặp khó khăn khi các triệu chứng mới bắt đầu. Không có xét nghiệm không xâm lấn nào xác nhận được tình trạng này. Chẩn đoán thường được thực hiện lâm sàng nhưng có thể được hỗ trợ bởi:
+
+- Mô học — viêm da bán cấp được thấy trên mô học
+- Bạch cầu ái toan là đặc trưng của bệnh vảy phấn hồng do thuốc gây ra.
+
+Xét nghiệm máu cho HHV6 (IgG hoặc PCR) không được chỉ định vì gần như 100% cá nhân đã bị nhiễm virus này từ khi còn nhỏ và các xét nghiệm thương mại hiện tại không đo lường hoạt động của HHV6.
+
+Nếu chẩn đoán không chắc chắn, đặc biệt nếu lòng bàn tay và lòng bàn chân bị ảnh hưởng, cần xem xét khả năng của các tình trạng khác.
+
+#### Bảng 1. Tiêu chí chẩn đoán đề xuất cho bệnh vảy phấn hồng
+
+| Đặc điểm lâm sàng | Tiêu chí |
+| --- | --- |
+| **Cần thiết** | - Tổn thương hình tròn hoặc hình bầu dục riêng biệt<br>  <br>- Bong vảy trên hầu hết các tổn thương<br>  <br>- Bong vảy viền ngoại vi với vùng trung tâm sạch trên ít nhất hai tổn thương |
+| **Tùy chọn**<br>(Ít nhất một trong các đặc điểm sau) | - Phân bố ở thân và chi gần (10% tổn thương xa hơn giữa cánh tay trên và giữa đùi)<br>  <br>- Hầu hết các tổn thương dọc theo đường nếp da<br>  <br>- Mảng báo hiệu ≥ 2 ngày trước các tổn thương khác |
+| **Loại trừ** | - Nhiều mụn nước nhỏ ở trung tâm của ≥ 2 tổn thương<br>  <br>- ≥ 2 tổn thương trên bề mặt da lòng bàn tay hoặc lòng bàn chân |
+
+Nguồn: Zawar V, Chuh A. Khả năng áp dụng tiêu chí chẩn đoán đề xuất của bệnh vảy phấn hồng: kết quả của một nghiên cứu trường hợp - đối chứng triển vọng ở Ấn Độ. Indian J Dermatol. Tháng 11 năm 2013

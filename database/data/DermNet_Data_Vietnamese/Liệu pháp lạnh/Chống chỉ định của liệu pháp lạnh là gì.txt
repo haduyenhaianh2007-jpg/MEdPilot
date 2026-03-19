@@ -1,0 +1,17 @@
+## Chống chỉ định của liệu pháp lạnh là gì?
+
+Liệu pháp lạnh không nên được sử dụng cho:
+
+- Tổn thương da chưa được chẩn đoán
+- [U hắc tố](https://dermnetnz.org/topics/melanoma)
+- Bệnh nhân có làn da tối màu
+- Tổn thương cần xét nghiệm mô
+- Tổn thương trong khu vực có tuần hoàn bị suy giảm
+- Bệnh nhân có phản ứng bất lợi trước đó với liệu pháp lạnh hoặc không thể chấp nhận tác dụng phụ
+- Trẻ nhỏ
+- Bệnh nhân bất tỉnh
+- Các tình trạng bị trầm trọng hơn do tiếp xúc với lạnh:
+  - [Bệnh Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon)
+  - [Mề đay do lạnh](https://dermnetnz.org/topics/cold-urticaria)
+  - [Cryoglobulinaemia](https://dermnetnz.org/topics/cryoglobulinaemia)
+  - [Đa u tủy xương](https://dermnetnz.org/topics/plasmacytoma).

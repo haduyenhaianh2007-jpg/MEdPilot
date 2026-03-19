@@ -1,0 +1,7 @@
+## Chẩn đoán phân biệt cho bệnh móng vuốt
+
+Chẩn đoán phân biệt cho bệnh móng vuốt bao gồm:
+
+- [Sự lệch bẩm sinh của móng chân](https://dermnetnz.org/topics/congenital-malalignment-of-the-great-toenails) (khi tấm móng bị lệch sang bên và không song song với trục chính của đốt ngón chân xa, xảy ra ở trẻ sơ sinh hoặc trẻ nhỏ) \[4\]
+- [Bệnh pachyonychia bẩm sinh](https://dermnetnz.org/topics/pachyonychia-congenita), trong đó móng tay thường bị ảnh hưởng nhiều hơn, và móng dày có màu nâu (các nghiên cứu di truyền phân tử có thể được thực hiện để phát hiện đột biến trong các gen keratin _KRT6a_ và _KRT16_)
+- [Nấm móng](https://dermnetnz.org/topics/fungal-nail-infections), có thể tồn tại cùng với bệnh móng vuốt (cần lấy mẫu móng để nuôi cấy nấm [dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections), [nấm men](https://dermnetnz.org/topics/yeasts-on-human-skin), hoặc [mốc](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis)) \[5\].

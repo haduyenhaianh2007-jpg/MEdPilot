@@ -1,0 +1,37 @@
+##### Nhiễm trùng da do vi khuẩn — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Rối loạn da liễu do vi khuẩn, Nhiễm trùng da do vi khuẩn, Nhiễm trùng toàn thân do vi khuẩn với biểu hiện trên da
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+A49.9, L08.8
+
+ICD-11:
+
+IC41, 1C44, 1B7Y
+
+SNOMED CT:
+
+128936008, 275441009, 238417000, 721267000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Nhiễm trùng da do vi khuẩn**
+
+#### Được xem xét lần cuối: Tháng 5 năm 2023
+
+Tác giả: Nataki Duncan MPH, MHS, Trường Y Meharry, Hoa Kỳ; Tiến sĩ Libby Whittaker, Nhà văn của DermNet, New Zealand (2023)
+
+Người đóng góp trước đây: Tiến sĩ Amanda Oakley, Bác sĩ da liễu (2002)
+
+Bác sĩ da liễu xem xét: Tiến sĩ Ian Coulson
+
+Chỉnh sửa bởi bộ phận nội dung DermNet
+
+[Giới thiệu](https://dermnetnz.org/topics/bacterial-skin-infections#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/bacterial-skin-infections#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/bacterial-skin-infections#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/bacterial-skin-infections#Clinical%20features%3Cbr%20/%3E) [Biến thể trong các loại da](https://dermnetnz.org/topics/bacterial-skin-infections#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/bacterial-skin-infections#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/bacterial-skin-infections#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/bacterial-skin-infections#Differential%20diagnoses%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/bacterial-skin-infections#Prevention%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/bacterial-skin-infections#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/bacterial-skin-infections#Outcome%3Cbr%20/%3E) [Bài giảng điện tử](https://dermnetnz.org/topics/bacterial-skin-infections#E-lecture)

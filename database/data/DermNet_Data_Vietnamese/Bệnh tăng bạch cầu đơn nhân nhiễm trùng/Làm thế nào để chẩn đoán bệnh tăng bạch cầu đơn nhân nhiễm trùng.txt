@@ -1,0 +1,24 @@
+## Chẩn đoán bệnh tăng bạch cầu đơn nhân nhiễm trùng như thế nào?
+
+Các đặc điểm lâm sàng và xét nghiệm heterophile dương tính thường đủ để chẩn đoán bệnh tăng bạch cầu đơn nhân nhiễm trùng.
+
+### Kháng thể heterophile (Monospot)
+
+- Kháng thể heterophile trở nên dương tính từ 2–9 tuần sau khi nhiễm; độ nhạy là 70–92% trong hai tuần đầu tiên.
+- Chúng có thể tồn tại trong một năm hoặc lâu hơn.
+- Khoảng 40% trẻ em dưới 4 tuổi không phát triển kháng thể heterophile sau khi nhiễm EBV lần đầu.
+- Kháng thể heterophile không đặc hiệu và có thể xuất hiện trong các [nhiễm trùng](https://dermnetnz.org/topics/bacterial-skin-infections) khác, bệnh ác tính và [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology).
+
+### Các xét nghiệm máu khác
+
+- Mức độ bạch cầu lympho tăng với ít nhất 10% là không điển hình. Các nhiễm virus khác thường có bạch cầu lympho giảm.
+- Immunoglobulin (Ig)M đối với kháng nguyên vỏ virus (VCA) trong giai đoạn hoạt động của bệnh tăng bạch cầu đơn nhân nhiễm trùng được tìm thấy ở 75% bệnh nhân và thường biến mất trong vòng 4–6 tuần.
+- Kháng thể VCA IgG đạt mức tối đa khoảng 2–4 tuần sau khi xuất hiện triệu chứng và sau đó giảm nhẹ. Chúng có thể tồn tại suốt đời.
+- Các xét nghiệm khác đánh giá kháng nguyên sớm EBV (EA) và kháng nguyên nhân (EBNA).
+- Tải lượng EBV cao được tìm thấy bằng phản ứng chuỗi polymerase (PCR) trong khoang miệng và máu trong giai đoạn tế bào phân giải cấp tính.
+- Xét nghiệm chức năng gan thường cho thấy mức độ transaminase tăng cao.
+- Các xét nghiệm khác sẽ phụ thuộc vào các cơ quan bị ảnh hưởng bởi nhiễm trùng.
+
+### Hình ảnh
+
+Siêu âm bụng có thể đánh giá gan lách to.

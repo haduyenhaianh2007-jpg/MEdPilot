@@ -1,0 +1,29 @@
+##### Nhiễm trùng vết thương — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Nhiễm trùng vị trí phẫu thuật
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+T81.41, T81.42, T81.43, T81.49
+
+ICD-11:
+
+81.2Y, 81.22, NE81.2Z, NE81.20, NE81.21, MC65
+
+SNOMED CT:
+
+76844004, 433202001, 58126003, 213286009, 213283000, 225550006, 609341000, 609340004, 609339001, 298010008, 225150002, 422181004, 391158008, 239163008, 298012000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Nhiễm trùng vết thương**
+
+Tác giả: Vanessa Ngan, Nhà văn nhân viên, 2005.
+
+[Giới thiệu](https://dermnetnz.org/topics/wound-infections#Introduction%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/wound-infections#Clinical%20features%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/wound-infections#Causes%3Cbr%20/%3E) [Nguy cơ](https://dermnetnz.org/topics/wound-infections#Risks%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/wound-infections#Prevention)

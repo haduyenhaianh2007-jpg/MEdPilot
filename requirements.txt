@@ -1,0 +1,27 @@
+numpy>=2.0.0
+scikit-learn>=1.4.0
+# FastAPI & Web
+fastapi>=0.109.0
+uvicorn>=0.25.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Data Processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Vector Database (optimized for embedded use)
+chromadb>=0.4.0
+
+# Embeddings - ⚡ LIGHTWEIGHT MODEL
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Logging
+colorlog==6.8.0

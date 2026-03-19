@@ -1,0 +1,15 @@
+## Liệu pháp quang trị liệu UVB được thực hiện như thế nào?
+
+Quang trị liệu UVB được thực hiện trong một buồng đặc biệt được thiết kế riêng. Các ống đèn huỳnh quang được đặt để nhắm mục tiêu vào các khu vực bị ảnh hưởng bằng bức xạ tia cực tím (ví dụ, tay hoặc chân). Đối với các liệu pháp toàn thân, bệnh nhân sẽ cởi quần áo với bộ phận sinh dục được che phủ, và mắt hoặc toàn bộ khuôn mặt nên được bảo vệ bằng kính bảo hộ hoặc mặt nạ.
+
+Hầu hết bệnh nhân sẽ điều trị ba lần một tuần, cách nhau ít nhất 24 giờ. Thời gian mỗi phiên ban đầu là ≤5 phút, và có thể tăng dần theo yêu cầu đến tối đa 30 phút mỗi phiên. Số lượng và thời gian của các phiên điều trị thay đổi tùy theo từng cá nhân, dựa trên loại da, tình trạng da và phản ứng trước đó với điều trị.
+
+Mặc dù hầu hết UVB được thực hiện tại văn phòng hoặc các cơ sở y tế, quang trị liệu tại nhà rất phổ biến và tiện lợi cho bệnh nhân. Hơn nữa, quang trị liệu tại nhà đã chứng minh không thua kém so với liệu pháp tại phòng khám đối với bệnh vảy nến giọt và bệnh vảy nến mảng mãn tính.
+
+Kiểm tra quang học để xác định liều tối thiểu gây đỏ da (kiểm tra MED) được khuyến nghị và liều khởi đầu thường là 70% của MED. Liều được tăng lên 20% mỗi lần điều trị, miễn là không có tác dụng phụ hoặc các đợt bỏng.
+
+Các thiết bị quang trị liệu nhắm mục tiêu (ví dụ, laser excimer, thiết bị chải hoặc lược) cũng đã được phát triển như là các lựa chọn điều trị cho các khu vực khó khăn hơn trong khi tránh da không bị ảnh hưởng.
+
+![Buồng UVB toàn thân](https://dermnetnz.org/assets/Non-clinical-images/narrow-band-uvb-phototherapy-cabinet.jpg)
+
+Buồng UVB toàn thân

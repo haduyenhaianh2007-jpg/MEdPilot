@@ -1,0 +1,28 @@
+## Điều trị cho bệnh gai đen là gì?
+
+Phương pháp điều trị chính là quản lý bệnh lý cơ bản. Giáo dục bệnh nhân cũng là một thành phần quan trọng.
+
+### Biện pháp chung
+
+- Điều trị không dùng thuốc bao gồm thay đổi lối sống, như thiết lập thói quen ăn uống lành mạnh và tăng cường tập thể dục nhằm cải thiện kháng insulin/chuyển hóa glucose.
+- Điều trị bằng thuốc bao gồm metformin và rosiglitazone, được sử dụng để giảm mức insulin và cải thiện mức độ trung bình của bệnh gai đen.
+- Bệnh gai đen ác tính cần được xử lý cẩn thận và quản lý bất kỳ bệnh ác tính cơ bản nào. [Cyproheptadine](https://dermnetnz.org/topics/antihistamines) đã được chứng minh là hỗ trợ trong việc thoái lui bệnh gai đen liên quan đến ác tính bằng cách ức chế sự giải phóng các yếu tố do khối u sản xuất góp phần vào bệnh gai đen.
+- Giải quyết bệnh gai đen do thuốc gây ra cần xác định và ngừng sử dụng thuốc nghi ngờ.
+- Bệnh gai đen do hội chứng có thể được cải thiện với điều trị hội chứng cơ bản, chẳng hạn như sử dụng thuốc tránh thai trong bối cảnh hội chứng buồng trứng đa nang.
+
+### Biện pháp cụ thể
+
+Điều trị bệnh gai đen cũng có thể được thực hiện vì lý do thẩm mỹ. Để đạt được mục đích này, một số phương pháp điều trị bằng thuốc bao gồm:
+
+- [Chất tiêu sừng](https://dermnetnz.org/topics/keratolytic-agents): axit salicylic, axit glycolic, axit trichloroacetic
+- [Retinoid bôi ngoài da](https://dermnetnz.org/topics/topical-retinoids): gel adapalene, kem tretinoin
+- [Calcipotriol](https://dermnetnz.org/topics/calcipotriol)
+- Axit béo Omega-3 (ví dụ, dầu cá)
+- Vitamin D3 tiêm trong tổn thương
+- [Podophyllin](https://dermnetnz.org/topics/podophyllotoxin).
+
+Các phương pháp thủ thuật bao gồm:
+
+- [Psoralen cộng với UVA (PUVA)](https://dermnetnz.org/topics/puva-photochemotherapy)
+- [Mài da](https://dermnetnz.org/topics/dermabrasion)
+- [Laser alexandrite xung dài](https://dermnetnz.org/topics/alexandrite-laser-treatment)

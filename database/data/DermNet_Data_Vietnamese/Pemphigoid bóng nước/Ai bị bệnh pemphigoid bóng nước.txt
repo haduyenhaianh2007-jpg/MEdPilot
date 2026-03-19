@@ -1,0 +1,21 @@
+## Ai mắc bệnh pemphigoid bóng nước?
+
+Pemphigoid bóng nước thường xuất hiện ở những người trên 80 tuổi và chủ yếu ảnh hưởng đến những người trên 50 tuổi. Nó có thể xảy ra ở người lớn trẻ tuổi, nhưng [pemphigoid bóng nước ở trẻ sơ sinh và trẻ em](https://dermnetnz.org/topics/childhood-bullous-pemphigoid) là hiếm.
+
+- Pemphigoid bóng nước xảy ra đồng đều ở nam và nữ.
+- Có sự liên quan với kháng nguyên bạch cầu người (HLA) cho thấy có sự di truyền dễ mắc bệnh.
+- Bệnh phổ biến hơn ở những bệnh nhân lớn tuổi có bệnh lý thần kinh, đặc biệt là đột quỵ, sa sút trí tuệ và bệnh Parkinson.
+- Nguy cơ phát triển pemphigoid bóng nước cao hơn ở những người bị [vảy nến](https://dermnetnz.org/topics/psoriasis), và nó có thể được kích hoạt bởi điều trị vảy nến bằng [quang trị liệu](https://dermnetnz.org/topics/phototherapy).
+- Có thể có sự liên quan với ung thư nội tạng ở một số bệnh nhân.
+- Một loại thuốc, chấn thương, hoặc [nhiễm trùng](https://dermnetnz.org/topics/skin-infections) da có thể kích hoạt sự khởi phát của bệnh.
+- Hiếm khi, pemphigoid bóng nước có thể liên quan đến bệnh máu khó đông mắc phải do hình thành kháng thể chống yếu tố VIII.
+
+### Thuốc liên quan đến pemphigoid bóng nước
+
+Các loại thuốc phổ biến nhất liên quan đến pemphigoid bóng nước là liệu pháp miễn dịch ức chế PD1 (như [pembrolizumab](https://dermnetnz.org/topics/pembrolizumab), [nivolumab](https://dermnetnz.org/topics/nivolumab)) được sử dụng để điều trị [u ác tính di căn](https://dermnetnz.org/topics/metastatic-melanoma) và các loại ung thư khác.
+
+Pemphigoid xảy ra ở 0,3% bệnh nhân ung thư được điều trị bằng chất ức chế điểm kiểm soát, và có thể phát triển sau 12 tháng điều trị, hoặc thậm chí sau khi ngừng điều trị. Ngứa tiền triệu trước khi nổi bóng nước và bóng nước niêm mạc là phổ biến. Thường cần phải ngừng thuốc.
+
+Các chất ức chế dipeptidyl peptidase-4 (thường gọi là 'gliptins'), được sử dụng để điều trị bệnh tiểu đường (như sitagliptin, saxagliptin, linagliptin và đặc biệt là vildagliptin), cũng đã được báo cáo gây ra pemphigoid bóng nước. Thời gian trung bình để khởi phát pemphigoid bóng nước là 11 tháng sau khi bắt đầu điều trị. Không thường xuyên, có sự tham gia của niêm mạc.
+
+Các trường hợp khác của pemphigoid bóng nước đã được liên kết với [kháng sinh](https://dermnetnz.org/topics/antibiotics), penicillamine, [iodua kali](https://dermnetnz.org/topics/potassium-iodide), frusemide, captopril, [vàng](https://dermnetnz.org/topics/chrysiasis), [penicillin](https://dermnetnz.org/topics/penicillin), [sulfasalazine](https://dermnetnz.org/topics/sulfasalazine), [fluorouracil bôi ngoài da](https://dermnetnz.org/topics/5-fluorouracil-cream), và thuốc chống loạn thần thế hệ thứ hai (ví dụ, risperidone, olanzapine).

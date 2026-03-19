@@ -1,0 +1,153 @@
+##### Chàm tĩnh mạch — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Chàm trọng lực, Viêm da ứ đọng, Chàm giãn tĩnh mạch, Viêm da tĩnh mạch, Viêm da giãn tĩnh mạch
+
+Danh mục:
+
+Chàm, Vấn đề mạch máu
+
+ICD-10:
+
+I87.2, I83.0
+
+ICD-11:
+
+EF70, EF5Y, EA86.0, BD74.2
+
+SNOMED CT:
+
+366362000, 35498005, 709666005, 762536003, 238377008
+
+**[Chàm](https://dermnetnz.org/topics?category=Eczemas) [Vấn đề mạch máu](https://dermnetnz.org/topics?category=Blood%20vessel%20problems)**
+
+# **Chàm tĩnh mạch**
+
+Tác giả: A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 1 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/venous-eczema#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/venous-eczema#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/venous-eczema#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/venous-eczema#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/venous-eczema#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/venous-eczema#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/venous-eczema#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/venous-eczema#Prevention%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/venous-eczema#Outlook)
+
+## Chàm tĩnh mạch là gì?
+
+Chàm tĩnh mạch là một dạng phổ biến của [chàm/viêm da](https://dermnetnz.org/topics/dermatitis) ảnh hưởng đến một hoặc cả hai chân dưới liên quan đến [suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency). Nó cũng được gọi là viêm da trọng lực.
+
+## Ai bị chàm tĩnh mạch?
+
+Chàm tĩnh mạch thường gặp nhất ở bệnh nhân trung niên và lớn tuổi — được báo cáo ảnh hưởng đến 20% người trên 70 tuổi. Nó liên quan đến:
+
+- Tiền sử huyết khối tĩnh mạch sâu ở chi bị ảnh hưởng
+- Tiền sử [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) ở chi bị ảnh hưởng
+- Sưng mãn tính của chân dưới, trầm trọng hơn bởi thời tiết nóng và đứng lâu
+- [Giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins)
+- [Loét ứ đọng](https://dermnetnz.org/topics/stasis-ulcer).
+
+## Nguyên nhân gây chàm tĩnh mạch là gì?
+
+Chàm tĩnh mạch dường như do chất lỏng tích tụ trong các mô và kích hoạt phản ứng miễn dịch bẩm sinh.
+
+Thông thường trong khi đi bộ, cơ chân bơm máu lên trên và van trong tĩnh mạch ngăn chặn sự ứ đọng. Cục máu đông trong tĩnh mạch chân sâu (huyết khối tĩnh mạch sâu hoặc DVT) hoặc giãn tĩnh mạch có thể làm hỏng các van. Kết quả là áp lực ngược phát triển và chất lỏng tích tụ trong các mô. Một phản ứng viêm xảy ra.
+
+## Đặc điểm lâm sàng của chàm tĩnh mạch là gì?
+
+Chàm tĩnh mạch có thể hình thành các mảng riêng biệt hoặc trở thành hợp nhất và bao quanh. Đặc điểm bao gồm:
+
+- Mảng đỏ ngứa, phồng rộp và đóng vảy; hoặc mảng khô nứt nẻ và có vảy trên một hoặc cả hai chân dưới
+- Sắc tố nâu cam do lắng đọng hemosiderin
+- [Atrophie blanche](https://dermnetnz.org/topics/atrophie-blanche) (sẹo trắng không đều bao quanh bởi các đốm đỏ)
+- Hình dạng 'chai sâm panh' của chân dưới — thu hẹp ở mắt cá chân và cứng lại ([lipodermatosclerosis](https://dermnetnz.org/topics/lipodermatosclerosis))
+
+![Chàm tĩnh mạch](https://dermnetnz.org/assets/Uploads/grav-derm-alt-v2.jpg)
+
+Chàm tĩnh mạch
+
+![Lipodermatosclerosis](https://dermnetnz.org/assets/Uploads/dermatitis/lipodermatosclerosis.jpg)
+
+Lipodermatosclerosis
+
+![Loét tĩnh mạch](https://dermnetnz.org/assets/Uploads/dermatitis/ulcer.jpg)
+
+Loét tĩnh mạch
+
+## Biến chứng của chàm tĩnh mạch là gì?
+
+- [Nhiễm trùng mủ](https://dermnetnz.org/topics/impetigo) — nhiễm trùng thứ cấp với _Staphylococcus aureus_ dẫn đến vảy vàng
+- [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) — nhiễm trùng với _Streptococcus pyogenes_: có thể có đỏ, sưng, đau, sốt, vệt đỏ lên chân, và hạch sưng ở bẹn
+- [Chàm thứ cấp](https://dermnetnz.org/topics/disseminated-secondary-eczema) — chàm lan ra các khu vực khác trên cơ thể
+- [Dị ứng tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis) với một hoặc nhiều thành phần của thuốc mỡ hoặc kem sử dụng
+
+## Chàm tĩnh mạch được chẩn đoán như thế nào?
+
+Chẩn đoán chàm tĩnh mạch là lâm sàng.
+
+[Xét nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) có thể được thực hiện nếu nghi ngờ [dị ứng tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis).
+
+## Điều trị chàm tĩnh mạch là gì?
+
+### Giảm sưng ở chân
+
+- Không đứng lâu.
+- Đi bộ thường xuyên.
+- Nâng cao chân khi ngồi: nếu chân bạn bị sưng, chúng cần được nâng cao hơn hông để thoát nước hiệu quả.
+- Nâng cao chân giường của bạn qua đêm.
+- Trong giai đoạn cấp tính của chàm, băng bó là quan trọng để giảm sưng.
+- Khi chàm đã ổn định, mặc [tất hoặc vớ nén](https://dermnetnz.org/topics/compression-therapy) dài hạn. Tất nén vừa phải đến cao có thể được mua từ công ty cung cấp phẫu thuật. Nén nhẹ bằng tất du lịch có thể đủ, và dễ dàng mang vào. Chúng có thể được mua tại các hiệu thuốc, cửa hàng du lịch và thể thao. Nén nhiều hơn có thể đạt được bằng cách mặc hai đôi.
+- [Chiết xuất hạt dẻ ngựa](https://dermnetnz.org/topics/horse-chestnut-extract) dường như có lợi cho ít nhất một số bệnh nhân với bệnh tĩnh mạch.
+
+### Điều trị chàm
+
+- Làm khô các mảng rỉ nước bằng dung dịch Condy ( [kali permanganat](https://dermnetnz.org/topics/potassium-permanganate)) hoặc giấm pha loãng trên gạc như nén.
+- [Kháng sinh](https://dermnetnz.org/topics/antibiotics) đường uống như [flucloxacillin](https://dermnetnz.org/topics/penicillin) có thể được kê đơn cho nhiễm trùng thứ cấp.
+- Thoa [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) được kê đơn: bắt đầu với kem steroid mạnh thoa chính xác hàng ngày lên các mảng cho đến khi chúng phẳng. Sau vài ngày, chuyển sang kem steroid nhẹ hơn (ví dụ: hydrocortisone) cho đến khi các mảng ngứa đã hết (điều trị duy trì). Kiểm tra với bác sĩ của bạn nếu bạn đang sử dụng kem steroid trong hơn vài tuần. Sử dụng quá mức có thể làm mỏng da, nhưng các liệu trình ngắn của các chế phẩm mạnh hơn có thể được sử dụng từ thời gian này đến thời gian khác nếu cần thiết để kiểm soát viêm da. [Thuốc mỡ than đá](https://dermnetnz.org/topics/coal-tar) cũng có thể giúp đỡ.
+- Sử dụng [kem dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) thường xuyên để giữ cho da trên chân mịn màng và mềm mại. Nếu da rất có vảy, [kem urea](https://dermnetnz.org/topics/urea) có thể đặc biệt hiệu quả.
+- Bảo vệ da khỏi chấn thương: điều này có thể dẫn đến nhiễm trùng hoặc loét khó lành.
+
+### Điều trị giãn tĩnh mạch
+
+- Tìm ý kiến của bác sĩ phẫu thuật mạch máu về [giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins).
+- Chúng có thể được điều trị bằng phẫu thuật, bằng laser nội tĩnh mạch, hoặc [sclerotherapy](https://dermnetnz.org/topics/leg-vein-therapies).
+- Giãn tĩnh mạch có thể phát triển lại sau một ca phẫu thuật thành công rõ ràng vì bệnh tĩnh mạch là tiến triển.
+
+## Làm thế nào để phòng ngừa chàm tĩnh mạch?
+
+Chàm tĩnh mạch không thể được phòng ngừa hoàn toàn nhưng số lượng và mức độ nghiêm trọng của các đợt bùng phát có thể được giảm bớt bằng các biện pháp sau.
+
+- Tránh đứng hoặc ngồi lâu với chân xuống.
+- Mặc [tất hoặc vớ nén](https://dermnetnz.org/topics/compression-therapy).
+- Tránh và điều trị sưng chân.
+- Thoa [chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) thường xuyên và đều đặn lên da khô.
+- Tránh xà phòng; sử dụng nước hoặc [chất tẩy rửa không xà phòng](https://dermnetnz.org/topics/soaps-and-cleansers) khi tắm.
+
+## Triển vọng cho chàm tĩnh mạch là gì?
+
+Chàm tĩnh mạch có xu hướng là một rối loạn tái phát hoặc mãn tính suốt đời. Điều trị tái phát kịp thời với [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid).
+
+### Tài liệu tham khảo
+
+- [Phân loại bệnh tĩnh mạch](http://www.simondodds.com/Venous/CEAP_classification.htm) – Simon Dodds
+
+### Trên DermNet
+
+- [Viêm da](https://dermnetnz.org/topics/dyshidrotic-eczema)
+- [Loét chân](https://dermnetnz.org/topics/leg-ulcer)
+- [Loét ứ đọng](https://dermnetnz.org/topics/stasis-ulcer)
+- [Suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency)
+- [Giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins)
+- [Lipodermatosclerosis](https://dermnetnz.org/topics/lipodermatosclerosis)
+- [Hình ảnh Lipodermatosclerosis](https://dermnetnz.org/topics/lipodermatosclerosis-images)
+
+### Các trang web khác
+
+- [Viêm da ứ đọng](http://emedicine.medscape.com/article/1084813-overview) — Tham khảo Medscape
+- [Chàm tĩnh mạch](https://www.bad.org.uk/pils/venous-eczema/) — Hiệp hội Da liễu Anh
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ - phiên bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "handlers": {
+    "file": {
+      "class": "logging.FileHandler",
+      "filename": "logs/backend.log",
+      "mode": "a",
+      "formatter": "default"
+    }
+  },
+  "formatters": {
+    "default": {
+      "format": "%(levelname)s %(asctime)s %(message)s"
+    }
+  },
+  "root": {
+    "handlers": ["file"],
+    "level": "INFO"
+  }
+}

@@ -1,0 +1,27 @@
+## Những tình trạng nào được chẩn đoán bằng đèn Wood?
+
+Đèn Wood để khám da có thể phát hiện:
+
+- Tăng sắc tố (ví dụ, [nám da](https://dermnetnz.org/topics/melasma), [sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)) để xác định liệu sắc tố là ở thượng bì (sắc tố tăng lên khi khám bằng đèn Wood) hay ở hạ bì (sắc tố không thay đổi khi khám bằng đèn Wood). Các tổn thương sắc tố có đường viền rõ ràng dưới ánh sáng Wood vì ánh sáng bị hấp thụ bởi melanin tăng lên
+- Mất sắc tố (ví dụ, [bạch biến](https://dermnetnz.org/topics/vitiligo)) hoặc giảm sắc tố (ví dụ, đốm lá tro trong [xơ cứng củ](https://dermnetnz.org/topics/tuberous-sclerosis) và [giảm sắc tố của Ito](https://dermnetnz.org/topics/hypomelanosis-of-ito)) để xác định các khu vực bị ảnh hưởng ở người da sáng. Da giảm sắc tố có đường viền sắc nét hơn dưới ánh sáng đen và phát sáng màu xanh trắng sáng (hoặc đôi khi, xanh vàng) do tích tụ biopterin. Ngược lại, các khu vực giảm lưu lượng máu không thay đổi
+- [Lang ben](https://dermnetnz.org/topics/pityriasis-versicolor)—một phát ban hơi có vảy kéo dài trên ngực trước và lưng do nấm men [Malassezia](https://dermnetnz.org/topics/malassezia-infections) gây ra. Khi hoạt động, vảy phát ra ánh sáng màu vàng hoặc cam
+- [Viêm nang lông Malassezia](https://dermnetnz.org/topics/malassezia-folliculitis)—nang lông phát sáng màu xanh trắng
+- [Nấm da đầu](https://dermnetnz.org/topics/tinea-capitis)—các khu vực có vảy và hói do [nhiễm nấm](https://dermnetnz.org/topics/fungal-skin-infections). Các loài Microsporum phát sáng màu xanh lá cây ( _M canis, M audouinii, M ferrugineum, M distortum_); _Trichophyton schoenleinii_ phát sáng màu xanh nhạt. Nhiễm nấm do các sinh vật khác không phát sáng
+- [Chấy đầu](https://dermnetnz.org/topics/head-lice) và [ghẻ](https://dermnetnz.org/topics/scabies)
+- [Erythrasma](https://dermnetnz.org/topics/erythrasma)—vi khuẩn corynebacteria gây ra phát ban sắc tố trong các nếp gấp da phát sáng màu hồng san hô
+- [Pseudomonas](https://dermnetnz.org/topics/pseudomonas-skin-infections) trong [viêm nang lông hồ bơi](https://dermnetnz.org/topics/spa-pool-folliculitis) và [nhiễm trùng vết thương](https://dermnetnz.org/topics/wound-infections) phát sáng màu xanh lá cây
+- [Mụn trứng cá](https://dermnetnz.org/topics/acne-vulgaris) phát sáng màu cam đỏ do vi khuẩn cutibacteria trong nang lông
+- Porphyria gây ra phát sáng màu đỏ hồng của da ( [porphyria cutanea tarda](https://dermnetnz.org/topics/porphyria-cutanea-tarda)), hoặc răng ( [erythropoetic porphyria](https://dermnetnz.org/topics/erythropoietic-protoporphyria))
+- Porphyrin được sử dụng như chất nhạy sáng trong [liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- Thuốc trên bề mặt da— [tetracyclines](https://dermnetnz.org/topics/tetracycline) và mepacrine phát sáng sau khi uống
+- Sự đồng đều của việc áp dụng một lớp vỏ hóa học chứa [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) (nó phát sáng màu xanh lá cây).
+
+### Phát sáng được ghi nhận trong quá trình khám bằng đèn Wood
+
+![Phát sáng màu hồng san hô trong erythrasma sử dụng đèn Wood](https://dermnetnz.org/assets/Uploads/procedures/erythrasma-pink.jpg)
+
+Phát sáng màu hồng san hô trong erythrasma sử dụng đèn Wood
+
+![Phát sáng trong nấm da đầu sử dụng đèn Wood](https://dermnetnz.org/assets/Uploads/procedures/tinea-fluorescent.jpg)
+
+Phát sáng trong nấm da đầu sử dụng đèn Wood

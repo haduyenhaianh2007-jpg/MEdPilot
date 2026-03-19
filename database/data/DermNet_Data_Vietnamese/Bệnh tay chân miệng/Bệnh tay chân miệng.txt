@@ -1,0 +1,241 @@
+##### Bệnh tay chân miệng — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Hội chứng mụn nước do enterovirus, Viêm miệng mụn nước do enterovirus, Viêm miệng mụn nước do enterovirus kèm phát ban, Bệnh tay chân miệng
+
+Danh mục:
+
+Nhiễm trùng, Phát ban
+
+ICD-10:
+
+B08.4, B97.11, B34.1
+
+ICD-11:
+
+1F05.0
+
+SNOMED CT:
+
+266108008, 42067008, 69239002
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections) [Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Bệnh tay chân miệng**
+
+### Tháng 8 năm 2022
+
+**Tác giả:** Bác sĩ Stanley Leong, Bác sĩ Nhi khoa; Bác sĩ Caroline Mahon, Bác sĩ Da liễu, Bệnh viện Christchurch, New Zealand
+
+**Những người đóng góp trước đây:** PGS Amanda Oakley, Bác sĩ Da liễu (1998 và 2016); Bác sĩ Jannet Gomez (2016)
+
+**Bác sĩ da liễu đánh giá:** Bác sĩ Ian Coulson
+
+Chỉnh sửa bởi bộ phận nội dung DermNet
+
+[Giới thiệu](https://dermnetnz.org/topics/hand-foot-and-mouth-disease#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/hand-foot-and-mouth-disease#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/hand-foot-and-mouth-disease#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/hand-foot-and-mouth-disease#Clinical%20features) [Biến thể trong các loại da](https://dermnetnz.org/topics/hand-foot-and-mouth-disease#Variation%20in%20skin%20types) [Biến chứng](https://dermnetnz.org/topics/hand-foot-and-mouth-disease#Complications) [Chẩn đoán](https://dermnetnz.org/topics/hand-foot-and-mouth-disease#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/hand-foot-and-mouth-disease#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/hand-foot-and-mouth-disease#Treatment) [Lời khuyên về nghỉ học](https://dermnetnz.org/topics/hand-foot-and-mouth-disease#Advice%20on%20school%20leave) [Kết quả](https://dermnetnz.org/topics/hand-foot-and-mouth-disease#Outcome)
+
+## Bệnh tay chân miệng là gì?
+
+Bệnh tay chân miệng (HFMD hoặc HFM) là một bệnh nhiễm virus phổ biến, tự giới hạn, gây ra mụn nước trên tay, chân và bên trong hoặc xung quanh miệng. Nó chủ yếu ảnh hưởng đến trẻ em dưới 5 tuổi.
+
+HFMD, còn được gọi là viêm miệng mụn nước do enterovirus, xảy ra rải rác trên toàn thế giới. Dịch bệnh phổ biến nhất trong thời tiết ấm áp, thường vào cuối mùa hè hoặc đầu mùa thu.
+
+Điều quan trọng cần lưu ý là HFMD KHÔNG liên quan đến bệnh lở mồm long móng ở động vật.
+
+[Bấm vào đây để xem hình ảnh](https://dermnetnz.org/images/hand-foot-and-mouth-disease-images)
+
+## Ai mắc bệnh tay chân miệng?
+
+HFMD chủ yếu xảy ra ở trẻ em dưới 10 tuổi với 95% trường hợp xảy ra ở trẻ nhỏ dưới 5 tuổi. Tuy nhiên, nó cũng có thể ảnh hưởng đến trẻ lớn hơn/thanh thiếu niên. Người lớn, đặc biệt là những người bị suy giảm miễn dịch, cũng có thể bị ảnh hưởng. Tuy nhiên, HFMD hiếm khi ảnh hưởng đến người lớn khỏe mạnh.
+
+Bệnh tay chân miệng rất phổ biến. Tỷ lệ mắc bệnh HFMD hàng năm trung bình được báo cáo là 90–2400 trường hợp trên 100.000 người ở một số quốc gia.
+
+## Nguyên nhân gây ra bệnh tay chân miệng là gì?
+
+Viêm miệng mụn nước do enterovirus (HFMD) thường do virus Coxsackie gây ra, phổ biến nhất là loại A16. Nó cũng có thể do các virus khác gây ra như:
+
+- Virus Coxsackie A (5, 6, 7, 9, 10)
+- Virus Coxsackie B (2, 5)
+- Enterovirus 71
+- Echovirus.
+
+Nhiễm enterovirus 71 liên quan đến các bệnh nhiễm trùng nghiêm trọng hơn có thể liên quan đến tim, phổi và cũng có thể gây viêm màng não (viêm màng não).
+
+Sự lây truyền xảy ra qua tiếp xúc trực tiếp với dịch mụn nước hoặc giọt bắn từ miệng. Nó có thể lây lan rất nhanh giữa các thành viên trong gia đình hoặc trong trường học. Virus có thể được thải ra trong phân và nước bọt trong vài tuần.
+
+## Các đặc điểm lâm sàng của bệnh tay chân miệng là gì?
+
+Bệnh thường bắt đầu với một hoặc tất cả các triệu chứng sau: sốt, đau họng, chán ăn và mệt mỏi. Tuy nhiên, nhiều trẻ vẫn khỏe mạnh mặc dù có phát ban. Mụn nước thường xuất hiện 1–2 ngày sau khi sốt.
+
+Thời gian ủ bệnh thường là 3–6 ngày và trẻ vẫn lây nhiễm cho đến khi mụn nước vỡ và lành (thường là 7–10 ngày).
+
+Các phát hiện trên da thường bao gồm:
+
+- Mụn nước trên mu bàn tay, bàn chân và/hoặc lòng bàn tay, lòng bàn chân. Các tổn thương thường:
+
+  - Cảm thấy đau
+  - Phát triển theo thời gian từ các đốm hồng phẳng thành các mụn nước nhỏ, kéo dài, đỏ-xám
+  - Thường có hình bầu dục hơn là hình tròn
+  - Bong ra trong vòng một tuần mà không để lại sẹo.
+- Các mụn nước nhỏ (mụn nước) và [vết loét](https://dermnetnz.org/topics/erosions-and-ulcers) có thể phát triển trong và/hoặc xung quanh môi và miệng và phía sau họng. Những điều này đôi khi có thể rất đau. Việc ăn uống có thể bị ảnh hưởng đáng kể, đặc biệt là ở trẻ sơ sinh và trẻ nhỏ.
+- Ở trẻ em bị [chàm](https://dermnetnz.org/topics/dermatitis), hoặc đã từng bị chàm, mụn nước, các đốm đỏ phẳng và sẩn có thể phát triển trên các khu vực khác của da, đặc biệt là mông và đôi khi trên cánh tay, chân và da sinh dục.
+
+HFMD không điển hình có thể dẫn đến phát ban và phồng rộp lan rộng hơn. Các đặc điểm có thể bao gồm:
+
+- Các đốm đỏ, đóng vảy và sẩn không có phồng rộp
+- Mụn nước lớn (bulla)
+- Tổn thương hình mục tiêu (hình mắt bò, hoặc hình mục tiêu)
+- Rụng móng
+- Liên quan đến các vị trí không điển hình hoặc bất thường như tai.
+
+![Bệnh tay chân miệng](https://dermnetnz.org/assets/Uploads/enteroviral-hand-051.jpg)
+
+Bệnh tay chân miệng
+
+![Viêm miệng trong HFMD](https://dermnetnz.org/assets/Uploads/enteroviral-stomatitis-003.jpg)
+
+Viêm miệng trong HFMD
+
+![Mụn nước hình bầu dục trên lòng bàn chân trong bệnh tay chân miệng](https://dermnetnz.org/assets/collection/Hand-foot-and-mouth-disease/hand-foot-and-mouth-disease-0010.jpg)
+
+Mụn nước hình bầu dục trên lòng bàn chân trong bệnh tay chân miệng
+
+![Thay đổi móng tay được ghi nhận 6 tuần sau khi mụn nước tay và miệng lành](https://dermnetnz.org/assets/Uploads/handfootmouthdisese-001.jpg)
+
+Thay đổi móng tay được ghi nhận 6 tuần sau khi mụn nước tay và miệng lành
+
+![Bệnh tay chân miệng ở miệng](https://dermnetnz.org/assets/Uploads/hfm-003.jpg)
+
+Bệnh tay chân miệng ở miệng
+
+[Bấm vào đây để xem thêm hình ảnh](https://dermnetnz.org/images/hand-foot-and-mouth-disease-images)
+
+## Các đặc điểm lâm sàng thay đổi như thế nào trong các loại da khác nhau?
+
+Ở trẻ em bị chàm trước đó ( [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)), tổn thương HFMD có thể được khu trú ở các khu vực bị chàm ( [eczema coxsackium](https://dermnetnz.org/topics/eczema-coxsackium)).
+
+## Các biến chứng của bệnh tay chân miệng là gì?
+
+Các biến chứng nghiêm trọng rất hiếm gặp ở những người khỏe mạnh. Chúng bao gồm:
+
+- Mất nước do không đủ lượng nước uống vào. Điều này có thể gây ra các vấn đề đáng kể ở trẻ nhỏ.
+- Thay đổi móng tay và móng chân thường được ghi nhận khoảng hai tháng sau khi nhiễm HFMD do nhiễm virus coxsackie A6.
+  - Các đường ngang trên tấm móng di chuyển chậm ra ngoài
+  - Onychomadesis (rụng móng) có thể xảy ra khoảng 2 tháng sau khi bệnh, tuy nhiên, cuối cùng móng sẽ trở lại bình thường.
+
+Nhiễm enterovirus nghiêm trọng có thể dẫn đến:
+
+- Phồng rộp lan rộng
+- Viêm ruột
+- Viêm cơ tim
+- Viêm não và/hoặc màng não (viêm màng não)
+- Mất chức năng thần kinh ở một chi (liệt mềm cấp tính)
+- Phù phổi và viêm phổi
+- Viêm kết mạc xuất huyết
+- Trong thai kỳ, các virus gây HFMD có thể gây sảy thai tự nhiên trong ba tháng đầu hoặc hạn chế tăng trưởng trong tử cung
+- Viêm màng não, giảm tiểu cầu, đông máu nội mạch lan tỏa, bệnh cơ tim và viêm gan ở trẻ sơ sinh đã được mô tả rất hiếm.
+
+## Bệnh tay chân miệng được chẩn đoán như thế nào?
+
+HFMD thường được chẩn đoán lâm sàng. Các tổn thương trên da thường phân bố đối xứng trên các vị trí phổ biến của da như tay, chân và trong và xung quanh miệng ở trẻ em.
+
+Các công cụ chẩn đoán khác bao gồm:
+
+- Xét nghiệm phản ứng chuỗi polymerase (PCR)
+
+  - DNA virus có thể được phát hiện từ các mẫu dịch hầu họng (họng hoặc mũi) và mẫu phân.
+  - Phân tích mẫu máu, dịch não tủy (CSF) và phân có thể xác nhận chẩn đoán, nhưng hiếm khi cần thiết trừ khi trong các trường hợp không điển hình hoặc nghiêm trọng.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) của một mụn nước
+  - Rất hiếm khi được chỉ định.
+  - Cho thấy da đầu chi với thâm nhiễm lympho tại biểu bì.
+  - Thâm nhiễm liên quan đến apoptosis của tế bào sừng trong các tổn thương sớm.
+
+Xem [bệnh lý bệnh tay chân miệng](https://dermnetnz.org/topics/hand-foot-and-mouth-disease-pathology) để biết thêm thông tin.
+
+## Chẩn đoán phân biệt cho bệnh tay chân miệng là gì?
+
+- Nhiễm trùng do vi khuẩn: như _[Streptococcus](https://dermnetnz.org/topics/streptococcal-skin-infections)_ nhóm A và [_Staphylococcus aureus_](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus), có thể gây ra các tổn thương da phồng rộp tương tự, ví dụ, [chốc lở bóng nước](https://dermnetnz.org/topics/impetigo).
+- Các [nhiễm trùng virus](https://dermnetnz.org/topics/viral-skin-infections) khác như virus parechovirus ở người, [virus herpes simplex](https://dermnetnz.org/topics/herpes-simplex), adenovirus, [virus varicella zoster](https://dermnetnz.org/topics/chickenpox), [virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus), và [virus herpes ở người](https://dermnetnz.org/topics/herpes-viruses) 6 và 7.
+- Phản ứng cắn côn trùng phồng rộp [insect bite reactions](https://dermnetnz.org/topics/arthropod-bites-and-stings) cũng có thể xuất hiện trên tay và chân ở trẻ em.
+- [Chàm Pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema).
+
+## Điều trị bệnh tay chân miệng là gì?
+
+Điều trị cụ thể thường không cần thiết cho HFMD, và tập trung vào chăm sóc triệu chứng. HFMD hiếm khi gây ra các biến chứng nghiêm trọng. Kháng sinh không có tác dụng và không nên được sử dụng cho trẻ em bị HFMD.
+
+Không có vắc-xin hoặc thuốc kháng virus cụ thể nào có sẵn.
+
+### Biện pháp chung
+
+Giảm đau
+
+- Giảm đau đơn giản như paracetamol hoặc ibuprofen khi cần.
+- [Nước súc miệng](https://dermnetnz.org/topics/mouthwash) sát khuẩn hoặc các tác nhân làm dịu tại chỗ (ví dụ, lignocaine) có thể được sử dụng cho trẻ em bị loét miệng/vòm miệng đau.
+- Aspirin không nên được sử dụng thường xuyên do nguy cơ hội chứng Reye.
+
+Bù nước
+
+- Liên tục cho trẻ uống từng ngụm nước/nước trái cây để ngăn ngừa mất nước.
+- Nếu lượng ăn uống kém, có thể cần truyền dịch qua đường mũi hoặc tĩnh mạch.
+
+Chăm sóc mụn nước
+
+- Để mụn nước khô tự nhiên.
+- Không chọc/vỡ mụn nước để giảm lây nhiễm.
+- Giữ mụn nước sạch và băng bó không dính vào các vết xước.
+
+## Trẻ em bị bệnh tay chân miệng có nên nghỉ học không?
+
+Trong phần lớn các trường hợp, HFMD là một bệnh nhẹ và không cần thiết phải giữ trẻ ở nhà khi chúng đủ khỏe để đi học.
+
+Mụn nước vẫn lây nhiễm cho đến khi chúng khô, thường là trong vài ngày. Tuy nhiên, virus thải ra qua phân và vẫn lây nhiễm trong vòng một tháng sau khi bệnh. Do đó, việc giữ trẻ khỏe mạnh ở nhà là không thực tế.
+
+Các biện pháp phòng ngừa chung bao gồm:
+
+- Vệ sinh tay kỹ lưỡng đặc biệt sau khi tiếp xúc với dịch cơ thể của trẻ.
+  - Điều này bao gồm chạm vào mụn nước của trẻ, giúp trẻ xì mũi và thay tã hoặc giúp trẻ đi vệ sinh.
+- Giảm thiểu việc chia sẻ đồ dùng cá nhân như dao kéo, cốc uống nước, khăn tắm, bàn chải đánh răng và quần áo.
+
+## Kết quả của bệnh tay chân miệng là gì?
+
+Nhiễm HFMD thường nhẹ và hoàn toàn khỏi trong vòng 7–10 ngày. Nhiễm trùng thường dẫn đến miễn dịch lâu dài với virus cụ thể, tuy nhiên một đợt bệnh thứ hai có thể xảy ra sau khi nhiễm một thành viên khác của nhóm enterovirus.
+
+[Bấm vào đây để xem hình ảnh](https://dermnetnz.org/images/hand-foot-and-mouth-disease-images)
+
+### Thư mục
+
+- Fong SY, Mori D, Rundi C et al. Một nghiên cứu hồi cứu năm năm về dịch tễ học của bệnh tay chân miệng ở Sabah, Malaysia. Scientific Reports, 2021. doi: https://doi.org/10.1038/s41598-021-96083-3. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8426372/)
+- Frydenberg A, Starr M. Chủ đề: Bệnh truyền nhiễm ở trường học: Bệnh tay chân miệng. Australian Family Physician, Vol. 32, No.8, August 2003. [Journal](https://www.racgp.org.au/getattachment/fe811189-ce71-4a85-b09f-7f49df344e2e/20030805starr2.pdf)
+- Hong J, Liu F, Qi H, et al. Thay đổi dịch tễ học của bệnh tay chân miệng ở Trung Quốc, 2013-2019: một nghiên cứu dựa trên dân số. The Lancet Regional Health Western Pacific, 2022. doi:https://doi.org/10.1016/j.lanwpc.2021.100370. [Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743221/)
+- Saguil A, Kane SF, Lauters R, Mercado MG. Bệnh tay chân miệng: Đánh giá nhanh bằng chứng. Am Fam Physician. 2019;100(7):408–414. [Journal](https://www.aafp.org/pubs/afp/issues/2019/1001/p408.html)
+
+### Trên DermNet
+
+- [Bệnh lý bệnh tay chân miệng](https://dermnetnz.org/topics/hand-foot-and-mouth-disease-pathology)
+- [Hình ảnh bệnh tay chân miệng](https://dermnetnz.org/images/hand-foot-and-mouth-disease-images)
+- [Nhiễm enterovirus](https://dermnetnz.org/topics/enteroviral-infections)
+- [Eczema coxsackium](https://dermnetnz.org/topics/eczema-coxsackium)
+- [Các tình trạng da phồng rộp](https://dermnetnz.org/topics/blistering-skin-conditions)
+- [Herpes simplex](https://dermnetnz.org/topics/herpes-simplex)
+- [Herpangina](https://dermnetnz.org/topics/herpangina)
+- [Nhiễm trùng da do virus](https://dermnetnz.org/topics/viral-skin-infections)
+
+### Các trang web khác
+
+- [Bệnh tay chân miệng](https://www.rch.org.au/kidsinfo/fact_sheets/Hand_foot_and_mouth_disease/) — Bệnh viện Nhi Hoàng gia Melbourne
+- [Bệnh tay chân miệng (HFMD)](https://www.cdc.gov/hand-foot-mouth/index.html) — Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh
+- [Bệnh tay chân miệng](https://raisingchildren.net.au/guides/a-z-health-reference/hand-foot-mouth-disease) — raisingchildren.net.au
+- [Bệnh tay chân miệng](https://www.healthnavigator.org.nz/health-a-z/h/hand-foot-and-mouth-disease/) — Health Navigator New Zealand
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

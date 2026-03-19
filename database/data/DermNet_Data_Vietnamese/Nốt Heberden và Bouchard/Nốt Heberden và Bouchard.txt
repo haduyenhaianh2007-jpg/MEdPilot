@@ -1,0 +1,148 @@
+##### Nốt Heberden và Bouchard — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Nốt Heberden, nốt Bouchard
+
+Danh mục:
+
+Bệnh hệ thống
+
+ICD-10:
+
+M15.1, M15.2, M71.349
+
+ICD-11:
+
+FA0Z, EK70.2
+
+SNOMED CT:
+
+371598009, 20243008, 404098005
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics?category=Systemic%20diseases)**
+
+# **Nốt Heberden và Bouchard**
+
+Tác giả: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, tháng 3 năm 2020.
+
+[Giới thiệu](https://dermnetnz.org/topics/heberden-bouchard-nodes#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/heberden-bouchard-nodes#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/heberden-bouchard-nodes#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/heberden-bouchard-nodes#Clinical%20features) [Chẩn đoán](https://dermnetnz.org/topics/heberden-bouchard-nodes#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/heberden-bouchard-nodes#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/heberden-bouchard-nodes#Treatment)
+
+## Nốt Heberden và Bouchard là gì?
+
+Nốt Heberden mô tả sự sưng xương của khớp ngón tay xa. Đây là dấu hiệu của viêm xương khớp, một bệnh thoái hóa khớp.
+
+Nốt Bouchard là sự sưng tương tự ảnh hưởng đến khớp ngón tay gần \[1\].
+
+![](https://dermnetnz.org/assets/Uploads/Heberden-Arthrose-v2.JPG)
+
+![Nốt Heberden](https://dermnetnz.org/assets/Uploads/heberden-node-18.jpg)
+
+Nốt Heberden
+
+![Nốt Heberden](https://dermnetnz.org/assets/Uploads/heberden-node-19.jpg)
+
+Nốt Heberden
+
+## Ai bị nốt Heberden và Bouchard?
+
+Nốt Heberden và Bouchard phổ biến ở cả nam và nữ thuộc mọi chủng tộc.
+
+- Chúng phổ biến ở người lớn tuổi. Tuy nhiên, hơn một nửa số bệnh nhân có nốt Heberden và viêm xương khớp được chẩn đoán trước 65 tuổi \[2\].
+- Nốt Bouchard ít phổ biến hơn nốt Heberden và liên quan đến viêm khớp nặng hơn.
+- Sự hiện diện của các nốt này có tính di truyền mạnh \[1\].
+- Hơn 60% bệnh nhân viêm xương khớp đầu gối có nốt Heberden \[3\].
+
+## Nguyên nhân gây ra nốt Heberden và Bouchard là gì?
+
+Nốt Heberden hoặc Bouchard là do sự phát triển xương — một sự phì đại xương — và là dấu hiệu của viêm xương khớp. Nguyên nhân của viêm xương khớp chưa được hiểu rõ hoàn toàn. Có một sự di truyền trong việc phát triển các nốt \[1\].
+
+Viêm xương khớp được coi là dấu hiệu của sự 'hao mòn' trong khớp. Những bất thường cấu trúc sớm nhất trong viêm xương khớp rõ ràng ở các dây chằng hỗ trợ khớp \[4\]. Sụn của khớp bị phá vỡ, các gai xương phát triển, và các đầu xương cọ xát vào nhau.
+
+Viêm trong các nốt là do vỡ bao khớp do ma sát và rò rỉ dịch khớp \[1\].
+
+## Đặc điểm lâm sàng của nốt Heberden và Bouchard là gì?
+
+Nốt Heberden là sự sưng xương của khớp ngón tay xa và nốt Bouchard là sự sưng xương của khớp ngón tay gần.
+
+- Sưng xương có thể ảnh hưởng đến cả hai bên hoặc giữa của khớp \[1\].
+- Nhiều nốt có thể xuất hiện trên một ngón tay \[2\].
+- Các nốt có thể ảnh hưởng đến một hoặc nhiều ngón tay.
+- Các nốt thường ảnh hưởng đến ngón giữa hoặc ngón cái của cả hai tay.
+- Chúng có thể phát triển chậm hoặc nhanh chóng.
+- Các nốt có thể bị viêm và đau nhưng thường không đau và không được chú ý.
+- Nốt Heberden có thể liên quan đến [u giả myxoid kỹ thuật số](https://dermnetnz.org/topics/digital-myxoid-pseudocyst).
+
+Ngoài việc ảnh hưởng đến ngón tay, viêm xương khớp gây khó chịu, đau và cứng khớp ở các khớp khác của tay, đầu gối, hông và cột sống.
+
+![Nốt Heberden và u giả myxoid](https://dermnetnz.org/assets/Uploads/lesions/s/myxoid1.jpg)
+
+Nốt Heberden và u giả myxoid
+
+## Nốt Heberden và Bouchard được chẩn đoán như thế nào?
+
+Chẩn đoán nốt Heberden hoặc Bouchard thường được thực hiện lâm sàng do hình dạng đặc trưng của chúng. Có thể thực hiện hình ảnh trên ngón tay bị ảnh hưởng.
+
+- Siêu âm cho thấy các gai xương, viêm màng hoạt dịch và xói mòn xương của viêm xương khớp \[5\].
+- X-quang thường của khớp bị ảnh hưởng có thể cho thấy các gai xương liên đốt, mặc dù sự tương quan kém với các nốt Heberden lâm sàng. Các gai xương phổ biến hơn ở bệnh nhân viêm khớp viêm \[6\].
+- Chụp cộng hưởng từ (MRI) có thể xác nhận chẩn đoán viêm khớp ở ngón tay bị ảnh hưởng. Sự hình thành nốt Heberden và Bouchard liên quan đến sự phồng mô mềm qua bao khớp giữa các gân lưng và dây chằng bên. Thay đổi dây chằng có thể thấy ở các khớp liền kề nhưng bình thường về mặt lâm sàng \[7\].
+
+Khám nghiệm mô học của nốt Heberden hoặc Bouchard không thường được thực hiện. Nó có thể cho thấy sự hiện diện của các gai xương và co rút lưng.
+
+![X-quang của nốt Heberden và Bouchard](https://dermnetnz.org/assets/Uploads/Roe-heberden.jpg)
+
+X-quang của nốt Heberden và Bouchard
+
+## Chẩn đoán phân biệt cho nốt Heberden và Bouchard là gì?
+
+Chẩn đoán phân biệt của nốt Heberden hoặc Bouchard bao gồm \[5\]:
+
+- [Miếng đệm khớp](https://dermnetnz.org/topics/knuckle-pads)
+- Sưng khớp ngón tay gần do [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin)
+- [Nốt dạng thấp](https://dermnetnz.org/topics/rheumatoid-nodule-pathology)
+- [Tophus bệnh gút](https://dermnetnz.org/topics/gout)
+- [Nốt Osler và tổn thương Janeway](https://dermnetnz.org/topics/osler-nodes-and-janeway-lesions)
+- U nang hạch hoạt dịch
+- [U tế bào khổng lồ của bao gân](https://dermnetnz.org/topics/giant-cell-tumour-of-tendon-sheath-pathology)
+- [U sợi thần kinh](https://dermnetnz.org/topics/solitary-neurofibroma)
+- [Vật thể lạ](https://dermnetnz.org/topics/foreign-body-granuloma)
+- [Pachydermodactyly](https://dermnetnz.org/topics/pachydermodactyly)
+- Lắng đọng cholesterol \[8\].
+
+## Nốt Heberden và Bouchard được điều trị như thế nào?
+
+Không có điều trị cụ thể để sửa chữa nốt Heberden hoặc Bouchard.
+
+Điều trị viêm xương khớp có thể bao gồm thay đổi lối sống như tập thể dục, giảm cân, chế độ ăn ít viêm, túi nhiệt và nén lạnh.
+
+Các phương pháp điều trị y tế bao gồm giảm đau và thuốc chống viêm không steroid \[9,10\].
+
+Một số bệnh nhân viêm xương khớp có thể cần phẫu thuật để sửa chữa hoặc thay thế một hoặc nhiều khớp.
+
+### Tài liệu tham khảo
+
+01. Alexander CJ. Nốt Heberden và Bouchard. Ann Rheum Dis. 1999;58(11):675-8. doi:10.1136/ard.58.11.675. [PMID: 10531070](https://pubmed.ncbi.nlm.nih.gov/10531070); [PMCID: PMC1752800 (PDF)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1752800/pdf/v058p00675.pdf).
+02. Collins JE. Biên tập: Tay của chúng ta có thể cho chúng ta biết gì về tương lai của đầu gối? Arthritis Rheumatol. 2018;70(8):1169-71. doi:10.1002/art.40459. [PMID: 29471592](https://pubmed.ncbi.nlm.nih.gov/29471592).
+03. Kumar NM, Hafezi-Nejad N, Guermazi A, et al. Báo cáo ngắn: Mối liên hệ giữa đánh giá định lượng và định vị của nốt Heberden với viêm xương khớp đầu gối: dữ liệu từ sáng kiến viêm xương khớp. Arthritis Rheumatol. 2018;70(8):1234-9. doi:10.1002/art.40463. [PMID: 29471581](https://pubmed.ncbi.nlm.nih.gov/29471581).
+04. McGonagle D, Tan AL, Grainger AJ, Benjamin M. Nốt Heberden và những gì Heberden không thể thấy: vai trò then chốt của dây chằng trong sinh bệnh học của viêm xương khớp nốt sớm và hơn thế nữa. Rheumatology (Oxford). 2008;47(9):1278-85. doi:10.1093/rheumatology/ken093. [PMID: 18390583](https://pubmed.ncbi.nlm.nih.gov/18390583).
+05. Tamborrini G, Gengenbacher M, Bianchi S. Miếng đệm khớp - một phát hiện hiếm. J Ultrason. 2012 Dec;12(51):493-8. doi: 10.15557/JoU.2012.0037. [PMCID: PMC4603232](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603232/).
+06. Cicuttini FM, Baker J, Hart DJ, Spector TD. Mối quan hệ giữa nốt Heberden và các gai xương liên đốt xa và vai trò của chúng như là dấu hiệu của bệnh toàn thân. Ann Rheum Dis. 1998;57(4):246-8. doi:10.1136/ard.57.4.246. [PMID: 9709182](https://pubmed.ncbi.nlm.nih.gov/9709182); [PMCID: PMC1752580](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1752580/).
+07. Tan AL, Grainger AJ, Tanner SF, et al. Chụp cộng hưởng từ độ phân giải cao để đánh giá viêm xương khớp tay. Arthritis Rheum. 2005;52(8):2355-65. doi:10.1002/art.21210. [PMID: 16052535](https://pubmed.ncbi.nlm.nih.gov/16052535).
+08. Alfadhli E. Lắng đọng cholesterol quanh các khớp nhỏ của tay trong tăng cholesterol máu gia đình giống như "nốt Bouchard và Heberden" của viêm xương khớp. Intern Med. 2010;49(15):1675-6. doi:10.2169/internalmedicine.49.2849
+09. Seiler V. Meclofenamate sodium trong điều trị bệnh thoái hóa khớp tay (nốt Heberden). Arzneimittelforschung. 1983;33(4A):656-9. [PMID: 6349652](https://pubmed.ncbi.nlm.nih.gov/6349652).
+10. Kroon FPB, Carmona L, Schoones JW, Kloppenburg M. Hiệu quả và an toàn của điều trị không dùng thuốc, dùng thuốc và phẫu thuật cho viêm xương khớp tay: một đánh giá tài liệu có hệ thống thông báo cập nhật năm 2018 của khuyến nghị EULAR về quản lý viêm xương khớp tay. RMD Open. 2018;4(2):e000734. Published 2018 Oct 11. doi:10.1136/rmdopen-2018-000734
+
+### Trên DermNet
+
+- [Dấu hiệu da của bệnh thấp khớp](https://dermnetnz.org/topics/skin-signs-of-rheumatic-disease/)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết khác được đề xuất
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

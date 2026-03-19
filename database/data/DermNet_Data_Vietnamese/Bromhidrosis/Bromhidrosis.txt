@@ -1,0 +1,166 @@
+##### Bromhidrosis — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Mùi cơ thể khó chịu, Bromidrosis, Osmidrosis, Ozochrotia, Mồ hôi có mùi khó chịu
+
+Danh mục:
+
+Thuật ngữ
+
+ICD-10:
+
+L75.0
+
+ICD-11:
+
+ED92.1
+
+SNOMED CT:
+
+65382006
+
+**[Thuật ngữ](https://dermnetnz.org/topics?category=Terminology)**
+
+# **Bromhidrosis**
+
+Tác giả: Vanessa Ngan, Nhà văn, 2005; Cập nhật: Bác sĩ Maanasa Bandla, Thực tập sinh bệnh viện, Monash Health, Melbourne, Úc; Bác sĩ Martin Keefe, Bác sĩ da liễu, Christchurch, New Zealand. Biên tập bởi Gus Mitchell. Tháng 6 năm 2021
+
+[Giới thiệu](https://dermnetnz.org/topics/bromhidrosis#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/bromhidrosis#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/bromhidrosis#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/bromhidrosis#Clinical%20features) [Biến chứng](https://dermnetnz.org/topics/bromhidrosis#Complications) [Chẩn đoán](https://dermnetnz.org/topics/bromhidrosis#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/bromhidrosis#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/bromhidrosis#Treatment) [Kết quả](https://dermnetnz.org/topics/bromhidrosis#Outcome)
+
+## Bromhidrosis là gì?
+
+Bromhidrosis, còn được gọi là osmidrosis hoặc ozochrotia, là mùi cơ thể khó chịu hoặc gây phản cảm do bất kỳ nguyên nhân nào bao gồm vệ sinh kém, nhiễm trùng, chế độ ăn uống hoặc thuốc, hoặc rối loạn chuyển hóa di truyền. Nó có thể liên quan đến [hyperhidrosis](https://dermnetnz.org/topics/hyperhidrosis).
+
+## Ai bị bromhidrosis?
+
+Bromhidrosis có thể ảnh hưởng đến mọi nhóm tuổi, chủng tộc và cả hai giới. Bromhidrosis phổ biến hơn ở người lớn so với trẻ em vì tuyến bã nhờn và tuyến mồ hôi apocrine không hoạt động cho đến khi dậy thì. Người cao tuổi có mùi cơ thể khác với trẻ sơ sinh, trẻ em trước tuổi dậy thì, thanh thiếu niên và người lớn. Nó có xu hướng phổ biến hơn ở nam giới và có thể là vấn đề đặc biệt trong khí hậu nhiệt đới nóng ẩm. Có thể có sự di truyền, với các nghiên cứu cho thấy mùi khó chịu ở nách phổ biến hơn ở người châu Âu và châu Phi so với người châu Á.
+
+## Nguyên nhân gây ra bromhidrosis là gì?
+
+Mùi cơ thể là bình thường và chủ yếu được tạo ra bởi sự phân hủy của mồ hôi, bã nhờn và keratin bởi vi khuẩn trên bề mặt da (vi sinh vật da). Những gì được coi là chấp nhận được được xác định bởi ảnh hưởng văn hóa bao gồm chủng tộc và giáo dục xã hội.
+
+Bromhidrosis có thể được phân loại là eccrine hoặc apocrine, ngoại sinh hoặc nội sinh:
+
+- Bromhidrosis eccrine
+  - Tuyến eccrine phân bố trên hầu hết bề mặt da.
+  - Mồ hôi eccrine được tiết ra liên tục và thường không có mùi.
+  - Mồ hôi eccrine quan trọng trong điều hòa nhiệt độ.
+- Bromhidrosis apocrine
+  - Tuyến apocrine nằm ở nách, vùng sinh dục và ngực, và hoạt động vào tuổi dậy thì.
+  - Mồ hôi apocrine được tiết ra không liên tục và thường không có mùi.
+  - Mồ hôi apocrine được kiểm soát bởi hệ thần kinh giao cảm.
+- Ngoại sinh
+  - Vi sinh vật da — loài _Corynebacterium_, _Staphylococcus hominis_, _S epidermidis_, _Cutibacterium avidum_, _Acinetobacter schindleri_.
+  - Nhiễm trùng da — [erythrasma](https://dermnetnz.org/topics/erythrasma), [pitted keratolysis](https://dermnetnz.org/topics/pitted-keratolysis), [trichomycosis](https://dermnetnz.org/topics/trichomycosis-axillaris), _Sphingomonas paucimobilis_.
+  - Dị vật trong mũi.
+- Nội sinh
+  - Thực phẩm — [tỏi](https://dermnetnz.org/topics/garlic), [hành](https://dermnetnz.org/topics/onion), [măng tây](https://dermnetnz.org/topics/asparagus), cà ri, rượu.
+  - Thuốc và độc tố — [penicillin](https://dermnetnz.org/topics/penicillin), bromides, [dupilumab](https://dermnetnz.org/topics/dupilumab).
+  - Rối loạn hệ thống và da — [béo phì](https://dermnetnz.org/topics/obesity-and-the-skin), [đái tháo đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus), bệnh gan, suy thận, rối loạn da ở lòng bàn tay/bàn chân và nếp gấp.
+  - Rối loạn chuyển hóa — [trimethylaminuria](https://dermnetnz.org/topics/trimethylaminuria), phenylketonuria, hypermethioninaemia.
+
+## Đặc điểm lâm sàng của bromhidrosis là gì?
+
+Bromhidrosis xuất hiện dưới dạng mùi cơ thể khó chịu mà bệnh nhân có thể không nhận thức được. Mùi khó chịu có thể là lý do cho cuộc tư vấn, được nêu ra bởi mẹ hoặc đối tác, hoặc rõ ràng trong một cuộc tư vấn y tế vì các lý do khác. Mùi có thể tồi tệ hơn sau khi tập thể dục, thường bám vào quần áo.
+
+Bromhidrosis apocrine là dạng bromhidrosis phổ biến nhất ở người lớn và thường khu trú, thường ở nách và/hoặc vùng sinh dục.
+
+Bromhidrosis eccrine xuất hiện dưới dạng mùi khó chịu toàn thân, và có thể liên quan đến hơi thở có mùi (hôi miệng), mùi vùng sinh dục, và nước tiểu có mùi.
+
+Các vị trí và đặc điểm cụ thể cần tìm khi khám:
+
+- [Hyperhidrosis](https://dermnetnz.org/topics/hyperhidrosis)
+- Nếp gấp da — [intertrigo](https://dermnetnz.org/topics/intertrigo), [erythrasma](https://dermnetnz.org/topics/erythrasma), [flexural dermatoses](https://dermnetnz.org/topics/skin-diseases-and-conditions-affecting-body-folds)
+- Lông cơ thể (đặc biệt là nách) — [trichomycosis](https://dermnetnz.org/topics/trichomycosis-axillaris)
+- Tay và chân — [pitted keratolysis](https://dermnetnz.org/topics/pitted-keratolysis), [palmoplantar keratoderma](https://dermnetnz.org/topics/palmoplantar-keratoderma)
+- Bên trong mũi để tìm dị vật.
+
+![Đổ mồ hôi dưới cánh tay](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/hyperhidrosis5.jpg)
+
+Đổ mồ hôi dưới cánh tay
+
+![Trichomycosis axillaris](https://dermnetnz.org/assets/Uploads/doctors/bacterial-infections/images/trich-axil3.jpg)
+
+Trichomycosis axillaris
+
+![Da bị macerated trên ngón chân và lòng bàn chân trong pitted keratolysis](https://dermnetnz.org/assets/collection/Pitted-keratolysis/pitted-keratolysis-0014.jpg)
+
+Da bị macerated trên ngón chân và lòng bàn chân trong pitted keratolysis
+
+## Biến chứng của bromhidrosis là gì?
+
+Bromhidrosis có thể có tác động đáng kể đến chất lượng cuộc sống, gây ra:
+
+- Lo âu
+- Tự ti
+- Rút lui xã hội.
+
+## Bromhidrosis được chẩn đoán như thế nào?
+
+Bromhidrosis là một chẩn đoán lâm sàng, nhưng cần có lịch sử và khám xét cẩn thận để xác định nguyên nhân cơ bản. Các cuộc điều tra nên được xem xét ở trẻ em, nếu mùi là toàn thân cũng liên quan đến nước tiểu và hơi thở, hoặc nếu nó mới xuất hiện không liên quan đến thói quen vệ sinh.
+
+Bác sĩ nhận thấy mùi cơ thể mạnh nên cẩn thận khi đề cập đến vấn đề này nhưng chẩn đoán và điều trị đúng có thể thay đổi cuộc sống cho bệnh nhân.
+
+## Chẩn đoán phân biệt cho bromhidrosis là gì?
+
+- [Dysmorphophobia](https://dermnetnz.org/topics/dysmorphophobia) cơ thể
+- Ảo giác khứu giác (do rối loạn thần kinh hoặc tâm thần)
+- Hội chứng khứu giác (sợ có mùi cơ thể khó chịu)
+
+## Điều trị bromhidrosis là gì?
+
+### Biện pháp chung
+
+- Vệ sinh tốt với việc rửa thường xuyên bằng xà phòng và [chất tẩy rửa](https://dermnetnz.org/topics/soaps-and-cleansers), chất khử mùi, [chất chống mồ hôi](https://dermnetnz.org/topics/antiperspirant), loại bỏ quần áo ướt mồ hôi
+- [Loại bỏ lông](https://dermnetnz.org/topics/hair-removal-techniques) bằng [cạo](https://dermnetnz.org/topics/shaving), [điện phân](https://dermnetnz.org/topics/electrolysis), hoặc [laser](https://dermnetnz.org/topics/lasers-in-dermatology)
+- [Chất khử trùng](https://dermnetnz.org/topics/antiseptic) bôi ngoài
+- Tẩy tế bào chết ở các khu vực phân hủy keratin
+
+### Biện pháp cụ thể
+
+- Tránh thực phẩm và thuốc gây mùi
+- Điều trị nhiễm trùng da
+- Điều trị hyperhidrosis
+- Loại bỏ dị vật trong mũi
+- Loại bỏ tuyến apocrine — laser, phẫu thuật, hút mỡ, xơ hóa do vi sóng
+- Điều chỉnh chế độ ăn uống cho rối loạn chuyển hóa
+
+## Kết quả cho bromhidrosis là gì?
+
+Khắc phục bromhidrosis do vệ sinh kém hoặc các nguyên nhân có thể điều trị khác có thể thay đổi cuộc sống. Tuy nhiên, không phải tất cả các trường hợp mùi cơ thể khó chịu đều có thể được loại bỏ hoàn toàn.
+
+### Thư mục
+
+01. Lam TH, Verzotto D, Brahma P, et al. Hiểu biết về cơ sở vi sinh của mùi cơ thể ở trẻ em trước tuổi dậy thì và thanh thiếu niên. Microbiome. 2018;6(1):213. doi:10.1186/s40168-018-0588-z. [Tạp chí](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0588-z)
+02. Lanzalaco A, Vanoosthuyze K, Stark C, Swaile D, Rocchetta H, Spruell R. Một nghiên cứu lâm sàng so sánh các phương pháp loại bỏ lông khác nhau và tác động của chúng đến giảm mùi nách ở nam giới. J Cosmet Dermatol. 2016;15(1):58–65. doi:10.1111/jocd.12197. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/jocd.12197)
+03. Lucky AW. Bromhidrosis mắc phải ở một cậu bé 8 tuổi do dị vật trong mũi. Arch Dermatol. 1991;127(1):129. doi:10.1001/archderm.1991.01680010141033. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1986703/)
+04. Malik AS, Porter CL, Feldman SR. Các phương thức điều trị bromhidrosis: một đánh giá tài liệu. J Am Acad Dermatol. 2021;S0190-9622(21)00175-4. doi:10.1016/j.jaad.2021.01.030. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33482257/)
+05. Mogilnicka I, Bogucki P, Ufnal M. Vi sinh vật và mùi khó chịu - nguyên nhân và quản lý. Int J Mol Sci. 2020;21(8):2886. doi:10.3390/ijms21082886. [Tạp chí](https://www.mdpi.com/1422-0067/21/8/2886)
+06. Patel F, Tu YM, Fernandes S, Chapas A. Một trường hợp bromhidrosis nách thứ phát do trimethylaminuria được điều trị thành công bằng liệu pháp dựa trên vi sóng. JAAD Case Rep. 2019;5(10):915–17. doi:10.1016/j.jdcr.2019.07.018. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6804454/)
+07. Rowane M, Valencia R, Schend J, Jhaveri D, Hostoffer R. Một điều gì đó để đổ mồ hôi: hai trường hợp hyperhidrosis và bromhidrosis do dupilumab gây ra. Allergy Rhinol (Providence). 2020;11:2152656720927703. doi:10.1177/2152656720927703. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7241203/)
+08. Salim G, Zahra MF. Trichobacteriosis: đóng góp của dermoscopy. Dermatol Online J. 2014;20(9):13030/qt7488g7vb. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25244176/)
+09. Scarff CE. Tay và chân đổ mồ hôi, có mùi. Aust Fam Physician. 2009;38(9):666–9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19893792/)
+10. Semkova K, Gergovska M, Kazandjieva J, Tsankov N. Hyperhidrosis, bromhidrosis, và chromhidrosis: các bệnh da gấp (intertriginous). Clin Dermatol. 2015;33(4):483–91. doi:10.1016/j.clindermatol.2015.04.013. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26051066/)
+
+### Trên DermNet
+
+- [Chất chống mồ hôi](https://dermnetnz.org/topics/antiperspirant)
+- [Hyperhidrosis](https://dermnetnz.org/topics/hyperhidrosis)
+- [Trimethylaminuria](https://dermnetnz.org/topics/trimethylaminuria)
+- [Mùi khó chịu vùng âm đạo hoặc sinh dục ở phụ nữ](https://dermnetnz.org/topics/vaginal-or-genital-malodour-in-women)
+
+### Các trang web khác
+
+- [Bromhidrosis](https://emedicine.medscape.com/article/1072342-overview) — Tham khảo Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- phiên bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

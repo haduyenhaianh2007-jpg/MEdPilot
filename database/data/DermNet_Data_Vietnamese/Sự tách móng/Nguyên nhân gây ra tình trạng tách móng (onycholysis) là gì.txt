@@ -1,0 +1,12 @@
+## Nguyên nhân gây ra tình trạng tách móng (onycholysis)?
+
+Tách móng có thể là nguyên phát (vô căn, không rõ nguyên nhân) hoặc thứ phát do một trong nhiều nguyên nhân. Một số ví dụ được liệt kê trong Bảng 1.
+
+| Nguyên nhân | Ví dụ |
+| --- | --- |
+| Chấn thương | Chấn thương lặp đi lặp lại, bao gồm làm móng tay<br>Ngâm nước lâu<br>Tiếp xúc hóa chất bao gồm mỹ phẩm móng tay<br>Cấy ghép dị vật |
+| Bệnh da | [Vảy nến](https://dermnetnz.org/topics/psoriasis)<br>[Viêm da tay](https://dermnetnz.org/topics/hand-dermatitis)<br>[Lichen phẳng](https://dermnetnz.org/topics/lichen-planus) |
+| Nhiễm trùng | [Nấm da](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) và nấm men ví dụ, _T. rubrum_, _C. albicans_<br>[Ghẻ](https://dermnetnz.org/topics/scabies) |
+| Bệnh hệ thống | Nội tiết ví dụ, suy giáp và cường giáp, đái tháo đường, thai kỳ<br>Xâm nhập ví dụ, [bệnh amyloidosis](https://dermnetnz.org/topics/cutaneous-amyloidosis), [bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis)<br>Ung thư ví dụ, đa u tủy, \[hội chứng Sezary\](/topics/sezary syndrome)<br>[Nhạy cảm ánh sáng](https://dermnetnz.org/topics/photosensitivity) ví dụ, porphyrias<br>[Hội chứng móng tay vàng](https://dermnetnz.org/topics/yellow-nail-syndrome) |
+| Thuốc | [Nhạy cảm ánh sáng do thuốc](https://dermnetnz.org/topics/drug-induced-photosensitivity) ví dụ, kháng sinh bao gồm [tetracyclines](https://dermnetnz.org/topics/tetracycline), [NSAIDs](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects), psoralens, và [retinoids uống](https://dermnetnz.org/topics/oral-retinoids)<br>[Tác nhân hóa trị liệu](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs) ví dụ, [taxanes](https://dermnetnz.org/topics/taxanes) |
+| Khác | Tách móng di truyền (MIM 164800) |

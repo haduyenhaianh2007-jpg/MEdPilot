@@ -1,0 +1,103 @@
+##### SCORAD — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Đánh giá viêm da cơ địa
+
+Danh mục:
+
+Chàm, Chẩn đoán và kiểm tra
+
+ICD-10:
+
+L20
+
+ICD-11:
+
+EA80
+
+SNOMED CT:
+
+24079001
+
+**[Chàm](https://dermnetnz.org/topics?category=Eczemas) [Chẩn đoán và kiểm tra](https://dermnetnz.org/topics?category=Diagnosis%20and%20testing)**
+
+# **SCORAD**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên khoa Da liễu, Hamilton, New Zealand, 2009.
+
+[Giới thiệu](https://dermnetnz.org/topics/scorad#Introduction) [Khu vực](https://dermnetnz.org/topics/scorad#Area) [Cường độ](https://dermnetnz.org/topics/scorad#Intensity) [Tổng điểm](https://dermnetnz.org/topics/scorad#Total%20score)
+
+## Giới thiệu
+
+SCORAD là một công cụ lâm sàng được sử dụng để đánh giá mức độ và độ nghiêm trọng của bệnh chàm (Đánh giá Viêm Da Cơ Địa). Các bác sĩ da liễu có thể sử dụng công cụ này trước và sau khi điều trị để xác định liệu điều trị có hiệu quả hay không.
+
+## Khu vực
+
+Để xác định mức độ, các vị trí bị ảnh hưởng bởi bệnh chàm được tô bóng trên một bản vẽ của cơ thể. Quy tắc 9 được sử dụng để tính toán diện tích bị ảnh hưởng (A) dưới dạng phần trăm của toàn bộ cơ thể.
+
+- Đầu và cổ 9%
+- Chi trên 9% mỗi bên
+- Chi dưới 18% mỗi bên
+- Thân trước 18%
+- Lưng 18%
+- Bộ phận sinh dục 1%.
+
+Điểm cho mỗi khu vực được cộng lại. Tổng diện tích là 'A', có thể tối đa là 100%.
+
+## Cường độ
+
+Một khu vực đại diện của bệnh chàm được chọn. Trong khu vực này, cường độ của mỗi dấu hiệu sau được đánh giá là không có (0), nhẹ (1), trung bình (2) hoặc nặng (3).
+
+- Đỏ
+- Sưng
+- Rỉ dịch/đóng vảy
+- Dấu vết gãi
+- Dày da (lichen hóa)
+- Khô (điều này được đánh giá ở khu vực không có viêm)
+
+Các điểm cường độ được cộng lại để cho ra 'B' (tối đa 18).
+
+![](https://dermnetnz.org/assets/SCORAD-chart-SMALL.jpg)
+
+## Triệu chứng chủ quan
+
+Triệu chứng chủ quan (ngứa và mất ngủ), mỗi triệu chứng được bệnh nhân hoặc người thân đánh giá bằng thang đo hình ảnh, trong đó 0 là không ngứa (hoặc không mất ngủ) và 10 là ngứa tồi tệ nhất có thể tưởng tượng (hoặc mất ngủ). Các điểm này được cộng lại để cho ra 'C' (tối đa 20).
+
+## Tổng điểm
+
+SCORAD cho cá nhân đó là A/5 + 7B/2 + C
+
+### Tài liệu tham khảo
+
+- [SCORAD](http://adserver.sante.univ-nantes.fr/Scorad.html) – Máy chủ Thông tin AD của Đại học Nantes
+- Đánh giá mức độ nghiêm trọng của viêm da cơ địa: chỉ số SCORAD. Báo cáo Đồng thuận của Lực lượng Đặc nhiệm Châu Âu về Viêm Da Cơ Địa. Da liễu. 1993;186(1):23-31. doi: 10.1159/000247298. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/8435513)
+
+### Trên DermNet
+
+- [Chỉ số Diện tích và Mức độ nghiêm trọng của Chàm](https://dermnetnz.org/topics/easi-score)
+- [Viêm da](https://dermnetnz.org/topics/dermatitis)
+- [Viêm da cơ địa](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Nguyên nhân gây viêm da cơ địa](https://dermnetnz.org/topics/causes-of-atopic-dermatitis)
+- [Điều trị viêm da cơ địa](https://dermnetnz.org/topics/treatment-of-atopic-dermatitis)
+- [Biến chứng của viêm da cơ địa](https://dermnetnz.org/topics/complications-of-atopic-dermatitis)
+- [Hình ảnh thêm về viêm da cơ địa](https://dermnetnz.org/images/atopic-dermatitis-images)
+- [Khóa học trực tuyến về viêm da cho các chuyên gia y tế](https://dermnetnz.org/cme/dermatitis)
+
+### Các trang web khác
+
+- [Máy tính Đánh giá Viêm Da Cơ Địa (SCORAD)](http://scorad.corti.li/) — Matteo Corti
+- [Máy tính SCORAD](http://derma-tools.com/index.php/scorad-calculator.html) — DermaTools
+- [SCORAD – Quỹ viêm da cơ địa](http://www.fondation-dermatite-atopique.org/en/healthcare-professionals-space/scorad)
+- [POEM — Đo lường Chàm Hướng đến Bệnh nhân](https://www.nottingham.ac.uk/research/groups/cebd/resources/poem.aspx)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ hiểu_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

@@ -1,0 +1,34 @@
+### Bibliography
+
+- Ellis Simonsen SM, van Orman ER, Hatch BE, et al. Cellulitis incidence in a defined population. Epidemiol Infect. 2005;134(2):293–299. doi: 10.1017/S095026880500484X. [Journal](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/cellulitis-incidence-in-a-defined-population/E38BA110C694E6228BB6E19F9E123321)
+- Eron LJ, Lipsky BA, Low DE, et al. Managing skin and soft tissue infections: expert panel recommendations on key decision points. J Antimicrob Chemother. 2003;52 Suppl 1:i3–17. doi: 10.1093/jac/dkg466. [Journal](https://academic.oup.com/jac/article/52/suppl_1/i3/2473489)
+- Kaye KS, Petty LA, Shorr AF, Zilberberg MD. Current Epidemiology, Etiology, and Burden of Acute Skin Infections in the United States. Clin Infect Dis. 2019;68(Suppl 3):S193–S199. doi: 10.1093/cid/ciz002. [Journal](https://academic.oup.com/cid/article/68/Supplement_3/S193/5428806)
+- Ki V, Rotstein C. Bacterial skin and soft tissue infections in adults: A review of their epidemiology, pathogenesis, diagnosis, treatment and site of care. Can J Infect Dis Med Microbiol. 2008;19(2):173–184. doi: 10.1155/2008/846453. [Journal](https://www.hindawi.com/journals/cjidmm/2008/846453/)
+- Stulberg DL, Penrod MA, Blatny RA. Common bacterial skin infections. Am Fam Physician. 2002;66(1):119–124. [Journal](https://www.aafp.org/pubs/afp/issues/2002/0701/p119.html)
+- World Health Organisation (WHO). Epidemiology and Management of Common Skin Diseases in Children in Developing Countries. WHO. Published December 1, 2005. Accessed March 20, 2023. [Available here](https://www.who.int/publications/i/item/WHO-FCH-CAH-05.12)
+
+### On DermNet
+
+- [Skin infections](https://dermnetnz.org/topics/skin-infections)
+- [Staphylococcal skin infection](https://dermnetnz.org/topics/staphylococcal-skin-infection)
+- [Staphylococcal skin infections images](https://dermnetnz.org/images/pvl-staphylococcal-aureus-infection-images)
+- [Streptococcal skin infection](https://dermnetnz.org/topics/streptococcal-skin-infections)
+- [Microorganisms found on the skin](https://dermnetnz.org/topics/microorganisms-found-on-the-skin)
+- [Laboratory tests for bacterial infections](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections)
+- [Antibiotics](https://dermnetnz.org/topics/antibiotics)
+- [PVL-Staph aureus infection](https://dermnetnz.org/topics/panton-valentine-leukocidin-staphylococcus-aureus)
+
+### Other websites
+
+- [Bacterial Skin Infections: Beneath the Surface](https://login.medscape.com/login/sso/getlogin?wcode=102&client=205502&urlCache=aHR0cHM6Ly9yZWZlcmVuY2UubWVkc2NhcGUuY29tL3NsaWRlc2hvdy9pbmZlY3Qtc2tpbi02MDAzNDQ5&sc=ng&scode=msp) — Drs CA Elston and DM Elston, MedScape
+
+### Books about skin diseases
+
+- [Books about the skin](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- second edition](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Other recommended articles
+
+![close](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

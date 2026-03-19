@@ -1,0 +1,183 @@
+##### Erythroderma — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Viêm da tróc vảy, Viêm da đỏ, Viêm da tróc vảy toàn thân
+
+Danh mục:
+
+Phát ban, Thuật ngữ
+
+ICD-10:
+
+L53.9
+
+ICD-11:
+
+EB10, EH64, EA90.3, EA80.1, EA80.2, EH40.2, EA94
+
+SNOMED CT:
+
+399992009, 238992001, 238544008, 402300003, 3755001
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes) [Thuật ngữ](https://dermnetnz.org/topics?category=Terminology)**
+
+# **Erythroderma**
+
+Tác giả: Vanessa Ngan, Nhà văn, 2003. Cập nhật bởi A/Prof Amanda Oakley, Tháng 2 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/erythroderma#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/erythroderma#Demographics%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/erythroderma#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/erythroderma#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/erythroderma#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/erythroderma#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/erythroderma#Prevention%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/erythroderma#Outlook)
+
+## Erythroderma là gì?
+
+Erythroderma là thuật ngữ dùng để mô tả tình trạng đỏ da mạnh và thường lan rộng do bệnh viêm da. Nó thường xảy ra trước hoặc liên quan đến việc tróc vảy (da bong ra thành vảy hoặc lớp), khi đó nó cũng có thể được gọi là viêm da tróc vảy (ED).
+
+![](https://dermnetnz.org/assets/Uploads/reactions/erythroderma1.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/reactions/erythroderma2.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/erythroderma3.jpg)
+
+[Xem thêm hình ảnh về erythroderma](https://dermnetnz.org/topics/erythroderma-images).
+
+## Ai bị erythroderma và nguyên nhân là gì?
+
+Erythroderma là hiếm. Nó có thể xuất hiện ở bất kỳ độ tuổi nào và ở người thuộc mọi chủng tộc. Nó phổ biến hơn khoảng 3 lần ở nam giới so với nữ giới. Hầu hết có một bệnh da có sẵn hoặc một tình trạng hệ thống được biết là liên quan đến erythroderma. Khoảng 30% trường hợp erythroderma là vô căn.
+
+Viêm da dị ứng erythrodermic thường ảnh hưởng đến trẻ em và thanh niên, nhưng các dạng erythroderma khác phổ biến hơn ở người trung niên và người già.
+
+Các tình trạng da phổ biến nhất gây erythroderma là:
+
+- Phản ứng thuốc — với nhiều loại thuốc đa dạng bị liên quan ([danh sách thuốc](https://dermnetnz.org/topics/drugs-reported-to-cause-erythroderma))
+- [Viêm da](https://dermnetnz.org/topics/psoriasis) đặc biệt là [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Vảy nến](https://dermnetnz.org/topics/psoriasis), đặc biệt sau khi ngừng sử dụng steroid hệ thống hoặc điều trị khác \[xem [Vảy nến erythrodermic](https://dermnetnz.org/topics/erythrodermic-psoriasis)\]
+- [Pityriasis rubra pilaris](https://dermnetnz.org/topics/pityriasis-rubra-pilaris)
+
+Các bệnh da khác ít thường xuyên gây erythroderma có thể bao gồm:
+
+- Các dạng viêm da khác: viêm da tiếp xúc ([dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) hoặc [kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis)), viêm da tĩnh mạch ([eczema tĩnh mạch](https://dermnetnz.org/topics/venous-eczema)) và ở trẻ sơ sinh, [viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) hoặc [hội chứng da bong tróc do tụ cầu](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome)
+- Bệnh phồng rộp bao gồm [pemphigus](https://dermnetnz.org/topics/pemphigus-vulgaris) và [bullous pemphigoid](https://dermnetnz.org/topics/bullous-pemphigoid)
+- [Hội chứng Sezary](https://dermnetnz.org/topics/sezary-syndrome) (dạng erythrodermic của [u lympho tế bào T da](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma))
+- Một số tình trạng bẩm sinh rất hiếm gặp.
+
+Erythroderma cũng có thể là triệu chứng hoặc dấu hiệu của bệnh hệ thống. Những điều này có thể bao gồm:
+
+- Các bệnh ác tính về huyết học, như u lympho và bệnh bạch cầu
+- Các bệnh ác tính nội tạng, như ung thư trực tràng, phổi, ống dẫn trứng, đại tràng, tuyến tiền liệt (erythroderma cận ung thư)
+- [Bệnh ghép chống chủ](https://dermnetnz.org/topics/graft-versus-host-disease)
+- [Nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection).
+
+Không rõ tại sao một số bệnh da ở một số người tiến triển thành erythroderma. Cơ chế bệnh sinh phức tạp, liên quan đến tế bào sừng và tế bào lympho, và sự tương tác của chúng với các phân tử kết dính và cytokine. Kết quả là sự gia tăng đáng kể trong việc thay thế tế bào biểu bì.
+
+## Các đặc điểm lâm sàng của erythroderma là gì?
+
+Erythroderma thường xảy ra sau một [phát ban dạng sởi](https://dermnetnz.org/topics/morbilliform-drug-reaction), [viêm da](https://dermnetnz.org/topics/dermatitis), hoặc [vảy nến mảng](https://dermnetnz.org/topics/chronic-plaque-psoriasis). Ban đỏ toàn thân có thể phát triển khá nhanh trong erythroderma cấp tính, hoặc dần dần hơn trong vài tuần đến vài tháng trong erythroderma mãn tính.
+
+### Dấu hiệu và triệu chứng của erythroderma
+
+Theo định nghĩa, ban đỏ toàn thân và phù nề hoặc nổi mụn ảnh hưởng đến 90% hoặc hơn bề mặt da.
+
+- Da cảm thấy ấm khi chạm vào.
+- Ngứa thường gây khó chịu và đôi khi không thể chịu đựng được. Cọ xát và gãi dẫn đến lichen hóa.
+- Sưng mí mắt có thể dẫn đến lộn mí.
+- Bong vảy bắt đầu từ 2-6 ngày sau khi xuất hiện ban đỏ, dưới dạng vảy mịn hoặc mảng lớn.
+- Bong vảy dày có thể phát triển trên da đầu với các mức độ rụng tóc khác nhau bao gồm hói hoàn toàn.
+- Lòng bàn tay và lòng bàn chân có thể phát triển [keratoderma](https://dermnetnz.org/topics/acquired-keratoderma) màu vàng, lan tỏa.
+- Móng tay trở nên xỉn màu, có rãnh, và dày lên hoặc phát triển onycholysis và có thể rụng (onychomadesis).
+- Hạch bạch huyết trở nên sưng (lymphadenopathy da toàn thân).
+
+Có thể có các manh mối về nguyên nhân cơ bản.
+
+- Dịch tiết huyết thanh, dẫn đến quần áo và băng dính dính vào da và có mùi khó chịu, là đặc trưng của erythroderma [dị ứng](https://dermnetnz.org/topics/atopic-dermatitis).
+- Sự tồn tại của các mảng vảy có giới hạn ở một số vị trí như khuỷu tay và đầu gối gợi ý [vảy nến](https://dermnetnz.org/topics/psoriasis).
+- Các đảo không bị ảnh hưởng, nổi bật ở nang lông, màu cam của keratoderma là đặc trưng của [pityriasis rubra pilaris](https://dermnetnz.org/topics/pityriasis-rubra-pilaris).
+- Tăng sừng dưới móng, đóng vảy trên lòng bàn tay và lòng bàn chân, và đường hầm là dấu hiệu của [ghẻ có vảy](https://dermnetnz.org/topics/crusted-scabies).
+- Không bị ảnh hưởng ở các nếp gấp bụng (dấu hiệu ghế bành) là đặc trưng của [papuloerythroderma của Ofuji](https://dermnetnz.org/topics/papuloerythroderma-of-ofuji).
+
+Các triệu chứng hệ thống có thể do erythroderma hoặc nguyên nhân của nó.
+
+- Lymphadenopathy, gan lách to, chức năng gan bất thường và sốt có thể gợi ý một [hội chứng quá mẫn thuốc](https://dermnetnz.org/reactions/drug-hypersensitivity-syndrome.html) hoặc bệnh ác tính.
+- Phù chân có thể do da bị viêm, suy tim do cung lượng cao và/hoặc hạ albumin máu.
+
+## Biến chứng của erythroderma
+
+Erythroderma thường dẫn đến các biến chứng cục bộ và hệ thống cấp tính và mãn tính. Bệnh nhân cảm thấy không khỏe với sự điều chỉnh nhiệt độ và mất một lượng lớn chất lỏng qua da.
+
+- Mất nhiệt dẫn đến hạ thân nhiệt.
+- Mất chất lỏng dẫn đến bất thường điện giải và mất nước.
+- Da đỏ dẫn đến suy tim do cung lượng cao.
+- Nhiễm trùng da thứ phát có thể xảy ra ([chốc lở](https://dermnetnz.org/bacterial/impetigo.html), [viêm mô tế bào](https://dermnetnz.org/bacterial/cellulitis.html)).
+- Tình trạng không khỏe chung có thể dẫn đến viêm phổi.
+- Hạ albumin máu do mất protein và tăng tốc độ chuyển hóa gây phù nề.
+- Erythroderma kéo dài có thể dẫn đến thay đổi sắc tố (các mảng da nâu và/hoặc trắng).
+
+## Erythroderma được chẩn đoán như thế nào?
+
+Công thức máu có thể cho thấy thiếu máu, bất thường số lượng bạch cầu, và tăng bạch cầu ái toan. Tăng bạch cầu ái toan đáng kể nên làm dấy lên nghi ngờ về u lympho.
+
+- \> 20% tế bào Sézary lưu hành gợi ý hội chứng Sézary
+- Protein phản ứng C có thể hoặc không thể tăng.
+- Protein có thể tiết lộ hạ albumin máu và chức năng gan bất thường.
+- Gamma globulin đa dòng là phổ biến, và tăng immunoglobulin E (IgE) là điển hình của erythroderma vô căn.
+
+[Sinh thiết da](https://dermnetnz.org/procedures/biopsy.html) từ nhiều vị trí có thể được thực hiện nếu nguyên nhân không rõ. Chúng có xu hướng cho thấy viêm không đặc hiệu trên mô học. Các đặc điểm chẩn đoán cũng có thể có mặt.
+
+[Miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) có lợi nếu một [bệnh phồng rộp tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) hoặc bệnh mô liên kết được xem xét.
+
+## Điều trị erythroderma là gì?
+
+Erythroderma có thể nghiêm trọng, thậm chí đe dọa tính mạng, và bệnh nhân có thể cần nhập viện để theo dõi và khôi phục cân bằng chất lỏng và điện giải, tình trạng tuần hoàn, và nhiệt độ cơ thể.
+
+Các biện pháp chung sau đây được áp dụng:
+
+- Ngừng tất cả các loại thuốc không cần thiết
+- Theo dõi cân bằng chất lỏng và nhiệt độ cơ thể
+- Duy trì độ ẩm cho da với [băng ướt](https://dermnetnz.org/procedures/wet-wraps.html), các loại băng ướt khác, [chất làm mềm](https://dermnetnz.org/treatments/emollients.html) và [steroid bôi nhẹ](https://dermnetnz.org/treatments/topical-steroids.html)
+- Kê đơn [kháng sinh](https://dermnetnz.org/treatments/penicillin.html) cho nhiễm trùng vi khuẩn
+- [Thuốc kháng histamin](https://dermnetnz.org/treatments/antihistamines.html) có thể hoặc không thể hữu ích cho ngứa.
+
+Nếu có thể xác định nguyên nhân thì nên bắt đầu điều trị cụ thể, như [steroid bôi](https://dermnetnz.org/treatments/topical-steroids.html) và [steroid hệ thống](https://dermnetnz.org/treatments/systemic-steroids.html) cho [viêm da dị ứng](https://dermnetnz.org/dermatitis/atopic.html); [acitretin](https://dermnetnz.org/treatments/acitretin.html) hoặc [methotrexate](https://dermnetnz.org/treatments/methotrexate.html) cho [vảy nến](https://dermnetnz.org/scaly/psoriasis.html).
+
+## Làm thế nào để phòng ngừa erythroderma?
+
+Trong hầu hết các trường hợp, erythroderma không thể phòng ngừa.
+
+Người có dị ứng thuốc đã biết nên được thông báo rằng họ nên tránh thuốc đó mãi mãi, và nếu phản ứng của họ nghiêm trọng, đeo vòng tay cảnh báo thuốc. Tất cả hồ sơ y tế nên được cập nhật nếu có phản ứng bất lợi với một loại thuốc và được tham khảo bất cứ khi nào bắt đầu một loại thuốc mới.
+
+Bệnh nhân có bệnh da nghiêm trọng nên được thông báo nếu họ có nguy cơ bị erythroderma. Họ nên được giáo dục về nguy cơ tái phát nếu họ ngừng dùng thuốc.
+
+## Triển vọng cho erythroderma là gì?
+
+Tiên lượng của erythroderma phụ thuộc vào quá trình bệnh cơ bản. Nếu nguyên nhân có thể được loại bỏ hoặc điều chỉnh, tiên lượng thường tốt.
+
+Nếu erythroderma là kết quả của sự lan rộng toàn thân của một rối loạn da chính như vảy nến hoặc viêm da, nó thường sẽ hết với điều trị thích hợp cho bệnh da nhưng có thể tái phát bất cứ lúc nào.
+
+Quá trình của erythroderma vô căn là không thể đoán trước. Nó có thể kéo dài trong một thời gian dài với các giai đoạn cấp tính.
+
+### Tài liệu tham khảo
+
+- Textbook of Dermatology. Ed Rook A, Wilkinson DS, Ebling FJB, Champion RH, Burton JL. Fourth edition. Blackwell Scientific Publications.
+- Okoduwa C, Lambert WC, Schwartz RA, et al. Erythroderma: review of a potentially life-threatening dermatosis. Indian Journal of Dermatology. 2009;54(1):1–6. doi:10.4103/0019-5154.48976. [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800861/)
+
+### Trên DermNet
+
+- [Vảy nến erythrodermic](https://dermnetnz.org/topics/erythrodermic-psoriasis)
+- [Khóa học trực tuyến về cấp cứu da liễu](https://dermnetnz.org/cme/emergencies)
+- [Thuốc được báo cáo gây erythroderma](https://dermnetnz.org/topics/drugs-reported-to-cause-erythroderma)
+- [Phát ban dạng sởi do thuốc](https://dermnetnz.org/topics/morbilliform-drug-reaction)
+- [Hội chứng Sezary](https://dermnetnz.org/topics/sezary-syndrome)
+
+### Các trang web khác
+
+- [Erythroderma (Viêm da tróc vảy toàn thân)](http://emedicine.medscape.com/article/1106906-overview) — Medscape Reference
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

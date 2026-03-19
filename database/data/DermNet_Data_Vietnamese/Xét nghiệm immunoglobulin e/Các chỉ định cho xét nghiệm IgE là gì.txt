@@ -1,0 +1,34 @@
+## Các chỉ định cho xét nghiệm IgE là gì?
+
+Xét nghiệm IgE được chỉ định khi việc lấy lịch sử bệnh nhân cẩn thận và khám xét dẫn đến nghi ngờ dị ứng loại I.
+
+Xét nghiệm IgE cũng có thể được sử dụng để theo dõi bệnh nhân với tình trạng dị ứng đã biết, chẳng hạn như:
+
+- [Phản vệ](https://dermnetnz.org/topics/anaphylaxis/)
+- Viêm mũi dị ứng (sốt cỏ khô)
+- [Viêm kết mạc dị ứng](https://dermnetnz.org/topics/allergic-conjunctivitis/)
+- Hen suyễn
+- Viêm xoang mũi mãn tính.
+
+Xét nghiệm IgE cũng hữu ích để xác định liệu bệnh nhân có dị ứng với một loại protein cụ thể nào đó, chẳng hạn như:
+
+- Các loại [dị ứng thực phẩm](https://dermnetnz.org/topics/food-allergy) (ví dụ, [đậu phộng](https://dermnetnz.org/topics/peanut-allergy/))
+- [Mạt bụi nhà](https://dermnetnz.org/topics/house-dust-mite/)
+- Phấn hoa cỏ, cỏ dại hoặc cây
+- Lông hoặc lông thú động vật
+- Một số loại thuốc và [mỹ phẩm](https://dermnetnz.org/topics/contact-reactions-to-cosmetics)
+- Nấm mốc
+- Nọc độc của [ong hoặc ong bắp cày](https://dermnetnz.org/topics/bee-and-wasp-stings/).
+
+Xét nghiệm IgE có thể được sử dụng khi [thử nghiệm chích da](https://dermnetnz.org/topics/skin-prick-testing/) không có sẵn hoặc không phù hợp; ví dụ, ở một cá nhân có [chứng vẽ da](https://dermnetnz.org/topics/dermographism/), bệnh da lan rộng, sử dụng gần đây [thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines/) hoặc [steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids/), hoặc khi có lo ngại rằng thử nghiệm chích có thể gây ra [phản ứng phản vệ](https://dermnetnz.org/topics/anaphylaxis/).
+
+Xét nghiệm IgE hiếm khi được chỉ định trong [viêm da cơ địa](https://dermnetnz.org/topics/atopic-dermatitis/), [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis/), [mề đay tự phát mãn tính](https://dermnetnz.org/topics/chronic-spontaneous-urticaria/), hoặc [phù mạch](https://dermnetnz.org/topics/angioedema/) vì sự liên quan của IgE tăng cao không rõ ràng trong các bệnh này.
+
+### Khuyến nghị của Choosing Wisely
+
+Mặc dù không có chống chỉ định tuyệt đối cho các xét nghiệm IgE, Học viện Dị ứng, Hen suyễn & Miễn dịch học Hoa Kỳ, Hiệp hội Miễn dịch học Lâm sàng và Dị ứng Úc, và Choosing Wisely đưa ra các khuyến nghị sau \[5,6\].
+
+- Không thực hiện một loạt các xét nghiệm IgE không phân biệt trong đánh giá dị ứng.
+- Xét nghiệm IgE đặc hiệu cho thực phẩm không nên được thực hiện mà không có lịch sử bệnh nhân lâm sàng gợi ý dị ứng thực phẩm qua trung gian IgE.
+- Xét nghiệm IgE đặc hiệu cho các chất hít hoặc thực phẩm không được chỉ định trong [mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions/) trừ khi có lịch sử rõ ràng cho thấy một chất gây dị ứng là yếu tố kích thích hoặc duy trì mề đay.
+- Các loạt xét nghiệm IgE không phân biệt cho thực phẩm rất tốn kém và không hữu ích, có thể dẫn đến chẩn đoán sai và chế độ ăn kiêng không phù hợp.

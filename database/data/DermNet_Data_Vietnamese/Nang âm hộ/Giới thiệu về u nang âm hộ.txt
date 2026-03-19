@@ -1,0 +1,29 @@
+##### U nang âm hộ — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+U nang của âm hộ
+
+Danh mục:
+
+Tổn thương (lành tính)
+
+ICD-10:
+
+N90.7, Q52.79, N90.89, N90.9, N76.4, L72.0, N80.8, N75.0, Q52.4, L72.2, L72.3, L05.91
+
+ICD-11:
+
+GA13.3, LB40.1, EK70.Y, EK70.0Z, GA10.6, GA03.1, GA13.5, GC0Y, GA13.Y, LB45.9, 2F22,
+
+SNOMED CT:
+
+60098005, 282025003, 31339007, 37719003, 38780008, 47639008, 19633006, 109433009, 254685008, 717706003, 57044006, 419603000, 54176009, 82520000, 447030009
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics?category=Lesions%20(benign))**
+
+# **U nang âm hộ**
+
+Tác giả: Bác sĩ Yi Jia Lee, Bác sĩ Nội trú, Bệnh viện Sir Charles Gairdner, Perth, WA, Úc; Bác sĩ Varitsara Mangkorntongsakul, Bác sĩ Cao cấp, Khu Y tế Trung tâm Bờ biển, Gosford, NSW, Úc. Biên tập bởi Gus Mitchell. Tháng 11 năm 2020
+
+[Giới thiệu](https://dermnetnz.org/topics/vulval-cysts#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/vulval-cysts#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/vulval-cysts#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/vulval-cysts#Clinical%20features) [Biến chứng](https://dermnetnz.org/topics/vulval-cysts#Complications) [Chẩn đoán](https://dermnetnz.org/topics/vulval-cysts#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/vulval-cysts#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/vulval-cysts#Treatment) [Kết quả](https://dermnetnz.org/topics/vulval-cysts#Outcome)

@@ -1,0 +1,234 @@
+##### Nám da — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Chloasma, Mặt nạ thai kỳ
+
+Danh mục:
+
+Rối loạn sắc tố
+
+ICD-10:
+
+L81.1
+
+ICD-11:
+
+ED60.1
+
+SNOMED CT:
+
+36209000, 386960009
+
+**[Rối loạn sắc tố](https://dermnetnz.org/topics?category=Pigmentary%20disorders)**
+
+# **Nám da**
+
+Tác giả: A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. 1997/2014. Cập nhật: Dr Brent J Doolan, Nghiên cứu viên Da liễu, Bệnh viện Da liễu, Sydney NSW, Úc. Dr Monisha Gupta, Bác sĩ Da liễu, Bệnh viện Da liễu, Sydney NSW, Úc. Biên tập bởi Gus Mitchell. Tháng 10 năm 2020.
+
+[Giới thiệu](https://dermnetnz.org/topics/melasma#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/melasma#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/melasma#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/melasma#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/melasma#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/melasma#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/melasma#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/melasma#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/melasma#Outcome)
+
+## Nám da là gì?
+
+Nám da là một rối loạn da phổ biến, xuất hiện dưới dạng sắc tố nâu nhạt không đều trên mặt.
+
+Dạng sắc tố mặt này trước đây được gọi là _chloasma_, nhưng vì từ này có nguồn gốc từ tiếng Hy Lạp có nghĩa là 'trở nên xanh', thuật ngữ _melasma_ (da nâu) được ưa chuộng hơn. Nó cũng được biết đến như 'mặt nạ thai kỳ'.
+
+## Ai bị nám da?
+
+Nám da phổ biến hơn ở phụ nữ so với nam giới, thường bắt đầu từ độ tuổi 20 đến 40. Nám da phổ biến nhất ở những người dễ rám nắng hoặc có làn da nâu tự nhiên ( [loại da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) III, IV). Nó ít phổ biến hơn ở những người có làn da sáng (loại Fitzpatrick I, II) hoặc da đen (loại Fitzpatrick V, VI).
+
+## Nguyên nhân gây nám da là gì?
+
+Nguyên nhân của nám da rất phức tạp; nó được đề xuất là một rối loạn lão hóa da ở những người có yếu tố di truyền. Sắc tố cuối cùng là do sự sản xuất quá mức melanin bởi các tế bào sắc tố (melanocytes); hoặc được hấp thụ bởi các tế bào sừng (melanosis biểu bì) và/hoặc lắng đọng trong lớp bì (melanosis bì, melanophages).
+
+Các yếu tố liên quan đến sự phát triển của nám da bao gồm:
+
+- Tiền sử gia đình — 60% báo cáo có thành viên gia đình bị ảnh hưởng
+- Tiếp xúc với ánh nắng mặt trời — ánh sáng cực tím và ánh sáng nhìn thấy thúc đẩy sản xuất melanin
+- Hormone — [thai kỳ](https://dermnetnz.org/topics/skin-changes-in-pregnancy) và việc sử dụng thuốc tránh thai chứa estrogen/progesterone, thiết bị tử cung, cấy ghép, và liệu pháp thay thế hormone, có liên quan đến một phần tư phụ nữ bị ảnh hưởng; [rối loạn tuyến giáp](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease) có thể liên quan đến nám da
+- Thuốc và sản phẩm có mùi thơm — các liệu pháp nhắm mục tiêu mới cho ung thư và xà phòng có mùi thơm, đồ vệ sinh cá nhân, và mỹ phẩm có thể gây ra phản ứng quang độc kích hoạt nám da
+- Các nhà nghiên cứu đang xem xét vai trò của tế bào gốc, thần kinh, mạch máu, và các yếu tố hormone địa phương trong việc thúc đẩy sự kích hoạt tế bào sắc tố.
+
+## Đặc điểm lâm sàng của nám da là gì?
+
+Nám da xuất hiện dưới dạng các đốm hoặc mảng nâu nhạt đến nâu đậm không đối xứng với đường viền không đều.
+
+Các mẫu đặc trưng bao gồm:
+
+- Trung tâm mặt — trán, má, mũi, môi trên (trừ rãnh môi); 50-80% các trường hợp
+- Má — má, mũi
+- Hàm dưới — đường viền hàm, cằm
+- Erythosis pigmentosa faciei — đỏ hoặc viêm
+- Ngoài mặt — cẳng tay, cánh tay trên, vai trong phân bố tiếp xúc với ánh nắng.
+
+Nám da có thể được phân loại thành loại biểu bì, bì, và hỗn hợp, tùy thuộc vào mức độ tăng melanin trong da.
+
+### Nám da biểu bì
+
+Nám da biểu bì được định nghĩa bởi:
+
+- Đường viền: rõ ràng
+- Màu sắc: nâu đậm
+- [Đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination): xuất hiện rõ ràng hơn
+- [Dermoscopy](https://dermnetnz.org/topics/dermoscopy): Các đảo lưới nâu rải rác với các hạt mịn tối
+- Điều trị: thường có phản ứng tốt.
+
+### Nám da bì
+
+Nám da bì được định nghĩa bởi:
+
+- Đường viền: không rõ ràng
+- Màu sắc: nâu nhạt đến xanh xám
+- Đèn Wood: không có sự tăng cường
+- Dermoscopy: mẫu reticuloglobular, giãn mao mạch, cấu trúc hình cung
+- Điều trị: thường có phản ứng kém.
+
+### Nám da hỗn hợp
+
+Nám da hỗn hợp là loại phổ biến nhất, và được định nghĩa bởi:
+
+- Kết hợp các màu xanh xám, nâu nhạt và nâu đậm
+- Các mẫu hỗn hợp được thấy với đèn Wood và dermatoscope
+- Điều trị thường cho thấy sự cải thiện một phần.
+
+![Nám da](https://dermnetnz.org/assets/Uploads/colour/melasma/3144.jpg)
+
+Nám da
+
+![Nám da](https://dermnetnz.org/assets/Uploads/colour/melasma/3151.jpg)
+
+Nám da
+
+![Nám da](https://dermnetnz.org/assets/Uploads/colour/melasma/3140.jpg)
+
+Nám da
+
+![Nám da](https://dermnetnz.org/assets/Uploads/colour/melasma/3132.jpg)
+
+Nám da
+
+![Nám da](https://dermnetnz.org/assets/Uploads/colour/chloas1.jpg)
+
+Nám da
+
+![Nám da](https://dermnetnz.org/assets/Uploads/colour/chloas3.jpg)
+
+Nám da
+
+Xem thêm [hình ảnh nám da](https://dermnetnz.org/topics/melasma-images).
+
+## Biến chứng của nám da là gì?
+
+Nám da có thể có tác động nghiêm trọng đến [chất lượng cuộc sống](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) do tính dễ thấy của nó.
+
+## Nám da được chẩn đoán như thế nào?
+
+Nám da thường được chẩn đoán lâm sàng dựa trên hình thức lâm sàng, và kiểm tra với đèn Wood và dermatoscope.
+
+Đôi khi có thể cần lấy [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy). Mô học thay đổi theo loại nám da, nhưng thường thấy các đặc điểm sau:
+
+- Melanin lắng đọng trong các tế bào sừng cơ bản và trên cơ bản
+- Tế bào sắc tố (melanocytes) có nhánh cao (dendritic) và sắc tố mạnh
+- Melanin trong các tế bào melanophages bì
+- [Solar elastosis](https://dermnetnz.org/topics/solar-elastosis) và sự phân mảnh sợi đàn hồi
+- Sự gia tăng mạch máu.
+
+Chụp ảnh nối tiếp và các chỉ số mức độ nghiêm trọng như Chỉ số Diện tích và Mức độ Nám da (MASI) hoặc MASI sửa đổi có thể được sử dụng để theo dõi phản ứng điều trị.
+
+## Chẩn đoán phân biệt cho nám da là gì?
+
+Các rối loạn khác có thể giống nám da về mặt lâm sàng bao gồm:
+
+- [Tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- [Lentigo mặt trời](https://dermnetnz.org/topics/solar-lentigo) và các dạng lentigines và tàn nhang khác
+- [Tăng sắc tố đốm bì mắc phải](https://dermnetnz.org/topics/acquired-dermal-macular-hyperpigmentation)
+- [Tăng sắc tố do thuốc](https://dermnetnz.org/topics/drug-induced-pigmentation)
+- [Naevus của Ota và naevus của Hori](https://dermnetnz.org/topics/naevus-of-ota-ito-hori).
+
+## Điều trị nám da là gì?
+
+Một sự kết hợp của các biện pháp thường được yêu cầu.
+
+### Biện pháp chung
+
+- Bảo vệ khỏi ánh nắng quanh năm, suốt đời — mũ rộng vành, kem chống nắng phổ rộng có chỉ số bảo vệ rất cao (SPF50+) chứa oxit sắt, và hành vi thông minh với ánh nắng
+- Ngừng sử dụng thuốc tránh thai hormone nếu có thể
+- [Ngụy trang mỹ phẩm](https://dermnetnz.org/topics/cosmetic-camouflage).
+
+### Liệu pháp bôi ngoài
+
+Công thức thành công nhất là sự kết hợp của [hydroquinone](https://dermnetnz.org/topics/hydroquinone), [tretinoin](https://dermnetnz.org/topics/topical-retinoids), và steroid bôi ngoài có độ mạnh vừa phải (kem làm sáng da) được báo cáo là làm sạch hoặc cải thiện 60–80%.
+
+Các tác nhân bôi ngoài khác được sử dụng đơn lẻ hoặc, thường hơn, kết hợp đã bao gồm:
+
+- Thiamidol
+- [Axit azelaic](https://dermnetnz.org/topics/azelaic-acid)
+- Axit kojic
+- [Kem cysteamine](https://dermnetnz.org/topics/cysteamine-cream)
+- [Axit ascorbic](https://dermnetnz.org/topics/scurvy)
+- Methimazole
+- Axit tranexamic
+- Glutathione
+- Chiết xuất đậu nành.
+
+Nhiều tác nhân khác đang được điều tra.
+
+### Điều trị uống
+
+[Axit tranexamic](https://dermnetnz.org/topics/tranexamic-acid) ngăn chặn chuyển đổi plasminogen thành plasmin, với các tác động hạ nguồn ức chế tổng hợp prostaglandin và các yếu tố khác liên quan đến nám da.
+
+Nhiều phương pháp điều trị uống mới đang được thử nghiệm.
+
+### Kỹ thuật thủ thuật
+
+[Peel hóa học](https://dermnetnz.org/topics/chemical-peels) và [laser](https://dermnetnz.org/topics/lasers-in-dermatology) có thể được sử dụng cẩn thận, nhưng có nguy cơ làm nám da nặng hơn hoặc gây tăng sắc tố sau viêm. Bệnh nhân nên được điều trị trước bằng chất ức chế tyrosinase, như hydroquinone.
+
+Sắc tố biểu bì bề mặt có thể được bóc tách bằng axit alpha-hydroxy (AHA), như axit glycolic, hoặc axit beta-hydroxy (BHA), như axit salicylic.
+
+Microneedling, [ánh sáng xung cường độ cao (IPL)](https://dermnetnz.org/topics/intense-pulsed-light-therapy), và laser bao gồm [Q-switched Nd:YAG](https://dermnetnz.org/topics/ndyag-laser-treatment), laser phân đoạn ablative và non-ablative [fractionated](https://dermnetnz.org/topics/fractional-laser-treatment) và [laser picosecond](https://dermnetnz.org/topics/picosecond-laser) có nguy cơ cao tái phát và bệnh trở nên kháng điều trị hơn, do đó cần sử dụng chuyên gia.
+
+## Kết quả của nám da là gì?
+
+Nám da có thể gây khó chịu khi điều trị, cả cho bệnh nhân và bác sĩ. Nó phản ứng chậm với điều trị, đặc biệt nếu đã tồn tại trong thời gian dài.
+
+Ngay cả ở những người có kết quả tốt từ điều trị, sắc tố có thể tái xuất hiện khi tiếp xúc với ánh nắng mùa hè.
+
+Tính mãn tính và nguy cơ tái phát với nhu cầu bảo vệ khỏi ánh nắng suốt đời nên được nhấn mạnh để đặt ra các mục tiêu và kết quả thực tế.
+
+### Thư mục
+
+- Bala HR, Lee S, Wong C, Pandya AG, Rodrigues M. Axit tranexamic uống để điều trị nám da: một đánh giá. Dermatol Surg. 2018;44(6):814–25. doi:10.1097/DSS.0000000000001518. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29677015/)
+- Boukari F, Jourdan E, Fontas E, et al. Phòng ngừa tái phát nám da với kem chống nắng kết hợp bảo vệ chống lại UV và bước sóng ngắn của ánh sáng nhìn thấy: một thử nghiệm ngẫu nhiên so sánh. J Am Acad Dermatol. 2015;72(1):189–90.e1. doi:10.1016/j.jaad.2014.08.023. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25443629/)
+- Handel AC, Miot LD, Miot HA. Nám da: một đánh giá lâm sàng và dịch tễ học. An Bras Dermatol. 2014;89(5):771–82. doi:10.1590/abd1806-4841.20143063. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25184917/)
+- Kheradmand M, Afshari M, Damiani G, Abediankenari S, Moosazadeh M. Nám da và rối loạn tuyến giáp: một đánh giá hệ thống và phân tích tổng hợp. Int J Dermatol. 2019;58(11):1231–8. doi:10.1111/ijd.14497. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31149743/)
+- Ogbechie-Godec OA, Elbuluk N. Nám da: một đánh giá toàn diện cập nhật. Dermatol Ther (Heidelb). 2017;7(3):305–18. doi:10.1007/s13555-017-0194-1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28726212/)
+- Passeron T, Picardo M. Nám da, một rối loạn lão hóa da. Pigment Cell Melanoma Res. 2018;31(4):461–5. doi:10.1111/pcmr.12684. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29285880/)
+- Rodrigues M, Pandya AG. Nám da: chẩn đoán lâm sàng và các lựa chọn quản lý. Australas J Dermatol. 2015;56(3):151–63. doi:10.1111/ajd.12290. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25754098/)
+- Sarma N, Chakraborty S, Poojary SA, et al. Đánh giá dựa trên bằng chứng, cấp độ khuyến nghị, và đề xuất điều trị cho nám da. Indian Dermatol Online J. 2017;8(6):406–42. doi:10.4103/idoj.IDOJ\_187\_17. [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5707834/)
+- Sonthalia S, Jha AK, Langar S. Dermoscopy của nám da. Indian Dermatol Online J. 2017;8(6):525–6. doi:10.4103/idoj.IDOJ\_6\_17. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5707865/)
+- Trivedi MK, Yang FC, Cho BK. Một đánh giá về liệu pháp laser và ánh sáng trong nám da. Int J Womens Dermatol. 2017;3(1):11–20. doi:10.1016/j.ijwd.2017.01.004. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5418955/)
+
+### Trên DermNet
+
+- [Chất tẩy trắng](https://dermnetnz.org/topics/bleaching-agents)
+- [Thay đổi da trong thai kỳ](https://dermnetnz.org/topics/skin-changes-in-pregnancy)
+- [Bảo vệ khỏi ánh nắng](https://dermnetnz.org/topics/sun-protection)
+
+### Các trang web khác
+
+- [Nám da](http://emedicine.medscape.com/article/1068640-overview) — Medscape Reference
+- [Nám da](https://www.bad.org.uk/pils/melasma/) — Hiệp hội Da liễu Anh
+- [Nám da: Mẹo quản lý](http://www.aad.org/dermatology-a-to-z/diseases-and-treatments/m---p/melasma/tips) — Học viện Da liễu Hoa Kỳ
+- [Nám da](https://www.aad.org/public/diseases/color-problems/melasma) — Học viện Da liễu Hoa Kỳ
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

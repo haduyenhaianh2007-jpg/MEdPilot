@@ -1,0 +1,180 @@
+##### Phát ban — thông tin thêm
+
+Danh mục:
+
+Phát ban, Thuật ngữ
+
+ICD-10:
+
+B09
+
+ICD-11:
+
+EA00, EA0Y, EH60
+
+SNOMED CT:
+
+271807003, 112625008, 238813009, 49882001
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes) [Thuật ngữ](https://dermnetnz.org/topics?category=Terminology)**
+
+# **Phát ban**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 2002. Cập nhật tháng 9 năm 2015.
+
+[Giới thiệu](https://dermnetnz.org/topics/exanthems#Introduction) [Nguyên nhân](https://dermnetnz.org/topics/exanthems#Causes) [Dấu hiệu và triệu chứng](https://dermnetnz.org/topics/exanthems#Signs%20and%20symptoms) [Chẩn đoán](https://dermnetnz.org/topics/exanthems#Diagnosis) [Điều trị](https://dermnetnz.org/topics/exanthems#Treatment)
+
+## Phát ban là gì?
+
+Phát ban là tên y khoa được đặt cho một loại phát ban lan rộng thường đi kèm với các triệu chứng toàn thân như sốt, mệt mỏi và đau đầu. Nó thường do một tình trạng nhiễm trùng như virus gây ra, và biểu hiện như một phản ứng với độc tố do sinh vật tạo ra, tổn thương da do sinh vật, hoặc phản ứng miễn dịch.
+
+![Phát ban do virus](https://dermnetnz.org/assets/Uploads/viral/exanth.jpg)
+
+Phát ban do virus
+
+![Phát ban do virus](https://dermnetnz.org/assets/Uploads/viral/exanth2.jpg)
+
+Phát ban do virus
+
+![Phát ban](https://dermnetnz.org/assets/Uploads/viral/exanth-close.jpg)
+
+Phát ban
+
+![Phát ban](https://dermnetnz.org/assets/Uploads/viral/exanth3.jpg)
+
+Phát ban
+
+![Phát ban](https://dermnetnz.org/assets/Uploads/viral/s/exanth4.jpg)
+
+Phát ban
+
+![Phát ban](https://dermnetnz.org/assets/Uploads/viral/s/exanth5.jpg)
+
+Phát ban
+
+![Phát ban do virus](https://dermnetnz.org/assets/Uploads/viral/exanthem1.jpg)
+
+Phát ban do virus
+
+![Phát ban do virus](https://dermnetnz.org/assets/Uploads/viral/exanthem2.jpg)
+
+Phát ban do virus
+
+![Phát ban do virus](https://dermnetnz.org/assets/Uploads/viral/exanthem3.jpg)
+
+Phát ban do virus
+
+## Nguyên nhân gây ra phát ban?
+
+Phát ban trong thời thơ ấu rất phổ biến và thường do các [nhiễm trùng virus](https://dermnetnz.org/topics/viral-skin-infections) cụ thể gây ra:
+
+- [Thủy đậu (varicella)](https://dermnetnz.org/topics/chickenpox)
+- [Sởi (morbillivirus)](https://dermnetnz.org/topics/measles)
+- [Rubella (virus rubella)](https://dermnetnz.org/topics/rubella)
+- [Roseola](https://dermnetnz.org/topics/roseola) (virus herpes 6B)
+- [Ban đỏ nhiễm trùng](https://dermnetnz.org/topics/erythema-infectiosum) (parvovirus B19).
+
+Phát ban do virus cũng bao gồm:
+
+- [Hội chứng nhiễm trùng virus suy giảm miễn dịch ở người cấp tính](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome)
+- [Đậu mùa](https://dermnetnz.org/topics/smallpox)
+- [Viêm gan virus](https://dermnetnz.org/topics/skin-signs-of-viral-hepatitis)
+- [Bệnh tăng bạch cầu đơn nhân nhiễm trùng](https://dermnetnz.org/topics/infectious-mononucleosis) và phát ban aminopenicillin ([virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus))
+- [Hội chứng găng tay và tất dạng sần đỏ](https://dermnetnz.org/topics/papular-purpuric-gloves-and-socks-syndrome) (parvovirus B19)
+- [Pityriasis rosea](https://dermnetnz.org/topics/pityriasis-rosea) (virus herpes 6 và 7)
+- [Viêm da dạng sần ở trẻ em](https://dermnetnz.org/topics/papular-acrodermatitis-of-childhood)
+- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+- [Phát ban bên ngực](https://dermnetnz.org/topics/laterothoracic-exanthem)
+- Một số trường hợp [phát ban mụn mủ toàn thân cấp tính](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis)
+- Phát ban do virus không đặc hiệu.
+
+Phát ban do nhiễm trùng [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) bao gồm:
+
+- Nhiễm độc tố [tụ cầu khuẩn](https://dermnetnz.org/topics/staphylococcal-skin-infection):
+  - [Hội chứng sốc độc tố](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome) (TSS)
+  - [Hội chứng da bị tróc do tụ cầu khuẩn](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome) (SSSS).
+- Nhiễm độc tố liên cầu khuẩn:
+  - [Sốt đỏ](https://dermnetnz.org/topics/scarlet-fever)
+  - [Hội chứng sốc độc tố giống liên cầu khuẩn (STSS)](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome).
+
+Các nhiễm trùng cụ thể khác có thể gây ra phát ban bao gồm:
+
+- [Viêm phổi do Mycoplasma](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection)
+- [Bệnh do Rickettsia](https://dermnetnz.org/topics/rickettsial-diseases).
+
+Phát ban cũng có thể do [thuốc](https://dermnetnz.org/topics/drug-eruptions) (đặc biệt là [kháng sinh](https://dermnetnz.org/topics/antibiotics) và [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects)). Xem:
+
+- [Phát ban do thuốc dạng sởi](https://dermnetnz.org/topics/morbilliform-drug-reaction)
+- [Hội chứng quá mẫn thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome).
+
+Các bệnh mô liên kết cấp tính có thể biểu hiện với phát ban:
+
+- [Lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+- Viêm khớp dạng thấp khởi phát hệ thống ở trẻ em
+- [Bệnh Still khởi phát ở người lớn](https://dermnetnz.org/topics/adult-onset-still-disease).
+
+Một số phát ban không rõ nguyên nhân, ví dụ, [bệnh Kawasaki](https://dermnetnz.org/topics/kawasaki-disease).
+
+## Dấu hiệu và triệu chứng của phát ban là gì?
+
+Phát ban không đặc hiệu xuất hiện dưới dạng đốm hoặc mảng và có thể ngứa hoặc không. Phát ban thường lan rộng và có thể nhiều hơn ở thân mình so với các chi. Trong hầu hết các trường hợp, trước khi phát ban xuất hiện, bệnh nhân có thể có các triệu chứng không khỏe chung bao gồm:
+
+- Sốt
+- Mệt mỏi
+- Đau đầu
+- Mất cảm giác thèm ăn
+- Đau bụng
+- Cáu kỉnh
+- Đau nhức cơ bắp.
+
+Các dấu hiệu và triệu chứng này có thể thay đổi tùy thuộc vào nguyên nhân của phát ban. Xem các nguyên nhân cụ thể để biết chi tiết. Phát ban do virus thường xảy ra trong các đợt dịch nhỏ, vì vậy có thể có những trẻ khác bị ảnh hưởng cùng lúc.
+
+## Chẩn đoán phát ban
+
+Nhiều phát ban có các mẫu phát ban và triệu chứng tiền phát ban (trước khi phát ban) đặc trưng cho phép chẩn đoán lâm sàng.
+
+Tham khảo các nguồn tài nguyên phòng thí nghiệm địa phương để xác định các xét nghiệm phù hợp nhất trong trường hợp nghi ngờ, đặc biệt là ở bệnh nhân rất ốm hoặc nếu phát ban xuất hiện trong thời kỳ mang thai hoặc suy giảm miễn dịch.
+
+Các xét nghiệm có thể bao gồm:
+
+- Lấy mẫu virus để nuôi cấy virus, miễn dịch huỳnh quang và PCR
+- Xét nghiệm máu để kiểm tra huyết thanh học, PCR, RNA/DNA, ANA và kháng thể mô
+- Genotyping.
+
+## Điều trị phát ban là gì?
+
+Điều trị phát ban cụ thể sẽ phụ thuộc vào nguyên nhân.
+
+Điều trị triệu chứng có thể bao gồm:
+
+- Paracetamol để giảm sốt
+- [Chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) để giảm ngứa.
+
+### Trên DermNet
+
+- [Nhiễm trùng da do virus](https://dermnetnz.org/topics/viral-skin-infections)
+- [Thủy đậu (varicella)](https://dermnetnz.org/topics/chickenpox)
+- [Sởi (morbilli)](https://dermnetnz.org/topics/measles)
+- [Sởi Đức (rubella)](https://dermnetnz.org/topics/rubella)
+- [Roseola](https://dermnetnz.org/topics/roseola)
+- [Bệnh thứ năm (ban đỏ nhiễm trùng)](https://dermnetnz.org/topics/erythema-infectiosum)
+- [Bệnh do Rickettsia](https://dermnetnz.org/topics/rickettsial-diseases)
+- [Sốt đỏ](https://dermnetnz.org/topics/scarlet-fever)
+- [Hội chứng da bị tróc do tụ cầu khuẩn](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome) (SSSS)
+- [Phát ban do thuốc dạng sởi](https://dermnetnz.org/topics/morbilliform-drug-reaction)
+- [Phản ứng da bất lợi với thuốc](https://dermnetnz.org/topics/adverse-cutaneous-reactions-to-drugs)
+
+### Các trang web khác
+
+- [Đặc điểm hóa phát ban do virus](http://www.medscape.com/viewarticle/734882) — Medscape Pediatric Health
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

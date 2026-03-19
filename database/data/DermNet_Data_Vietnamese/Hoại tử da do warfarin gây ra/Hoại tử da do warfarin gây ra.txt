@@ -1,0 +1,132 @@
+##### Hoại tử da do warfarin — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Hoại tử warfarin
+
+Danh mục:
+
+Phản ứng
+
+ICD-10:
+
+T45.515A, E83.59
+
+ICD-11:
+
+EH76.3, EB90.42
+
+SNOMED CT:
+
+403659005, 403658002, 717043006
+
+**[Phản ứng](https://dermnetnz.org/topics?category=Reactions)**
+
+# **Hoại tử da do warfarin**
+
+Tác giả: Bác sĩ Ritva Vyas, Bác sĩ Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2009. Cập nhật bởi Phó Giáo sư Amanda Oakley, tháng 2 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Causes%3Cbr%20/%3E) [Yếu tố nguy cơ](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Risk%20factors%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Clinical%20features%3Cbr%20/%3E) [Điều tra](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Investigations%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Treatment)
+
+## Hoại tử da do warfarin là gì?
+
+Warfarin là một loại thuốc chống đông máu (làm loãng máu). Hoại tử da do warfarin đề cập đến một tình trạng hiếm gặp trong đó có sự đông máu nghịch lý. Các cục máu đông chặn các mạch máu và gây hoại tử, nơi một vùng da bị phá hủy. Hoại tử da do warfarin ảnh hưởng đến một trong mỗi 10.000 bệnh nhân được kê đơn warfarin.
+
+Khởi phát thường xảy ra trong vòng 2 đến 5 ngày đầu tiên của liệu pháp warfarin khi máu có xu hướng đông nhiều hơn bình thường. Hoại tử da ảnh hưởng đến các khu vực của cơ thể có hàm lượng mỡ cao.
+
+Warfarin cũng có thể gây ra [calciphylaxis](https://dermnetnz.org/topics/calciphylaxis), một dạng hoại tử da do tắc nghẽn mạch máu với canxi.
+
+## Ai bị hoại tử da do warfarin?
+
+Hoại tử da do warfarin phổ biến hơn ở phụ nữ so với nam giới. Nó thường xảy ra ở độ tuổi từ 50 đến 70. Nó phổ biến hơn ở bệnh nhân béo phì và phụ nữ tiền mãn kinh.
+
+Hoại tử da do warfarin có khả năng xảy ra hơn nếu warfarin được dùng mà không có heparin hoặc nếu liều khởi đầu cao hơn của warfarin được dùng trong ngày đầu tiên hoặc hai ngày điều trị.
+
+Rất hiếm khi, hoại tử da do warfarin xảy ra vài tuần hoặc vài tháng sau khi bắt đầu liệu pháp warfarin. Điều này có thể xảy ra trong các trường hợp sau:
+
+- liều warfarin đã được tăng lên
+- liều được kê đơn không được uống
+- bệnh gan
+- tương tác thuốc.
+
+Calciphylaxis thường thấy hơn trong bối cảnh suy thận mạn tính nhưng có thể hiếm khi do warfarin gây ra khi chức năng thận bình thường.
+
+## Nguyên nhân gây hoại tử do warfarin là gì?
+
+Warfarin là một loại thuốc chống đông máu hoặc làm loãng máu được sử dụng rộng rãi. Nó hoạt động bằng cách vô hiệu hóa các yếu tố đông máu phụ thuộc vitamin K II, VII, IX và X. Đồng thời, các protein C và S phụ thuộc vitamin K bị vô hiệu hóa – đây là các chất chống đông tự nhiên.
+
+Một nửa lượng Protein C hoạt hóa biến mất trong vòng 6 giờ (thời gian bán hủy của nó). Vì vậy, Protein C cạn kiệt trong vài ngày đầu của liệu pháp warfarin, trước khi các yếu tố X và II biến mất, có thời gian bán hủy từ 2-5 ngày. Trong một số trường hợp, điều này dẫn đến đông máu quá mức.
+
+Tại sao hoại tử da xảy ra ở các khu vực có nhiều mỡ là không rõ ràng; có thể các khu vực này dễ bị tổn thương hơn do cung cấp máu giảm.
+
+Calciphylaxis do warfarin có thể do ức chế protein ma trận Gla, thường ngăn ngừa sự lắng đọng canxi trong các mạch máu.
+
+## Các yếu tố nguy cơ của hoại tử da do warfarin là gì?
+
+Các yếu tố nguy cơ của hoại tử da do warfarin bao gồm:
+
+1. Thiếu hụt di truyền Protein C, Protein S hoặc Yếu tố V Leiden
+2. Đột biến trong gen methylene tetrahydrofolate reductase gây tăng homocysteine máu
+3. Thiếu hụt Antithrombin III
+4. Kháng thể antiphospholipid.
+
+## Các đặc điểm lâm sàng của hoại tử da do warfarin là gì?
+
+Dấu hiệu đầu tiên thường là đau và [ban xuất huyết](https://dermnetnz.org/topics/purpura) (một phát ban giống như vết bầm tím màu tím), sau vài ngày trở thành màu xanh đen với viền đỏ. Các mụn nước máu và hoại tử da toàn bộ (chết da) theo sau. Có thể có một phát ban dạng lưới đỏ xung quanh vùng hoại tử (ban xuất huyết dạng lưới). Các khu vực bị ảnh hưởng thường là ngực, đùi, mông, hông và bụng, nhưng hoại tử da do warfarin sớm cũng có thể gây ra [hội chứng ngón chân xanh](https://dermnetnz.org/topics/blue-toe-syndrome).
+
+[Xem hình ảnh hoại tử da do warfarin](https://dermnetnz.org/images/warfarin-induced-skin-necrosis-images)
+
+## Điều tra
+
+Chẩn đoán hoại tử da do warfarin được thực hiện lâm sàng.
+
+[Một sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể hỗ trợ trong chẩn đoán. [Mô bệnh học của hoại tử warfarin](https://dermnetnz.org/topics/warfarin-necrosis-pathology) thường cho thấy sự đông máu trong các mạch máu trong da mà không có bất kỳ viêm nào. Warfarin cũng có thể gây ra [calciphylaxis](https://dermnetnz.org/topics/calciphylaxis), được nhận biết trên sinh thiết bằng sự lắng đọng canxi trong da bị ảnh hưởng.
+
+Xét nghiệm máu để kiểm tra mức độ protein C và protein S là quan trọng để đánh giá các nguyên nhân có thể gây ra.
+
+## Điều trị hoại tử da do warfarin là gì?
+
+Điều trị chính của hoại tử da do warfarin là ngừng warfarin. Nếu cần chống đông máu, heparin có thể được sử dụng. Đôi khi Vitamin K được sử dụng để đẩy nhanh quá trình đảo ngược tác dụng của warfarin. Nếu có sự đông máu đe dọa tính mạng thì có thể sử dụng các chất cô đặc protein C.
+
+Khi warfarin được ngừng, các vùng hoại tử da nhỏ có thể được để tự lành, nhưng các vùng hoại tử da lớn hơn có thể cần phẫu thuật và [ghép da](https://dermnetnz.org/topics/skin-grafting).
+
+Warfarin đã được khởi động lại một cách thận trọng với liều thấp hơn ở một số bệnh nhân khi cần thiết cho chống đông máu lâu dài. Điều này tốt nhất nên được thực hiện với lời khuyên từ một chuyên gia huyết học.
+
+### Tài liệu tham khảo
+
+- Ng T, et al. Hoại tử da do warfarin liên quan đến Yếu tố V Leiden và thiếu hụt protein S. Clinical Laboratory Haematology 2001,23; 261–4. [Medline](http://www.ncbi.nlm.nih.gov/pubmed/11683790)
+- Scarff C, et al. Hoại tử warfarin khởi phát muộn. Australasian Journal of Dermatology 2002, 43:202–6. [Medline](http://www.ncbi.nlm.nih.gov/pubmed/12121399)
+- Parsi K, et al. Hoại tử da do warfarin với thiếu hụt protein C mắc phải. Australasian Journal of Dermatology 2003, 44:57–61. [Medline](http://www.ncbi.nlm.nih.gov/pubmed/12581084)
+- Byrne, et al. Hoại tử da do warfarin liên quan đến thiếu hụt protein S và đột biến trong gen methylenetetrahydrofolate reductase. Clinical Dermatology 2004, 29:35–6. [Medline](http://www.ncbi.nlm.nih.gov/pubmed/14723717)
+- Moll S. Hoại tử da do warfarin. BJ Haem 2004;126:628. Journal
+- Những cạm bẫy trong liệu pháp warfarin. Clinical Applications in Thrombosis/Hemostasis 2006,12:1–2. Messmore H et al. [Medline](http://www.ncbi.nlm.nih.gov/pubmed/16444427).
+- Hoại tử da do warfarin một báo cáo trường hợp. Clinical Applications in Thrombosis/Hemostasis 2006,12:101–4. Abdul-Jabar et al. [Medline](http://www.ncbi.nlm.nih.gov/pubmed/16444443).
+- Hoại tử da do warfarin sau phẫu thuật tim mở do thiếu hụt protein S và C. Heart vessels 2007, 22:64–66. Savas Oz et al. [Medline](http://www.ncbi.nlm.nih.gov/pubmed/17285450).
+- Da liễu. Ed. Bolognia, J et al. 2nd edition 2007. Mosby.
+- Warfarin và Calciphylaxis — Một sự kiện bất lợi hiếm nhưng nghiêm trọng. Medsafe Prescriber Update 38(3): 38–9. Tháng 9 năm 2017. [Website](http://www.medsafe.govt.nz/profs/PUArticles/September2017/WarfarinAndCalciphylaxis.htm).
+
+### Trên DermNet
+
+- [Hình ảnh hoại tử da do warfarin](https://dermnetnz.org/images/warfarin-induced-skin-necrosis-images)
+- [Hoại tử warfarin – mô bệnh học](https://dermnetnz.org/topics/warfarin-necrosis-pathology)
+- [Trường hợp hoại tử coumarin 1](https://dermnetnz.org/cases/painful-haemorrhagic-lesion-on-calf)
+- [Giảm tiểu cầu do heparin](https://dermnetnz.org/topics/heparin-induced-thrombocytopenia)
+- [Phản ứng thuốc dạng bọng nước](https://dermnetnz.org/topics/bullous-drug-eruptions)
+- [Hội chứng ngón chân xanh](https://dermnetnz.org/topics/blue-toe-syndrome)
+
+### Các trang web khác
+
+- Medscape Reference
+  - [Biểu hiện da của bệnh huyết học](http://emedicine.medscape.com/article/1096183-overview)
+  - [Thiếu hụt Protein C](http://emedicine.medscape.com/article/205470-overview)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

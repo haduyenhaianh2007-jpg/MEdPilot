@@ -1,0 +1,238 @@
+##### Lentigo — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Lentigines, Lentiginosis
+
+Danh mục:
+
+Tổn thương (lành tính), Thuật ngữ
+
+ICD-10:
+
+L81.4
+
+ICD-11:
+
+2F20.0Y, EJ20.1, DA00.2, ED61.Y
+
+SNOMED CT:
+
+72100002, 403716006, 239136007, 398900000, 402624000, 18822004
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics?category=Lesions%20(benign)) [Thuật ngữ](https://dermnetnz.org/topics?category=Terminology)**
+
+# **Lentigo**
+
+Tác giả: Vanessa Ngan, Nhà văn nhân viên, 2006. Cập nhật bởi A/Prof Amanda Oakley, Tháng 2 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/lentigo#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/lentigo#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/lentigo#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/lentigo#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/lentigo#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/lentigo#Treatment)
+
+## Lentigo là gì?
+
+Lentigo là một tổn thương phẳng hoặc hơi nhô lên có sắc tố với rìa rõ ràng. Không giống như [ephelis](https://dermnetnz.org/topics/ephelis) (tàn nhang), nó không mờ đi trong những tháng mùa đông. Có nhiều loại lentigo khác nhau.
+
+Tên gọi lentigo ban đầu ám chỉ đến hình dạng giống như một hạt đậu nhỏ. Số nhiều của lentigo là lentigines, mặc dù "lentigos" cũng được sử dụng phổ biến.
+
+## Ai bị lentigines?
+
+Lentigines có thể ảnh hưởng đến nam và nữ ở mọi lứa tuổi và chủng tộc. Lentigines do ánh nắng mặt trời đặc biệt phổ biến ở người lớn có làn da sáng. Lentigines liên quan đến hội chứng có mặt từ khi sinh ra hoặc xuất hiện trong thời thơ ấu.
+
+## Nguyên nhân gây ra lentigines?
+
+Các dạng lentigo phổ biến là do tiếp xúc với bức xạ cực tím:
+
+- Tổn thương do ánh nắng mặt trời bao gồm [cháy nắng](https://dermnetnz.org/topics/sunburn)
+- [Tắm nắng trong nhà](https://dermnetnz.org/topics/sunbeds-and-solaria)
+- [Quang trị liệu](https://dermnetnz.org/topics/phototherapy), đặc biệt là quang hóa trị liệu ([PUVA](https://dermnetnz.org/topics/puva-photochemotherapy)).
+
+Bức xạ ion hóa, ví dụ như [xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases), cũng có thể gây ra lentigines.
+
+Một số hội chứng gia đình liên quan đến lentigines lan rộng bắt nguồn từ đột biến trong các con đường Ras-MAP kinase, mTOR và PTEN.
+
+## Đặc điểm lâm sàng của lentigines là gì?
+
+Lentigines đã được phân loại thành nhiều loại khác nhau tùy thuộc vào hình dạng, vị trí xuất hiện trên cơ thể, yếu tố gây ra, và liệu chúng có liên quan đến các bệnh hoặc tình trạng khác hay không.
+
+Lentigines có thể đơn lẻ hoặc thường là nhiều. Hầu hết lentigines có đường kính nhỏ hơn 5 mm.
+
+### Lentigo simplex
+
+- Tiền thân của nốt ruồi nối
+- Xuất hiện trong thời thơ ấu và đầu tuổi trưởng thành
+- Tìm thấy trên thân và chi
+- Đốm nâu nhỏ tròn hoặc bầu dục hoặc mảng mỏng
+- Rìa răng cưa hoặc mịn
+- Có thể có bề mặt khô
+- Có thể biến mất theo thời gian
+
+![Lentigo simplex](https://dermnetnz.org/assets/Uploads/lesions/lentigo-simplex1.jpg)
+
+Lentigo simplex
+
+### Solar lentigo
+
+- Tiền thân của keratosis tiết bã
+- Tìm thấy trên các vị trí tiếp xúc với ánh nắng mặt trời lâu dài như tay, mặt, chân dưới
+- Cũng có thể xuất hiện sau khi cháy nắng ở vai
+- Đốm hoặc mảng mỏng màu vàng, nâu nhạt hoặc nâu đậm đều hoặc không đều
+- Có thể có bề mặt khô
+- Thường có viền răng cưa
+- Có thể từ từ mở rộng đến vài centimet đường kính
+- Có thể biến mất, thường thông qua quá trình được gọi là keratosis lichenoid
+- Khi [không điển hình](https://dermnetnz.org/topics/atypical-solar-lentigo) về hình dạng, có thể khó phân biệt với [melanoma in situ](https://dermnetnz.org/topics/melanoma-in-situ)
+
+![Solar lentigo](https://dermnetnz.org/assets/Uploads/lesions/lentigo8.jpg)
+
+Solar lentigo
+
+### Ink spot lentigo
+
+- Còn được gọi là lentigo dạng lưới
+- Ít hơn so với lentigines do ánh nắng mặt trời
+- Xuất hiện sau khi cháy nắng ở những người có làn da rất sáng
+- Đốm mực không đều màu nâu đậm đến đen
+
+![Ink spot lentigo](https://dermnetnz.org/assets/Uploads/lesions/lentigo6.jpg)
+
+Ink spot lentigo
+
+### PUVA lentigo
+
+- Tương tự như ink spot lentigo nhưng xuất hiện sau quang hóa trị liệu (PUVA)
+- Vị trí bất kỳ nơi nào tiếp xúc với PUVA
+
+![](https://dermnetnz.org/assets/Uploads/lesions/lentigo7.jpg)
+
+### Tanning bed lentigo
+
+- Tương tự như ink spot lentigo nhưng xuất hiện sau khi tắm nắng trong nhà
+- Vị trí bất kỳ nơi nào tiếp xúc với giường tắm nắng
+
+![](https://dermnetnz.org/assets/Uploads/lesions/lentigo9.jpg)
+
+### Radiation lentigo
+
+- Xuất hiện tại vị trí chiếu xạ (ngẫu nhiên hoặc điều trị)
+- Liên quan đến [viêm da do bức xạ](https://dermnetnz.org/topics/radiation-dermatitis) giai đoạn muộn: teo biểu bì, xơ hóa dưới da, keratosis, [telangiectasias](https://dermnetnz.org/topics/telangiectasia)
+
+### Melanotic macule
+
+- Bề mặt niêm mạc hoặc da không có lông liền kề ví dụ môi, âm hộ, dương vật, hậu môn
+- Màu nâu nhạt đến đậm
+- Còn được gọi là melanosis niêm mạc
+
+![](https://dermnetnz.org/assets/Uploads/lesions/lentigo3.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/lesions/lentigo2.jpg)
+
+### Generalised lentigines
+
+- Tìm thấy trên bất kỳ vị trí nào tiếp xúc hoặc được che phủ từ thời thơ ấu
+- Các đốm nhỏ có thể hợp nhất thành các mảng lớn hơn
+- Không liên quan đến hội chứng
+- Còn được gọi là lentigines profusa, lentigines nhiều
+
+![](https://dermnetnz.org/assets/Uploads/lesions/lentigo4.jpg)
+
+### Agminated lentigines
+
+- Sự bùng phát của lentigos giới hạn trong một khu vực phân đoạn duy nhất
+- Ranh giới rõ ràng ở đường giữa
+- Có thể có bất thường thần kinh và phát triển liên quan
+
+### Patterned lentigines
+
+- Xu hướng di truyền đến lentigines trên mặt, môi, mông, lòng bàn tay, lòng bàn chân
+- Chủ yếu được công nhận ở người gốc Phi
+
+### Centrofacial neurodysraphic lentiginosis
+
+- Liên quan đến khuyết tật trí tuệ
+
+### Hội chứng Lentiginosis
+
+- Các hội chứng bao gồm [LEOPARD](https://dermnetnz.org/topics/noonan-syndrome-with-multiple-lentigines)/Noonan, [Peutz-Jeghers](https://dermnetnz.org/topics/peutz-jeghers-syndrome), [Laugier-Hunziker](https://dermnetnz.org/topics/laugier-hunziker-syndrome), Moynahan, [Xeroderma pigmentosum](https://dermnetnz.org/topics/xeroderma-pigmentosum), [hội chứng myxoma (LAMB, NAME, Carney)](https://dermnetnz.org/topics/myxoma-syndrome), Ruvalcaba-Myhre-Smith, hội chứng Bannayan-Zonnana, bệnh Cowden ([hội chứng hamartoma nhiều](https://dermnetnz.org/topics/cowden-disease))
+- Di truyền là trội nhiễm sắc thể thường; các trường hợp ngẫu nhiên phổ biến
+- Lentigines lan rộng có mặt từ khi sinh ra hoặc xuất hiện trong thời thơ ấu
+- Liên quan đến khối u thần kinh, nội tiết và trung mô
+
+![](https://dermnetnz.org/assets/Uploads/lesions/lentigo5.jpg)
+
+[Xem thêm hình ảnh về lentigines](https://dermnetnz.org/topics/lentigo-images) ...
+
+## Chẩn đoán được thực hiện như thế nào?
+
+Lentigines thường được chẩn đoán lâm sàng qua hình dạng điển hình của chúng. Lo ngại về khả năng melanoma có thể dẫn đến:
+
+- Soi da
+- Cắt bỏ chẩn đoán [sinh thiết](https://dermnetnz.org/topics/skin-biopsy)
+
+[Mô bệnh học](https://dermnetnz.org/topics/lentigo-pathology) của một lentigo cho thấy:
+
+- Biểu bì dày lên
+- Số lượng tế bào hắc tố tăng dọc theo lớp đáy của biểu bì
+- Không giống như nốt ruồi melanocytic nối, không có tổ hợp tế bào hắc tố
+- Tăng sắc tố melanin trong keratinocytes
+- Các đặc điểm bổ sung tùy thuộc vào loại lentigo
+
+Ngược lại, một ephelis (tàn nhang) cho thấy sự gia tăng melanin do ánh nắng mặt trời trong keratinocytes, không có sự gia tăng số lượng tế bào.
+
+## Điều trị lentigines là gì?
+
+Hầu hết lentigines được để tự nhiên. Nỗ lực làm sáng chúng có thể không thành công. Các phương pháp sau được sử dụng:
+
+- Kem chống nắng phổ rộng SPF 50+ [sunscreen](https://dermnetnz.org/topics/topical-sunscreen-agents)
+- Kem tẩy trắng [Hydroquinone](https://dermnetnz.org/topics/hydroquinone)
+- [Alpha hydroxy acids](https://dermnetnz.org/topics/alpha-hydroxy-acid-facial-treatments)
+- [Vitamin C](https://dermnetnz.org/topics/topical-vitamin-c)
+- [Retinoids](https://dermnetnz.org/topics/topical-retinoids)
+- [Azelaic acid](https://dermnetnz.org/topics/azelaic-acid)
+- [Kem Cysteamine](https://dermnetnz.org/topics/cysteamine-cream)
+- [Peel hóa học](https://dermnetnz.org/topics/chemical-peels).
+
+Các tổn thương riêng lẻ có thể được loại bỏ vĩnh viễn bằng cách:
+
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Ánh sáng xung cường độ cao](https://dermnetnz.org/topics/intense-pulsed-light-therapy)
+- [Laser sắc tố](https://dermnetnz.org/topics/lasers-in-dermatology).
+
+### Làm thế nào để ngăn ngừa lentigines?
+
+Lentigines liên quan đến tiếp xúc với bức xạ cực tím có thể được ngăn ngừa bằng cách bảo vệ [ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) rất cẩn thận. Quần áo thành công hơn trong việc ngăn ngừa lentigines mới so với kem chống nắng.
+
+### Triển vọng cho lentigines là gì?
+
+Lentigines thường tồn tại. Chúng có thể tăng số lượng theo tuổi tác và tiếp xúc với ánh nắng mặt trời. Một số ở các vị trí được bảo vệ khỏi ánh nắng mặt trời có thể mờ đi và biến mất.
+
+### Tài liệu tham khảo
+
+- Sách: Giáo trình Da liễu. Biên tập Rook A, Wilkinson DS, Ebling FJB, Champion RH, Burton JL. Ấn bản thứ tư. Nhà xuất bản Khoa học Blackwell.
+- Desai S, Hartman C, Grimes P, Shah S. Cysteamine ổn định tại chỗ như một phương pháp điều trị mới cho các rối loạn tăng sắc tố: Melasma, tăng sắc tố sau viêm, và Lentigines. J Drugs Dermatol. 2021;20(12):1276-1279. doi:10.36849/jdd.6367 [Tạp chí](https://jddonline.com/articles/topical-stabilized-cysteamine-as-a-new-treatment-for-hyperpigmentation-disorders-melasma-post-inflam-S1545961621P1276X/)
+- Lodish MB, Stratakis CA. Chẩn đoán phân biệt của các hội chứng lentiginosis gia đình. Ung thư gia đình. 2011;10(3):481–90. doi:10.1007/s10689-011-9446-x. [PubMed](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3417307/)
+
+### Trên DermNet
+
+- [Lentigo – mô bệnh học](https://dermnetnz.org/topics/lentigo-pathology)
+- [Lentigo simplex](https://dermnetnz.org/topics/lentigo-simplex)
+- [Solar lentigo](https://dermnetnz.org/topics/solar-lentigo)
+- [Atypical solar lentigo](https://dermnetnz.org/topics/atypical-solar-lentigo)
+- [Ephelis](https://dermnetnz.org/topics/ephelis)
+- [Đốm nâu và tàn nhang](https://dermnetnz.org/topics/brown-spots-and-freckles)
+- [Melanoma](https://dermnetnz.org/topics/melanoma)
+- [Nốt ruồi melanocytic (moles)](https://dermnetnz.org/topics/melanocytic-naevus)
+- [Lập bản đồ nốt ruồi](https://dermnetnz.org/topics/photographic-skin-surveillance)
+- [Melanoma ở da màu](https://dermnetnz.org/topics/melanoma-in-skin-of-colour)
+
+### Các trang web khác
+
+- [Lentigo](http://emedicine.medscape.com/article/1068503-overview) — Tham khảo Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)

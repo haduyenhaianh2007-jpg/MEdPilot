@@ -1,0 +1,166 @@
+##### Keratosis pilaris atrophicans faciei — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Ulerythema ophryogenes, Keratosis rubra pilaris faciei atrophicans
+
+Danh mục:
+
+Rối loạn nang lông
+
+ICD-10:
+
+L66.4, L85.8, Q82.8
+
+ICD-11:
+
+ED56
+
+SNOMED CT:
+
+400059005, 238626006, 400126005, 2736005
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics?category=Follicular%20disorder)**
+
+# **Keratosis pilaris atrophicans faciei**
+
+Tác giả: Olivia Egan, Sinh viên Y khoa, Đại học Sydney, Sydney, NSW, Úc. Biên tập kỹ thuật DermNet: Elaine Mary Luther, Sinh viên Y khoa, Trường Y khoa Đại học Ross, Barbados. Biên tập viên trưởng DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập sao chép bởi Gus Mitchell. Tháng 2 năm 2020.
+
+[Giới thiệu](https://dermnetnz.org/topics/keratosis-pilaris-atrophicans-faciei#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/keratosis-pilaris-atrophicans-faciei#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/keratosis-pilaris-atrophicans-faciei#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/keratosis-pilaris-atrophicans-faciei#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/keratosis-pilaris-atrophicans-faciei#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/keratosis-pilaris-atrophicans-faciei#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/keratosis-pilaris-atrophicans-faciei#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/keratosis-pilaris-atrophicans-faciei#Outcome)
+
+## Keratosis pilaris atrophicans faciei là gì?
+
+Keratosis pilaris atrophicans faciei là một dạng không phổ biến của [keratosis pilaris](https://dermnetnz.org/topics/keratosis-pilaris) với các vết lõm giống sẹo ở nang lông và mất lông, đặc biệt là ở lông mày \[1\]. Điều này dẫn đến teo và mất lông vĩnh viễn ở các khu vực bị ảnh hưởng.
+
+Keratosis pilaris còn được gọi là ulerythema ophryogenes. Ulerythema có nghĩa là 'sẹo với đỏ', và 'ophryo' đề cập đến lông mày.
+
+![Keratosis pilaris](https://dermnetnz.org/assets/Uploads/acne/keratosis-pilaris-2.jpg)
+
+Keratosis pilaris
+
+![Keratosis pilaris faciei atrophicans](https://dermnetnz.org/assets/Uploads/keratosis-pilaris-018-v2.jpg)
+
+Keratosis pilaris faciei atrophicans
+
+![Keratosis pilaris faciei atrophicans](https://dermnetnz.org/assets/Uploads/keratosis-pilaris-faciei-10-v2.jpg)
+
+Keratosis pilaris faciei atrophicans
+
+[Xem thêm hình ảnh về keratosis pilaris](https://dermnetnz.org/topics/keratosis-pilaris-images).
+
+## Ai bị keratosis pilaris atrophicans faciei?
+
+Keratosis pilaris atrophicans faciei thường xảy ra ngẫu nhiên; tuy nhiên, di truyền trội và lặn theo nhiễm sắc thể thường đã được mô tả \[1,2,3\]. Nó xuất hiện lần đầu ở trẻ sơ sinh và chủ yếu được chẩn đoán ở trẻ em và thanh thiếu niên.
+
+## Nguyên nhân gây ra keratosis pilaris atrophicans faciei là gì?
+
+Keratosis pilaris atrophicans faciei do sự sừng hóa bất thường của phễu nang lông. Vảy lấp đầy nang lông và cản trở trục lông dẫn đến viêm. Theo thời gian, viêm mãn tính dẫn đến teo và rụng tóc \[1\].
+
+Một số trường hợp keratosis pilaris là do đột biến lặn theo nhiễm sắc thể thường trong gen desmoglein 4 ( _DSG4_) \[3\]. Sự liên kết hiếm gặp của keratosis pilaris atrophicans faciei với một số hội chứng bẩm sinh cũng gợi ý rằng nhánh nhiễm sắc thể 18p có thể chứa các gen cho sự sừng hóa nang lông và tham gia vào cơ chế bệnh sinh \[4\].
+
+## Các đặc điểm lâm sàng của keratosis pilaris atrophicans faciei là gì?
+
+Keratosis pilaris atrophicans faciei được đặc trưng bởi các sẩn viêm sừng hóa trên mặt.
+
+- Khởi phát thường là vài tháng sau khi sinh với các sẩn sừng hóa trên mặt và các sẩn sừng hóa đỏ quanh nang lông liên quan đến phần ba bên của lông mày.
+- Khi tình trạng tiến triển, teo và mất lông mày xảy ra.
+- Các khu vực khác của da đầu và mặt có thể bị ảnh hưởng bao gồm trán, thái dương và má \[1,3\].
+- Thường có keratosis pilaris lan rộng trên các chi và thân \[3\].
+
+![Keratosis pilaris atrophicans faciei](https://dermnetnz.org/assets/Uploads/keratosis-pilaris-faciei-06-v2.jpg)
+
+Keratosis pilaris atrophicans faciei
+
+![Keratosis pilaris atrophicans faciei](https://dermnetnz.org/assets/Uploads/acne/s/kerapil2.jpg)
+
+Keratosis pilaris atrophicans faciei
+
+![Keratosis pilaris atrophicans faciei](https://dermnetnz.org/assets/Uploads/keratosis-pilaris-faciei-09.jpg)
+
+Keratosis pilaris atrophicans faciei
+
+### Hội chứng liên quan
+
+Keratosis pilaris atrophicans faciei đôi khi liên quan đến [hội chứng Noonan](https://dermnetnz.org/topics/noonan-syndrome), [hội chứng Rubinstein-Taybi](https://dermnetnz.org/topics/rubinstein-taybi-syndrome), [hội chứng Cornelia de Lange](https://dermnetnz.org/topics/cornelia-de-lange-syndrome), và hội chứng cardiofaciocutaneous \[4\].
+
+## Keratosis pilaris atrophicans faciei được chẩn đoán như thế nào?
+
+Keratosis pilaris atrophicans faciei được chẩn đoán lâm sàng.
+
+Nếu một [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) được thực hiện, các đặc điểm mô học không đặc hiệu bao gồm phễu mở rộng, nang lông bị tắc, mất nang lông, thâm nhiễm bạch cầu quanh mạch máu nông và xơ hóa da \[1,3\].
+
+## Chẩn đoán phân biệt cho keratosis pilaris atrophicans faciei là gì?
+
+Keratosis pilaris atrophicans faciei nằm trong phổ với các rối loạn sừng hóa nang lông khác và thường được coi là một dạng của keratosis pilaris atrophicans, với các đặc điểm chồng chéo thường thấy \[3,5\].
+
+### Keratosis pilaris rubra faciei
+
+Keratosis pilaris rubra faciei là một biến thể của [keratosis pilaris](https://dermnetnz.org/topics/keratosis-pilaris) trong đó đỏ là nổi bật. Nó được đặc trưng bởi đỏ quanh nang lông trên trán, má và cổ mà không có teo hoặc mất lông.
+
+### Erythromelanosis follicularis faciei et colli
+
+Erythromelanosis follicularis faciei et colli là một biến thể của [keratosis pilaris](https://dermnetnz.org/topics/keratosis-pilaris) được đặc trưng bởi các mảng đỏ, tăng sắc tố và sẩn nang lông rõ ràng trên má và cổ. Hầu hết các trường hợp đã được báo cáo ở nam giới châu Á \[5\].
+
+### Atrophoderma vermiculatum
+
+Atrophoderma vermiculatum là một biến thể của keratosis pilaris atrophicans với teo nang lông nổi bật dẫn đến một mô hình tổ ong trên má phát triển ở trẻ em \[3,5\].
+
+![Keratosis pilaris atrophicans faciei](https://dermnetnz.org/assets/Uploads/keratosis-pilaris-faciei-08-v2.jpg)
+
+Keratosis pilaris atrophicans faciei
+
+### Keratosis follicularis spinulosa decalvans
+
+Keratosis follicularis spinulosa decalvans là một dạng nghiêm trọng của keratosis pilaris atrophicans với các sẩn nang lông lan rộng, rụng tóc sẹo, keratoderma và viêm giác mạc \[3,5\].
+
+### Rụng tóc sợi trán
+
+[Rụng tóc sợi trán](https://dermnetnz.org/topics/frontal-fibrosing-alopecia) là một loại [lichen planus](https://dermnetnz.org/topics/lichen-planus) hoặc [lichen planopilaris](https://dermnetnz.org/topics/lichen-planopilaris) trong đó có các sẩn nang lông trên mặt, mất lông mày bên và đường chân tóc trán lùi do rụng tóc sẹo. Nó chủ yếu ảnh hưởng đến phụ nữ sau mãn kinh.
+
+## Điều trị keratosis pilaris atrophicans faciei là gì?
+
+Không có cách chữa trị cho keratosis pilaris atrophicans faciei. Những điều sau đây có thể hữu ích để giảm thiểu vảy nang lông.
+
+- [Chất tẩy rửa](https://dermnetnz.org/topics/soaps-and-cleansers) không chứa xà phòng
+- Tẩy tế bào chết — loại bỏ vảy nang lông bề mặt bằng đá bọt hoặc bọt biển tẩy tế bào chết
+- [Kem dưỡng ẩm keratolytic](https://dermnetnz.org/topics/keratolytic-agents) chứa [urea](https://dermnetnz.org/topics/urea), [axit salicylic](https://dermnetnz.org/topics/salicylic-acid), hoặc [axit alpha-hydroxy](https://dermnetnz.org/topics/alpha-hydroxy-acid-facial-treatments)
+- [Retinoids bôi ngoài](https://dermnetnz.org/topics/topical-retinoids).
+
+[Laser nhuộm xung](https://dermnetnz.org/topics/pulsed-dye-laser-treatment) hoặc [ánh sáng xung cường độ cao (IPL)](https://dermnetnz.org/topics/intense-pulsed-light-therapy) có thể giảm đỏ tạm thời nhưng nó có xu hướng tái phát. Tiếp xúc với ánh nắng mặt trời có xu hướng làm đỏ tồi tệ hơn, vì vậy [bảo vệ khỏi ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) được khuyến nghị.
+
+## Kết quả cho keratosis pilaris atrophicans faciei là gì?
+
+Keratosis pilaris atrophicans faciei thường trở nên ít chú ý hơn sau tuổi dậy thì. Tuy nhiên, teo với mất lông là vĩnh viễn.
+
+### Tài liệu tham khảo
+
+1. Landis MN, Fowler J, Corona R. Keratosis pilaris atrophicans. Trong: Post TW (ed). UpToDate \[internet\]. Waltham MA: UpToDate Inc; 2020. Có sẵn từ: [www.uptodate.com/contents/keratosis-pilaris-atrophicans](https://www.uptodate.com/contents/keratosis-pilaris-atrophicans) \[truy cập 3 Tháng 2 2020\]
+2. Callaway SR, Lesher JL Jr. Keratosis pilaris atrophicans: loạt trường hợp và đánh giá. Pediatr Dermatol. 2004;21(1):14–17. doi:10.1111/j.0736-8046.2004.21103.x. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/14871319)
+3. Cohen-Barak E, Danial-Farran N, Hammad H, et al. Đột biến Desmoglein 4 là nguyên nhân gây ra keratosis pilaris atrophicans lặn theo nhiễm sắc thể thường. Acta Derm Venereol. 2018;98(8):809–10. doi:10.2340/00015555-2976. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29796690)
+4. Morton CM, Bhate C, Janniger CK, Schwartz RA. Ulerythema ophryogenes: cập nhật và thông tin chi tiết. Cutis. 2014;93(2):83–7. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24605344)
+5. Judge MR, McLean WHI, Munro CS. Rối loạn sừng hóa. Trong: Burns T, Breathnach S, Cox N, Griffiths C (eds). Rook's Textbook of Dermatology, 7th edn, Oxford: Blackwell Publishing, 2004.
+
+### Trên DermNet
+
+- [Keratosis pilaris](https://dermnetnz.org/topics/keratosis-pilaris)
+- [Hình ảnh keratosis pilaris](https://dermnetnz.org/topics/keratosis-pilaris-images)
+- [Mụn trứng cá và các rối loạn nang lông khác](https://dermnetnz.org/topics/acne-and-other-follicular-disorders)
+- [Vấn đề da mặt](https://dermnetnz.org/topics/facial-skin-problems)
+
+### Các trang web khác
+
+- [Keratosis pilaris atrophicans](https://www.uptodate.com/contents/keratosis-pilaris-atrophicans) — UpToDate
+- Medscape
+  - [Ulerythema](https://emedicine.medscape.com/article/1118415-overview)
+  - [Ulerythema ophryogenes (keratosis pilaris atrophicans faciei) là gì?](https://www.medscape.com/answers/1070651-4639/what-is-ulerythema-ophryogenes-keratosis-pilaris-atrophicans-faciei)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

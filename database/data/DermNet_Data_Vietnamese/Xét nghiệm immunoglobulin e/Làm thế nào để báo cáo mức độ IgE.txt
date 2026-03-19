@@ -1,0 +1,19 @@
+## Mức độ IgE được báo cáo như thế nào?
+
+Phạm vi tham chiếu tổng IgE phụ thuộc vào tuổi của cá nhân (nó dao động từ 0 đến 4 kU/L ở trẻ sơ sinh và từ 0 đến ~148 kU/L ở trẻ lớn hơn hoặc người lớn).
+
+Kết quả của một xét nghiệm IgE cụ thể được báo cáo cho một nhóm hỗn hợp dị ứng hoặc một dị ứng riêng lẻ. Bảng dưới đây cho thấy cách các kết quả thường được đánh giá và diễn giải \[2,8,9\].
+
+##### Bảng. Đánh giá và diễn giải mức độ xét nghiệm IgE
+
+| Đánh giá mức độ IgE cụ thể (kUA/L) | Cấp/Bậc | Diễn giải |
+| --- | --- | --- |
+| Không có hoặc không phát hiện được ( 0.35) | 0 | Không có khả năng |
+| Thấp (0.35–0.69) | I | Ý nghĩa không chắc chắn |
+| Trung bình (0.70–3.49) | II | Có thể |
+| Cao (3.50–17.49) | III | Có khả năng hơn |
+| Rất cao (17.50–49.99) | IV | Có khả năng hơn nữa |
+| Rất cao (50.00–100.00) | V | Rất có khả năng |
+| Cực kỳ cao (> 100.00) | VI | Cực kỳ có khả năng |
+
+Bảng này cho thấy các con số tham chiếu quốc tế tùy ý. Phạm vi tham chiếu thực tế và phân loại thay đổi theo phòng thí nghiệm và dựa trên phương pháp sử dụng cho xét nghiệm, hiệu chuẩn, tuổi của bệnh nhân và loại dị ứng.

@@ -1,0 +1,58 @@
+## Những xét nghiệm nào cần thực hiện nếu tôi có lentigo maligna?
+
+Việc chẩn đoán chính xác lentigo maligna và lentigo maligna melanoma là rất quan trọng. Chẩn đoán lâm sàng được hỗ trợ bởi soi da và ở một số trung tâm, bởi [kính hiển vi đồng tiêu](https://dermnetnz.org/procedures/rcm.html). Các kỹ thuật mới đang được đánh giá để giúp xác định ranh giới của lentigo maligna trước khi thực hiện sinh thiết cắt bỏ.
+
+Các xét nghiệm khác không cần thiết đối với phần lớn bệnh nhân, nhưng những người có melanoma xâm lấn dày hơn 1 mm có thể được khuyên nên thực hiện các nghiên cứu hình ảnh, sinh thiết hạch bạch huyết và xét nghiệm máu.
+
+Các xét nghiệm mới đang được phát triển để xác định các đột biến di truyền cụ thể với lentigo maligna melanoma, có thể cung cấp thông tin cho liệu pháp nhắm mục tiêu trong tương lai.
+
+### Soi da của lentigo maligna
+
+[Soi da](https://dermnetnz.org/procedures/dermoscopy.html) (còn gọi là soi da bằng kính hiển vi), hoặc sử dụng kính soi da, bởi bác sĩ da liễu hoặc bác sĩ khác được đào tạo về sử dụng nó, có thể rất hữu ích trong việc phân biệt lentigo maligna với các loại tổn thương da khác. Tuy nhiên, hình ảnh soi da của lentigo maligna giai đoạn đầu có thể khó phân biệt với các tổn thương sắc tố khác, đặc biệt là trên mặt.
+
+- Nốt ruồi sắc tố ( [nốt ruồi](https://dermnetnz.org/lesions/moles.html))
+- [Lentigines do ánh nắng](https://dermnetnz.org/lesions/lentigines.html)
+- [Keratoses do ánh nắng](https://dermnetnz.org/lesions/solar-keratoses.html)
+- [Keratoses tiết bã](https://dermnetnz.org/lesions/seborrhoeic-keratosis.html)
+
+Các tổn thương sắc tố trên mặt được đặc trưng bởi mạng lưới giả - đây là sắc tố phát sinh xung quanh các nang lông mặt nổi bật, và một số loại tổn thương da có thể trông khá giống với lentigo maligna. Tuy nhiên, lentigo maligna cho thấy sự biến đổi lớn hơn về độ dày của các đường tạo thành mạng lưới, thường tạo thành một mẫu hình thoi không điển hình liên quan đến các chấm xám, cấu trúc có xu hướng không đều, và có sự biến đổi về màu sắc.
+
+### Sinh thiết cắt bỏ chẩn đoán tổn thương nghi ngờ melanoma
+
+Nếu một tổn thương da nghi ngờ lâm sàng là lentigo maligna, tốt nhất là cắt bỏ ( [sinh thiết cắt bỏ](https://dermnetnz.org/procedures/excision.html)) với rìa 2–3 mm. [Sinh thiết](https://dermnetnz.org/procedures/biopsy.html) một phần ít chính xác hơn so với sinh thiết cắt bỏ hoàn toàn, vì một sinh thiết nhỏ có thể bỏ sót một điểm ác tính. Tuy nhiên, đôi khi tổn thương rất lớn, và trước khi thực hiện phẫu thuật đáng kể, một sinh thiết một phần được sắp xếp để xác nhận chẩn đoán. Bác sĩ nên loại bỏ một hình elip dài của da, lấy sinh thiết từ nhiều vị trí hoặc cạo cẩn thận một khu vực đại diện để làm mô học.
+
+[Chẩn đoán bệnh lý của melanoma](https://dermnetnz.org/pathology/melanoma-path.html) và các tiền thân của nó có thể rất khó khăn. Một số tổn thương điển hình lâm sàng của lentigo maligna được báo cáo chỉ cho thấy sự tăng sinh tế bào sắc tố ở ranh giới (có hoặc không có bất thường), những tổn thương khác có tiêu chí để chẩn đoán melanoma tại chỗ, và một số ít cho thấy ung thư xâm lấn.
+
+[Các đặc điểm mô học của lentigo maligna](https://dermnetnz.org/pathology/melanoma-path.html#lm) bao gồm sự tăng sinh tế bào sắc tố chủ yếu ở ranh giới và mở rộng dọc theo các cấu trúc phụ. [Elastosis do ánh nắng](https://dermnetnz.org/dermal-infiltrative/solar-elastosis.html) (thoái hóa mô đàn hồi trong lớp bì) thường nổi bật. Các vết nhuộm miễn dịch như SAC R21 có thể cải thiện độ chính xác của chẩn đoán trong các trường hợp biên giới.
+
+### Báo cáo bệnh lý trong melanoma
+
+Báo cáo của nhà bệnh lý học nên bao gồm mô tả vĩ mô của mẫu vật và melanoma (quan sát bằng mắt thường), và mô tả vi mô. Các đặc điểm sau đây nên được báo cáo nếu có melanoma xâm lấn.
+
+- Chẩn đoán melanoma nguyên phát
+- Độ dày Breslow đến 0.1 mm gần nhất
+- Mức độ xâm lấn Clark
+- Rìa cắt bỏ tức là mô bình thường xung quanh khối u
+- Tỷ lệ phân bào – một thước đo tốc độ tế bào phân chia
+- Có hay không có loét
+
+Báo cáo cũng có thể bao gồm nhận xét về loại tế bào và kiểu tăng trưởng của nó, xâm lấn mạch máu hoặc dây thần kinh, phản ứng viêm, thoái hóa và có hay không có bệnh tại chỗ kèm theo.
+
+### Độ dày Breslow là gì?
+
+Độ dày Breslow được báo cáo cho các melanoma xâm lấn. Nó được đo theo chiều dọc bằng milimét từ đỉnh của lớp hạt (hoặc đáy của loét bề mặt) đến điểm sâu nhất của sự tham gia của khối u. Nó là một dự đoán mạnh mẽ về kết quả; melanoma càng dày, khả năng di căn (lan rộng) càng cao.
+
+### Mức độ xâm lấn Clark là gì?
+
+Mức độ Clark chỉ ra mặt phẳng giải phẫu của sự xâm lấn.
+
+|     |     |
+| --- | --- |
+| Mức độ | Đặc điểm |
+| Mức độ 1 | Melanoma tại chỗ |
+| Mức độ 2 | Melanoma đã xâm lấn lớp bì nhú |
+| Mức độ 3 | Melanoma đã lấp đầy lớp bì nhú |
+| Mức độ 4 | Melanoma đã xâm lấn lớp bì lưới |
+| Mức độ 5 | Melanoma đã xâm lấn mô dưới da |
+
+Mức độ Clark càng sâu, nguy cơ di căn (lan rộng thứ cấp) càng lớn. Nó hữu ích trong việc dự đoán kết quả ở các khối u mỏng, và ít hữu ích hơn cho các khối u dày hơn so với giá trị của độ dày Breslow.

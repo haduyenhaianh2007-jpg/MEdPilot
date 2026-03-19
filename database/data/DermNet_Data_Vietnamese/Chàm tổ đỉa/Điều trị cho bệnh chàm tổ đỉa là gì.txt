@@ -1,0 +1,27 @@
+## Điều trị bệnh chàm tổ đỉa là gì?
+
+### Biện pháp chung
+
+- Tránh các yếu tố gây kích thích nếu có thể.
+- Ngâm [thuốc tím kali](https://dermnetnz.org/topics/potassium-permanganate) có thể hữu ích trong giai đoạn cấp tính.
+
+### Biện pháp cụ thể
+
+- Điều trị tại chỗ:
+
+  - [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) (thường là mạnh hoặc siêu mạnh)
+  - [Pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) và [tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+  - Gel [Bexarotene](https://dermnetnz.org/topics/bexarotene)
+  - Sử dụng thường xuyên [chất làm mềm và dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers)
+  - [Iontophoresis](https://dermnetnz.org/topics/iontophoresis) hoặc [botulinum toxin](https://dermnetnz.org/topics/botulinum-toxin) khi được sử dụng cho [chứng tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis)
+  - [Thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) nếu được chỉ định cho nhiễm nấm đã được xác nhận.
+- [Quang trị liệu](https://dermnetnz.org/topics/phototherapy):
+  - Psoralen tại chỗ và ánh sáng cực tím A ([PUVA](https://dermnetnz.org/topics/puva-photochemotherapy)).
+- Điều trị toàn thân:
+
+  - [Thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines)
+  - Một đợt ngắn [corticosteroid uống](https://dermnetnz.org/topics/systemic-steroids) để giảm nhanh
+  - [Kháng sinh uống](https://dermnetnz.org/topics/antibiotics) hoặc [thuốc chống nấm](https://dermnetnz.org/topics/oral-antifungal-medication) nếu được chỉ định cho nhiễm trùng da thứ phát
+  - Các tác nhân hàng thứ hai bao gồm [methotrexate](https://dermnetnz.org/topics/methotrexate), [ciclosporin](https://dermnetnz.org/topics/ciclosporin), [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine), và [mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+  - [Retinoid uống](https://dermnetnz.org/topics/oral-retinoids) bao gồm [alitretinoin](https://dermnetnz.org/topics/alitretinoin), [acitretin](https://dermnetnz.org/topics/acitretin), và [isotretinoin](https://dermnetnz.org/topics/isotretinoin)
+  - [Tác nhân sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) bao gồm [dupilumab](https://dermnetnz.org/topics/dupilumab).

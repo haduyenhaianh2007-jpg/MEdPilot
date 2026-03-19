@@ -1,0 +1,286 @@
+##### Nhiễm trùng da do vi khuẩn — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Rối loạn da liễu do vi khuẩn, Nhiễm trùng da do vi khuẩn, Nhiễm trùng vi khuẩn toàn thân với biểu hiện trên da
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+A49.9, L08.8
+
+ICD-11:
+
+IC41, 1C44, 1B7Y
+
+SNOMED CT:
+
+128936008, 275441009, 238417000, 721267000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Nhiễm trùng da do vi khuẩn**
+
+#### Được xem xét lần cuối: Tháng 5 năm 2023
+
+Tác giả: Nataki Duncan MPH, MHS, Trường Y Meharry, Hoa Kỳ; Tiến sĩ Libby Whittaker, Nhà văn nhân viên DermNet, New Zealand (2023)
+
+Những người đóng góp trước đây: Tiến sĩ Amanda Oakley, Bác sĩ da liễu (2002)
+
+Bác sĩ da liễu xem xét: Tiến sĩ Ian Coulson
+
+Chỉnh sửa bởi bộ phận nội dung DermNet
+
+[Giới thiệu](https://dermnetnz.org/topics/bacterial-skin-infections#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/bacterial-skin-infections#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/bacterial-skin-infections#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/bacterial-skin-infections#Clinical%20features%3Cbr%20/%3E) [Biến thể trong các loại da](https://dermnetnz.org/topics/bacterial-skin-infections#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/bacterial-skin-infections#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/bacterial-skin-infections#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/bacterial-skin-infections#Differential%20diagnoses%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/bacterial-skin-infections#Prevention%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/bacterial-skin-infections#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/bacterial-skin-infections#Outcome%3Cbr%20/%3E) [Bài giảng điện tử](https://dermnetnz.org/topics/bacterial-skin-infections#E-lecture)
+
+## Nhiễm trùng da do vi khuẩn là gì?
+
+[Nhiễm trùng da](https://dermnetnz.org/topics/skin-infections) có thể do vi khuẩn (thường là Staphylococcal hoặc Streptococcal) xâm nhập vào da bình thường, hoặc ảnh hưởng đến hàng rào da bị tổn thương (ví dụ, da bị ảnh hưởng bởi [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis), hoặc [vết thương phẫu thuật](https://dermnetnz.org/topics/wound-infections)).
+
+Da là tuyến bảo vệ đầu tiên của chúng ta chống lại môi trường. Một phản ứng cục bộ hoặc toàn thân được kích hoạt khi hàng rào bảo vệ này bị xâm nhập. Vi sinh vật xâm nhập vào da có thể là một phần của môi trường bên ngoài hoặc hệ vi sinh vật da bình thường.
+
+![Vảy màu mật ong trên cằm trong bệnh chốc lở](https://dermnetnz.org/assets/collection/Impetigo/impetigo-0010.jpg)
+
+Vảy màu mật ong trên cằm trong bệnh chốc lở
+
+![Chân trái sưng đau nóng do viêm mô tế bào Streptococcal](https://dermnetnz.org/assets/Uploads/bacterial/cell-leg.jpg)
+
+Chân trái sưng đau nóng do viêm mô tế bào Streptococcal
+
+![Keratolysis lõm ngón chân và kẽ ngón](https://dermnetnz.org/assets/collection/Pitted-keratolysis/pitted-keratolysis-0001.jpg)
+
+Keratolysis lõm ngón chân và kẽ ngón
+
+![Ecthyma gangrenosum do nhiễm trùng máu Pseudomonas](https://dermnetnz.org/assets/Uploads/bacterial/pseudomonas-01-s.jpg)
+
+Ecthyma gangrenosum do nhiễm trùng máu Pseudomonas
+
+![Các mảng đỏ lòng bàn tay gợi ý giang mai thứ phát](https://dermnetnz.org/assets/Uploads/bacterial/syph10.jpg)
+
+Các mảng đỏ lòng bàn tay gợi ý giang mai thứ phát
+
+![Nhiễm trùng Mycobacterium marinum lan rộng dạng Sporotrichoid](https://dermnetnz.org/assets/collection/Atypical-mycobacteria-infection/atypical-mycobacteria-infection-0002.jpg)
+
+Nhiễm trùng Mycobacterium marinum lan rộng dạng Sporotrichoid
+
+[Thêm hình ảnh về nhiễm trùng da Staphylococcal](https://dermnetnz.org/images/pvl-staphylococcal-aureus-infection-images)
+
+## Ai bị nhiễm trùng da do vi khuẩn?
+
+Nhiễm trùng da do vi khuẩn là lý do phổ biến cho các lần thăm khám khẩn cấp. Trẻ em dưới năm tuổi và người lớn trên 65 tuổi bị ảnh hưởng thường xuyên hơn so với các nhóm tuổi khác. Năm 2005, Tổ chức Y tế Thế giới (WHO) báo cáo tỷ lệ mắc bệnh da cao ở trẻ em từ các nước đang phát triển ở châu Phi cận Sahara.
+
+Giới tính cũng có thể đóng vai trò; trong một nghiên cứu ở Bắc Mỹ, nam giới chiếm 60-70% tổng số ca viêm mô tế bào.
+
+Một số tình trạng bệnh lý đồng mắc làm tăng khả năng mắc nhiễm trùng da do vi khuẩn, chẳng hạn như [tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus), suy mạch máu, và [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) (ví dụ, bệnh nhân hóa trị liệu với giảm bạch cầu trung tính). Một số người, chẳng hạn như [những người tiêm chích ma túy](https://dermnetnz.org/topics/skin-infections-in-people-who-inject-recreational-drugs), có nguy cơ cao hơn. Trong số bệnh nhân nhập viện, nhiễm trùng da phổ biến và thường làm phức tạp quá trình điều trị tại bệnh viện.
+
+## Nguyên nhân gây nhiễm trùng da do vi khuẩn là gì?
+
+Nhiều loại vi khuẩn có thể gây nhiễm trùng da, phổ biến nhất là các loài _[Staphylococcus](https://dermnetnz.org/topics/staphylococcal-skin-infection)_ và _[Streptococcus](https://dermnetnz.org/topics/streptococcal-skin-infections)_.
+
+#### Bảng 1. Những vi khuẩn nào gây nhiễm trùng da?
+
+| Vi khuẩn | Nhiễm trùng niêm mạc (hoặc nhiễm trùng có dấu hiệu trên da) |
+| --- | --- |
+| _Staphylococcus aureus_ (phổ biến) | - [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis)<br>  <br>- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis)<br>  <br>- Viêm nang lông ( [mụn nhọt](https://dermnetnz.org/topics/boil)) và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess)<br>  <br>- [Chốc lở](https://dermnetnz.org/topics/impetigo) (mụn nhọt học đường) và [ecthyma](https://dermnetnz.org/topics/ecthyma)<br>  <br>- [Staphylococcus aureus kháng methicillin (MRSA)](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus)<br>  <br>- [Hội chứng da bị bong tróc do Staphylococcal](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome)<br>  <br>- [Hội chứng sốc độc tố](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome)<br>  <br>- [Viêm cơ mủ nhiệt đới](https://dermnetnz.org/topics/tropical-pyomyositis)<br>  <br>- [Botryomycosis](https://dermnetnz.org/topics/botryomycosis-pyoderma-vegetans) (pyoderma vegetans) |
+| _Streptococcus pyogenes_ (phổ biến) | - [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis)<br>  <br>- [Erysipelas](https://dermnetnz.org/topics/erysipelas)<br>  <br>- [Chốc lở](https://dermnetnz.org/topics/impetigo)<br>  <br>- [Viêm cân hoại tử](https://dermnetnz.org/topics/necrotising-fasciitis)<br>  <br>- [Hoại tử nhiễm trùng](https://dermnetnz.org/topics/wet-gangrene)<br>  <br>- [Sốt đỏ](https://dermnetnz.org/topics/scarlet-fever)<br>  <br>- [Sốt thấp khớp](https://dermnetnz.org/topics/rheumatic-fever), ban đỏ viền |
+| Loài _Corynebacterium_ | - [Erythrasma](https://dermnetnz.org/topics/erythrasma)<br>  <br>- [Keratolysis lõm](https://dermnetnz.org/topics/pitted-keratolysis)<br>  <br>- [Trichomycosis axillaris](https://dermnetnz.org/topics/trichomycosis-axillaris) |
+| Loài _Neisseria_ | - [Bệnh lậu](https://dermnetnz.org/topics/gonorrhoea)<br>  <br>- [Bệnh não mô cầu](https://dermnetnz.org/topics/meningococcal-disease) |
+| _Erysipelothrix insidiosa_ | - [Erysipeloid](https://dermnetnz.org/topics/erysipeloid) |
+| Loài _Haemophilus_ | - [Chancroid](https://dermnetnz.org/topics/chancroid) và [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) ở trẻ nhỏ |
+| _Helicobacter pylori_ | Nguyên nhân gây nhiễm trùng dạ dày; có thể liên quan đến:<br>- [Mề đay](https://dermnetnz.org/topics/urticaria-an-overview) mãn tính<br>  <br>- [Rosacea](https://dermnetnz.org/topics/rosacea) |
+| _Klebsiella rhinoscleromatis_ | - [Rhinoscleroma](https://dermnetnz.org/topics/rhinoscleroma) |
+| _Mycoplasma pneumoniae_ | Nguyên nhân gây viêm phổi; có thể liên quan đến:<br>- Ban đỏ không đặc hiệu<br>  <br>- Phát ban bóng nước<br>  <br>- Phát ban mề đay<br>  <br>- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)<br>  <br>- Viêm niêm mạc<br>  <br>- [Hội chứng Stevens–Johnson / hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis) (SJS/TEN; hiếm) |
+| _Pseudomonas aeruginosa_ | - Nhiễm trùng vết thương<br>  <br>- [Bệnh nấm chân](https://dermnetnz.org/topics/athletes-foot)<br>  <br>- [Viêm nang lông gram âm](https://dermnetnz.org/topics/gram-negative-folliculitis)<br>  <br>- [Paronychia mãn tính](https://dermnetnz.org/topics/paronychia) (hội chứng móng tay xanh)<br>  <br>- [Viêm nang lông hồ bơi](https://dermnetnz.org/topics/spa-pool-folliculitis)<br>  <br>- [Ecthyma gangrenosum](https://dermnetnz.org/topics/ecthyma-gangrenosum) |
+| _Calymmatobacterium granulomatis_ | - [Granuloma inguinale](https://dermnetnz.org/topics/granuloma-inguinale) |
+| _Bacillus anthracis_ | - [Bệnh than](https://dermnetnz.org/topics/anthrax) |
+| _Clostridium perfringens_ | - [Hoại tử khí](https://dermnetnz.org/topics/wet-gangrene) |
+| _Listeria monocytogenes_ | - [Listeriosis](https://dermnetnz.org/topics/listeriosis) da (hiếm) |
+| Loài _Treponema_ | - [Giang mai](https://dermnetnz.org/topics/syphilis)<br>  <br>- [Yaws](https://dermnetnz.org/topics/yaws)<br>  <br>- [Pinta](https://dermnetnz.org/topics/pinta) |
+| Loài _Bartonella_ | - [Sốt mèo cào](https://dermnetnz.org/topics/catscratch-disease)<br>  <br>- [Angiomatosis do vi khuẩn](https://dermnetnz.org/topics/bacillary-angiomatosis)<br>  <br>- [Bệnh Carrion](https://dermnetnz.org/topics/carrion-disease)<br>  <br>- Bartonellosis |
+| Loài _Mycobacterium_ | - [Lao](https://dermnetnz.org/topics/cutaneous-tuberculosis)<br>  <br>- [Bệnh phong](https://dermnetnz.org/topics/leprosy)<br>  <br>- [Nhiễm trùng mycobacteria không điển hình](https://dermnetnz.org/topics/atypical-mycobacterial-infection) bao gồm loét Buruli |
+| Leptospira | - [Leptospirosis](https://dermnetnz.org/topics/leptospirosis) có thể gây xuất huyết |
+| Nocardia | - Nocardiosis |
+| _Yersinia pestis_ | - [Dịch hạch](https://dermnetnz.org/topics/plague) bubo: sưng hạch bạch huyết và mụn mủ, loét, và vảy da |
+| _Serratia marcescens_ (một loại trực khuẩn gram âm kỵ khí tùy ý) | - Có thể hiếm khi gây nhiễm trùng da như [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis), [áp xe](https://dermnetnz.org/topics/cutaneous-abscess), và [loét](https://dermnetnz.org/topics/erosions-and-ulcers) (thường ở bệnh nhân [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency)) |
+| Loài _Fusobacterium_ (ví dụ, _Bacillus fusiformis_, _Treponema vincenti_) | - [Loét nhiệt đới](https://dermnetnz.org/topics/tropical-ulcer) |
+| Loài _Burkholderia_ | - [Melioidosis](https://dermnetnz.org/topics/melioidosis) và [glanders](https://dermnetnz.org/topics/glanders): [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) có thể liên quan đến triệu chứng toàn thân |
+| Loài _Actinomyces_ | - [Actinomycosis](https://dermnetnz.org/topics/actinomycosis): xảy ra vi khuẩn hạt, với áp xe và đường dẫn lưu hạt màu vàng lưu huỳnh |
+| _Vibrio vulnificus_ | - Nguyên nhân gây sốc nhiễm trùng đặc trưng bởi mụn nước chứa máu |
+| Loài _Brucella_ | - Brucellosis, một bệnh sốt bắt từ động vật chưa được tiêm phòng hoặc sữa chưa tiệt trùng của chúng. |
+| Loài Salmonella (ví dụ, Salmonella typhi) | - [Sốt thương hàn](https://dermnetnz.org/topics/typhoid-fever) |
+| Loài Aeromonas (tìm thấy trong nước) | - (Hiếm khi) gây nhiễm trùng da và mô mềm |
+| Nhiễm trùng vi khuẩn do ve truyền | - _Borrelia burgdorferi_ ( [Bệnh Lyme](https://dermnetnz.org/topics/lyme-disease))<br>  <br>- _Babesia microti_ ( [sốt tái phát](https://dermnetnz.org/topics/tick-borne-relapsing-fever))<br>  <br>- _Francisella tularensis_ ( [tularaemia](https://dermnetnz.org/topics/tularaemia))<br>  <br>- [Bệnh do Rickettsia](https://dermnetnz.org/topics/rickettsial-diseases) (một số cũng được truyền qua [chấy cơ thể](https://dermnetnz.org/topics/body-lice), [bọ chét](https://dermnetnz.org/topics/flea-bite), muỗi, và ve)<br>  <br>- [Ehrlichiosis và anaplasmosis](https://dermnetnz.org/topics/ehrlichiosis-and-anaplasmosis) |
+
+Các tình trạng khác đôi khi do hoặc liên quan đến nhiễm trùng vi khuẩn bao gồm:
+
+- [Bệnh Kawasaki](https://dermnetnz.org/topics/kawasaki-disease) (hội chứng hạch bạch huyết niêm mạc)
+- [Viêm nang lông barbae](https://dermnetnz.org/topics/folliculitis-barbae) (mụn do cạo râu)
+- [Sarcoidosis](https://dermnetnz.org/topics/sarcoidosis)
+- [Viêm nang lông da đầu](https://dermnetnz.org/topics/scalp-folliculitis)
+- [Nốt Osler và tổn thương Janeway](https://dermnetnz.org/topics/osler-nodes-and-janeway-lesions) (viêm nội tâm mạc do vi khuẩn)
+- [Viêm âm đạo](https://dermnetnz.org/topics/vaginitis) và [viêm âm đạo do vi khuẩn](https://dermnetnz.org/topics/bacterial-vaginosis).
+
+## Các đặc điểm lâm sàng của nhiễm trùng da do vi khuẩn là gì?
+
+Nhiễm trùng da do vi khuẩn có thể dẫn đến các biểu hiện lâm sàng đa dạng. Thông thường, chúng sẽ xuất hiện với ban đỏ, đau, ấm, sưng, và tùy thuộc vào mức độ nghiêm trọng, rối loạn chức năng. Dịch mủ và sưng hạch bạch huyết cũng có thể rõ ràng khi khám.
+
+Trong các trường hợp nhiễm trùng nặng, các dấu hiệu sau có thể xuất hiện:
+
+- Sự không ổn định về nhiệt độ (cao hơn 38⁰C hoặc thấp hơn 35⁰C)
+- Nhịp tim nhanh
+- Thay đổi trạng thái tâm thần
+- Sự tiến triển nhanh chóng của nhiễm trùng
+- Mụn nước xuất huyết hoặc tím tái
+- Dấu hiệu hoại tử
+- Tiếng kêu răng rắc.
+
+## Các đặc điểm lâm sàng thay đổi như thế nào trong các loại da khác nhau?
+
+Ban đỏ có thể ít rõ ràng hơn ở các tông màu da tối hơn, và [tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) phổ biến hơn.
+
+## Các biến chứng của nhiễm trùng da do vi khuẩn là gì?
+
+- Sự phá vỡ da
+- Hình thành [áp xe](https://dermnetnz.org/topics/cutaneous-abscess)
+- Nhiễm trùng huyết (có thể đe dọa tính mạng)
+- [Thuyên tắc nhiễm trùng](https://dermnetnz.org/topics/septic-emboli)
+- Sẹo hoặc [tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- [Sốt thấp khớp](https://dermnetnz.org/topics/rheumatic-fever) (có thể do [nhiễm trùng da Streptococcal](https://dermnetnz.org/topics/streptococcal-skin-infections))
+- Nhiễm trùng tái phát
+- Nhiễm trùng do vi khuẩn kháng thuốc (ví dụ, [Staphylococcus aureus kháng methicillin/MRSA](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus)) có thể khó điều trị hơn.
+
+## Nhiễm trùng da do vi khuẩn được chẩn đoán như thế nào?
+
+Nhiễm trùng da do vi khuẩn thường được chẩn đoán lâm sàng, mặc dù [nghiên cứu phòng thí nghiệm](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections) có thể hữu ích, chẳng hạn như:
+
+- Công thức máu toàn phần: nhiễm trùng vi khuẩn thường làm tăng số lượng bạch cầu và bạch cầu trung tính
+- Protein C-reactive (CRP): tăng >50 trong các trường hợp nhiễm trùng vi khuẩn nghiêm trọng (lưu ý có thể có sự chậm trễ >24 giờ giữa khởi phát triệu chứng và tăng CRP)
+- Procalcitonin: dấu hiệu xét nghiệm máu cho nhiễm trùng huyết do nhiễm trùng vi khuẩn
+- Cấy máu: nếu sốt (>38⁰C)
+- Lấy mẫu từ tổn thương da gửi để soi kính hiển vi, nuôi cấy, và kiểm tra độ nhạy.
+
+## Chẩn đoán phân biệt cho nhiễm trùng da do vi khuẩn là gì?
+
+- [Viêm tĩnh mạch nông](https://dermnetnz.org/topics/superficial-thrombophlebitis)
+- Huyết khối tĩnh mạch sâu
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis)
+- [Vảy nến mủ](https://dermnetnz.org/topics/generalised-pustular-psoriasis)
+- [Phản ứng thuốc](https://dermnetnz.org/topics/adverse-cutaneous-reactions-to-drugs)
+- [Viêm mạch máu](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- [Ban đỏ nút](https://dermnetnz.org/topics/erythema-nodosum)
+- [Nhiễm trùng da do virus](https://dermnetnz.org/topics/viral-skin-infections)
+- [Nhiễm trùng da do nấm](https://dermnetnz.org/topics/fungal-skin-infections)
+
+## Làm thế nào để ngăn ngừa nhiễm trùng da do vi khuẩn?
+
+- Rửa tay thường xuyên, đặc biệt trước và sau khi chạm vào da bị tổn thương.
+- Các yếu tố lối sống chung để cải thiện sức khỏe tổng thể và chức năng miễn dịch (ví dụ, quản lý cân nặng nếu [thừa cân](https://dermnetnz.org/topics/obesity-and-the-skin) hoặc [thiếu cân](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa), [ngừng hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin), [giảm tiêu thụ rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol)).
+- Tối ưu hóa quản lý các tình trạng y tế khác (ví dụ, [kiểm soát tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)).
+- Duy trì hàng rào da (ví dụ, thông qua quản lý thích hợp [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis), và tránh kích ứng/ dị ứng da).
+
+## Điều trị nhiễm trùng da do vi khuẩn là gì?
+
+Nhiễm trùng vi khuẩn nhẹ thường tự khỏi mà không cần điều trị. Do kháng sinh ngày càng tăng, việc sử dụng kháng sinh bôi ngoài da như [fusidic acid,](https://dermnetnz.org/topics/topical-fusidic-acid) thường bị hạn chế; [chất khử trùng](https://dermnetnz.org/topics/antiseptic) thường được sử dụng thay thế cho các nhiễm trùng nhẹ. Các nhiễm trùng vi khuẩn nghiêm trọng hơn hoặc kéo dài được điều trị bằng kháng sinh đường uống, tiêm tĩnh mạch, hoặc đôi khi tiêm bắp.
+
+Tốt nhất là lấy mẫu (ví dụ, mẫu gạc hoặc cấy máu) để kiểm tra vi khuẩn nào gây nhiễm trùng trước khi bắt đầu dùng kháng sinh. Nếu nhiễm trùng nghiêm trọng (ví dụ, nghi ngờ [bệnh não mô cầu](https://dermnetnz.org/topics/meningococcal-disease)), không nên trì hoãn điều trị bằng kháng sinh phổ rộng. Khi có kết quả nuôi cấy và độ nhạy, chuyển sang kháng sinh phổ hẹp phù hợp.
+
+Không nên kê đơn kháng sinh nếu không cần thiết hoặc không có khả năng có lợi, ví dụ, nếu nhiễm trùng có nguồn gốc virus. Phản ứng phụ bao gồm [tác dụng phụ trên da](https://dermnetnz.org/topics/cutaneous-adverse-reactions-to-antibiotics) và tác dụng phụ trên đường tiêu hóa. Quản lý kháng sinh cũng là một cân nhắc quan trọng.
+
+## Kết quả của nhiễm trùng da do vi khuẩn là gì?
+
+Nhiều nhiễm trùng da do vi khuẩn tự khỏi mà không cần điều trị hoặc không gây ra bệnh lý nghiêm trọng. Tuy nhiên, nhiễm trùng da có thể nghiêm trọng và gây ra gánh nặng bệnh tật đáng kể trên toàn thế giới, đôi khi dẫn đến nhiễm trùng huyết và tử vong, đặc biệt ở các nhóm bệnh nhân dễ bị tổn thương như người cao tuổi, nhập viện, và [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency).
+
+Kháng kháng sinh ngày càng có tác động đến khả năng điều trị và kết quả của nhiều nhiễm trùng da do vi khuẩn trong tương lai.
+
+[Hình ảnh về nhiễm trùng da Staphylococcal](https://dermnetnz.org/images/pvl-staphylococcal-aureus-infection-images)
+
+Nhiễm trùng da do vi khuẩn - YouTube
+
+[Hình ảnh của DermNet](https://www.youtube.com/channel/UCj4I5L1l7jT64IuMZJirfhQ?embeds_referring_euri=https%3A%2F%2Fdermnetnz.org%2F)
+
+DermNet
+
+4K người đăng ký
+
+[Nhiễm trùng da do vi khuẩn](https://www.youtube.com/watch?v=wKXvE6Q9qYY)
+
+DermNet
+
+Tìm kiếm
+
+Xem sau
+
+Chia sẻ
+
+Sao chép liên kết
+
+Thông tin
+
+Mua sắm
+
+Nhấn để tắt tiếng
+
+Nếu phát lại không bắt đầu ngay, hãy thử khởi động lại thiết bị của bạn.
+
+Thêm video
+
+## Thêm video
+
+Bạn đã đăng xuất
+
+Các video bạn xem có thể được thêm vào lịch sử xem của TV và ảnh hưởng đến đề xuất của TV. Để tránh điều này, hãy hủy và đăng nhập vào YouTube trên máy tính của bạn.
+
+HủyXác nhận
+
+Chia sẻ
+
+Bao gồm danh sách phát
+
+Đã xảy ra lỗi khi lấy thông tin chia sẻ. Vui lòng thử lại sau.
+
+[Xem trên](https://www.youtube.com/watch?v=wKXvE6Q9qYY&embeds_referring_euri=https%3A%2F%2Fdermnetnz.org%2F)
+
+0:00
+
+0:00 / 32:59
+•Trực tiếp
+
+•
+
+### Thư mục
+
+- Ellis Simonsen SM, van Orman ER, Hatch BE, et al. Tỷ lệ viêm mô tế bào trong một dân số xác định. Epidemiol Infect. 2005;134(2):293–299. doi: 10.1017/S095026880500484X. [Tạp chí](https://www.cambridge.org/core/journals/epidemiology-and-infection/article/cellulitis-incidence-in-a-defined-population/E38BA110C694E6228BB6E19F9E123321)
+- Eron LJ, Lipsky BA, Low DE, et al. Quản lý nhiễm trùng da và mô mềm: khuyến nghị của hội đồng chuyên gia về các điểm quyết định chính. J Antimicrob Chemother. 2003;52 Suppl 1:i3–17. doi: 10.1093/jac/dkg466. [Tạp chí](https://academic.oup.com/jac/article/52/suppl_1/i3/2473489)
+- Kaye KS, Petty LA, Shorr AF, Zilberberg MD. Dịch tễ học hiện tại, nguyên nhân, và gánh nặng của nhiễm trùng da cấp tính ở Hoa Kỳ. Clin Infect Dis. 2019;68(Suppl 3):S193–S199. doi: 10.1093/cid/ciz002. [Tạp chí](https://academic.oup.com/cid/article/68/Supplement_3/S193/5428806)
+- Ki V, Rotstein C. Nhiễm trùng da và mô mềm do vi khuẩn ở người lớn: Một đánh giá về dịch tễ học, sinh bệnh học, chẩn đoán, điều trị và nơi chăm sóc của chúng. Can J Infect Dis Med Microbiol. 2008;19(2):173–184. doi: 10.1155/2008/846453. [Tạp chí](https://www.hindawi.com/journals/cjidmm/2008/846453/)
+- Stulberg DL, Penrod MA, Blatny RA. Nhiễm trùng da do vi khuẩn phổ biến. Am Fam Physician. 2002;66(1):119–124. [Tạp chí](https://www.aafp.org/pubs/afp/issues/2002/0701/p119.html)
+- Tổ chức Y tế Thế giới (WHO). Dịch tễ học và Quản lý các Bệnh Da Thường Gặp ở Trẻ em ở Các Nước Đang Phát Triển. WHO. Được xuất bản ngày 1 tháng 12 năm 2005. Truy cập ngày 20 tháng 3 năm 2023. [Có sẵn tại đây](https://www.who.int/publications/i/item/WHO-FCH-CAH-05.12)
+
+### Trên DermNet
+
+- [Nhiễm trùng da](https://dermnetnz.org/topics/skin-infections)
+- [Nhiễm trùng da Staphylococcal](https://dermnetnz.org/topics/staphylococcal-skin-infection)
+- [Hình ảnh nhiễm trùng da Staphylococcal](https://dermnetnz.org/images/pvl-staphylococcal-aureus-infection-images)
+- [Nhiễm trùng da Streptococcal](https://dermnetnz.org/topics/streptococcal-skin-infections)
+- [Vi sinh vật tìm thấy trên da](https://dermnetnz.org/topics/microorganisms-found-on-the-skin)
+- [Xét nghiệm phòng thí nghiệm cho nhiễm trùng vi khuẩn](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections)
+- [Kháng sinh](https://dermnetnz.org/topics/antibiotics)
+- [Nhiễm trùng PVL-Staph aureus](https://dermnetnz.org/topics/panton-valentine-leukocidin-staphylococcus-aureus)
+
+### Các trang web khác
+
+- [Nhiễm trùng Da do Vi khuẩn: Dưới Bề Mặt](https://login.medscape.com/login/sso/getlogin?wcode=102&client=205502&urlCache=aHR0cHM6Ly9yZWZlcmVuY2UubWVkc2NhcGUuY29tL3NsaWRlc2hvdy9pbmZlY3Qtc2tpbi02MDAzNDQ5&sc=ng&scode=msp) — Tiến sĩ CA Elston và DM Elston, MedScape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

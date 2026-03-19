@@ -1,0 +1,46 @@
+### References
+
+01. Bruce AJ, Bennett DD, Lohse CM, Rooke TW, Davis MDP. Lipodermatosclerosis: review of cases evaluated at Mayo Clinic. J Am Acad Dermatol 2002; 46: 187–92. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/11807428)
+02. Bergan JJ, Schmid-Schonbein GW, Smith PD, Nicolaides AN, Boisseau MR, Eklof B. Chronic venous disease. N Engl J Med 2006; 355: 488–98. DOI: 10.1056/NEJMra055289. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/16885552)
+03. Kirsner RS, Pardes JB, Eaglstein WH, Falanga V. The clinical spectrum of lipodermatosclerosis. J Am Acad Dermatol 1993; 28: 623–7. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/8463465)
+04. Walsh SN, Santa Cruz DJ. Lipodermatosclerosis: a clinicopathological study of 25 cases. J Am Acad Dermatol 2010; 62: 1005–12. DOI: 10.1016/j.jaad.2009.08.006. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20466175)
+05. Mei A, Chen J, Chan JJ. Recalcitrant lipodermatosclerosis with ulceration treated with oxandrolone and pentoxifylline. Clin Exp Dermatol. 2024;49(12): 1711–3. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39024415/)
+06. Choonhakarn C, Chaowattanapanit S, Julanon N. Lipodermatosclerosis: a clinicopathologic correlation. Int J Dermatol 2016; 55: 303–8. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26275890)
+07. Dakovic Z, Vesic S, Vukovic J, Pavlovic LJ, Medenica MD. Acute lipodermatosclerosis: an open clinical trial of stanozolol in patients unable to sustain compression therapy. Dermatol Online J 2008; 14(2): 1. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18700104)
+08. Jull AB, Arroll B, Parag V, Waters J. Pentoxifylline for treating venous leg ulcers. Cochrane Database Syst Rev 2012; 12: CD001733. DOI: 10.1002/14651858.CD001733.pub3. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23235582)
+09. Choonhakarn C, Chaowattanapanit S. Lipodermatosclerosis: improvement noted with hydroxychloroquine and pentoxifylline. J Am Acad Dermatol 2012; 66: 1013–4. DOI: 10.1016/j.jaad.2011.11.942. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22583718)
+10. Campbell LB, Miller OF, 3rd. Intralesional triamcinolone in the management of lipodermatosclerosis. J Am Acad Dermatol 2006; 55: 166–8. DOI: 10.1016/j.jaad.2005.09.043. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/16781319)
+11. Plewig G, Schopf E. Anti-inflammatory effects of antimicrobial agents: an in vivo study. J Invest Dermatol 1975; 65: 532–6. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/1194716)
+12. Gilbertson-Beadling S, Powers EA, Stamp-Cole M, et al. The tetracycline analogs minocycline and doxycycline inhibit angiogenesis in vitro by a non-metalloproteinase-dependent mechanism. Cancer Chemother Pharmacol 1995; 36: 418–24. DOI: 10.1007/BF00686191. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/7543375)
+13. Mackelfresh J, Soon S, Arbiser JL. Combination therapy of doxycycline and topical tacrolimus for venous ulcers. Arch Dermatol 2005; 141: 1476–7. DOI: 10.1001/archderm.141.11.1476. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/16301410)
+14. Martinez-Zapata MJ, Vernooij RW, Uriona Tuma SM, et al. Phlebotonics for venous insufficiency. Cochrane Database Syst Rev 2016; 4: CD003229. DOI: 10.1002/14651858.CD003229.pub3. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27048768)
+15. Damian DL, Yiasemides E, Gupta S, Armour K. Ultrasound therapy for lipodermatosclerosis. Arch Dermatol 2009; 145: 330–2. DOI: 10.1001/archdermatol.2009.24. [Journal](https://jamanetwork.com/journals/jamadermatology/fullarticle/711923)
+16. Hamid SA, Ibrahim ZM,  Mohamady AM. The response of skin hardness and pain sensation to ultrasonic treatment in lipodermatosclerosis patients. Egyptian Journal of Medical Human Genetics, 2014;15: 193-198. [Journal](https://www.sciencedirect.com/science/article/pii/S1110863014000305).
+17. Patel N, Dahl M. Treatment of lipodermatosclerosis with UVA-1. J Am Acad Derm 2016;74 (5): AB229. [Journal](https://www.jaad.org/article/S0190-9622(16)01032-X/fulltext).
+18. Gohel MS, Barwell JR, Taylor M, et al. Long term results of compression therapy alone versus compression plus surgery in chronic venous ulceration (ESCHAR): randomised controlled trial. BMJ 2007; 335: 83. DOI: 10.1136/bmj.39216.542442.BE. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17545185)
+
+### On DermNet
+
+- [Lipodermatosclerosis images](https://dermnetnz.org/topics/lipodermatosclerosis-images)
+- [Stasis ulcer](https://dermnetnz.org/topics/stasis-ulcer)
+- [Leg ulcer](https://dermnetnz.org/topics/leg-ulcer)
+- [Venous eczema](https://dermnetnz.org/topics/venous-eczema)
+- [Varicose veins](https://dermnetnz.org/topics/varicose-veins)
+- [Venous insufficiency](https://dermnetnz.org/topics/venous-insufficiency)
+- [Compression therapy](https://dermnetnz.org/topics/compression-therapy)
+- [Horse chestnut extract](https://dermnetnz.org/topics/horse-chestnut-extract)
+
+### Other websites
+
+- [Venous insufficiency](https://emedicine.medscape.com/article/1085412-overview) — Medscape
+
+### Books about skin diseases
+
+- [Books about the skin](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- second edition](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Other recommended articles
+
+![close](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

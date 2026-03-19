@@ -1,0 +1,181 @@
+##### Kem Fluorouracil — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Efudix™, kem 5-fluorouracil, kem 5-FU
+
+Danh mục:
+
+Điều trị, Tổn thương (ung thư)
+
+SNOMED CT:
+
+387172005, 326860000, 292234002, 713977002, 375521000
+
+**[Điều trị](https://dermnetnz.org/topics?category=Treatments) [Tổn thương (ung thư)](https://dermnetnz.org/topics?category=Lesions%20(cancerous))**
+
+# **Kem Fluorouracil**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 2001. Cập nhật vào tháng 9 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/5-fluorouracil-cream#Introduction) [Cách hoạt động](https://dermnetnz.org/topics/5-fluorouracil-cream#How%20it%20works) [Công dụng](https://dermnetnz.org/topics/5-fluorouracil-cream#Uses) [Cách sử dụng](https://dermnetnz.org/topics/5-fluorouracil-cream#How%20to%20use) [Kết quả điều trị](https://dermnetnz.org/topics/5-fluorouracil-cream#Results%20of%20treatment) [Biện pháp phòng ngừa](https://dermnetnz.org/topics/5-fluorouracil-cream#Precautions) [Theo dõi](https://dermnetnz.org/topics/5-fluorouracil-cream#Follow%20up) [Biến chứng](https://dermnetnz.org/topics/5-fluorouracil-cream#Complications)
+
+## Kem fluorouracil là gì?
+
+Kem fluorouracil 5% dạng bôi thường được viết tắt là 5-FU. Tên thương mại tại New Zealand là Efudix™ và đây là một loại thuốc kê đơn. Đây là một tác nhân gây độc tế bào hoặc chất chống chuyển hóa và có độc tính đối với các tế bào sống, đặc biệt là đối với một số tế bào ung thư hoặc tiền ung thư. Nó phá hủy các tế bào da bị tổn thương do ánh nắng mặt trời, làm cho da trông mịn màng và trẻ trung hơn.
+
+Tại nhiều quốc gia, kem fluorouracil 0,5% kết hợp với axit salicylic 10% cũng có sẵn (Actikerall®).
+
+### Phản ứng với kem fluorouracil sau 2 tuần sử dụng trên dày sừng ánh sáng
+
+![Dày sừng ánh sáng được điều trị bằng kem fluorouracil](https://dermnetnz.org/assets/Uploads/actinickeratosis-011.jpg)
+
+Dày sừng ánh sáng được điều trị bằng kem fluorouracil
+
+![Tác động của kem fluorouracil áp dụng cho dày sừng ánh sáng](https://dermnetnz.org/assets/Uploads/fluorouracil-10.jpg)
+
+Tác động của kem fluorouracil áp dụng cho dày sừng ánh sáng
+
+![Tác động của 17 ngày sử dụng kem fluorouracil cho dày sừng ánh sáng](https://dermnetnz.org/assets/Uploads/fluorouracil-0011.jpg)
+
+Tác động của 17 ngày sử dụng kem fluorouracil cho dày sừng ánh sáng
+
+## Fluorouracil hoạt động như thế nào?
+
+Fluorouracil là một chất tương tự pyrimidine liên kết không thể đảo ngược trong tế bào với thymidylate synthetase. Điều này ngăn chặn sự tích hợp uracil vào RNA nhân, phá hủy các tế bào ung thư bất thường.
+
+## Fluorouracil được sử dụng để làm gì?
+
+Kem fluorouracil thường được kê đơn để làm sạch [dày sừng ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) và [carcinoma trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) (carcinoma tế bào vảy tại chỗ). Một liệu trình toàn mặt đã được chứng minh là giảm đáng kể nguy cơ phát triển [carcinoma tế bào vảy da](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) (SCC) tại vị trí điều trị trong năm tiếp theo.
+
+Fluorouracil cũng thỉnh thoảng được sử dụng để điều trị các tình trạng da sau:
+
+- [Carcinoma tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) bề mặt
+- [Vảy nến](https://dermnetnz.org/topics/psoriasis)
+- [Mụn cóc do virus](https://dermnetnz.org/topics/viral-wart)
+- [Mụn cóc sinh dục](https://dermnetnz.org/topics/anogenital-warts)
+- [Porokeratosis bề mặt lan tỏa](https://dermnetnz.org/topics/disseminated-superficial-actinic-porokeratosis) và [porokeratosis tuyến tính](https://dermnetnz.org/topics/linear-porokeratosis).
+
+Nó hoạt động tốt nhất trên mặt và da đầu và kém hiệu quả hơn trên các vị trí khác của cơ thể.
+
+## Kem fluorouracil nên được sử dụng như thế nào?
+
+Kem fluorouracil là một loại thuốc mạnh, có tính phá hủy và phải được sử dụng chính xác theo chỉ dẫn. Giữ nó khóa lại để người khác không thể nhầm lẫn sử dụng để điều trị phát ban.
+
+Điều trị trước bằng [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) hoặc chất keratolytics, như kem [urea](https://dermnetnz.org/topics/urea) hoặc lotion [axit glycolic](https://dermnetnz.org/topics/alpha-hydroxy-acid-facial-treatments), có ích để giảm thiểu sự bong tróc và cho phép hấp thụ tối ưu thành phần hoạt chất, 5-FU.
+
+Kem fluorouracil được bôi một hoặc hai lần mỗi ngày sau khi rửa bằng nước sạch. Một lượng nhỏ kem nên được xoa nhẹ vào tất cả các khu vực điều trị bằng đầu ngón tay. Điều quan trọng là bôi lên toàn bộ da chứ không chỉ các tổn thương nhìn thấy. Sau đó, rửa sạch ngón tay kỹ lưỡng với nước (hoặc sử dụng găng tay hoặc bông gòn để bôi kem). Điều trị dày sừng ánh sáng được tiếp tục trong 2 đến 4 tuần. Có thể cần lâu hơn cho điều trị carcinoma tế bào vảy tại chỗ.
+
+Hướng dẫn của nhà sản xuất chỉ ra rằng diện tích tối đa được điều trị cùng một lúc là 500 cm2.
+
+### Điều trị kết hợp với kem fluorouracil
+
+Đôi khi kem fluorouracil được kê đơn kết hợp với một tác nhân bôi khác.
+
+- Sự kết hợp của kem fluorouracil 5% với [kem tretinoin](https://dermnetnz.org/topics/topical-retinoids) hoạt động tốt nhất nếu tretinoin đã được sử dụng ít nhất hai tuần trước khi bắt đầu fluorouracil. Kem tretinoin tăng cường hiệu quả của fluorouracil bằng cách lột bỏ lớp da trên cùng. Nó giảm thời gian cần thiết cho liệu trình điều trị fluorouracil. Kem tretinoin có thể được tiếp tục sử dụng lâu dài sau đó để giảm dấu hiệu [lão hóa da](https://dermnetnz.org/topics/ageing-skin) và ngăn ngừa sự suy thoái, sử dụng bảo vệ [ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) rất cẩn thận.
+- Kết hợp kem fluorouracil 0,5% với axit salicylic 10% (Actikerall™) cũng đã được chứng minh là hiệu quả cho dày sừng ánh sáng trên mặt và tay và cẳng tay trong một liệu trình 12 tuần. Nó đặc biệt hữu ích cho các tổn thương tăng sừng (sừng).
+- Kem fluorouracil 5% với thuốc mỡ calcipotriol 0,005% đã được báo cáo là cải thiện hiệu quả và giảm số ngày cần thiết cho điều trị dày sừng ánh sáng so với chỉ sử dụng kem fluorouracil 5%.
+
+### Bọc fluorouracil
+
+Bọc fluorouracil, còn được gọi là bọc hóa học, là một phương pháp điều trị kín tại văn phòng cho điều trị diện rộng cho [dày sừng ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) và [carcinoma trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma). Chúng thường được sử dụng để điều trị chân dưới bị tổn thương nghiêm trọng do ánh nắng mặt trời. Sau khi làm sạch khu vực cần điều trị, một lớp kem fluorouracil dày được bôi lên các tổn thương có vảy và da xung quanh, thường là xung quanh chi. Khoảng 10 đến 20 g 5-FU được sử dụng cho mỗi chi. Gạc paraffin được bôi lên kem fluorouracil ở các khu vực chuyển động (ví dụ mắt cá chân) để bảo vệ. Chi sau đó được băng bó cẩn thận bằng các lớp lỏng lẻo của oxit kẽm (để cải thiện quá trình lành và giảm đau), băng cotton và băng cuộn tự dính để [nén](https://dermnetnz.org/topics/compression-therapy).
+
+Bọc hóa học được giữ nguyên trong 7 ngày, sau đó được tháo ra. Da được điều trị được rửa sạch và chà nhẹ để loại bỏ da lỏng lẻo và vảy. Điều trị fluorouracil được lặp lại một lần mỗi tuần trong 4 đến 12 tuần. Nếu các khu vực điều trị trở nên xói mòn, điều trị được dừng lại và thạch dầu được bôi lên khu vực bị ảnh hưởng. Nó có thể được bắt đầu lại nếu cần thiết.
+
+## Kết quả điều trị với kem fluorouracil là gì?
+
+Kem fluorouracil thường dẫn đến cảm giác châm chích hoặc bỏng nhẹ đến nặng, tùy thuộc vào độ nhạy cảm của da, mức độ tổn thương do ánh nắng mặt trời và thời gian sử dụng. Sau năm đến mười ngày điều trị, các phần da bị tổn thương do ánh nắng mặt trời trở nên đỏ, có vảy và nhạy cảm. Khi điều trị tiếp tục, các vết loét và vảy có thể xuất hiện. Những khu vực thô này là kết quả của sự phá hủy các tế bào da bị lỗi. Chúng là một phần cần thiết của điều trị và được mong đợi sẽ lành lại khi điều trị dừng lại.
+
+Các khu vực được điều trị có thể được che phủ bằng băng nhẹ hoặc để mở. Một băng kín sẽ tăng cường sự thẩm thấu của 5-FU và tăng cường hiệu quả và phản ứng phụ. Trang điểm có thể được sử dụng nếu phản ứng nhẹ, nhưng nên tránh trong trường hợp xói mòn và loét.
+
+Sắp xếp để bác sĩ da liễu, bác sĩ gia đình hoặc y tá ung thư da của bạn kiểm tra bạn trong quá trình điều trị để kiểm tra tiến trình và xác định thời gian tiếp tục sử dụng kem fluorouracil. Nếu có bất kỳ phản ứng bất thường hoặc nghiêm trọng nào xảy ra, ngừng bôi và liên hệ với chuyên gia y tế của bạn.
+
+### Tác động của kem fluorouracil
+
+![Phản ứng nhẹ sau 10 ngày điều trị dày sừng](https://dermnetnz.org/assets/Uploads/treatments/w/5fu02.jpg)
+
+Phản ứng nhẹ sau 10 ngày điều trị dày sừng
+
+![Dày sừng sau 2 tuần điều trị](https://dermnetnz.org/assets/Uploads/treatments/fluorouracil1.jpg)
+
+Dày sừng sau 2 tuần điều trị
+
+![Carcinoma trong biểu bì loét sau 3 tuần điều trị](https://dermnetnz.org/assets/Uploads/treatments/fluorouracil2.jpg)
+
+Carcinoma trong biểu bì loét sau 3 tuần điều trị
+
+## Biện pháp phòng ngừa khi sử dụng kem fluorouracil
+
+Kem fluorouracil không được sử dụng trong [thai kỳ](https://dermnetnz.org/topics/safety-of-medicines-taken-during-pregnancy) vì đã được chứng minh gây ra dị tật bẩm sinh. Nó được phân loại là Loại D. Nó cũng nên tránh trong [cho con bú](https://dermnetnz.org/topics/lactation-and-medications-used-in-dermatology), để giảm thiểu khả năng bài tiết vào sữa mẹ và nguy cơ cho trẻ bú.
+
+Tránh bôi kem fluorouracil vào mắt; nó không thường được sử dụng trên mí mắt. Giữ nó khỏi môi, trừ khi được chỉ định cụ thể để sử dụng trên vị trí này. Sử dụng cẩn thận ở các nếp gấp da (như xung quanh mũi và môi), vì nó có thể gây kích ứng nghiêm trọng hơn ở những khu vực này.
+
+Do tương tác với ánh sáng mặt trời, tốt nhất là sử dụng kem fluorouracil trong những tháng mùa đông. Da được điều trị nên được bảo vệ rất cẩn thận khỏi ánh nắng mặt trời; ở trong nhà trong phần giữa của ngày. Nếu khu vực được điều trị vô tình tiếp xúc với ánh nắng mặt trời, phản ứng với fluorouracil sẽ mạnh mẽ hơn bình thường.
+
+Đã có một số báo cáo về tác động có hại đối với vật nuôi sau khi vô tình nuốt phải fluorouracil. Giữ ống thuốc ngoài tầm với, rửa tay kỹ sau khi bôi, và không để vật nuôi liếm các khu vực đã bôi thuốc.
+
+## Theo dõi sau điều trị fluorouracil
+
+Sau khi bạn được hướng dẫn ngừng sử dụng kem fluorouracil, bạn có thể được kê đơn một loại [kem dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) hoặc [steroid bôi nhẹ](https://dermnetnz.org/topics/topical-steroid) để giúp lành khu vực đã điều trị. Nếu bạn không nhận được hướng dẫn cụ thể, hãy bôi một lớp mỏng thạch dầu trắng lên các khu vực thô và có vảy vào giờ đi ngủ. Ngừng sử dụng thạch dầu khi các vảy và vảy đã lành.
+
+Khi điều trị dừng lại, da sẽ lành nhanh chóng. Mất từ hai đến bốn tuần để da mới khỏe mạnh thay thế da bị tổn thương do ánh nắng mặt trời bị phá hủy bởi kem fluorouracil. Sau khi lành, các khu vực được điều trị thường đỏ hơn bình thường và có thể cảm thấy nhạy cảm hơn; sự đỏ và nhạy cảm này sẽ dần dần mờ đi trong vài tuần. Đôi khi nó kéo dài trong vài tháng.
+
+[Dày sừng ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) dai dẳng hoặc tái phát có thể được điều trị bằng một liệu trình kem fluorouracil khác, kem [imiquimod](https://dermnetnz.org/topics/imiquimod) hoặc bằng [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy). Tuy nhiên, điều quan trọng là hỏi bác sĩ da liễu của bạn xem điều này có phù hợp không vì ung thư da có thể trông rất giống nhau và có thể cần phẫu thuật hoặc các thủ tục khác.
+
+## Biến chứng của điều trị bằng kem fluorouracil
+
+Tác động của kem fluorouracil có nghĩa là một số mức độ ngứa, đau, xói mòn, vảy, viêm da và các phản ứng viêm khác được mong đợi trong quá trình điều trị.
+
+Các biến chứng sau đây có thể thỉnh thoảng xảy ra trong quá trình điều trị bằng kem fluorouracil.
+
+- Phản ứng viêm cục bộ quá mức có thể gây loét, phồng rộp và sưng cục bộ.
+- Phản ứng quang độc phát triển trên các khu vực được điều trị tiếp xúc với ánh sáng mặt trời hoặc nguồn bức xạ cực tím khác.
+- Phản ứng quá mẫn là một nguy cơ đặc biệt đối với bệnh nhân thiếu enzyme dihydropyrimidine dehydrogenase, người cũng có thể phát triển độc tính toàn thân.
+- Triệu chứng toàn thân có thể bao gồm sốt, buồn nôn, tiêu chảy, đau đầu và [loét miệng](https://dermnetnz.org/topics/mouth-ulcer) ([viêm miệng](https://dermnetnz.org/topics/stomatitis)).
+- Xét nghiệm máu có thể cho thấy tăng bạch cầu (tăng số lượng bạch cầu) hoặc giảm bạch cầu (giảm số lượng bạch cầu).
+- [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) hoặc [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) có thể ảnh hưởng đến một số hoặc tất cả các khu vực được điều trị, bao gồm cả da không bị tổn thương do ánh nắng mặt trời. Nguyên nhân có thể là do chính 5-FU, chất bảo quản (ví dụ [parabens](https://dermnetnz.org/topics/allergy-to-parabens)) hoặc tá dược trong kem (cồn stearyl, propylene glycol).
+- Nhiễm trùng thứ cấp ([nhiễm trùng](https://dermnetnz.org/topics/impetigo)) có thể xảy ra do vi khuẩn xâm nhập vào da bị xói mòn.
+
+Các biến chứng sau đây có thể xảy ra sau điều trị bằng kem fluorouracil:
+
+- Dấu trắng hoặc sẹo dai dẳng
+- [Ung thư da](https://dermnetnz.org/topics/skin-cancer) chưa được chẩn đoán; chúng có thể dường như lành với kem fluorouracil nhưng tái phát sau đó.
+
+### Phản ứng viêm quá mức với kem fluorouracil
+
+![](https://dermnetnz.org/assets/Uploads/treatments/fluorouracil3.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/treatments/fluorouracil4.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/treatments/5fu01.jpg)
+
+_Bảng dữ liệu được phê duyệt là nguồn thông tin chính thức cho các loại thuốc, bao gồm các công dụng được phê duyệt, liều lượng và thông tin an toàn. Kiểm tra bảng dữ liệu cá nhân trong quốc gia của bạn để biết thông tin về thuốc._
+
+_Chúng tôi đề nghị bạn tham khảo cơ quan phê duyệt thuốc quốc gia của bạn như [Cục Quản lý Hàng hóa Trị liệu Úc (TGA),](http://www.tga.gov.au/) [Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA)](http://www.fda.gov/), [Cơ quan quản lý sản phẩm y tế và chăm sóc sức khỏe Vương quốc Anh (MHRA)](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) / [emc](https://www.medicines.org.uk/emc/about-the-emc), và [Medsafe New Zealand,](https://www.medsafe.govt.nz/Medicines/infoSearch.asp) hoặc một dược điển quốc gia hoặc tiểu bang được phê duyệt ví dụ, [Dược điển New Zealand](http://www.nzf.org.nz/) (NZF) và [Dược điển New Zealand cho Trẻ em](http://www.nzfchildren.org.nz/) (NZFC) và [Dược điển Quốc gia Anh](http://bnf.nice.org.uk/) (BNF) và [Dược điển Quốc gia Anh cho Trẻ em](http://bnfc.nice.org.uk/) (BNFC)._
+
+### Tài liệu tham khảo
+
+- [Bảng dữ liệu cho kem fluorouracil](http://medsafe.govt.nz/profs/datasheet/e/Efudixcr.pdf) – Medsafe New Zealand
+- Tallon B, Turnbull N. 5% fluorouracil chemowraps trong quản lý dày sừng ánh sáng chân dưới rộng rãi và carcinoma tế bào vảy. Australas J Dermatol. 2013 Nov;54(4):313–6. doi: 10.1111/ajd.12055. Epub 2013 May 8. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23651243) PMID: 23651243.
+- Herranz P, Morton C, Dirschka T, Azeredo RR, Roldán-Marín R. Dung dịch bôi ngoài da 0,5% 5-Fluorouracil/10% Axit Salicylic liều thấp trong điều trị dày sừng ánh sáng. J Cutan Med Surg. 2016 Nov;20(6):555-561. Review. PubMed PMID: 27443886. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27443886).
+- [Actikerall™ (5-Fluorouracil 0.5% và Axit Salicylic 10%) Dung dịch bôi ngoài da cho điều trị dày sừng ánh sáng do bệnh nhân tự điều trị](http://www.skintherapyletter.com/2016/21.3/1.html)
+- Cunningham TJ, Tabacchi M, Eliane JP, Tuchayi SM, Manivasagam S, Mirzaalian H, Turkoz A, Kopan R, Schaffer A, Saavedra AP, Wallendorf M, Cornelius LA, Demehri S. Thử nghiệm ngẫu nhiên của calcipotriol kết hợp với 5-fluorouracil cho liệu pháp miễn dịch tiền ung thư da. J Clin Invest. 2017 Jan 3;127(1):106-116. doi: 10.1172/JCI89820. PubMed PMID: 27869649; PubMed Central PMCID: PMC5199703. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27869649).
+- Weinstock MA, Thwin SS, Siegel JA, et al. Phòng ngừa hóa học carcinoma tế bào đáy và tế bào vảy với một liệu trình kem fluorouracil 5%. JAMA Oncol. 2018 Jan 3. doi: 10.1001/jamadermatol.2017.3631 \[Epub ahead of print\]. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29299592).
+
+### Các trang web khác
+
+- [Thông tin thuốc cho người tiêu dùng và bảng dữ liệu](http://www.medsafe.govt.nz/) — Medsafe New Zealand
+- [Fluorouracil Topical](http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a605010.html) — Medline Plus
+- [Kem 5-Fluorouracil](https://www.bad.org.uk/pils/5-fluorouracil-cream/) — Hiệp hội Da liễu Anh
+- [Kem Fluorouracil](http://www.saferx.co.nz/Patient_info_fluorouracil.pdf) — SafeRx
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ hiểu_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

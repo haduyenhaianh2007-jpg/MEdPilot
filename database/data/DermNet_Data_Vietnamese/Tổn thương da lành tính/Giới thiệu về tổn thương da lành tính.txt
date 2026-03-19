@@ -1,0 +1,29 @@
+##### Thông tin thêm về tổn thương da lành tính phổ biến
+
+Từ đồng nghĩa:
+
+tổn thương da lành tính
+
+Danh mục:
+
+Tổn thương (lành tính)
+
+ICD-10:
+
+D17, D18.1, D22, D23, L82, L91.8
+
+ICD-11:
+
+2F23.0, 2F20.Z, 2F21.0, EJ20.1, 2E80.0Z, 2E80.00, 2F25, EK71.0
+
+SNOMED CT:
+
+734932003, 276728004, 397195004, 72100002, 201091002, 255187008, 427186000, 394726009, 247474003, 399956005
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics?category=Lesions%20(benign))**
+
+# **Tổn thương da lành tính phổ biến**
+
+Tác giả: Wafaa Binti Mowlabaccus, Sinh viên Y khoa, Khoa Y học, Đại học Mauritius, Reduit, Moka, Mauritius. Biên tập viên trưởng DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 7 năm 2020.
+
+[Giới thiệu](https://dermnetnz.org/topics/benign-skin-lesions#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/benign-skin-lesions#Demographics%3Cbr%20/%3E) [Đặc điểm](https://dermnetnz.org/topics/benign-skin-lesions#Features%3Cbr%20/%3E) [Tổn thương sắc tố phổ biến](https://dermnetnz.org/topics/benign-skin-lesions#Common%20melanocytic%20lesions%3Cbr%20/%3E) [Tổn thương keratin phổ biến](https://dermnetnz.org/topics/benign-skin-lesions#Common%20keratinocytic%20lesions%3Cbr%20/%3E) [Tổn thương có nguồn gốc mạch máu phổ biến](https://dermnetnz.org/topics/benign-skin-lesions#Common%20lesions%20of%20vascular%20origin%3Cbr%20/%3E) [Tổn thương sợi phổ biến](https://dermnetnz.org/topics/benign-skin-lesions#Common%20fibrous%20lesions%3Cbr%20/%3E) [Tổn thương dưới da phổ biến](https://dermnetnz.org/topics/benign-skin-lesions#Common%20subcutaneous%20lesions%3Cbr%20/%3E) [Thẻ da](https://dermnetnz.org/topics/benign-skin-lesions#Skin%20tags)

@@ -1,0 +1,222 @@
+##### Vảy nến móng tay — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Loạn dưỡng móng do vảy nến, Bệnh móng do vảy nến, Vảy nến móng
+
+Danh mục:
+
+Tự miễn/dị ứng viêm
+
+ICD-10:
+
+L40.9, L62
+
+ICD-11:
+
+EA90.51
+
+SNOMED CT:
+
+238604005, 238607003, 238605006, 238606007
+
+**[Tự miễn/dị ứng viêm](https://dermnetnz.org/topics?category=Autoimmune/autoinflammatory)**
+
+# **Vảy nến móng tay**
+
+Tác giả: Vanessa Ngan, Nhà văn, 2003; A/Prof Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, Tháng 2 năm 2016; Cập nhật DermNet Tháng 8 năm 2021. Biên tập bởi Gus Mitchell
+
+[Giới thiệu](https://dermnetnz.org/topics/nail-psoriasis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/nail-psoriasis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/nail-psoriasis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/nail-psoriasis#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/nail-psoriasis#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/nail-psoriasis#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/nail-psoriasis#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/nail-psoriasis#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/nail-psoriasis#Outcome)
+
+## Vảy nến móng tay là gì?
+
+Vảy nến móng tay, còn được gọi là loạn dưỡng móng do vảy nến, là do [vảy nến](https://dermnetnz.org/topics/psoriasis) liên quan đến ma trận móng hoặc giường móng, dẫn đến các thay đổi lâm sàng cụ thể và không cụ thể ở móng.
+
+![Vảy nến móng tay](https://dermnetnz.org/assets/Uploads/doctors/scaly-rashes/images/ps-nails2.jpg)
+
+Vảy nến móng tay
+
+![Vảy nến móng tay](https://dermnetnz.org/assets/Uploads/scaly/nail-psoriasis/3247.jpg)
+
+Vảy nến móng tay
+
+![Vảy nến móng tay](https://dermnetnz.org/assets/Uploads/scaly/nail-psoriasis/3260.jpg)
+
+Vảy nến móng tay
+
+## Ai bị vảy nến móng tay?
+
+Vảy nến móng tay ảnh hưởng đến 90% bệnh nhân bị [vảy nến mảng mãn tính](https://dermnetnz.org/topics/chronic-plaque-psoriasis) vào một thời điểm nào đó trong cuộc đời. Nó phổ biến hơn ở người lớn với tỷ lệ lên đến 80%, so với trẻ em trong đó đã được báo cáo từ 7–13%. Trong trường hợp không có bệnh da hoặc khớp, bệnh móng do vảy nến đã được mô tả ở 5–10% người lớn.
+
+Bệnh móng do vảy nến có thể là yếu tố nguy cơ phát triển [viêm khớp vảy nến](https://dermnetnz.org/topics/psoriatic-arthritis) và thường liên quan đến vảy nến da nghiêm trọng kéo dài.
+
+Vảy nến móng tay có thể ảnh hưởng đến tất cả các chủng tộc và nhóm tuổi, và cả hai giới, mặc dù một sự ưu thế nam giới đã được báo cáo trong một loạt trường hợp lớn.
+
+## Nguyên nhân gây ra vảy nến móng tay là gì?
+
+Vảy nến là một bệnh hệ thống đa yếu tố bao gồm viêm và tăng sinh biểu bì.
+
+Vảy nến móng tay có thể liên quan đến giường móng, ma trận móng, hyponychium và nếp gấp móng.
+
+Các lý thuyết bao gồm:
+
+- Kích hoạt peptide kháng khuẩn LL-37 bởi _Candida_ và lý thuyết tràn cytokine
+- Tăng biểu hiện của interleukin (IL)-10 trong giường móng bị ảnh hưởng so với giảm điều hòa IL-10 trong tổn thương da do vảy nến
+- Koebnerisation của vảy nến trong [onychomycosis](https://dermnetnz.org/topics/fungal-nail-infections) hoặc chấn thương móng.
+
+## Các đặc điểm lâm sàng của vảy nến móng tay là gì?
+
+Móng tay và móng chân có thể bị ảnh hưởng bởi vảy nến móng tay.
+
+Loạn dưỡng móng do vảy nến có thể gây đau nhức và đau, thay đổi cảm giác chạm tinh tế, và khó khăn trong việc nhặt hoặc thao tác các vật như dây giày hoặc nút áo.
+
+### Dấu hiệu lâm sàng của sự tham gia của ma trận móng
+
+- Lõm móng
+- [Leukonychia](https://dermnetnz.org/topics/white-nail)
+- Đốm đỏ trong lunule
+- Onychorrhexis (rãnh móng dọc, nứt hoặc nứt)
+- Đường Beau (đường ngang và rãnh)
+- Móng vụn
+
+### Dấu hiệu của sự tham gia của ma trận móng do vảy nến
+
+![Lõm móng và onychorrhexis](https://dermnetnz.org/assets/Uploads/psoriasis-03.jpg)
+
+Lõm móng và onychorrhexis
+
+![Leukonychia và đường Beau](https://dermnetnz.org/assets/Uploads/scaly/nail-psoriasis/3248.jpg)
+
+Leukonychia và đường Beau
+
+![Móng vụn](https://dermnetnz.org/assets/Uploads/scaly/nail-psoriasis/3218.jpg)
+
+Móng vụn
+
+### Dấu hiệu lâm sàng của sự tham gia của giường móng
+
+- Dấu hiệu giọt dầu và mảng cá hồi
+- [Onycholysis](https://dermnetnz.org/topics/onycholysis) — thường có vùng hồng ở phía gần
+- Subungualhyperkeratosis
+- [Xuất huyết dạng mảnh](https://dermnetnz.org/topics/splinter-haemorrhage) dưới phần ba xa của tấm móng
+
+### Dấu hiệu của sự tham gia của giường móng do vảy nến
+
+![Onycholysis và mảng cá hồi](https://dermnetnz.org/assets/Uploads/nail-psoriasis.jpg)
+
+Onycholysis và mảng cá hồi
+
+![Subungual hyperkeratosis](https://dermnetnz.org/assets/Uploads/scaly/nail-psoriasis/3261.jpg)
+
+Subungual hyperkeratosis
+
+![Xuất huyết dạng mảnh](https://dermnetnz.org/assets/Uploads/scaly/nail-psoriasis/3229.jpg)
+
+Xuất huyết dạng mảnh
+
+### Các dấu hiệu lâm sàng khác của móng do vảy nến
+
+- [Paronychia](https://dermnetnz.org/topics/paronychia) do vảy nến quanh móng
+- [Acrodermatitis continua của Hallopeau](https://dermnetnz.org/topics/acrodermatitis-continua-of-hallopeau)
+- [Loạn dưỡng móng hai mươi](https://dermnetnz.org/topics/trachyonychia)
+
+### Loạn dưỡng móng do vảy nến
+
+![Onycholysis và đốm đỏ trong lunule](https://dermnetnz.org/assets/Uploads/scaly/nail-psoriasis/3266.jpg)
+
+Onycholysis và đốm đỏ trong lunule
+
+![Vảy nến quanh móng và paronychia](https://dermnetnz.org/assets/Uploads/scaly/nail-psoriasis/3258.jpg)
+
+Vảy nến quanh móng và paronychia
+
+![Trachyonychia](https://dermnetnz.org/assets/Uploads/scaly/nail-psoriasis/3239.jpg)
+
+Trachyonychia
+
+\[xem thêm [Hình ảnh vảy nến móng tay](https://dermnetnz.org/topics/nail-psoriasis-images)\]
+
+## Các biến chứng của vảy nến móng tay là gì?
+
+- Onychomycosis thứ cấp trong tấm móng bị hư hỏng
+- [Tác động tâm lý xã hội](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) ảnh hưởng đến mối quan hệ xã hội và các hoạt động liên quan đến công việc
+- Liên quan đến viêm khớp vảy nến và hội chứng chuyển hóa
+
+## Vảy nến móng tay được chẩn đoán như thế nào?
+
+Vảy nến móng tay thường được chẩn đoán lâm sàng ở bệnh nhân bị viêm khớp vảy nến và/hoặc vảy nến da.
+
+Mức độ nghiêm trọng của vảy nến móng tay có thể được ước tính bằng Chỉ số Mức độ Nghiêm trọng Vảy nến Móng (NAPSI) trong đó mỗi móng được chia thành các phần tư và được chấm điểm cho các dấu hiệu lâm sàng để đưa ra một điểm số số.
+
+Cắt móng để [soi và nuôi cấy nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) nên được thực hiện vì onychomycosis có thể xảy ra trước hoặc làm phức tạp loạn dưỡng móng do vảy nến, và các thuốc ức chế miễn dịch có thể được sử dụng trong điều trị.
+
+Một [sinh thiết ma trận móng](https://dermnetnz.org/topics/nail-matrix-biopsy) gần đôi khi cần thiết để xác nhận chẩn đoán vảy nến móng tay, đặc biệt là khi không có dấu hiệu vảy nến ở nơi khác hoặc khi chỉ có một móng bị ảnh hưởng và không thể loại trừ khối u bằng các phương tiện khác. Sinh thiết có thể dẫn đến biến dạng móng vĩnh viễn.
+
+## Chẩn đoán phân biệt cho vảy nến móng tay là gì?
+
+- Onychomycosis
+- Chấn thương móng
+- [Lichen planus](https://dermnetnz.org/topics/lichen-planus) của móng
+- [Parakeratosis pustulosa](https://dermnetnz.org/topics/parakeratosis-pustulosa)
+
+## Điều trị vảy nến móng tay là gì?
+
+### Biện pháp chung
+
+- Giảm thiểu chấn thương móng, giữ móng bị ảnh hưởng ngắn
+- Điều trị onychomycosis liên quan trước tiên trong ít nhất ba tháng
+
+### Biện pháp cụ thể
+
+- Điều trị tại chỗ
+
+  - [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) — betamethasone dipropionate, clobetasol propionate
+  - [Calcipotriol tại chỗ](https://dermnetnz.org/topics/calcipotriol)
+  - [Chất ức chế calcineurin tại chỗ](https://dermnetnz.org/topics/calcineurin-inhibitors)
+- Điều trị hệ thống
+  - [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+  - [Acitretin](https://dermnetnz.org/topics/acitretin)
+  - [Các tác nhân sinh học cho vảy nến](https://dermnetnz.org/topics/biological-agents-for-psoriasis) — [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis), [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis), [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis), [ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis)
+  - Các phân tử nhỏ mới — [apremilast](https://dermnetnz.org/topics/apremilast), [tofacitinib](https://dermnetnz.org/topics/tofacitinib) \[xem [Chất ức chế Janus kinase](https://dermnetnz.org/topics/janus-kinase-inhibitors)\]
+- Điều trị không dùng thuốc
+  - [Quang trị liệu](https://dermnetnz.org/topics/phototherapy)
+  - [Laser](https://dermnetnz.org/topics/lasers-in-dermatology)
+  - [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+
+## Kết quả cho vảy nến móng tay là gì?
+
+Vảy nến móng tay có phản ứng biến đổi với điều trị. Phản ứng có thể nhìn thấy có thể mất vài tuần hoặc vài tháng do sự phát triển chậm của tấm móng, và tái phát là phổ biến.
+
+Bệnh móng do vảy nến có thể dao động về mức độ nghiêm trọng theo thời gian và có thể tự khỏi.
+
+### Thư mục
+
+- Alves NCPOP, Moreira TA, Malvino LDS, et al. Onychomycosis ở bệnh nhân vảy nến với rối loạn móng: tác nhân gây bệnh và liệu pháp ức chế miễn dịch. Dermatol Res Pract. 2020;2020:7209518. doi:10.1155/2020/7209518. [Tạp chí](https://www.hindawi.com/journals/drp/2020/7209518/)
+- Manhart R, Rich P. Vảy nến móng tay. Clin Exp Rheumatol. 2015;33(5 Suppl 93):S7–13. [Tạp chí](https://www.clinexprheumatol.org/abstract.asp?a=9898)
+- Pasch MC. Vảy nến móng tay: một đánh giá về các lựa chọn điều trị. Drugs. 2016;76(6):675–705. doi:10.1007/s40265-016-0564-5. [Tạp chí](https://link.springer.com/article/10.1007/s40265-016-0564-5)
+- Schons KR, Knob CF, Murussi N, Beber AA, Neumaier W, Monticielo OA. Vảy nến móng tay: một đánh giá về tài liệu. An Bras Dermatol. 2014;89(2):312–17. doi:10.1590/abd1806-4841.20142633. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4008063/)
+- Ventura A, Mazzeo M, Gaziano R, Galluzzo M, Bianchi L, Campione E. Cái nhìn mới về cơ chế bệnh sinh của vảy nến móng tay và tổng quan về chiến lược điều trị. Drug Des Devel Ther. 2017;11:2527–35. doi:10.2147/DDDT.S136986. [Tạp chí](https://www.dovepress.com/getfile.php?fileID=38183)
+
+### Trên DermNet
+
+- [Hình ảnh rối loạn móng](https://dermnetnz.org/topics/nail-disorder-images)
+- [Thuật ngữ móng](https://dermnetnz.org/topics/nail-terminology)
+- [Vảy nến](https://dermnetnz.org/topics/psoriasis)
+- [Dấu hiệu da của bệnh thấp khớp](https://dermnetnz.org/topics/skin-signs-of-rheumatic-disease)
+
+### Các trang web khác
+
+- [Điều hướng Vảy nến](https://www.youtube.com/watch?v=DjiQQUz1jCw&t=1s) — Bài giảng điện tử DermNet \[Youtube\]
+- [MyPsoriasis.co.nz](https://mypsoriasis.co.nz/) — Thông tin cho bệnh nhân New Zealand với vảy nến và viêm khớp vảy nến
+- [Vảy nến móng tay](https://emedicine.medscape.com/article/1107949-overview) — Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

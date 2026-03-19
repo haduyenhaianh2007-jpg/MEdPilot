@@ -1,0 +1,23 @@
+## Nguyên nhân gây suy tĩnh mạch?
+
+Hệ thống tĩnh mạch ở chân dưới bao gồm một mạng lưới nông áp suất thấp được kết nối bởi các tĩnh mạch xuyên với một mạng lưới sâu áp suất cao. Máu tĩnh mạch chảy từ tĩnh mạch nông đến tĩnh mạch sâu nhờ hoạt động của bơm cơ bắp chân. Dòng chảy ngược được ngăn chặn bởi các van hoạt động tốt.
+
+Suy tĩnh mạch mãn tính có thể do:
+
+- Yếu tố tĩnh mạch
+  - Van không hoạt động tốt trong hệ thống nông, xuyên và sâu
+  - Sự nén ép bên ngoài của tĩnh mạch
+  - Tắc nghẽn tĩnh mạch sâu
+  - Huyết khối tĩnh mạch sâu trước đó
+- Suy giảm bơm cơ bắp chân
+  - Bất động bao gồm thiếu tập thể dục và liệt
+  - Bệnh khớp đặc biệt là ở mắt cá chân
+  - [Béo phì](https://dermnetnz.org/topics/obesity-and-the-skin)
+  - Đứng hoặc ngồi lâu
+  - Chấn thương chân trước đó.
+
+Khi tăng huyết áp tĩnh mạch được thiết lập, các đặc điểm trên da của suy tĩnh mạch mãn tính được gây ra bởi:
+
+- Bạch cầu bị mắc kẹt trong mao mạch giải phóng enzyme phân giải protein và các gốc tự do oxy gây tổn thương màng đáy mao mạch
+- Protein huyết tương, như fibrinogen, rò rỉ vào các mô xung quanh, hình thành một vòng fibrin làm giảm cung cấp oxy cho các mô
+- Viêm và mất mô.

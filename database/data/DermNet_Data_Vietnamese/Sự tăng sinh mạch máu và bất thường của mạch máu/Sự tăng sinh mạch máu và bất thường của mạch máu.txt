@@ -1,0 +1,155 @@
+##### Tăng sinh mạch máu và bất thường của mạch máu — thông tin bổ sung
+
+Danh mục:
+
+Vấn đề về mạch máu
+
+ICD-10:
+
+Q82.5, I78.1, D18.0, D18.1, D46.0, C44.9
+
+ICD-11:
+
+LC52, 2E81.0Z, EF20.3, LC50.Y, 1C11.Y, 2E81.0Y, 2E81.2Y, EF20.Z, EF20.4, LA90.00, 2A21.1Y, 2B57.1, 2B56.1
+
+SNOMED CT:
+
+14350002, 399982001, 27550009, 11263005, 400132000, 69390003, 254206003, 93471006, 271481007, 1126411009, 402652009
+
+**[Vấn đề về mạch máu](https://dermnetnz.org/topics?category=Blood%20vessel%20problems)**
+
+# **Tăng sinh mạch máu và bất thường của mạch máu**
+
+Tác giả: A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, Tháng 2 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels#Introduction%3Cbr%20/%3E) [Nốt ruồi mạch máu](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels#Vascular%20naevus%3Cbr%20/%3E) [U mạch máu](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels#Angioma%3Cbr%20/%3E) [Giãn mao mạch](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels#Telangiectasia%3Cbr%20/%3E) [U mạch máu ác tính](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels#Malignant%20vascular%20tumours)
+
+## Giới thiệu
+
+Thuật ngữ về các tình trạng mạch máu có thể gây nhầm lẫn, với một số tổn thương bị đặt tên hoặc phân loại sai. Các tổn thương da mạch máu bao gồm:
+
+- [Nốt ruồi mạch máu](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels#vn)
+- [U mạch máu](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels#a)
+- [Giãn mao mạch](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels#t)
+- [U mạch máu ác tính](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels#m)
+
+Một bác sĩ da liễu nhi khoa, bác sĩ nhi khoa, chuyên gia mạch máu hoặc phẫu thuật viên nên đánh giá các dị dạng mao mạch hoặc u máu ở trẻ sơ sinh đáng kể, đặc biệt khi lớn, có triệu chứng (đặc biệt khi loét), nằm trên đầu và cổ hoặc gần mắt, mũi hoặc miệng.
+
+## Nốt ruồi mạch máu
+
+Nốt ruồi mạch máu hoặc dị dạng có mặt từ khi sinh hoặc xuất hiện trong thời thơ ấu. Chúng được phân loại theo kích thước và loại mạch máu. Chúng có thể ổn định hoặc trở nên nổi bật hơn khi trưởng thành. Có nhiều hội chứng liên quan khác nhau.
+
+- [Dị dạng mao mạch](https://dermnetnz.org/topics/capillary-vascular-malformation) – [dấu vết cá hồi](https://dermnetnz.org/topics/capillary-vascular-malformation) và vết rượu vang.
+- [Dị dạng mao mạch-macrocephaly](https://dermnetnz.org/topics/megalencephaly-capillary-malformation-polymicrogyria)
+- [Dị dạng tĩnh mạch](https://dermnetnz.org/topics/venous-malformation) – [dị dạng glomuvenous](https://dermnetnz.org/topics/glomuvenous-malformation), dị dạng động-tĩnh mạch, hội chứng cao su xanh (liên quan đến tổn thương tiêu hóa).
+- Dị dạng động-tĩnh mạch: có nguồn gốc từ mạch máu hỗn hợp
+- [Dị dạng bạch huyết](https://dermnetnz.org/topics/lymphatic-malformation): lymphangioma circumscriptum, lymphangioma hang
+- [U mạch máu serpiginosa](https://dermnetnz.org/topics/angioma-serpiginosum): một nhóm các nốt mạch máu xoáy
+- [Nốt ruồi thiếu máu](https://dermnetnz.org/topics/naevus-anaemicus) – trong nốt ruồi này, dòng máu bị gián đoạn dẫn đến các vùng nhạt màu.
+
+![Dị dạng mao mạch](https://dermnetnz.org/assets/Uploads/vascular/w/vascular-lesions-01.jpg)
+
+Dị dạng mao mạch
+
+![Dị dạng bạch huyết](https://dermnetnz.org/assets/Uploads/vascular/vascular-lesions-12.jpg)
+
+Dị dạng bạch huyết
+
+![Nốt ruồi thiếu máu](https://dermnetnz.org/assets/Uploads/vascular/w/vascular-lesions-08.jpg)
+
+Nốt ruồi thiếu máu
+
+## U mạch máu
+
+U mạch máu hoặc u máu là một khối u lành tính được hình thành do sự giãn nở của mạch máu hoặc sự hình thành mới của chúng do sự tăng sinh của tế bào nội mô.
+
+- [U máu trẻ sơ sinh](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis) (nông, sâu, hoặc hỗn hợp): phát triển trong vài tuần đầu đời, sau đó thoái triển sau này trong thời thơ ấu. Đôi khi chúng có tính hội chứng, như trong hội chứng [PHACE](https://dermnetnz.org/topics/phace-syndrome), [LUMBAR và PELVIS](https://dermnetnz.org/topics/pelvis-and-lumbar-syndromes).
+- U máu glomeruloid là một dạng u máu bùng phát thường được chẩn đoán trong hội chứng [POEMS](https://dermnetnz.org/topics/poems-syndrome)
+- U máu bẩm sinh có kích thước đầy đủ khi sinh và có thể thoái triển nhanh chóng (RICH) hoặc tồn tại (NICH)
+- U máu nội mô dạng Kaposi là một u máu hiếm gặp và hung hãn gây ra bẫy tiểu cầu — hiện tượng [Kasabach-Merritt](https://dermnetnz.org/topics/kasabach-merritt-syndrome).
+- U mạch máu dạng búi: khối u hiếm gặp ở trẻ em với đặc điểm mô học đặc trưng.
+- [U mạch máu cherry](https://dermnetnz.org/topics/cherry-angioma): tổn thương thoái hóa phổ biến ở người lớn, thường nhiều
+- [U mạch máu sừng hóa](https://dermnetnz.org/topics/angiokeratoma): u mạch máu có vảy mắc phải, thường ở âm hộ hoặc bìu, hoặc liên quan đến bệnh [Fabry](https://dermnetnz.org/topics/fabry-disease)
+- [U glomus](https://dermnetnz.org/topics/glomus-tumour): nốt đau trên giường móng hoặc lòng bàn tay xuất hiện ở người trưởng thành trẻ đến trung niên
+- [U hạt sinh mủ](https://dermnetnz.org/topics/pyogenic-granuloma) xảy ra ở trẻ em và người lớn trẻ trên da và niêm mạc, thường nhất là môi dưới, ngón tay và ngón chân. Nó có thể phát triển để đáp ứng với chấn thương nhỏ, trong thai kỳ, hoặc khi dùng một số loại thuốc. Nó phát triển nhanh chóng và có thể trở thành có cuống hoặc dạng polyp và được bao quanh bởi một vòng da bình thường. Nó chảy máu và đóng vảy.
+
+Bệnh u mạch máu do vi khuẩn là một nhiễm trùng vi khuẩn cơ hội hiếm gặp do _Bartonella henselae_.
+
+![U máu trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/vascular/w/vascular-lesions-05.jpg)
+
+U máu trẻ sơ sinh
+
+![U mạch máu cherry](https://dermnetnz.org/assets/Uploads/vascular/vascular-lesions-11.jpg)
+
+U mạch máu cherry
+
+![Hồ tĩnh mạch](https://dermnetnz.org/assets/Uploads/vascular/w/vascular-lesions-04.jpg)
+
+Hồ tĩnh mạch
+
+## Giãn mao mạch
+
+Các mạch máu da nổi bật có thể là sinh lý hoặc bệnh lý.
+
+- Mạch máu nuôi dưỡng một khối u như [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- Một dấu hiệu phổ biến của [rosacea](https://dermnetnz.org/topics/rosacea)
+- Một đặc điểm chẩn đoán của biến thể CRST của [xơ cứng bì hệ thống](https://dermnetnz.org/topics/systemic-sclerosis)
+
+Có một số tình trạng được đặt tên trong đó giãn mao mạch là đặc trưng.
+
+- Giãn mao mạch bùng phát dạng đốm, một dạng của [bệnh mastocytosis](https://dermnetnz.org/topics/mastocytosis)
+- [Giãn mao mạch nhện](https://dermnetnz.org/topics/cherry-angioma) bao gồm động mạch trung tâm và mao mạch tỏa ra. Rất phổ biến ở người khỏe mạnh, nhưng nhiều hơn khi đáp ứng với estrogen, thường trong thai kỳ, bệnh gan.
+- [Hồ tĩnh mạch](https://dermnetnz.org/topics/venous-lake): nốt xanh hoặc tím có thể nén được do giãn tĩnh mạch, thường ở môi dưới hoặc tai.
+- Giãn mao mạch mắc phải một bên: giãn mao mạch với phân bố dạng nốt ruồi.
+- [Giãn mao mạch thiết yếu](https://dermnetnz.org/topics/generalised-essential-telangiectasia): giãn mao mạch và giãn tĩnh mạch không rõ nguyên nhân.
+- [Giãn mao mạch di truyền lành tính](https://dermnetnz.org/topics/hereditary-benign-telangiectasia): một tình trạng gia đình trong đó giãn mao mạch dạng mảng xuất hiện
+- [Giãn mao mạch xuất huyết di truyền](https://dermnetnz.org/topics/hereditary-haemorrhagic-telangiectasia): giãn mao mạch trên da và niêm mạc liên quan đến chảy máu từ mũi và ruột gây thiếu máu.
+- [U mạch máu da lan tỏa của vú](https://dermnetnz.org/topics/diffuse-dermal-angiomatosis-of-the-breast): loét đau và giãn mao mạch của vú chảy xệ
+- [Giãn bạch huyết mắc phải:](https://dermnetnz.org/topics/acquired-lymphangiectasia) hình dạng "trứng ếch" xuất hiện sau khi tắc nghẽn bạch huyết ví dụ như khối u hoặc phẫu thuật.
+
+![Giãn mao mạch nhện](https://dermnetnz.org/assets/Uploads/vascular/vascular-lesions-09.jpg)
+
+Giãn mao mạch nhện
+
+![Giãn mao mạch thiết yếu](https://dermnetnz.org/assets/Uploads/vascular/w/vascular-lesions-07.jpg)
+
+Giãn mao mạch thiết yếu
+
+![Giãn mao mạch xuất huyết di truyền](https://dermnetnz.org/assets/Uploads/vascular/vascular-lesions-10.jpg)
+
+Giãn mao mạch xuất huyết di truyền
+
+## U mạch máu ác tính
+
+- [Sarcoma Kaposi](https://dermnetnz.org/topics/kaposi-sarcoma): bốn loại được công nhận do virus Herpes người 8 (HHV8). Nhiều đốm, nốt và mảng tím trên da và niêm mạc phát triển.
+- [Angiosarcoma](https://dermnetnz.org/topics/angiosarcoma): không rõ nguyên nhân hoặc thứ phát do phù bạch huyết mãn tính hoặc bức xạ. Thường hung hãn, nó chủ yếu xuất hiện ở người già với các mảng và mảng tím lan rộng có thể chảy máu và loét.
+- [Lymphoma tế bào B trong mạch](https://dermnetnz.org/topics/intravascular-lymphoma) xuất hiện với giãn mao mạch không đều nhanh chóng.
+
+![Sarcoma Kaposi](https://dermnetnz.org/assets/Uploads/vascular/w/vascular-lesions-02.jpg)
+
+Sarcoma Kaposi
+
+![Angiosarcoma](https://dermnetnz.org/assets/Uploads/vascular/w/vascular-lesions-03.jpg)
+
+Angiosarcoma
+
+![Lymphoma trong mạch](https://dermnetnz.org/assets/Uploads/intravascular-lymphoma-01.jpg)
+
+Lymphoma trong mạch
+
+### Trên DermNet
+
+- [Vấn đề về da mạch máu](https://dermnetnz.org/topics/vascular-skin-problems)
+- [U máu trẻ sơ sinh: Định nghĩa và sinh bệnh học](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis)
+- [U máu trẻ sơ sinh: Biến chứng và điều trị](https://dermnetnz.org/topics/infantile-haemangioma-complications-and-treatment)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ Dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

@@ -1,0 +1,11 @@
+## Giai đoạn ung thư hắc tố
+
+Giai đoạn ung thư hắc tố có nghĩa là xác định xem ung thư hắc tố đã lan từ vị trí ban đầu trên da hay chưa. Hầu hết các chuyên gia về ung thư hắc tố tham khảo hướng dẫn phân giai đoạn ung thư hắc tố da của Ủy ban Liên hợp về Ung thư Hoa Kỳ (AJCC) (2009). Về cơ bản, các giai đoạn bao gồm:
+
+| Giai đoạn | Đặc điểm |
+| --- | --- |
+| Giai đoạn 0 | Ung thư hắc tố tại chỗ bao gồm lentigo maligna |
+| Giai đoạn 1 | Ung thư hắc tố mỏng dày 2 mm |
+| Giai đoạn 2 | Ung thư hắc tố dày > 2 mm |
+| Giai đoạn 3 | Ung thư hắc tố lan đến các hạch bạch huyết gần đó |
+| Giai đoạn 4 | Di căn xa đã được phát hiện |

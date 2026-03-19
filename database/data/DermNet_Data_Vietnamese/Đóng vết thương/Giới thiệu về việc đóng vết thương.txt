@@ -1,0 +1,21 @@
+##### Đóng vết thương phẫu thuật — thông tin bổ sung
+
+Danh mục:
+
+Điều trị
+
+ICD-11:
+
+ELB8, PK9B.
+
+SNOMED CT:
+
+746011009, 427546003, 405042003, 261232006, 80335005, 698983008, 304103008, 304088000, 304099003, 303249004, 265675003, 783539008, 782830007
+
+**[Điều trị](https://dermnetnz.org/topics?category=Treatments)**
+
+# **Đóng vết thương phẫu thuật**
+
+Tác giả: Bác sĩ Tom Middelburg MD PhD, Chuyên gia Da liễu, Hội đồng Y tế Quận Canterbury, New Zealand, Tháng Một (2017)
+
+[Mục tiêu](https://dermnetnz.org/topics/wound-closure#Aims%3Cbr%20/%3E) [Đóng chính](https://dermnetnz.org/topics/wound-closure#Primary%20closure%3Cbr%20/%3E) [Vạt da](https://dermnetnz.org/topics/wound-closure#Skin%20flap%3Cbr%20/%3E) [Ghép da](https://dermnetnz.org/topics/wound-closure#Skin%20graft)

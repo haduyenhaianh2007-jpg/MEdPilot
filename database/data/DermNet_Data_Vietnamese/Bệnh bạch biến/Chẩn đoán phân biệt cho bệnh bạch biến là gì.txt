@@ -1,0 +1,32 @@
+## Chẩn đoán phân biệt cho bệnh bạch biến là gì?
+
+### Đối với tổn thương bạch biến khu trú
+
+- [Nốt ruồi quầng sáng](https://dermnetnz.org/topics/halo-naevus)
+- [Nốt ruồi thiếu máu](https://dermnetnz.org/topics/naevus-anaemicus)
+- [Nốt ruồi mất sắc tố](https://dermnetnz.org/topics/achromic-naevus).
+
+### Đối với bạch biến toàn thân
+
+#### Giảm sắc tố di truyền
+
+- [Bệnh bạch tạng từng phần](https://dermnetnz.org/topics/piebaldism).
+- [Hội chứng Waardenburg](https://dermnetnz.org/topics/waardenburg-syndrome).
+- [Xơ cứng củ](https://dermnetnz.org/topics/tuberous-sclerosis).
+- [Giảm sắc tố của Ito](https://dermnetnz.org/topics/hypomelanosis-of-ito) (khảm sắc tố).
+
+#### Giảm sắc tố thứ phát
+
+- Nhiễm trùng: [lang ben](https://dermnetnz.org/topics/pityriasis-versicolor), [phong (thể củ/thể phong)](https://dermnetnz.org/topics/leprosy), [giang mai thứ phát](https://dermnetnz.org/topics/syphilis), [bệnh treponematosis](https://dermnetnz.org/topics/yaws) và [bệnh giun chỉ](https://dermnetnz.org/topics/onchocerciasis) (giai đoạn muộn).
+- Sau viêm: [lichen xơ hóa và teo](https://dermnetnz.org/topics/lichen-sclerosus), [morphoea](https://dermnetnz.org/topics/morphoea)/ [xơ cứng bì](https://dermnetnz.org/topics/scleroderma), [lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus), [vảy nến](https://dermnetnz.org/topics/psoriasis), và [sau bỏng](https://dermnetnz.org/topics/thermal-burn).
+- Cận ung thư: lymphoma da ( [mycosis fungoides](https://dermnetnz.org/topics/mycosis-fungoides)), [melanoma da](https://dermnetnz.org/topics/melanoma) (phản ứng tự miễn cục bộ/ xa)
+- Do thuốc/ độc tố:
+
+  - _Toàn thân_: [imatinib](https://dermnetnz.org/topics/imatinib), [chloroquine](https://dermnetnz.org/topics/chloroquine), fluphenazine, physostigmine, [liệu pháp miễn dịch nhắm mục tiêu melanoma](https://dermnetnz.org/topics/immunotherapy-for-melanoma).
+  - _Tại chỗ_: [imiquimod](https://dermnetnz.org/topics/imiquimod), [corticosteroid](https://dermnetnz.org/topics/topical-steroid).
+  - _Tiếp xúc nghề nghiệp_: hợp chất phenolic; chủ yếu trên da tiếp xúc (tay, mặt).
+
+#### Vô căn
+
+- [Giảm sắc tố dạng đốm tiến triển](https://dermnetnz.org/topics/progressive-macular-hypomelanosis).
+- [Giảm sắc tố dạng giọt vô căn](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis).

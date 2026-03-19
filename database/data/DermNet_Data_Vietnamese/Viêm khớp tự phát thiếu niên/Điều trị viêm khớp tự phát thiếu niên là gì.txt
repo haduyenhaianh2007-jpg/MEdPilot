@@ -1,0 +1,13 @@
+## Điều trị viêm khớp tự phát thiếu niên là gì?
+
+Điều trị viêm khớp tự phát thiếu niên hệ thống nhằm quản lý triệu chứng, cải thiện hoặc quản lý chức năng khớp, và giảm thiểu biến chứng. [Thuốc chống viêm không steroid (NSAIDs)](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) thường là lựa chọn đầu tiên cho các biểu hiện nhẹ ở khớp hoặc ngoài khớp để kiểm soát đau. Các tác nhân dược lý khác bao gồm:
+
+- [Corticosteroid uống](https://dermnetnz.org/topics/systemic-steroids) cho bệnh từ trung bình đến nặng.
+- [Corticosteroid tiêm tĩnh mạch](https://dermnetnz.org/topics/systemic-steroids) — có thể cần thiết cho bệnh nhân có đợt bùng phát nặng hoặc biến chứng, như hội chứng hoạt hóa đại thực bào (MAS).
+- Thuốc chống thấp khớp điều chỉnh bệnh (DMARDs), như [methotrexate](https://dermnetnz.org/topics/methotrexate), [ciclosporin](https://dermnetnz.org/topics/ciclosporin), và [leflunomide](https://dermnetnz.org/topics/leflunomide).
+
+Các thuốc chặn cytokine viêm, như TNF-α, IL-6, và IL-1, đã chứng minh hiệu quả, đặc biệt trong viêm khớp tự phát thiếu niên kéo dài. Bao gồm:
+
+- [Anakinra](https://dermnetnz.org/topics/anakinra) — một chất đối kháng thụ thể IL-1
+- Canakinumab — một kháng thể đơn dòng nhân hóa nhắm vào IL-1
+- Tocilizumab — kháng thể đơn dòng nhân hóa này chặn IL-6 \[2–4\].

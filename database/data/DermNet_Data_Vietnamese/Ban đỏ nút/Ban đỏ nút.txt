@@ -1,0 +1,203 @@
+##### Ban đỏ nút — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+EN
+
+Danh mục:
+
+Bệnh hệ thống, Phát ban
+
+ICD-10:
+
+L52
+
+ICD-11:
+
+EB31, 4B20.5,
+
+SNOMED CT:
+
+3286100569688007, 240360007, 961007, 74610006, 297940005, 238675007, 402969008
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics?category=Systemic%20diseases) [Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Ban đỏ nút**
+
+Bài viết gốc (1997) được cập nhật bởi: Ardalan Akbari, Sinh viên Y khoa, Khoa Y, Đại học British Columbia, Vancouver, Canada. Biên tập viên trưởng DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Tháng 10 năm 2019.
+
+[Giới thiệu](https://dermnetnz.org/topics/erythema-nodosum#Introduction%3Cbr%20/%3E) [Dân số học](https://dermnetnz.org/topics/erythema-nodosum#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/erythema-nodosum#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/erythema-nodosum#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/erythema-nodosum#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/erythema-nodosum#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/erythema-nodosum#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/erythema-nodosum#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/erythema-nodosum#Outcome)
+
+## Ban đỏ nút là gì?
+
+Ban đỏ nút là một loại [viêm mô mỡ dưới da](https://dermnetnz.org/topics/panniculitis), một rối loạn viêm ảnh hưởng đến mỡ dưới da. Nó xuất hiện dưới dạng các nốt đỏ đau ở phía trước cẳng chân. Ít phổ biến hơn, chúng ảnh hưởng đến đùi và cẳng tay \[1–3\].
+
+![Ban đỏ nút](https://dermnetnz.org/assets/Uploads/vascular/en1.jpg)
+
+Ban đỏ nút
+
+![Ban đỏ nút](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/en2.jpg)
+
+Ban đỏ nút
+
+![Ban đỏ nút](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/pannic3.jpg)
+
+Ban đỏ nút
+
+[Xem thêm hình ảnh về ban đỏ nút](https://dermnetnz.org/topics/erythema-nodosum-images).
+
+## Ai có thể bị ban đỏ nút?
+
+Ban đỏ nút có thể xảy ra ở mọi dân tộc, giới tính và độ tuổi, nhưng phổ biến nhất ở phụ nữ từ 25 đến 40 tuổi \[4\]. Nó phổ biến hơn ở phụ nữ từ 3–6 lần so với nam giới, ngoại trừ trước [tuổi dậy thì](https://dermnetnz.org/topics/skin-changes-at-puberty) khi tỷ lệ mắc bệnh là như nhau ở cả hai giới \[5\].
+
+## Nguyên nhân của ban đỏ nút là gì?
+
+Ban đỏ nút là một phản ứng quá mẫn không rõ nguyên nhân ở tới 55% bệnh nhân \[6\]. Trong các trường hợp khác, nó liên quan đến một nhiễm trùng, thuốc, tình trạng viêm hoặc ác tính đã được xác định \[7\].
+
+- Nhiễm trùng họng (bệnh [liên cầu khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) hoặc nhiễm virus)
+- [Lao](https://dermnetnz.org/topics/cutaneous-tuberculosis) nguyên phát ( [TB](https://dermnetnz.org/bacterial/tuberculosis.html)), một nguyên nhân hiếm gặp ở New Zealand
+- Nhiễm Yersinia; gây tiêu chảy và đau bụng
+- Nhiễm _[Chlamydia](https://dermnetnz.org/topics/genitourinary-chlamydia)_
+- Nhiễm nấm: [histoplasmosis](https://dermnetnz.org/topics/histoplasmosis), [coccidioidomycosis](https://dermnetnz.org/topics/coccidioidomycosis)
+- Nhiễm ký sinh trùng: [amoebiasis](https://dermnetnz.org/topics/amoebiasis), giardiasis
+
+Các bệnh virus và [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) khác liên quan đến ban đỏ nút bao gồm [herpes simplex](https://dermnetnz.org/cme/viral-infections/herpes-simplex), [viêm gan virus](https://dermnetnz.org/topics/viral-hepatitis), [virus gây suy giảm miễn dịch ở người](https://dermnetnz.org/cme/viral-infections/cutaneous-manifestations-of-human-immunodeficiency-virus) ( [HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)) nhiễm trùng, nhiễm _Campylobacter_, và nhiễm _Salmonella_.
+
+### Thuốc (3–10%)
+
+- [Sulfonamide](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin)
+- Amoxicillin
+- [Thuốc tránh thai đường uống](https://dermnetnz.org/topics/oral-contraceptive)
+- [Thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects)
+- Bromide
+- [Salicylate](https://dermnetnz.org/allergy-to-salicylate)
+- [Iodide](https://dermnetnz.org/topics/potassium-iodide)
+- Muối [vàng](https://dermnetnz.org/topics/gold)
+
+### Viêm
+
+- [Bệnh viêm ruột](https://dermnetnz.org/topics/cutaneous-manifestations-of-inflammatory-bowel-disease) (viêm loét đại tràng hoặc bệnh Crohn)
+- [Sarcoidosis](https://dermnetnz.org/topics/sarcoidosis) (11–25%); X-quang cho thấy hạch bạch huyết hai bên trong [hội chứng Löfgren](https://dermnetnz.org/topics/loefgren-syndrome)
+- Ác tính
+- [Lymphoma](https://dermnetnz.org/topics/hodgkin-lymphoma)
+- Bệnh bạch cầu
+- [Bệnh Behçet](https://dermnetnz.org/topics/behcet-disease)
+
+### Khác
+
+- [Mang thai](https://dermnetnz.org/topics/skin-changes-in-pregnancy) (2-5%)
+
+## Đặc điểm lâm sàng của ban đỏ nút là gì?
+
+Ban đỏ nút xuất hiện với các nốt dưới da đỏ đau hai bên có đường kính 3–20 cm bùng phát trong một đến vài tuần. Chúng đi kèm với sốt và đau khớp. Trong 50% trường hợp, mắt cá chân bị sưng và đau trong vài tuần. Đầu gối và các khớp khác cũng có thể bị ảnh hưởng \[8\].
+
+### Các phát hiện lâm sàng phổ biến \[9-12\]
+
+- Các nốt được tìm thấy ở phía trước chân dưới, đầu gối và cánh tay và hiếm khi trên mặt và cổ.
+- Chúng không rõ ràng, ấm, hình bầu dục, tròn hoặc hình cung, và không có loét
+- Các nốt ban đầu có màu đỏ sáng đến đỏ đậm.
+- Chúng tự động biến mất trong vòng tám tuần, thông qua sự xuất hiện giống như vết bầm tím màu tím, nâu hoặc vàng/xanh lá cây được gọi là ban đỏ contusiformis.
+
+Ban đỏ nút không gây sẹo vĩnh viễn.
+
+## Biến chứng của ban đỏ nút là gì?
+
+Ban đỏ nút có ít biến chứng đã biết và các tổn thương thường tự động biến mất. Một biến chứng hiếm gặp là hoại tử mỡ bao bọc, hoặc ‘u mỡ bao bọc di động’ \[14\].
+
+## Ban đỏ nút được chẩn đoán như thế nào?
+
+Ban đỏ nút chủ yếu là một chẩn đoán lâm sàng được xác nhận bằng các xét nghiệm trong phòng thí nghiệm và mô học \[8\]. [Bệnh lý của ban đỏ nút](https://dermnetnz.org/pathology/erythema-nodosum-path.html) cho thấy viêm chủ yếu ở các vách ngăn giữa các thùy mỡ dưới da mà không có viêm mạch \[15\].
+
+### Các xét nghiệm hỗ trợ \[4,7\]
+
+Các xét nghiệm phù hợp có thể bao gồm:
+
+- Công thức máu toàn phần với phân biệt, mức độ protein C-reactive (nguyên nhân nhiễm trùng và viêm)
+- X-quang ngực (lao và sarcoidosis)
+- Phết họng và huyết thanh kháng streptolysin O và streptodornase (nhiễm liên cầu khuẩn)
+- Huyết thanh virus (tốt nhất là hai mẫu cách nhau bốn tuần)
+- Nuôi cấy phân và đánh giá trứng và ký sinh trùng ở bệnh nhân có triệu chứng tiêu hóa
+- Thử nghiệm Mantoux hoặc QuantiFERON vàng ( [thử nghiệm cho TB](https://dermnetnz.org/procedures/tb-screening.html)).
+- Sinh thiết da [sâu hoặc cắt bỏ](https://dermnetnz.org/procedures/biopsy.html).
+
+## Chẩn đoán phân biệt cho ban đỏ nút là gì?
+
+Một loạt các nguyên nhân của viêm mô mỡ dưới da nên được xem xét ở bệnh nhân có các nốt dưới da, đặc biệt nếu các tổn thương không nằm ở chân, có loét, hoặc triệu chứng kéo dài hơn tám tuần.
+
+[Viêm mô mỡ dưới da](https://dermnetnz.org/topics/panniculitis) có thể chủ yếu là vách ngăn (viêm giữa các thùy) hoặc thùy (tế bào viêm trong các thùy mỡ dưới da) \[16\]. Viêm vách ngăn và thùy hỗn hợp có thể xảy ra.
+
+Các nốt do viêm mô mỡ dưới da chủ yếu là vách ngăn bao gồm:
+
+- Các dạng khác nhau của [xơ cứng bì](https://dermnetnz.org/topics/scleroderma)
+- Viêm mạch máu [mạch trung bình](https://dermnetnz.org/cme/systemic/cutaneous-vasculitis-cme), ví dụ, do [viêm đa động mạch nút](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa) trong đó có các nốt dưới da đau kèm theo loét, hoại tử, livedo racemosa, sốt, đau khớp, đau cơ, và bệnh thần kinh ngoại biên
+- [Hoại tử lipoidica](https://dermnetnz.org/topics/necrobiosis-lipoidica)
+- Viêm mô mỡ dưới da [eosinophilic](https://dermnetnz.org/topics/recurrent-cutaneous-necrotising-eosinophilic-vasculitis)
+- Nốt [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin).
+
+Các nốt do viêm mô mỡ dưới da chủ yếu là thùy bao gồm:
+
+- Bệnh mô liên kết (ví dụ, viêm mô mỡ dưới da liên quan đến [lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus))
+- [Ban đỏ nút phong](https://dermnetnz.org/topics/lepra-reactions) (phản ứng phong loại 2 do [bệnh phong](https://dermnetnz.org/topics/leprosy))
+- [Viêm mô mỡ tụy](https://dermnetnz.org/topics/pancreatic-panniculitis) trong đó các nốt dưới da có thể bị loét hoặc dao động. Các xét nghiệm trong phòng thí nghiệm cho thấy mức độ lipase, amylase và trypsin tăng cao
+- Viêm mô mỡ do chấn thương
+- [Viêm mạch nút](https://dermnetnz.org/topics/nodular-vasculitis)/ [ban đỏ induratum](https://dermnetnz.org/topics/nodular-vasculitis) trong đó các nốt loét, chảy dịch ảnh hưởng đến bắp chân sau
+- [Xơ cứng da mỡ](https://dermnetnz.org/topics/lipodermatosclerosis), là hậu quả của [suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency)
+- Nhiễm trùng mỡ dưới da với [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections), [mycobacteria](https://dermnetnz.org/cme/bacterial-infections/mycobacteria) hoặc [nấm](https://dermnetnz.org/cme/fungal-infections), có thể gây loét, dao động, và áp xe chảy dịch
+- Xâm nhập ác tính.
+
+## Điều trị ban đỏ nút là gì?
+
+Ban đỏ nút được điều trị dựa trên bệnh nền. Nhiễm trùng nền cần được điều trị.
+
+- Quản lý đau có thể bao gồm nghỉ ngơi kéo dài, [colchicine](https://dermnetnz.org/topics/colchicine) (1–2 mg/ngày), [NSAIDs](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) ( [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects)), và [liệu pháp nén tĩnh mạch](https://dermnetnz.org/topics/compression-therapy) \[4\].
+- [Corticosteroid toàn thân](https://dermnetnz.org/cme/dermatitis/corticosteroids) (1 mg/kg mỗi ngày cho đến khi ban đỏ nút biến mất) có thể được kê đơn nếu nhiễm trùng, nhiễm trùng huyết và ác tính đã được loại trừ \[9,11\].
+- [Iodide kali đường uống](https://dermnetnz.org/topics/potassium-iodide) dưới dạng dung dịch bão hòa (400–900 mg/ngày) có thể được kê đơn trong một tháng nếu có sẵn \[17\].
+
+## Kết quả của ban đỏ nút là gì?
+
+Ban đỏ nút có diễn biến tương đối lành tính và thuận lợi. Điều quan trọng là nhận ra nguyên nhân nền, nếu có, và bắt đầu điều trị triệu chứng \[4\]. Hầu hết các trường hợp tự động biến mất trong vài ngày đến vài tuần. Tái phát có thể xảy ra ở khoảng một phần ba các trường hợp, ban đỏ nút có thể trở thành một rối loạn mãn tính hoặc kéo dài trong 6 tháng và đôi khi trong nhiều năm \[13\].
+
+### Tài liệu tham khảo
+
+01. Cox NH, Jorizzo JL, Bourke JF, Savage COS. Viêm mạch, bệnh da trung tính và các rối loạn liên quan. Trong: Sách giáo khoa Da liễu của Rook. Ấn bản thứ 8. Burns T, Breathnach S, Cox N, Griffiths C (biên tập). Wiley-Blackwell, Hoboken 2010: Tập 3, 50.1.
+02. Patterson JW. Viêm mô mỡ dưới da. Trong: Da liễu. Ấn bản thứ 3. Bolognia JL, Jorizzo JL, Schaffer JV (biên tập). Elsevier Saunders, Philadelphia 2012: 1641.
+03. Kunz, Beutel, Bröcker. Kích hoạt bạch cầu trong ban đỏ nút. Clin Exp Dermatol 1999;24:396-401. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/10564331)
+04. Hafsi W, Haseer Koya H. Ban đỏ, Nodosum. StatPearls Publishing. Cập nhật ngày 12 tháng 12 năm 2017. Có sẵn tại: [https://www.ncbi.nlm.nih.gov/books/NBK470369/](https://www.ncbi.nlm.nih.gov/books/NBK470369/) (truy cập ngày 27 tháng 6 năm 2018).
+05. R.M. Söderstrom, E.A. Krull. Ban đỏ nút. Một đánh giá. Cutis 1978;21(6)806-10. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/657838)
+06. Cribier B, Caille A, Heid E, Grosshans E. Ban đỏ nút và các bệnh liên quan. Một nghiên cứu 129 trường hợp. Int J Dermatol 1998;37:667–72. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/9762816)
+07. Schwartz RA, Nervi SJ. Ban đỏ nút: một dấu hiệu của bệnh hệ thống. Am Fam Physician 2007;75:695. [PubMed](https://www.aafp.org/afp/2007/0301/p695.html)
+08. L Requena et al, in K, Wolff et al (eds): Fitzpatrick's Color Atlas and Synopsis of Clinical Dermatology, 6th edn. New York: McGraw-Hill, 2009, 152-3.
+09. Fox MD, Schwartz RA. Ban đỏ nút. Am Fam Physician 1992;46:818–22. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/1514475)
+10. Kakourou T, Drosatou P, Psychou F, Aroni K, Nicolaidou P. Ban đỏ nút ở trẻ em: một nghiên cứu tiến cứu. J Am Acad Dermatol 2001;44:17–21. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/11148471)
+11. Requena L, Yus ES. Viêm mô mỡ dưới da. Phần I. Chủ yếu là viêm mô mỡ dưới da vách ngăn. J Am Acad Dermatol 2001;45:163–83. [PubMed](https://www.jaad.org/article/S0190-9622(01)57690-2/abstract)
+12. Mert A, Ozaras R, Tabak F, Pekmezci S, Demirkesen C, Ozturk R. Ban đỏ nút: một kinh nghiệm 10 năm. Scand J Infect Dis 2004;36:424–7. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/15307561)
+13. Patterson JW. Viêm mô mỡ dưới da. Trong: Da liễu, ấn bản thứ 3, Bolognia JL, Jorizzo JL, Schaffer JV (biên tập), Elsevier Saunders, Philadelphia 2012:1641.
+14. Weedon D. Viêm mô mỡ dưới da. Trong Weedon's Skin Pathology (Ấn bản thứ ba). Churchill Livingstone, 2010: 477. Có sẵn tại: [http://www.sciencedirect.com/science/article/pii/B9780702034855000188](http://www.sciencedirect.com/science/article/pii/B9780702034855000188) (truy cập ngày 20 tháng 6 năm 2018).
+15. Baldock NE, Catterall MD. Ban đỏ nút từ Yersinia enterocolitica. Br J Dermatol 1975;93:719–20. [Journal](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2133.1975.tb05127.x)
+16. Pink A, Barker J. Ban đỏ nút. Br J Hosp Med 2012;73:C50-C52. [Journal](https://www.magonlinelibrary.com/doi/10.12968/hmed.2012.73.sup4.C50)
+17. Marshall JK, Irvine EJ. Điều trị thành công ban đỏ nút kháng thuốc liên quan đến bệnh Crohn bằng iodide kali. Can J Gastroenterol 1997;11:501–2. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/9347164)
+
+### Trên DermNet
+
+- [Bệnh lý ban đỏ nút](https://dermnetnz.org/topics/erythema-nodosum-pathology)
+- [Viêm mô mỡ dưới da](https://dermnetnz.org/topics/panniculitis)
+- [Hội chứng Löfgren](https://dermnetnz.org/topics/loefgren-syndrome)
+- [Dấu hiệu da của bệnh thấp khớp](https://dermnetnz.org/topics/skin-signs-of-rheumatic-disease)
+- [Ban đỏ nút phong](https://dermnetnz.org/topics/lepra-reactions) (phản ứng phong loại 2 trong bệnh phong)
+
+### Các trang web khác
+
+- [Ban đỏ nút](http://emedicine.medscape.com/article/1081633-overview) — Tham khảo Medscape
+- [Ban đỏ nút](https://www.merckmanuals.com/professional/dermatologic-disorders/hypersensitivity-and-inflammatory-skin-disorders/erythema-nodosum) — Phiên bản chuyên nghiệp của Merck Manual
+- [Ban đỏ nút](https://www.merckmanuals.com/home/skin-disorders/hypersensitivity-and-inflammatory-skin-disorders/erythema-nodosum) — Phiên bản tiêu dùng của Merck Manual
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

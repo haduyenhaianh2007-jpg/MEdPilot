@@ -1,0 +1,22 @@
+## Chẩn đoán viêm da cơ khởi phát ở người lớn như thế nào?
+
+Chẩn đoán viêm da cơ được gợi ý bởi các đặc điểm lâm sàng và được xác nhận qua các xét nghiệm.
+
+Sinh thiết da của phát ban cho thấy viêm da giao diện tương tự như lupus ban đỏ da, vì vậy chỉ riêng mô học không thể được sử dụng để phân biệt hai tình trạng này. Kính soi da hoặc kính soi tóc cũng có thể được sử dụng để kiểm tra kỹ hơn.
+
+Xét nghiệm máu đánh giá các nhóm viêm cơ và tự kháng thể.
+
+- Enzyme cơ — creatine kinase (CK), aldolase, aspartate aminotransferase (AST) và lactic dehydrogenase (LH).
+- Kháng thể chống aminoacyl-transfer RNA synthetase — anti-Jo-1, anti-OJ, anti-EJ, anti-KS, anti-Zo, anti-Ha, anti-PL-1 có liên quan đến hội chứng antisynthetase.
+- Anti Mi-2 có liên quan đến bệnh chủ yếu ảnh hưởng đến da.
+- Kháng thể chống yếu tố trung gian phiên mã 1y (TIF-1y, anti 155/140) có liên quan mạnh mẽ đến viêm da cơ liên quan đến ác tính ở người cao tuổi.
+- Kháng thể chống protein liên quan đến biệt hóa tế bào hắc tố 5 (anti-MDA5) có liên quan đến bệnh phổi kẽ tiến triển nhanh và loét da.
+- Kháng thể chống NXP2 (MJ) có liên quan đến triệu chứng cơ rõ rệt và ít thay đổi da hơn.
+
+Điều tra thêm về bệnh cơ có thể yêu cầu:
+
+- Điện cơ (EMG)
+- Sinh thiết cơ
+- Chụp cộng hưởng từ (MRI).
+
+Các cuộc điều tra phù hợp với độ tuổi về một ác tính tiềm ẩn nên được xem xét sau khi có lịch sử cẩn thận và kiểm tra tổng quát. Những người có nguy cơ thấp nên có sàng lọc máu và nước tiểu cơ bản, và chụp X quang ngực đơn giản. Những người có nguy cơ trung bình và cao nên, ngoài ra, nhận chụp CT cổ, ngực, bụng và chậu, siêu âm chậu và siêu âm qua âm đạo, phết tế bào cổ tử cung, chụp nhũ ảnh, xét nghiệm kháng nguyên đặc hiệu tuyến tiền liệt (PSA), xét nghiệm kháng nguyên ung thư 125 (CA-125) và xét nghiệm máu ẩn trong phân (FOBT).

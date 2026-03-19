@@ -1,0 +1,273 @@
+##### Nhiễm nấm móng — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Onychomycosis, Tinea unguium, Tinea của móng, Nấm móng, Candidal onychia, Dermatophytosis của móng
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B35.1, B37.2
+
+ICD-11:
+
+EE12.1, 1F23.13, 1F23.1, EE10.2, 1F2D.5
+
+SNOMED CT:
+
+414941008, 402134005, 403105006, 403107003, 417583002, 403103004, 403104005, 402137003, 10165000, 23484007, 718526003, 701996000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Nhiễm nấm móng**
+
+### Tháng 10 năm 2022
+
+Tác giả: Bác sĩ Adeline Hillan, Bệnh viện Royal Perth, Úc (2022)
+
+Những người đóng góp trước đây: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu (2003)
+
+Bác sĩ da liễu đánh giá: Bác sĩ Ian Coulson
+
+Chỉnh sửa bởi bộ phận nội dung DermNet
+
+[Giới thiệu](https://dermnetnz.org/topics/fungal-nail-infections#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/fungal-nail-infections#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/fungal-nail-infections#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/fungal-nail-infections#Clinical%20features) [Biến chứng](https://dermnetnz.org/topics/fungal-nail-infections#Complications) [Chẩn đoán](https://dermnetnz.org/topics/fungal-nail-infections#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/fungal-nail-infections#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/fungal-nail-infections#Treatment) [Phòng ngừa](https://dermnetnz.org/topics/fungal-nail-infections#Prevention) [Kết quả](https://dermnetnz.org/topics/fungal-nail-infections#Outcome)
+
+## Nhiễm nấm móng là gì?
+
+Nhiễm nấm móng, còn được gọi là onychomycosis, chiếm hơn 50% tất cả các bệnh về móng với tỷ lệ phổ biến ước tính là 5,5%. Chúng có thể ảnh hưởng đến móng chân, móng tay hoặc cả hai.
+
+Nhiễm nấm móng cũng được gọi là tinea unguium trong trường hợp nhiễm nấm dermatophyte.
+
+![Onychomycosis toàn bộ móng tay trong da loại 6](https://dermnetnz.org/assets/collection/Onychomycosis/onychomycosis-0034.jpg)
+
+Onychomycosis toàn bộ móng tay trong da loại 6 (ONYC-patient6)
+
+![Onychomycosis](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/lat-om2.jpg)
+
+Onychomycosis
+
+![Sự đổi màu trắng của bản móng xa trong onychomycosis trắng bề mặt](https://dermnetnz.org/assets/collection/Onychomycosis/onychomycosis-0001.jpg)
+
+Sự đổi màu trắng của bản móng xa trong onychomycosis trắng bề mặt (ONYC-patient1)
+
+![Onychomycosis gần](https://dermnetnz.org/assets/collection/Onychomycosis/onychomycosis-0004.jpg)
+
+Onychomycosis gần
+
+![Tinea unguium, móng chân](https://dermnetnz.org/assets/Uploads/tin-ung1-v2.jpg)
+
+Tinea unguium, móng chân
+
+![Onychomycosis toàn bộ do loài Fusarium](https://dermnetnz.org/assets/collection/Onychomycosis/onychomycosis-0037.jpg)
+
+Onychomycosis toàn bộ do loài Fusarium (ONYC-patient7)
+
+[Bấm vào đây để xem thêm hình ảnh](https://dermnetnz.org/images/onychomycosis-images)
+
+## Ai bị nhiễm nấm móng?
+
+Onychomycosis phổ biến ở người lớn tuổi (trên 65 tuổi), người mắc bệnh tiểu đường, bệnh nhân suy giảm miễn dịch (đặc biệt là những người mắc [bệnh HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)), và vận động viên. Onychomycosis có thể xuất hiện trong gia đình do di truyền tự động (HLA-DR8) hoặc yếu tố môi trường. Nó hiếm khi xảy ra ở trẻ em.
+
+Các bệnh lý liên quan khác bao gồm: [tinea pedis](https://dermnetnz.org/topics/tinea-pedis), [tinea manuum](https://dermnetnz.org/topics/tinea-manuum), [vảy nến](https://dermnetnz.org/topics/psoriasis), bệnh mạch máu ngoại vi, [suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency), hallux valgus, hút thuốc, hội chứng móng chân không đối xứng, [hội chứng Down](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome), và béo phì.
+
+Các yếu tố tiền sử bệnh bao gồm: [viêm quanh móng mãn tính](https://dermnetnz.org/topics/paronychia), [tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) (ví dụ, với giày dép kín), chấn thương móng, và sử dụng các cơ sở tắm hoặc thay đồ công cộng.
+
+## Nguyên nhân gây nhiễm nấm móng là gì?
+
+Onychomycosis có thể do nhiễm [nấm dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) hoặc [nấm không dermatophyte](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis) như nấm mốc và nấm men.
+
+- Nấm dermatophyte (hơn 75% trường hợp): _Trichophyton rubrum_, _Epidermophyton floccosum_, loài _Microsporum_, _Trichophyton verrucosum_, _Trichophyton tonsurans_, _Trichophyton violaceum_, _Trichophyton soudanense_, _Trichophyton krajdenii_, _Trichophyton equinum_, và loài _Arthoderma_.
+- Nấm không dermatophyte
+  - Nấm mốc (10% trường hợp): loài _Aspergillus_, loài _Scopulariopsis_, loài _Fusarium_, loài _Acremonium_, loài _Syncephalastrum_, loài _Scytalidium_, loài _Paecilomyces_, loài _Neoscytalidium_, loài _Chaetomium_, loài _Onchocola_, và loài _Alternaria_.
+  - Nấm men (hiếm gặp): _[Candida albicans](https://dermnetnz.org/topics/candida)_, và hiếm khi [nấm men candida không albicans](https://dermnetnz.org/topics/non-albicans-candida-infections) (ví dụ, tropicalis, hoặc parapsilosis)
+  - Để biết thêm thông tin, xem [onychomycosis nấm mốc không dermatophyte](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis).
+
+Bằng chứng mới nổi về vai trò của màng sinh học trong bệnh nấm móng có thể giải thích cho [kháng thuốc chống nấm](https://dermnetnz.org/topics/antifungal-drug-resistance) và tăng độc lực.
+
+## Đặc điểm lâm sàng của onychomycosis là gì?
+
+Onychomycosis có thể ảnh hưởng đến một móng hoặc nhiều móng, thường ảnh hưởng đến móng chân đầu tiên. Nó cũng có thể ảnh hưởng đến da xung quanh, tuy nhiên, rất hiếm khi gây ra sự tham gia toàn thân.
+
+Các loại lâm sàng bao gồm:
+
+- Onychomycosis dưới móng xa và bên — đầu xa và hai bên của móng nâng lên hoặc bị đổi màu và vỡ vụn.
+- Onychomycosis trắng bề mặt — các mảng trắng và lỗ xuất hiện trên bề mặt bản móng.
+- Onychomycosis dưới móng gần — bản móng gần gần lunula bị đổi màu và dày lên. Mô hình bệnh này thường liên quan đến [nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) tiềm ẩn.
+- Onychomycosis endonyx — sự đổi màu trắng sữa của bản móng phát triển mà không có tăng sừng dưới móng hoặc onycholysis.
+- [Onychauxis](https://dermnetnz.org/topics/nail-terminology).
+
+Các đặc điểm được quan sát bao gồm:
+
+- [Tăng sừng dưới móng](https://dermnetnz.org/topics/nail-terminology) — sự bong tróc xảy ra dưới móng
+- Móng bị vỡ vụn và lởm chởm ở đầu tự do của bản móng
+- Sự đổi màu của móng, ví dụ, màu vàng, trắng, xám, hoặc xanh lá cây
+- Rãnh, vỡ vụn, và đôi khi cuối cùng là phá hủy hoàn toàn bản móng
+- Bong tróc trên da lòng bàn chân và các khoảng không gian do [tinea pedis](https://dermnetnz.org/topics/tinea-pedis) liên quan
+- Onychoma hoặc dermatophytoma — một khu vực dày cục bộ của nhiễm trùng trong bản móng.
+
+Onychomycosis có thể làm phức tạp các bệnh lý móng khác như chấn thương hoặc [vảy nến](https://dermnetnz.org/topics/psoriasis).
+
+Nhiễm Candida của bản móng thường xuất phát từ [viêm quanh móng](https://dermnetnz.org/topics/paronychia) và bắt đầu gần nếp móng (cuticle). Nếp móng bị sưng và đỏ, nâng lên khỏi bản móng. Các dấu trắng, vàng, xanh lá cây, hoặc đen xuất hiện trên móng gần đó và lan rộng. Móng có thể nâng lên khỏi giường móng và đau nếu bạn ấn vào nó.
+
+Nhiễm [nấm mốc](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis) có hình thức tương tự như tinea unguium.
+
+[Bấm vào đây để xem hình ảnh](https://dermnetnz.org/images/onychomycosis-images)
+
+## Biến chứng của nhiễm nấm móng là gì?
+
+Nhiễm nấm móng thường được coi là một vấn đề thẩm mỹ không đáng kể. Tuy nhiên, ảnh hưởng mà nó có thể gây ra đối với chất lượng cuộc sống của một người bị đánh giá thấp vì nó có thể gây ra đau đớn đáng kể ảnh hưởng đến khả năng di chuyển và hoạt động đầy đủ, và kỳ thị xã hội.
+
+## Làm thế nào để chẩn đoán onychomycosis?
+
+Khám lâm sàng tất cả các móng, và kết hợp các công cụ, như những công cụ được liệt kê dưới đây, có thể được sử dụng để cải thiện tốc độ và độ chính xác của chẩn đoán.
+
+### Dermoscopy
+
+[Dermoscopy](https://dermnetnz.org/topics/dermoscopy) có thể phân biệt giữa onychomycosis, [onycholysis](https://dermnetnz.org/topics/onycholysis) do chấn thương, và [melanonychia](https://dermnetnz.org/topics/melanonychia). Các phát hiện dermatoscopic phổ biến bao gồm các dải tuyến tính tròn gần và thu hẹp xa, sự đổi màu, các mẫu không đồng nhất không theo chiều dọc hoặc ngược hình tam giác, tăng sừng dưới móng, các vệt trắng/vàng, và vảy bản móng.
+
+Mô hình xâm nhập nấm được chia thành:
+
+- Onychomycosis bề mặt — các mảng trắng ảnh hưởng đến móng xa
+- Onychomycosis dưới móng gần — sự tham gia của nếp móng gần dưới bề mặt đến xa
+- Onychomycosis endonyx — nhiễm trùng bản móng nhưng không phải giường móng
+- Mô hình onychomycosis hỗn hợp.
+
+### Mẫu vật học
+
+Các mảnh vụn nên được lấy từ cạnh tự do vỡ vụn của móng bị ảnh hưởng.
+
+- Các khu vực gần nhất của móng loạn dưỡng cho kết quả tốt nhất trên kính hiển vi và nuôi cấy; chúng có thể được lấy một cách thuận tiện bằng cách cạo càng gần càng tốt dưới móng với đầu móc của một dũa móng sạch.
+- Các tổn thương của onychomycosis trắng bề mặt có thể được cạo bằng lưỡi dao mổ số 15.
+- Onychomycosis dưới móng gần có thể được lấy mẫu bằng cách cắt mỏng bản móng trên.
+
+Khám nghiệm vi mô được xem xét dưới [kính hiển vi ánh sáng](https://dermnetnz.org/topics/reflectance-confocal-microscopy) sử dụng kali hydroxide (để hòa tan chất keratinocyte) là một xét nghiệm nhanh để đánh giá sự hiện diện của sợi nấm, mặc dù nó thiếu độ nhạy và độ đặc hiệu.
+
+Đánh giá mô học của các mảnh vụn móng sử dụng haematoxylin-eosin, acid-Schiff định kỳ, hoặc nhuộm bạc Grocott methenamine để quan sát sợi nấm là dễ dàng và nhạy cảm. Để biết thêm thông tin, xem [nhuộm mô học](https://dermnetnz.org/topics/histology-stains) và [xét nghiệm phòng thí nghiệm cho nhiễm nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection).
+
+![Bệnh lý Onychomycosis](https://dermnetnz.org/assets/Uploads/pathology/e/tinea-unguium-figure-2.jpg)
+
+Bệnh lý Onychomycosis
+
+### Xét nghiệm nuôi cấy nấm
+
+Nuôi cấy nấm có thể xác định sinh vật gây bệnh và là xét nghiệm chẩn đoán tiêu chuẩn, tuy nhiên, kết quả có thể mất vài tuần và có thể cần một mẫu lớn. Kỹ thuật này yêu cầu móng được làm sạch bằng cồn isopropyl 70% và nước xà phòng trước khi lấy mẫu.
+
+Mẫu nên được lấy trước khi bắt đầu bất kỳ điều trị nào.
+
+![Nuôi cấy Trichophyton rubrum trên dốc agar](https://dermnetnz.org/assets/Uploads/Trubrum-front-back-together.jpg)
+
+Nuôi cấy Trichophyton rubrum trên dốc agar
+
+![Nấm dermatophyte T.rubrum phát triển trên môi trường nuôi cấy nấm Sabouraud](https://dermnetnz.org/assets/Non-clinical-images/mycology-culture-plate.jpg)
+
+Nấm dermatophyte T.rubrum phát triển trên môi trường nuôi cấy nấm Sabouraud
+
+### Xét nghiệm phản ứng chuỗi polymerase (PCR)
+
+Xét nghiệm PCR nhanh chóng xác định sinh vật gây bệnh và có độ nhạy và độ đặc hiệu cao. Nó đang trở nên phổ biến hơn, tuy nhiên đắt hơn so với xét nghiệm kính hiển vi hoặc nuôi cấy nấm.
+
+### Khác
+
+Các kỹ thuật khác như [kính hiển vi phản xạ](https://dermnetnz.org/topics/reflectance-confocal-microscopy), [chụp cắt lớp quang học](https://dermnetnz.org/topics/optical-coherence-tomography), nhiệt kế hồng ngoại, đo lưu lượng tế bào, sắc ký miễn dịch, và khối phổ hiện đang được khám phá và hiếm khi được sử dụng.
+
+Một sinh thiết móng cũng có thể tiết lộ [đặc điểm mô học đặc trưng của onychomycosis](https://dermnetnz.org/topics/onychomycosis-pathology).
+
+## Chẩn đoán phân biệt của onychomycosis là gì?
+
+Nhiều bệnh móng khác có thể bắt chước các dấu hiệu lâm sàng của onychomycosis, do đó tầm quan trọng của việc xác nhận chẩn đoán để đảm bảo không bỏ sót các tình trạng ác tính.
+
+- Các tình trạng lành tính bao gồm: nhiễm khuẩn như pseudomonas argeuniosa (CAP), [vảy nến](https://dermnetnz.org/topics/psoriasis), [lichen planus](https://dermnetnz.org/topics/lichen-planus), mụn cóc dưới móng và quanh móng, [viêm quanh móng](https://dermnetnz.org/topics/paronychia), [exostosis dưới móng](https://dermnetnz.org/topics/subungual-exostosis), [onychomatricoma](https://dermnetnz.org/topics/onychomatricoma), [hội chứng móng vàng](https://dermnetnz.org/topics/yellow-nail-syndrome), và onycholysis không rõ nguyên nhân/chấn thương.
+- Các tình trạng ác tính bao gồm: [ung thư biểu mô tế bào vảy dưới móng](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) và [melanoma dưới móng](https://dermnetnz.org/topics/melanoma).
+
+## Điều trị nhiễm nấm móng là gì?
+
+Điều trị nhằm loại bỏ sinh vật gây bệnh và khôi phục móng về tình trạng khỏe mạnh và ngoại hình bình thường. Nhiễm trùng móng tay thường được chữa khỏi nhanh chóng và hiệu quả hơn so với nhiễm trùng móng chân.
+
+Nhiễm trùng nhẹ ảnh hưởng đến dưới 50% của một hoặc hai móng có thể đáp ứng với [thuốc chống nấm bôi ngoài](https://dermnetnz.org/topics/topical-antifungal-medication), nhưng thường cần [thuốc chống nấm uống](https://dermnetnz.org/topics/oral-antifungal-medication) trong vài tháng để chữa khỏi.
+
+### Lựa chọn điều trị chống nấm bôi ngoài
+
+- [Ciclopirox](https://dermnetnz.org/topics/topical-antifungal-medication) 8% sơn móng
+- [Tavaborole](https://dermnetnz.org/topics/topical-antifungal-medication) 5% dung dịch
+- [Efinaconazole](https://dermnetnz.org/topics/topical-antifungal-medication) 10% dung dịch
+- [Amorolfine](https://dermnetnz.org/topics/topical-antifungal-medication) 5% sơn móng.
+
+Những loại này thường được ưa chuộng trước các phương pháp điều trị toàn thân, nếu lo ngại về tương tác thuốc.
+
+Với sự tham gia toàn bộ móng, [loại bỏ móng y tế](https://dermnetnz.org/topics/medical-nail-avulsion) sử dụng [urea](https://dermnetnz.org/topics/urea) có thể tăng cường hiệu quả chống nấm toàn thân.
+
+### Lựa chọn điều trị chống nấm uống
+
+- [Terbinafine](https://dermnetnz.org/topics/terbinafine)
+- [Fluconazole](https://dermnetnz.org/topics/fluconazole)
+- [Itraconazole](https://dermnetnz.org/topics/itraconazole)
+- [Posaconazole](https://dermnetnz.org/topics/posaconazole)
+
+Những loại này được sử dụng rộng rãi do khả năng tiếp cận, chi phí thấp (một số trong số chúng), và hiệu quả cao; tuy nhiên, chúng có thể yêu cầu một khóa học kéo dài đặc biệt là đối với sự tham gia của móng chân (3-4 tháng).
+
+### Lựa chọn điều trị không dùng thuốc
+
+- [Liệu pháp laser hồng ngoại](https://dermnetnz.org/topics/lasers-in-dermatology)
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- [Iontophoresis](https://dermnetnz.org/topics/iontophoresis)
+- Siêu âm.
+
+Phát xạ bức xạ hồng ngoại bằng laser có thể tiêu diệt nấm móng trong 1–3 buổi, tuy nhiên hiệu quả của laser so với liệu pháp toàn thân còn thiếu. Liệu pháp quang động, liệu pháp plasma, iontophoresis hoặc siêu âm là các phương pháp bổ trợ cho liệu pháp chống nấm bôi ngoài được cho là tăng cường hấp thụ thuốc vào móng.
+
+Điều trị nên được cá nhân hóa, và bệnh nhân nên được tư vấn về thời gian ước tính để chữa khỏi.
+
+## Làm thế nào để ngăn ngừa nhiễm nấm móng?
+
+Các chiến lược để ngăn ngừa tái phát bao gồm:
+
+- Giữ chân mát và khô; tránh sử dụng giày dép kín và đổ mồ hôi quá mức
+- Sử dụng dép xỏ ngón/dép lê trong các phòng tập thể dục và bể bơi công cộng
+- Loại bỏ hoặc điều trị giày dép và tất bị nhiễm
+- Tránh chấn thương móng bằng cách cắt móng ngắn
+- Tránh các thực hành móng thẩm mỹ không vệ sinh
+- Sử dụng thuốc chống nấm dự phòng ở chân và các khoảng không gian
+- Tư vấn bệnh nhân để tối ưu hóa liệu pháp onychomycosis để cải thiện sự tuân thủ
+- Giải quyết bệnh tiểu đường không được kiểm soát tốt.
+
+## Kết quả của nhiễm nấm móng là gì?
+
+Khoảng 20–25% onychomycosis được điều trị không may tái phát do các yếu tố bệnh nhân hoặc mầm bệnh như tuần hoàn kém, tuổi tác cao, tiểu đường, suy giảm miễn dịch, các phát hiện lâm sàng nấm móng nghiêm trọng, nhiễm trùng hỗn hợp, và điều trị không hoàn chỉnh. Chỉ số Mức độ nghiêm trọng của Onychomycosis có thể được sử dụng để dự đoán phản ứng với liệu pháp.
+
+[Bấm vào đây để xem hình ảnh](https://dermnetnz.org/images/onychomycosis-images)
+
+### Thư mục
+
+- Ameen M, Lear JT, Madan V, Mohd Mustapa MF, Richardson M. Hướng dẫn của Hiệp hội Da liễu Anh về quản lý onychomycosis 2014. Br J Dermatol. 2014;171(5):937–58. doi:10.1111/bjd.13358. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/bjd.13358)
+- Carney C, Tosti A, Daniel R, et al. Hệ thống phân loại mới để đánh giá mức độ nghiêm trọng của Onychomycosis: Chỉ số Mức độ nghiêm trọng của Onychomycosis. Arch Dermatol. 2011;147(11):1277–82. doi:10.1001/archdermatol.2011.267. [Tạp chí](https://jamanetwork.com/journals/jamadermatology/fullarticle/1105182)
+- Gupta AK, Stec N, Summerbell RC, et al. Onychomycosis: một đánh giá. J Eur Acad Dermatol Venereol. 2020;34(9):1972–90. doi:10.1111/jdv.16394. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/jdv.16394)
+- Lipner SR, Scher RK. Onychomycosis: Điều trị và phòng ngừa tái phát. J Am Acad Dermatol. 2019;80(4):853–67. doi:10.1016/j.jaad.2018.05.1260. [Tạp chí](https://www.jaad.org/article/S0190-9622(18)32187-X/fulltext)
+- Lipner SR, Scher RK. Onychomycosis: Tổng quan lâm sàng và chẩn đoán. J Am Acad Dermatol. 2019;80(4):835–51. doi:10.1016/j.jaad.2018.03.062. [Tạp chí](https://www.jaad.org/article/S0190-9622(18)32188-1/fulltext)
+
+### Trên DermNet
+
+- [Hình ảnh Onychomycosis](https://dermnetnz.org/images/onychomycosis-images)
+- [Bệnh lý Onychomycosis](https://dermnetnz.org/topics/onychomycosis-pathology)
+- [Giới thiệu về nhiễm nấm](https://dermnetnz.org/topics/introduction-to-fungal-infections)
+- [Xét nghiệm phòng thí nghiệm cho nhiễm nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection)
+- [Điều trị nhiễm nấm](https://dermnetnz.org/topics/treatment-of-fungal-infection)
+- [Rối loạn móng](https://dermnetnz.org/topics/nail-disorders)
+- [Loại bỏ móng y tế](https://dermnetnz.org/topics/medical-nail-avulsion)
+
+### Các trang web khác
+
+- [Nhiễm nấm móng](https://www.nhsinform.scot/illnesses-and-conditions/skin-hair-and-nails/fungal-nail-infection) — NHS inform
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

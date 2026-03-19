@@ -1,0 +1,23 @@
+## Ví dụ về cách tính điểm EASI
+
+Một đứa trẻ 3 tuổi bị bùng phát cấp tính của bệnh chàm thể tạng. Sự bùng phát ảnh hưởng đến các nếp gấp của chi, và thân của trẻ cũng khá hồng và khô.
+
+- Điểm đầu và cổ là không, vì không bị ảnh hưởng.
+- Thân hơi đỏ (1), hơi dày (1), không bị trầy xước (0) cũng không bị lichen hóa (0): điểm mức độ nghiêm trọng là 2.
+
+Khoảng 60% thân bị ảnh hưởng; điểm diện tích là 4.
+- Bệnh chàm ở nếp gấp khuỷu tay đỏ vừa (2), hơi dày (1), bị trầy xước vừa (2) nhưng không bị lichen hóa (0): điểm mức độ nghiêm trọng là 5.
+
+Ít hơn 10% cánh tay bị ảnh hưởng: điểm diện tích là 1.
+- Bệnh chàm sau đầu gối đỏ nặng (3), dày nặng (3), bị trầy xước nặng (3) và hơi lichen hóa (1): điểm mức độ nghiêm trọng là 10.
+
+Khoảng 20% chân bị ảnh hưởng: điểm diện tích là 2.
+
+Các phép tính cho mỗi vùng là điểm mức độ nghiêm trọng x điểm diện tích x hệ số nhân.
+
+- Đầu/cổ: 0
+- Thân: 2 x 4 x 0.3 = 2.4
+- Chi trên = 5 x 1 x 0.2 = 1.0
+- Chi dưới = 10 x 2 x 0.3 = 6.0
+
+EASI = 2.4 + 1.0 + 6.0 = 9.4.

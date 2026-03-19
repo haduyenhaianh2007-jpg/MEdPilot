@@ -1,0 +1,223 @@
+##### Vấn đề da sinh dục — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Ngứa sinh dục, Đau sinh dục
+
+Danh mục:
+
+Phát ban
+
+ICD-11:
+
+GA34.6, MF3A, 1A97, GA0Z, GB07
+
+SNOMED CT:
+
+703865001, 400019007, 724861006, 371347004, 26780200, 31255003, 271939006, 27902002, 162143008
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Vấn đề da sinh dục**
+
+Tạo năm 2002.
+
+[Giới thiệu](https://dermnetnz.org/topics/genital-skin-problems#Introduction%3Cbr%20/%3E) [Ngứa sinh dục ở nam giới](https://dermnetnz.org/topics/genital-skin-problems#Genital%20itch%20in%20males%3Cbr%20/%3E) [Đau sinh dục ở nam giới](https://dermnetnz.org/topics/genital-skin-problems#Genital%20pain%20in%20males%3Cbr%20/%3E) [Ngứa sinh dục ở nữ giới](https://dermnetnz.org/topics/genital-skin-problems#Genital%20itch%20in%20females%3Cbr%20/%3E) [Đau sinh dục ở nữ giới](https://dermnetnz.org/topics/genital-skin-problems#Genital%20pain%20in%20females%3Cbr%20/%3E) [Dịch tiết âm đạo](https://dermnetnz.org/topics/genital-skin-problems#Vaginal%20discharge%3Cbr%20/%3E) [Nhiễm trùng da không lây qua đường tình dục](https://dermnetnz.org/topics/genital-skin-problems#Non-sexually%20transmitted%20skin%20infections%3Cbr%20/%3E) [Nhiễm trùng lây qua đường tình dục](https://dermnetnz.org/topics/genital-skin-problems#Sexually%20transmitted%20infections%3Cbr%20/%3E) [Tổn thương da sinh dục](https://dermnetnz.org/topics/genital-skin-problems#Genital%20skin%20lesions%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/genital-skin-problems#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/genital-skin-problems#Treatment)
+
+## Giới thiệu
+
+Vấn đề da sinh dục rất phổ biến và có thể gây ngứa hoặc đau, gây khó chịu và xấu hổ. Chúng có thể ảnh hưởng đến chức năng tình dục, hình ảnh bản thân và mối quan hệ cá nhân. Một số rối loạn sinh dục có thể lây nhiễm, bao gồm các bệnh lây truyền qua đường tình dục.
+
+Trang này cung cấp liên kết đến thông tin trên DermNet về các tình trạng da ảnh hưởng đến vùng sinh dục.
+
+- Ngứa sinh dục ở nam giới
+- Đau sinh dục ở nam giới
+- Ngứa sinh dục ở nữ giới
+- Đau sinh dục ở nữ giới
+- Dịch tiết âm đạo
+- Nhiễm trùng da không lây qua đường tình dục ảnh hưởng đến vùng sinh dục (nam và nữ)
+- Nhiễm trùng lây qua đường tình dục (nam và nữ)
+- Tổn thương da sinh dục (nam và nữ)
+- Chẩn đoán các tình trạng sinh dục
+- Điều trị các tình trạng sinh dục
+- [Cục và u nhú âm hộ](https://dermnetnz.org/topics/vulval-lumps-and-bumps)
+- [Nang âm hộ](https://dermnetnz.org/topics/vulval-cysts)
+- [Hình ảnh nang âm hộ](https://dermnetnz.org/topics/vulval-cyst-images)
+
+## Ngứa sinh dục ở nam giới
+
+- [Pruritus ani](https://dermnetnz.org/topics/itchy-anus) (ngứa hậu môn)
+- [Balanitis](https://dermnetnz.org/topics/balanitis) (viêm quy đầu dương vật ở nam giới)
+- Viêm da (eczema), bao gồm:
+
+  - [Lichen simplex](https://dermnetnz.org/topics/lichen-simplex) (viêm da do phản ứng ngứa-gãi-ngứa cục bộ và dẫn đến da dày lên ở bìu)
+  - [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-eczema) (eczema)
+  - [Viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) (thường ảnh hưởng đến da đầu)
+  - [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis/) (do ẩm ướt, tiểu không tự chủ, làm sạch mạnh) là nguyên nhân phổ biến nhất của balanitis không đặc hiệu (ở nam giới)
+  - [Intertrigo](https://dermnetnz.org/topics/intertrigo) (ở nếp gấp da)
+  - [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) (thường do [hương liệu](https://dermnetnz.org/topics/fragrance-mix-allergy), [chất bảo quản](https://dermnetnz.org/topics/contact-allergy-to-preservatives) hoặc [cao su](https://dermnetnz.org/topics/latex-allergy))
+
+## Đau sinh dục ở nam giới
+
+- [Balanitis](https://dermnetnz.org/topics/balanitis) (viêm đầu dương vật)
+- [Bệnh Behcet](https://dermnetnz.org/topics/behcet-disease)
+- [Bệnh Crohn, có thể gây sưng, loét và u hạt](https://dermnetnz.org/topics/crohn-skin-disease)
+- [Dysaesthesia](https://dermnetnz.org/topics/male-genital-dysaesthesia) và/hoặc cảm giác nóng rát (và ít thường xuyên hơn, ngứa) của dương vật (penodynia) và/hoặc bìu (scrotodynia) khi không có vấn đề da chính. Khu vực bị ảnh hưởng thường đỏ hơn bình thường.
+- [Lichen planus ăn mòn](https://dermnetnz.org/topics/erosive-lichen-planus) (thường cũng ảnh hưởng đến miệng)
+- [Phản ứng thuốc cố định](https://dermnetnz.org/topics/fixed-drug-eruption)
+- [Lichen sclerosus ở nam giới](https://dermnetnz.org/topics/lichen-sclerosus-in-men)
+- [Balanitis tế bào plasma](https://dermnetnz.org/topics/plasma-cell-balanitisvulvitis)
+
+- [Hội chứng kẹt dây thần kinh pudendal](https://dermnetnz.org/topics/pudendal-nerve-entrapment-syndrome)
+
+## Ngứa sinh dục ở nữ giới
+
+- [Ngứa hậu môn](https://dermnetnz.org/topics/itchy-anus) (pruritus ani)
+- [Ngứa âm hộ](https://dermnetnz.org/topics/the-itchy-vulva) (pruritus vulvae) ở phụ nữ trưởng thành
+- [Ngứa âm hộ](https://dermnetnz.org/topics/the-itchy-vulva) (pruritus vulvae) ở trẻ em gái trước tuổi dậy thì
+- [Viêm da](https://dermnetnz.org/topics/dermatitis) (eczema), bao gồm:
+  - [Lichen simplex](https://dermnetnz.org/topics/lichen-simplex) (viêm da do phản ứng ngứa-gãi-ngứa cục bộ và dẫn đến da dày lên ở môi lớn)
+  - [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-eczema) (eczema)
+  - [Viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) (thường ảnh hưởng đến da đầu)
+  - [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) (do ẩm ướt, tiểu không tự chủ, làm sạch mạnh) ([viêm da liên quan đến tiểu không tự chủ](https://dermnetnz.org/topics/incontinence-associated-dermatitis))
+  - nguyên nhân phổ biến nhất của viêm âm hộ
+  - [Intertrigo](https://dermnetnz.org/topics/intertrigo) (ở nếp gấp da)
+  - [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) (thường do hương liệu, chất bảo quản hoặc cao su)
+- [Vảy nến](https://dermnetnz.org/topics/psoriasis) (mảng đỏ, có vảy hoặc ẩm ướt, được xác định rõ ràng, kéo dài)
+- [Lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus) (mảng trắng có sẹo)
+- [Lichen planus](https://dermnetnz.org/topics/lichen-planus)
+
+## Đau sinh dục ở nữ giới
+
+- [Dyspareunia](https://dermnetnz.org/topics/painful-sex-in-women) (quan hệ tình dục đau đớn)
+- [Nứt tái phát của bốn góc sau](https://dermnetnz.org/topics/recurrent-fissuring-of-posterior-fourchette)
+- [Viêm âm đạo teo](https://dermnetnz.org/topics/atrophic-vulvovaginitis)
+- [Loét sinh dục cấp tính tái phát không lây qua đường tình dục (loét aphthous tái phát phức tạp)](https://dermnetnz.org/topics/atrophic-vulvovaginitis)
+- [Loét sinh dục phản ứng cấp tính không lây qua đường tình dục](https://dermnetnz.org/topics/non-sexually-acquired-genital-ulceration/?stage=Live)
+- [Bệnh Behcet](https://dermnetnz.org/topics/behcet-disease)
+- [Lichen planus ăn mòn](https://dermnetnz.org/topics/erosive-lichen-planus) (thường cũng ảnh hưởng đến miệng)
+- [Viêm âm hộ tế bào plasma](https://dermnetnz.org/topics/plasma-cell-balanitisvulvitis)
+- [Phản ứng thuốc cố định](https://dermnetnz.org/topics/fixed-drug-eruption)
+- [Viêm âm đạo bong tróc](https://dermnetnz.org/topics/desquamative-vaginitis)
+- [Bệnh Crohn](https://dermnetnz.org/topics/genital-crohn-disease), có thể gây sưng, loét và u hạt
+- [Hội chứng kẹt dây thần kinh pudendal](https://dermnetnz.org/topics/pudendal-nerve-entrapment-syndrome)
+- Co thắt cơ vùng chậu dẫn đến co thắt âm đạo
+- Khi không tìm thấy nguyên nhân cho đau âm hộ, thuật ngữ [vulvodynia](https://dermnetnz.org/topics/vulvodynia) đôi khi được sử dụng. Điều này đã được phân loại thành [vulvodynia](https://dermnetnz.org/topics/vulvodynia) kích thích cục bộ (hoặc [vestibulodynia](https://dermnetnz.org/topics/vestibulodynia)) và vulvodynia tự phát tổng quát ([vulvodynia dysaesthetic](https://dermnetnz.org/topics/generalised-vulvodynia) hoặc đau thần kinh).
+
+## Dịch tiết âm đạo
+
+- [Viêm âm đạo](https://dermnetnz.org/topics/vaginitis)
+- [Mùi hôi âm đạo hoặc sinh dục](https://dermnetnz.org/topics/vaginal-or-genital-malodour-in-women)
+- Nhiễm trùng da không lây qua đường tình dục
+- Nhiễm trùng lây qua đường tình dục
+- [Viêm âm đạo bong tróc](https://dermnetnz.org/topics/desquamative-vaginitis)
+- [Viêm âm đạo do vi khuẩn](https://dermnetnz.org/topics/bacterial-vaginosis) (nguyên nhân gây dịch tiết bọt)
+- [Viêm âm đạo do tế bào học](https://dermnetnz.org/topics/cytolytic-vaginosis)
+
+## Nhiễm trùng da không lây qua đường tình dục
+
+Nhiễm trùng da không lây qua đường tình dục có thể xuất hiện ở vùng sinh dục, có lẽ vì các vi sinh vật phát triển mạnh trong môi trường ấm áp và ẩm ướt.
+
+### Nhiễm trùng vi khuẩn
+
+Nhiễm trùng da do vi khuẩn bao gồm:
+
+- [Nhọt](https://dermnetnz.org/topics/boil) (nhiễm trùng sâu của nang lông)
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis) (nhiễm trùng bề mặt của nang lông)
+- [Chốc lở](https://dermnetnz.org/topics/impetigo) (lở loét học đường)
+- [Erythrasma](https://dermnetnz.org/topics/erythrasma) (mảng nâu khô)
+- [Lao da](https://dermnetnz.org/topics/cutaneous-tuberculosis) (hiếm).
+
+### Nhiễm trùng nấm
+
+Nhiễm trùng da do nấm bao gồm:
+
+- [Tinea cruris](https://dermnetnz.org/topics/tinea-cruris) (ngứa bẹn)
+- [Nhiễm nấm âm đạo](https://dermnetnz.org/topics/vulvovaginal-candidiasis) (nấm men).
+
+### Nhiễm trùng virus
+
+Nhiễm trùng da do virus bao gồm:
+
+- [Herpes sinh dục](https://dermnetnz.org/topics/genital-herpes), nguyên nhân phổ biến nhất của mụn nước hoặc lở loét tái phát
+- [Mụn cóc sinh dục](https://dermnetnz.org/topics/anogenital-warts), nguyên nhân phổ biến nhất của nốt sần trong khu vực này
+- [Herpes zoster](https://dermnetnz.org/topics/herpes-zoster) (bệnh zona)
+- [Molluscum contagiosum](https://dermnetnz.org/topics/molluscum-contagiosum).
+
+### Ký sinh trùng
+
+Vùng bẹn cũng là nơi ưa thích cho một số ký sinh trùng:
+
+- [Chí mu](https://dermnetnz.org/topics/pubic-lice)
+- [Ghẻ](https://dermnetnz.org/topics/scabies)
+- [Bệnh sán máng](https://dermnetnz.org/topics/schistosomiasis)
+- [Bệnh amip](https://dermnetnz.org/topics/amoebiasis)
+- [Bệnh giun chỉ](https://dermnetnz.org/topics/filariasis)
+- [Bệnh leishmania](https://dermnetnz.org/topics/leishmaniasis).
+
+## Nhiễm trùng lây qua đường tình dục
+
+Các nhiễm trùng lây qua đường tình dục (STIs) quan trọng bao gồm:
+
+- [Giang mai](https://dermnetnz.org/topics/syphilis)
+- [Lậu](https://dermnetnz.org/topics/gonorrhoea)
+- [Lymphogranuloma venereum](https://dermnetnz.org/topics/lymphogranuloma-venereum)
+- [Chancroid](https://dermnetnz.org/topics/chancroid)
+- [Granuloma inguinale](https://dermnetnz.org/topics/granuloma-inguinale) (donovanosis)
+- [Trichomoniasis](https://dermnetnz.org/topics/trichomoniasis)
+- [Herpes sinh dục](https://dermnetnz.org/topics/genital-herpes)
+- [Mụn cóc sinh dục](https://dermnetnz.org/topics/anogenital-warts)
+- [Molluscum contagiosum](https://dermnetnz.org/topics/molluscum-contagiosum).
+
+## Tổn thương da sinh dục
+
+Tổn thương da không nhiễm trùng và các tình trạng khác thường được tìm thấy ở vùng sinh dục bao gồm:
+
+- [Tổn thương da âm hộ](https://dermnetnz.org/topics/vulval-lumps-and-bumps/?stage=Live)
+- [Angiokeratomas](https://dermnetnz.org/topics/angiokeratomas) (đốm đỏ/tím)
+- [Hidradenitis suppurativa](https://dermnetnz.org/topics/hidradenitis-suppurativa) (cục giống nhọt ở nếp gấp da)
+- [Hailey Hailey](https://dermnetnz.org/topics/hailey-hailey-disease) (mụn nước ở nếp gấp da)
+- [Dính môi lớn ở trẻ em gái trước tuổi dậy thì](https://dermnetnz.org/topics/labial-adhesion-prepubertal-girls)
+- [Dính môi lớn ở người lớn](https://dermnetnz.org/topics/labial-adhesions-in-adult-women)
+- [Viêm tuyến bã nhờn](https://dermnetnz.org/topics/sebaceous-adenitis) (nốt sần viêm trên môi nhỏ)
+- [Milia,](https://dermnetnz.org/topics/milium-milia) nang lông và nang biểu bì
+- [Tân sinh nội biểu mô âm hộ](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia) hoặc VIN (còn gọi là ung thư biểu mô tế bào vảy âm hộ tại chỗ), bao gồm [Bowenoid papulosis](https://dermnetnz.org/topics/bowenoid-papulosis)
+- [Tân sinh nội biểu mô dương vật](https://dermnetnz.org/topics/penile-intraepithelial-neoplasia) hoặc PIN (còn gọi là ung thư biểu mô tế bào vảy dương vật tại chỗ, bệnh Bowen của dương vật, [erythroplasia của Quyerat](https://dermnetnz.org/topics/penile-intraepithelial-neoplasia))
+- Tân sinh nội biểu mô hậu môn hoặc AIN (còn gọi là ung thư biểu mô tế bào vảy hậu môn tại chỗ)
+- [Ung thư biểu mô tế bào vảy xâm lấn](https://dermnetnz.org/topics/squamous-cell-carcinoma-of-the-skin) bao gồm [ung thư âm hộ](https://dermnetnz.org/topics/vulval-cancer) và [ung thư hậu môn](https://dermnetnz.org/topics/anal-cancer-and-anal-canal-cancer) (phát sinh từ [mụn cóc sinh dục](https://dermnetnz.org/topics/anogenital-warts)). [Ung thư âm hộ](https://dermnetnz.org/topics/vulval-cancer) cũng có thể phát sinh từ [lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus) hoặc [lichen planus](https://dermnetnz.org/topics/lichen-planus))
+- [Bệnh Paget ngoài vú](https://dermnetnz.org/topics/extramammary-paget-disease)
+- Đốm sắc tố sinh dục hoặc sắc tố (dấu nâu vô hại trong đó có nhiều sắc tố hơn trong tế bào da)
+- [Melanoma niêm mạc](https://dermnetnz.org/topics/mucosal-melanoma) (một dạng ung thư da hiếm gặp trong đó có sự tăng sinh không kiểm soát của tế bào sắc tố)
+- [Nốt sần dương vật ngọc trai](https://dermnetnz.org/topics/pearly-penile-papules)
+- [Bệnh Peyronie](https://dermnetnz.org/topics/peyronie-disease), trong đó có một dải xơ xuất hiện trên dương vật.
+
+## Làm thế nào để chẩn đoán các rối loạn sinh dục?
+
+Một lịch sử cẩn thận và kiểm tra da đầy đủ, bao gồm da sinh dục, được khuyến nghị. Các xét nghiệm thường bao gồm:
+
+- Lấy mẫu từ da bị ảnh hưởng, niệu đạo hoặc âm đạo để nuôi cấy vi khuẩn, nấm men và virus
+- Xét nghiệm máu
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy).
+
+## Làm thế nào để điều trị các rối loạn sinh dục?
+
+Điều trị phụ thuộc vào tình trạng cá nhân.
+
+Da sinh dục rất nhạy cảm, vì vậy việc điều trị phải được thực hiện nhẹ nhàng. Rửa một hoặc hai lần mỗi ngày với nước ấm. Tránh xà phòng; có thể sử dụng chất tẩy rửa không xà phòng cân bằng pH nhưng nên rửa sạch.
+
+### Các trang web khác
+
+- [Viêm âm hộ, viêm âm đạo và viêm cổ tử cung](http://www.therapeutique-dermatologique.org/spip.php?article1889&lang=en) – Điều trị trong Da liễu, Quỹ René Touraine
+- [Rối loạn âm hộ-âm đạo](https://www.issvd.org/): một thuật toán cho chẩn đoán và điều trị cơ bản cho người lớn — ISSVD
+- [Điều kiện và quản lý âm hộ](https://medicine.umich.edu/sites/default/files/content/downloads/Vulva%20patient%20hand%20out%20final%20update%20Jan%202017.pdf) — Michigan Medicine
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ - phiên bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

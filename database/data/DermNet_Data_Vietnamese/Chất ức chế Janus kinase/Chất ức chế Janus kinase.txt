@@ -1,0 +1,244 @@
+##### Chất ức chế Janus kinase — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Jakinibs, Các chất có cơ chế hoạt động Janus kinase, Chất ức chế JAK
+
+Danh mục:
+
+Điều trị, Bệnh hệ thống
+
+ICD-10:
+
+D84.821
+
+ICD-11:
+
+NE60
+
+SNOMED CT:
+
+704312008, 734606006
+
+**[Điều trị](https://dermnetnz.org/topics?category=Treatments) [Bệnh hệ thống](https://dermnetnz.org/topics?category=Systemic%20diseases)**
+
+# **Chất ức chế Janus kinase**
+
+**Được xem xét lần cuối: Tháng 7, 2025**
+
+Tác giả: Nancy Huang (MBChB), Nhà văn y khoa DermNet, New Zealand (2025); Bác sĩ Estella Janz-Robinson, Đăng ký Da liễu, Úc (2021); Hana Numan, Nhà văn y khoa DermNet, NZ (2022 và 2023).
+
+Được đánh giá ngang hàng bởi: Bác sĩ Vidette Wong, Bác sĩ chuyên khoa, Vương quốc Anh (2025)
+
+Bác sĩ da liễu đánh giá: Bác sĩ Ian Coulson
+
+Chỉnh sửa bởi bộ phận nội dung DermNet.
+
+[Giới thiệu](https://dermnetnz.org/topics/janus-kinase-inhibitors#Introduction%3Cbr%20/%3E) [Sử dụng](https://dermnetnz.org/topics/janus-kinase-inhibitors#Uses%3Cbr%20/%3E) [Chống chỉ định và thận trọng](https://dermnetnz.org/topics/janus-kinase-inhibitors#Contraindications%20and%20precautions%3Cbr%20/%3E) [Thông tin thêm](https://dermnetnz.org/topics/janus-kinase-inhibitors#More%20information%3Cbr%20/%3E) [Lợi ích](https://dermnetnz.org/topics/janus-kinase-inhibitors#Benefits%3Cbr%20/%3E) [Nhược điểm](https://dermnetnz.org/topics/janus-kinase-inhibitors#Disadvantages%3Cbr%20/%3E) [Tác dụng phụ và rủi ro](https://dermnetnz.org/topics/janus-kinase-inhibitors#Side%20effects%20and%20risks)
+
+## Chất ức chế Janus kinase là gì?
+
+Chất ức chế Janus kinase (JAK), còn được gọi là jakinibs hoặc JAKis, là các phân tử nhỏ can thiệp vào các con đường tín hiệu JAK-STAT (Truyền tín hiệu và Kích hoạt phiên mã) liên quan đến sinh bệnh học của nhiều bệnh viêm do miễn dịch trung gian (IMIDs).
+
+## Chất ức chế Janus kinase được sử dụng để làm gì?
+
+Chất ức chế Janus kinase đã cho thấy hiệu quả có lợi trong nhiều tình trạng do miễn dịch trung gian.
+
+Chất ức chế JAK cũng đã được sử dụng thành công trong các tình trạng có đột biến JAK như đa hồng cầu vera, tăng tiểu cầu thiết yếu và xơ hóa tủy.
+
+### Sử dụng không liên quan đến da của chất ức chế Janus kinase
+
+- [Viêm cột sống dính khớp](https://dermnetnz.org/topics/spondyloarthropathy)
+- [COVID-19](https://dermnetnz.org/topics/covid-19)
+- [Viêm động mạch tế bào khổng lồ](https://dermnetnz.org/topics/giant-cell-arteritis)
+- Xơ hóa tủy
+- Viêm cột sống trục không có hình ảnh
+- [Viêm khớp vảy nến](https://dermnetnz.org/topics/psoriatic-arthritis)
+- [Viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin)
+- [Viêm loét đại tràng](https://dermnetnz.org/topics/oral-manifestations-of-inflammatory-bowel-disease) và [bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease).
+
+### Sử dụng liên quan đến da của chất ức chế Janus kinase
+
+Chất ức chế Janus kinase đã được phê duyệt sử dụng hoặc đang được điều tra cho các chỉ định sau:
+
+| Chỉ định | Được phê duyệt sử dụng | Đang điều tra |
+| --- | --- | --- |
+| [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) | - Dạng uống [abrocitinib](https://dermnetnz.org/topics/abrocitinib), [baricitinib](https://dermnetnz.org/topics/baricitinib), [upadacitinib](https://dermnetnz.org/topics/upadacitinib)<br>  <br>- Dạng bôi [ruxolitinib](https://dermnetnz.org/topics/ruxolitinib) | - Dạng uống [tofacitinib](https://dermnetnz.org/topics/tofacitinib)<br>  <br>- Dạng bôi delgocitinib, tofacitinib |
+| [Rụng tóc từng mảng](https://dermnetnz.org/topics/alopecia-areata) | - Dạng uống [baricitinib](https://dermnetnz.org/topics/baricitinib), deuruxolitinib, ritlecitinib, [tofacitinib](https://dermnetnz.org/topics/tofacitinib) | - Dạng uống [ruxolitinib](https://dermnetnz.org/topics/ruxolitinib), [tofacitinib](https://dermnetnz.org/topics/tofacitinib), [upadacitinib](https://dermnetnz.org/topics/upadacitinib)<br>  <br>- Dạng bôi tofacitinib |
+| [Bạch biến](https://dermnetnz.org/topics/vitiligo) | - Dạng bôi [ruxolitinib](https://dermnetnz.org/topics/ruxolitinib) | - Dạng uống [upadacitinib](https://dermnetnz.org/topics/upadacitinib)<br>  <br>- Dạng bôi [tofacitinib](https://dermnetnz.org/topics/tofacitinib) |
+| [Vảy nến mảng](https://dermnetnz.org/topics/chronic-plaque-psoriasis) | - Dạng uống [deucravacitinib](https://dermnetnz.org/topics/deucravacitinib)<br>  <br>- Dạng uống [tofacitinib](https://dermnetnz.org/topics/tofacitinib) cho [vảy nến móng](https://dermnetnz.org/topics/nail-psoriasis) | - Dạng uống [baricitinib](https://dermnetnz.org/topics/baricitinib), delgocitinib, filotinib, itacitinib, peficitinib, [tofacitinib](https://dermnetnz.org/topics/tofacitinib)<br>  <br>- Dạng bôi brepocitinib, [ruxolitinib](https://dermnetnz.org/topics/ruxolitinib) |
+| Viêm da tay mãn tính | - Dạng bôi delgocitinib |
+| [Viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis) |  | - Dạng uống [baricitinib](https://dermnetnz.org/topics/baricitinib) [ruxolitinib](https://dermnetnz.org/topics/ruxolitinib), [tofacitinib](https://dermnetnz.org/topics/tofacitinib), [upadacitinib](https://dermnetnz.org/topics/upadacitinib) |
+| [Bệnh ghép chống chủ (GVHD)](https://dermnetnz.org/topics/graft-versus-host-disease) |  | - Dạng uống [baricitinib](https://dermnetnz.org/topics/baricitinib), itacitinib, [ruxolitinib](https://dermnetnz.org/topics/ruxolitinib) |
+| [Viêm tuyến mồ hôi mủ](https://dermnetnz.org/topics/hidradenitis-suppurativa) |  | - Dạng uống [upadacitinib](https://dermnetnz.org/topics/upadacitinib) |
+| [Lichen phẳng](https://dermnetnz.org/topics/lichen-planus)/ [lichen phẳng nang lông](https://dermnetnz.org/topics/lichen-planopilaris) |  | - Dạng uống [tofacitinib](https://dermnetnz.org/topics/tofacitinib)<br>  <br>- Dạng bôi [ruxolitinib](https://dermnetnz.org/topics/ruxolitinib) |
+| [Lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus)/ [lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus) |  | - Dạng uống [baricitinib](https://dermnetnz.org/topics/baricitinib), [deucravacitinib](https://dermnetnz.org/topics/deucravacitinib), elsubrutinib, [tofacitinib](https://dermnetnz.org/topics/tofacitinib), [upadacitinib](https://dermnetnz.org/topics/upadacitinib) |
+| Rối loạn u hạt bao gồm [sarcoidosis](https://dermnetnz.org/topics/sarcoidosis), [u hạt vòng](https://dermnetnz.org/topics/granuloma-annulare), [hoại tử mỡ lipoidica](https://dermnetnz.org/topics/necrobiosis-lipoidica) |  | - Dạng uống [tofacitinib](https://dermnetnz.org/topics/tofacitinib) |
+
+Các báo cáo trường hợp đơn lẻ hoặc loạt trường hợp nhỏ báo cáo phản ứng với chất ức chế JAK bao gồm:
+
+- [Viêm da ánh sáng mãn tính](https://dermnetnz.org/topics/chronic-actinic-dermatitis)
+- [Hội chứng quá mẫn thuốc (DRESS)](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome)
+- [Hội chứng Stevens-Johnson/hoại tử biểu bì nhiễm độc (SJS/TEN)](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis)
+- [Hội chứng tăng bạch cầu ái toan](https://dermnetnz.org/topics/hypereosinophilic-syndrome)
+- [Morphoea](https://dermnetnz.org/topics/morphoea)
+- [Viêm cân bạch cầu ái toan](https://dermnetnz.org/topics/eosinophilic-fasciitis)
+- [Bệnh Hailey-Hailey](https://dermnetnz.org/topics/benign-familial-pemphigus).
+
+### Lịch sử cấp phép và phát triển
+
+[Tofacitinib](https://dermnetnz.org/topics/tofacitinib) đã nhận được sự chấp thuận của FDA cho điều trị [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) vào năm 2012, và vào năm 2017/18 cũng cho [viêm khớp vảy nến](https://dermnetnz.org/topics/psoriatic-arthritis) và [viêm loét đại tràng](https://dermnetnz.org/topics/oral-manifestations-of-inflammatory-bowel-disease). Nó được sử dụng ngoài nhãn cho [vảy nến](https://dermnetnz.org/topics/psoriasis), và hiện đang được điều tra cho điều trị một số tình trạng da liễu bao gồm [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) và [bạch biến](https://dermnetnz.org/topics/vitiligo).
+
+[Ruxolitinib](https://dermnetnz.org/topics/ruxolitinib) đã được TGA tại Úc phê duyệt vào năm 2013 cho điều trị xơ hóa tủy. Nó cũng đã được FDA phê duyệt cho điều trị bôi ngoài da viêm da dị ứng nhẹ đến trung bình (2021), và bạch biến không phân đoạn ở bệnh nhân người lớn và trẻ em từ 12 tuổi trở lên (2022).
+
+[Baricitinib](https://dermnetnz.org/topics/baricitinib) đã được TGA tại Úc phê duyệt vào năm 2018 cho điều trị viêm khớp dạng thấp và, vào năm 2021, cho viêm da dị ứng từ trung bình đến nặng. Sự phê duyệt cho chỉ định này cũng đã được cấp bởi Liên minh Châu Âu và Nhật Bản.
+
+[Upadacitinib](https://dermnetnz.org/topics/upadacitinib) đã được Medsafe New Zealand (2021) và FDA (2022) phê duyệt cho điều trị viêm da dị ứng từ trung bình đến nặng. Abrocitinib và upadacitinib dạng uống đã nhận được giấy phép sử dụng cho viêm da cơ địa tại Mỹ và Châu Âu vào năm 2023.
+
+Năm 2020, kem delgocitinib đã được phê duyệt tại Nhật Bản cho điều trị viêm da dị ứng ở người lớn, sau đó là sự phê duyệt của Châu Âu vào năm 2024 cho điều trị viêm da tay mãn tính từ trung bình đến nặng.
+
+## Chống chỉ định và thận trọng với chất ức chế Janus kinase là gì?
+
+### Chống chỉ định
+
+- Nhiễm trùng nghiêm trọng đang hoạt động, bao gồm lao hoạt động
+- Quá mẫn với thuốc hoặc bất kỳ tá dược nào của sản phẩm
+- Giảm bạch cầu lympho, giảm bạch cầu trung tính, hoặc thiếu máu: số lượng bạch cầu lympho tuyệt đối <0.5 × 109/L; số lượng bạch cầu trung tính tuyệt đối <1 × 109/L; nồng độ hemoglobin <80 g/L
+- Các tác nhân sinh học đồng thời (ví dụ, [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis), [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis), [rituximab](https://dermnetnz.org/topics/rituximab)) hoặc các tác nhân ức chế miễn dịch mạnh khác (ví dụ, [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine), [cyclosporine](https://dermnetnz.org/topics/ciclosporin), [tacrolimus](https://dermnetnz.org/topics/tacrolimus)) — thiếu dữ liệu an toàn
+- Suy gan nặng (lớp C của Child-Pugh) — thiếu dữ liệu an toàn
+- Suy thận giai đoạn cuối (eGFR <15 mL/phút/1.73m2) — thiếu dữ liệu an toàn
+- Mang thai và cho con bú — thiếu dữ liệu an toàn.
+
+### Thận trọng
+
+- Tuổi >65 năm
+- Hiện tại (hoặc tiền sử) ung thư
+- Yếu tố nguy cơ cho các sự kiện huyết khối động mạch hoặc tĩnh mạch
+- Suy thận — có thể cần điều chỉnh liều nếu suy thận trung bình (eGFR 30-59 mL/phút/1.73m2) hoặc nặng (eGFR 15-30 mL/phút/1.73m2); xem các trang thuốc cá nhân.
+
+## Hãy cho tôi biết thêm về chất ức chế Janus kinase.
+
+Gia đình Janus kinase bao gồm bốn kinase tyrosine nội bào — JAK1, JAK2, JAK3, và tyrosine kinase 2 (TYK2). Các JAK liên kết với các thụ thể cytokine xuyên màng và được kích hoạt bởi sự liên kết của cytokine và yếu tố tăng trưởng.
+
+Khi được kích hoạt, JAK phosphoryl hóa thụ thể cytokine xuyên màng, dẫn đến kích hoạt các STAT nội bào. STAT sau đó di chuyển vào nhân và điều chỉnh phiên mã gen. Phosphate được cung cấp bởi ATP, và mỗi JAK và tyrosine kinase nhận biết một túi liên kết ATP hơi khác nhau. Sự biểu hiện quá mức của các con đường JAK/STAT có thể dẫn đến sự phát triển của bệnh tự miễn và ung thư.
+
+Chất ức chế JAK (JAKis) có thể được phân loại theo tính chọn lọc của chúng đối với các isoform JAK cụ thể:
+
+- Pan-JAKi — delgocitinib, peficitinib
+- JAK1i — [abrocitinib](https://dermnetnz.org/topics/abrocitinib), itacitinib, oclacitinib, [upadacitinib](https://dermnetnz.org/topics/upadacitinib)
+- JAK1/2i — [baricitinib](https://dermnetnz.org/topics/baricitinib), [ruxolitinib](https://dermnetnz.org/topics/ruxolitinib)
+- JAK1/3i — [tofacitinib](https://dermnetnz.org/topics/tofacitinib)
+- JAK3i — decernotinib, ritlecitinib
+- TYK2 inhibitors — brepocitinib, [deucravacitinib](https://dermnetnz.org/topics/deucravacitinib).
+
+Sự sẵn có của các chất ức chế JAK khác nhau giữa các quốc gia và khu vực.
+
+#### Con đường tín hiệu chất ức chế Janus kinase
+
+![](https://dermnetnz.org/assets/Non-clinical-images/JAKi-pathway-2020-Singh.jpg)
+
+Hình ảnh từ: Singh R, Heron CE, Ghamrawi RI, Strowd LC, Feldman SR. Vai trò nổi lên của chất ức chế Janus kinase trong điều trị viêm da dị ứng. Immunotargets Ther. 2020;9:255-72. doi:10.2147/ITT.S229667
+
+## Lợi ích của chất ức chế Janus kinase là gì?
+
+Vì chất ức chế Janus kinase là các phân tử nhỏ, chúng có thể được sử dụng bôi ngoài hoặc uống, không giống như các tác nhân sinh học cần tiêm. Chúng cũng rẻ hơn đáng kể so với các tác nhân sinh học, cần sản xuất sinh học phức tạp, vì chất ức chế JAK được tổng hợp hóa học.
+
+Dựa trên các so sánh trực tiếp và phân tích tổng hợp, chất ức chế JAK dường như cho thấy sự khởi đầu tác dụng nhanh hơn so với [các tác nhân sinh học](https://dermnetnz.org/topics/biologics) trong điều trị [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis).
+
+## Nhược điểm của chất ức chế Janus kinase là gì?
+
+Chất ức chế Janus kinase có thể làm gián đoạn truyền tín hiệu của nhiều thụ thể cytokine hơn là nhắm mục tiêu cụ thể vào các cytokine hoặc thụ thể cytokine, dẫn đến nhiều tác dụng phụ hơn.
+
+Đối với một số tình trạng da liễu, các thử nghiệm lâm sàng đã cho thấy sự tái phát nhanh chóng là phổ biến sau khi ngừng chất ức chế JAK như [rụng tóc từng mảng](https://dermnetnz.org/topics/alopecia-areata), [bạch biến](https://dermnetnz.org/topics/vitiligo), và [vảy nến](https://dermnetnz.org/topics/psoriasis).
+
+## Tác dụng phụ và rủi ro của chất ức chế Janus kinase là gì?
+
+Các tác dụng phụ thường gặp của chất ức chế JAK bao gồm:
+
+- Nhiễm trùng ví dụ, nhiễm trùng đường hô hấp trên, [herpes zoster](https://dermnetnz.org/topics/herpes-zoster)
+- Đau đầu
+- Buồn nôn và tiêu chảy
+- [Mụn trứng cá](https://dermnetnz.org/topics/acne) – mụn trứng cá nhẹ đến trung bình xảy ra ở khoảng 15% những người bị chàm được điều trị bằng JAKis; nó thường đáp ứng với các tác nhân như [benzoyl peroxide](https://dermnetnz.org/topics/benzoyl-peroxide), kháng sinh, hoặc [retinoids](https://dermnetnz.org/topics/topical-retinoids), và hiếm khi cần ngừng thuốc.
+
+### Nhiễm trùng
+
+Chất ức chế Janus kinase làm tăng khả năng mắc các nhiễm trùng vi khuẩn, nấm, mycobacteria, và virus nghiêm trọng do điều chỉnh miễn dịch. Do đó, cần sàng lọc lao, [viêm gan B và C](https://dermnetnz.org/topics/viral-hepatitis), và [HIV](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome) trước khi bắt đầu điều trị bằng chất ức chế JAK.
+
+Tái hoạt động của virus herpes dường như là phổ biến; bệnh nhân nên nhận tiêm chủng zoster (vaccine zoster tái tổ hợp) trước khi bắt đầu liệu pháp JAKi. Có thể xem xét dự phòng kháng virus cho bệnh nhân có tái phát herpes thường xuyên.
+
+Khuyến nghị tiêm chủng:
+
+- Cập nhật tiêm chủng trước khi điều trị JAKi, bao gồm vaccine phế cầu (không hoạt động) và vaccine cúm hàng năm.
+- Tránh tiêm chủng sống trong hoặc ngay trước khi điều trị ví dụ, sởi-quai bị-rubella (MMR), thương hàn, bacillus Calmette-Guerin (BCG), sốt vàng, varicella zoster, rotavirus, và viêm não Nhật Bản.
+
+Xem: [Tiêm chủng ở bệnh nhân da liễu bị ức chế miễn dịch](https://dermnetnz.org/topics/immunisation-in-immunosuppressed-dermatology-patients).
+
+Nếu có dấu hiệu hoặc triệu chứng của nhiễm trùng nghiêm trọng phát triển trong quá trình điều trị bằng JAKis, nên ngừng điều trị cho đến khi kiểm soát được nhiễm trùng.
+
+### Rối loạn lipid máu
+
+JAKis liên quan đến sự gia tăng các thông số lipid (cholesterol toàn phần, cholesterol LDL, cholesterol HDL, và triglycerides) trong 12 tuần đầu điều trị; mức lipid có xu hướng ổn định sau đó. Rối loạn lipid máu nên được quản lý theo hướng dẫn lâm sàng.
+
+### Các sự kiện tim mạch bất lợi lớn (MACEs)
+
+Có các báo cáo không nhất quán về mối liên hệ giữa JAKis và tăng nguy cơ MACEs (tổng hợp của nhồi máu cơ tim không tử vong, đột quỵ thiếu máu không tử vong, và tử vong do tim mạch).
+
+[Tofacitinib](https://dermnetnz.org/topics/tofacitinib) đã được liên kết với nguy cơ MACEs cao hơn so với các chất ức chế yếu tố hoại tử khối u (TNF) trong điều trị bệnh nhân từ 50 tuổi trở lên với viêm khớp dạng thấp. Tuy nhiên, nguy cơ tăng này chủ yếu được quan sát ở bệnh nhân từ 65 tuổi trở lên và những người có yếu tố nguy cơ trước đó ví dụ, bệnh xơ vữa động mạch, hút thuốc lâu năm.
+
+Mặc dù các sự kiện bất lợi tương tự chưa được báo cáo với [baricitinib](https://dermnetnz.org/topics/baricitinib) và [upadacitinib](https://dermnetnz.org/topics/upadacitinib), FDA đã tìm thấy các rủi ro chưa được đánh giá đầy đủ và đã đưa ra cảnh báo hộp đen do cơ chế hoạt động tương tự.
+
+### Ung thư
+
+Một mối liên hệ giữa JAKis và ung thư (ví dụ, [u lympho T](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma)) hiện đang được điều tra, với kết quả cho đến nay là hỗn hợp.
+
+Ví dụ, một phân tích tổng hợp năm 2023 đã tìm thấy sự gia tăng nguy cơ ung thư cho JAKis so với [các chất ức chế yếu tố hoại tử khối u](https://dermnetnz.org/topics/tumour-necrosis-factor-inhibitors), nhưng không khi so sánh với giả dược hoặc [methotrexate](https://dermnetnz.org/topics/methotrexate).
+
+[Tofacitinib](https://dermnetnz.org/topics/tofacitinib) đã được tìm thấy có liên quan đến sự gia tăng tỷ lệ mắc ung thư so với các chất ức chế TNF cho bệnh nhân viêm khớp dạng thấp từ 50 tuổi trở lên với ít nhất một yếu tố nguy cơ tim mạch. TGA tại Úc cảnh báo liều cao (10mg bd) nên được sử dụng thận trọng ở bệnh nhân có ung thư da không phải tế bào hắc tố.
+
+### Sự kiện huyết khối
+
+Một số JAKis có thể liên quan đến tăng nguy cơ huyết khối động mạch và tĩnh mạch (VTE), đặc biệt là [tofacitinib](https://dermnetnz.org/topics/tofacitinib) và [baricitinib](https://dermnetnz.org/topics/baricitinib).
+
+### Tác động huyết học
+
+JAKis đã được liên kết với giảm bạch cầu lympho, giảm bạch cầu trung tính, và thiếu máu. Những tác động này có thể phổ biến hơn ở các JAKis không chọn lọc.
+
+Điều trị nên được tạm dừng nếu bệnh nhân phát triển số lượng bạch cầu lympho tuyệt đối <0.5 × 109/L, số lượng bạch cầu trung tính tuyệt đối <1 × 109/L, hoặc nồng độ hemoglobin <80 g/L. Điều trị có thể được bắt đầu lại khi mức độ trở lại trên các ngưỡng này.
+
+_Bảng dữ liệu được phê duyệt là nguồn thông tin chính thức cho các loại thuốc, bao gồm các sử dụng được phê duyệt, liều lượng, và thông tin an toàn. Kiểm tra bảng dữ liệu cá nhân trong quốc gia của bạn để biết thông tin về các loại thuốc._
+
+_Chúng tôi đề nghị bạn tham khảo cơ quan phê duyệt thuốc quốc gia của bạn như [Cục Quản lý Hàng hóa Trị liệu Úc (TGA),](http://www.tga.gov.au/) [Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA)](http://www.fda.gov/), [Cơ quan quản lý sản phẩm y tế và chăm sóc sức khỏe Vương quốc Anh (MHRA)](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) / [emc](https://www.medicines.org.uk/emc/about-the-emc), và [Medsafe New Zealand,](https://www.medsafe.govt.nz/Medicines/infoSearch.asp) hoặc một danh mục thuốc quốc gia hoặc tiểu bang được phê duyệt ví dụ, [Danh mục Thuốc New Zealand](http://www.nzf.org.nz/) (NZF) và [Danh mục Thuốc Trẻ em New Zealand](http://www.nzfchildren.org.nz/) (NZFC) và [Danh mục Thuốc Quốc gia Anh](http://bnf.nice.org.uk/) (BNF) và [Danh mục Thuốc Trẻ em Quốc gia Anh](http://bnfc.nice.org.uk/) (BNFC)._
+
+### Thư mục
+
+- Challoumas D, Simpson C, Arnold M, et al. Sử dụng chất ức chế Janus-kinase trong các bệnh viêm do miễn dịch trung gian ngoài các chỉ định được cấp phép: Một đánh giá phạm vi. Autoimmun Rev. 2025;24(3):103736. doi:10.1016/j.autrev.2024.103736. [Tạp chí](https://www.sciencedirect.com/science/article/pii/S1568997224002271?via%3Dihub)
+- Chapman S, Kwa M, Gold LS, Lim HW. Chất ức chế Janus kinase trong da liễu: Phần I. Một đánh giá toàn diện. J Am Acad Dermatol. 2021;S0190-9622(21)02071–5. doi:10.1016/j.jaad.2021.07.002. [Tạp chí](https://www.jaad.org/article/S0190-9622(21)02071-5/abstract)
+- Chapman S, Gold LS, Lim HW. Chất ức chế Janus kinase trong da liễu: Phần II. Một đánh giá toàn diện. J Am Acad Dermatol. 2021;S0190-9622(21)02022-3. doi:10.1016/j.jaad.2021.06.873. [Tạp chí](https://www.jaad.org/article/S0190-9622(21)02022-3/abstract)
+- Dillon KL. Một đánh giá văn học toàn diện về chất ức chế JAK trong điều trị rụng tóc từng mảng. Clin Cosmet Investig Dermatol. 2021;14:691–714. doi:10.2147/CCID.S309215. [Tạp chí](https://www.dovepress.com/a-comprehensive-literature-review-of-jak-inhibitors-in-treatment-of-al-peer-reviewed-fulltext-article-CCID)
+- Jo CE, Gooderham M, Beecker J. Chất ức chế TYK 2 cho điều trị các tình trạng da liễu: sự phát triển của chất ức chế JAK. Int J Dermatol. 2021;10.1111/ijd.15605. doi:10.1111/ijd.15605. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/ijd.15605)
+- Krueger JG, McInnes IB, Blauvelt A. Tyrosine kinase 2 và Janus kinase‒truyền tín hiệu và kích hoạt phiên mã và ức chế trong vảy nến mảng. J Am Acad Dermatol. 2021;S0190-9622(21)02017-X. doi:10.1016/j.jaad.2021.06.869. [Tạp chí](https://www.jaad.org/article/S0190-9622(21)02017-X/fulltext)
+- Lin CM, Cooles FA, Isaacs JD. Các cơ chế cơ bản của ức chế JAK. Mediterr J Rheumatol. 2020;31(Suppl 1):100–4. doi:10.31138/mjr.31.1.100. [Tạp chí](https://pmc.ncbi.nlm.nih.gov/articles/PMC7361186/pdf/MJR-31-Suppl-1-100.pdf)
+- Mendes-Bastos P, Ladizinski B, Guttman-Yassky E, et al. Đặc điểm của mụn trứng cá liên quan đến điều trị upadacitinib ở bệnh nhân viêm da dị ứng từ trung bình đến nặng: Một phân tích tích hợp hậu kỳ của 3 thử nghiệm ngẫu nhiên, mù đôi, có đối chứng giả dược giai đoạn 3. J Am Acad Dermatol. 2022;87(4):784-791. [Tạp chí](https://www.jaad.org/article/S0190-9622(22)00996-3/fulltext)
+- Singh R, Heron CE, Ghamrawi RI, Strowd LC, Feldman SR. Vai trò nổi lên của chất ức chế Janus kinase trong điều trị viêm da dị ứng. Immunotargets Ther. 2020;9:255-72. doi:10.2147/ITT.S229667. [Tạp chí](https://www.dovepress.com/emerging-role-of-janus-kinase-inhibitors-for-the-treatment-of-atopic-d-peer-reviewed-fulltext-article-ITT)
+- Worm M, Bauer A, Elsner P, Mahler V, Molin S, Nielsen TSS. Hiệu quả và an toàn của delgocitinib bôi ngoài da ở bệnh nhân chàm tay mãn tính: dữ liệu từ một nghiên cứu giai đoạn IIa ngẫu nhiên, mù đôi, có đối chứng giả dược. Br J Dermatol. 2020;182(5):1103–10. doi:10.1111/bjd.18469. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/bjd.18469)
+
+### Trên DermNet
+
+- [Abrocitinib](https://dermnetnz.org/topics/abrocitinib)
+- [Baricitinib](https://dermnetnz.org/topics/baricitinib)
+- [Deucravacitinib](https://dermnetnz.org/topics/deucravacitinib)
+- [Ruxolitinib](https://dermnetnz.org/topics/ruxolitinib)
+- [Tofacitinib](https://dermnetnz.org/topics/tofacitinib)
+- [Upadacitinib](https://dermnetnz.org/topics/upadacitinib)
+- [Điều trị viêm da dị ứng](https://dermnetnz.org/topics/treatment-of-atopic-dermatitis)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

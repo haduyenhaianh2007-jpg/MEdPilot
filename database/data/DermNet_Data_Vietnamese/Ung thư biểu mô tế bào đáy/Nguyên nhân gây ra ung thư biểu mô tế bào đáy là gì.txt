@@ -1,0 +1,7 @@
+## Nguyên nhân gây ra ung thư biểu mô tế bào đáy?
+
+Nguyên nhân của BCC là đa yếu tố.
+
+- Thường xuyên nhất, có các đột biến DNA trong gen ức chế khối u patched (PTCH), một phần của con đường tín hiệu hedgehog.
+- Những đột biến này có thể được kích hoạt bởi sự tiếp xúc với bức xạ tia cực tím.
+- Các [khuyết tật gen](https://dermnetnz.org/topics/genetics-of-basal-cell-carcinoma) tự phát và di truyền khác nhau có thể dẫn đến BCC.

@@ -1,0 +1,35 @@
+### Bibliography
+
+- Dupire G, Droitcourt C, Hughes C, Le Cleach L. Antistreptococcal interventions for guttate and chronic plaque psoriasis. Cochrane Database Syst Rev. 2019;3(3):CD011571. doi:10.1002/14651858.CD011571.pub2. [Journal](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011571.pub2/full)
+- Gananandan K, Sacks B, Ewing I. Guttate psoriasis secondary to COVID-19. BMJ Case Rep. 2020;13(8):e237367. doi:10.1136/bcr-2020-237367. [Journal](https://casereports.bmj.com/content/13/8/e237367.long)
+- Garritsen FM, Kraag DE, de Graaf M. Guttate psoriasis triggered by perianal streptococcal infection. Clin Exp Dermatol. 2017;42(5):536–8. doi:10.1111/ced.13129. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28543851/)
+- Jindal R, Chauhan P, Sethi S. Dermoscopic characterization of guttate psoriasis, pityriasis rosea, and pityriasis lichenoides chronica in dark skin phototypes: an observational study. Dermatol Ther. 2021;34(1):e14631. doi:10.1111/dth.14631. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33277950/)
+- Kridin, K., de Luca, D. A., Mruwat, N., Ludwig, R. J., & Thaçi, D. (2025). The risk of different subtypes of psoriasis following an episode of guttate psoriasis. Journal of the American Academy of Dermatology, 92(2), 315–316. doi:10.1016/j.jaad.2024.04.082. [Journal](https://www.jaad.org/article/S0190-9622(24)02915-3/abstract)
+
+- Makhecha M, Singh T, Khatib Y. Dermoscopy differentiates guttate psoriasis from a mimicker-pityriasis rosea. Dermatol Pract Concept. 2021;11(1):e2021138. doi:10.5826/dpc.1101a138. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7875666/)
+- Maruani A, Samimi M, Stembridge N, et al. Non-antistreptococcal interventions for acute guttate psoriasis or an acute guttate flare of chronic psoriasis. Cochrane Database Syst Rev. 2019;4(4):CD011541. doi:10.1002/14651858.CD011541.pub2. [Journal](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011541.pub2/full)
+- Pfingstler LF, Maroon M, Mowad C. Guttate psoriasis outcomes. Cutis. 2016;97(2):140–4. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26919501/)
+- Rouai M, Rabhi F, Mansouri N, Jaber K, Dhaoui R. New-onset guttate psoriasis secondary to COVID-19. Clin Case Rep. 2021;9(7):e04542. doi:10.1002/ccr3.4542. [Journal](https://onlinelibrary.wiley.com/doi/10.1002/ccr3.4542)
+
+### On DermNet
+
+- [Paediatric psoriasis](https://dermnetnz.org/topics/paediatric-psoriasis)
+- [Streptococcal skin infection](https://dermnetnz.org/topics/streptococcal-skin-infections)
+- [Treatment of psoriasis](https://dermnetnz.org/topics/treatment-of-psoriasis)
+
+### Other websites
+
+- [Navigating Psoriasis](https://www.youtube.com/watch?v=DjiQQUz1jCw&t=1s) — DermNet e-lecture \[Youtube\]
+- [Guttate psoriasis](https://emedicine.medscape.com/article/1107850-overview) — Medscape
+- [MyPsoriasis.co.nz](https://mypsoriasis.co.nz/) — Information for New Zealand patients with psoriasis and psoriatic arthritis, sponsored by AbbVie
+
+### Books about skin diseases
+
+- [Books about the skin](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- second edition](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Other recommended articles
+
+![close](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

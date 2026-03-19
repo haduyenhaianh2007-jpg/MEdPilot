@@ -1,0 +1,20 @@
+## Chẩn đoán phân biệt cho lichen phẳng
+
+Chẩn đoán phân biệt của lichen phẳng rất rộng và có thể được phân loại thành:
+
+#### Bảng 1: Chẩn đoán phân biệt cho lichen phẳng
+
+|     |     |
+| --- | --- |
+| Dạng sẩn cổ điển | - [Vảy nến](https://dermnetnz.org/topics/psoriasis)<br>  <br>- [Lupus ban đỏ mạn tính trên da](https://dermnetnz.org/topics/discoid-lupus-erythematosus)<br>  <br>- [Lichen simplex mạn tính](https://dermnetnz.org/topics/lichen-simplex)<br>  <br>- [Giang mai thứ phát](https://dermnetnz.org/topics/syphilis)<br>  <br>- [Pityriasis rosea](https://dermnetnz.org/topics/pityriasis-rosea) |
+| Lichen phẳng dạng vòng | - [Granuloma annulare](https://dermnetnz.org/topics/granuloma-annulare)<br>  <br>- [Nấm da](https://dermnetnz.org/topics/tinea) |
+| Dạng đường thẳng | - [Lichen striatus](https://dermnetnz.org/topics/lichen-striatus)<br>  <br>- [Nevus biểu bì dạng mụn cóc viêm đường thẳng (ILVEN)](https://dermnetnz.org/topics/inflammatory-linear-verrucous-epidermal-naevus)<br>  <br>- [Vảy nến đường thẳng](https://dermnetnz.org/topics/psoriasis)<br>  <br>- [Bệnh Darier-White đường thẳng](https://dermnetnz.org/topics/darier-disease) |
+| Dạng phì đại | - [Vảy nến](https://dermnetnz.org/topics/psoriasis)<br>  <br>- [Prurigo nodularis](https://dermnetnz.org/topics/nodular-prurigo)<br>  <br>- [Amyloidosis da dạng lichenoid](https://dermnetnz.org/topics/cutaneous-amyloidosis)<br>  <br>- [Sarcoma Kaposi](https://dermnetnz.org/topics/kaposi-sarcoma) |
+| Lichen phẳng sắc tố | [Bệnh da xám](https://dermnetnz.org/topics/erythema-dyschromicum-perstans) |
+| Lichen phẳng ánh sáng | - [Lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus)<br>  <br>- [Phát ban ánh sáng đa hình](https://dermnetnz.org/topics/polymorphic-light-eruption)<br>  <br>- [Granuloma annulare](https://dermnetnz.org/topics/granuloma-annulare)<br>  <br>- [Sarcoidosis](https://dermnetnz.org/topics/sarcoidosis)<br>  <br>- [Nám da](https://dermnetnz.org/topics/melasma)<br>  <br>- [Erythema dyschromicum perstans (bệnh da xám)](https://dermnetnz.org/topics/erythema-dyschromicum-perstans)<br>  <br>- [Phát ban do thuốc dạng lichenoid](https://dermnetnz.org/topics/lichenoid-drug-eruption) |
+| Dạng bọng nước | - [Lichen phẳng pemphigoides](https://dermnetnz.org/topics/lichen-planus)<br>  <br>- [Pemphigoid bọng nước](https://dermnetnz.org/topics/bullous-pemphigoid)<br>  <br>- [Pemphigus vulgaris](https://dermnetnz.org/topics/pemphigus-vulgaris) |
+| Dạng teo | - [Lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus)<br>  <br>- [Lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)<br>  <br>- [Bệnh da xám](https://dermnetnz.org/topics/erythema-dyschromicum-perstans) |
+| Lichen phẳng âm hộ | - [Lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus)<br>  <br>- Bệnh bóng nước âm hộ-âm đạo |
+| Lichen phẳng miệng | - [Bạch sản](https://dermnetnz.org/topics/oral-leukoplakia)<br>  <br>- [Nhiễm nấm Candida](https://dermnetnz.org/topics/candida)<br>  <br>- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)<br>  <br>- [Pemphigus vulgaris](https://dermnetnz.org/topics/pemphigus-vulgaris)<br>  <br>- [Pemphigoid bọng nước](https://dermnetnz.org/topics/bullous-pemphigoid)<br>  <br>- [Lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus)<br>  <br>- Chấn thương do cắn<br>  <br>- [Lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)<br>  <br>- [Ung thư tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) |
+| Lichen phẳng móng | - Móng giòn<br>  <br>- [Vảy nến](https://dermnetnz.org/topics/psoriasis)<br>  <br>- [Nấm móng](https://dermnetnz.org/topics/fungal-nail-infections)<br>  <br>- [Rụng tóc từng mảng](https://dermnetnz.org/topics/alopecia-areata) |
+| Lichen planopilaris | - [Lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)<br>  <br>- [Rụng tóc từng mảng](https://dermnetnz.org/topics/alopecia-areata) |

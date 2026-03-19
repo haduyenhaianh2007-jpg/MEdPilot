@@ -1,0 +1,25 @@
+##### Viêm nang lông da đầu — thông tin bổ sung
+
+Danh mục:
+
+Rối loạn nang lông
+
+ICD-10:
+
+L73.9, L70.2, L66.3, B88.0
+
+ICD-11:
+
+EG30.0, ED70.51, ED81.Y, 1B74.0, 1G07.0, 1F2D.1
+
+SNOMED CT:
+
+238378003, 45072005, 77333008, 402922003, 402923008, 23894009, 404175004, 201182003, 238379006, 240894003, 428172002
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics?category=Follicular%20disorder)**
+
+# **Viêm nang lông da đầu**
+
+Tác giả: Được xem xét và cập nhật bởi Tiến sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand; Vanessa Ngan, Nhà văn; Clare Morrison, Biên tập viên, Tháng 6 năm 2014.
+
+[Giới thiệu](https://dermnetnz.org/topics/scalp-folliculitis#Introduction%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/scalp-folliculitis#Causes%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/scalp-folliculitis#Treatment%3Cbr%20/%3E) [Mụn trứng cá hoại tử](https://dermnetnz.org/topics/scalp-folliculitis#Acne%20necrotica%3Cbr%20/%3E) [Viêm quanh nang lông da đầu có mủ và thâm nhập](https://dermnetnz.org/topics/scalp-folliculitis#Perifolliculitis%20capitis%20abscedens%20et%20suffodiens)

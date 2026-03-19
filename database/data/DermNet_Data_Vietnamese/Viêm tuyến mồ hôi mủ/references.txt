@@ -1,0 +1,55 @@
+### Bibliography
+
+- Faivre C, Villani AP, Aubin F, et al. Hidradenitis suppurativa (HS): an unrecognized paradoxical effect of biologic agents (BA) used in chronic inflammatory diseases. J Am Acad Dermatol. 2016;74(6):1153–9. doi:10.1016/j.jaad.2016.01.018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26965410/)
+- Goldburg SR, Strober BE, Payette MJ. Hidradenitis suppurativa: epidemiology, clinical presentation, and pathogenesis. J Am Acad Dermatol. 2020;82(5):1045–58. doi:10.1016/j.jaad.2019.08.090. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31604104/)
+- Goldburg SR, Strober BE, Payette MJ. Hidradenitis suppurativa: current and emerging treatments. J Am Acad Dermatol. 2020;82(5):1061–82. doi:10.1016/j.jaad.2019.08.089. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31604100/)
+- Kimball AB, Jemec GBE, Alavi A, et al. Secukinumab in moderate-to-severe hidradenitis suppurativa (SUNSHINE and SUNRISE): week 16 and week 52 results of two identical, multicentre, randomised, placebo-controlled, double-blind phase 3 trials \[published correction appears in Lancet. 2024 Feb 17;403(10427):618\]. Lancet. 2023;401(10378):747-61. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36746171/)
+- Kohorst JJ, Baum CL, Otley CC, et al. Surgical management of hidradenitis suppurativa: outcomes of 590 consecutive patients. Dermatol Surg. 2016;42(9):1030–40. doi:10.1097/DSS.0000000000000806. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27340739/)
+- Lee JH, Kwon HS, Jung HM, Kim GM, Bae JM. Prevalence and comorbidities associated with hidradenitis suppurativa in Korea: a nationwide population-based study. J Eur Acad Dermatol Venereol. 2018;32(10):1784–90. doi:10.1111/jdv.15071. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29761904/)
+- Lim SYD, Oon HH. Systematic review of immunomodulatory therapies for hidradenitis suppurativa. Biologics. 2019;13:53–78. doi:10.2147/BTT.S199862. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31190730/)
+- Mastacouris N, Midgette B, Strunk A, Garg A. Precocious Puberty Among Children and Adolescents With Hidradenitis Suppurativa. JAMA Dermatol. 2024;160(11):1245–1246. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39292442/)
+- Nosrati A, Ch'en PY, Torpey ME, et al. Efficacy and Durability of Intravenous Ertapenem Therapy for Recalcitrant Hidradenitis Suppurativa. JAMA Dermatol. 2024;160(3):312–8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38353987/)
+- Ring HC, Thorsen J, Saunte DM, et al. The follicular skin microbiome in patients with hidradenitis suppurativa and healthy controls. JAMA Dermatol. 2017;153(9):897–905. doi:10.1001/jamadermatol.2017.0904. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28538949/)
+- Schrader AM, Deckers IE, van der Zee HH, Boer J, Prens EP. Hidradenitis suppurativa: a retrospective study of 846 Dutch patients to identify factors associated with disease severity. J Am Acad Dermatol. 2014;71(3):460–7. doi:10.1016/j.jaad.2014.04.001. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24880664/)
+- van der Zee HH, Boer J, Prens EP, Jemec GB. The effect of combined treatment with oral clindamycin and oral rifampicin in patients with hidradenitis suppurativa. Dermatology. 2009;219(2):143–7. doi:10.1159/000228337. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19590174/)
+- Vossen AR, van Straalen KR, Prens EP, van der Zee HH. Menses and pregnancy affect symptoms in hidradenitis suppurativa: a cross-sectional study. J Am Acad Dermatol. 2017;76(1):155–6. doi:10.1016/j.jaad.2016.07.024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27986138/)
+- Wendland, Z., Rypka, K., Herzog, C., Greenlund, L., Fulk, T., Gravely, A., Westanmo, A., Garg, A., & Goldfarb, N. (2025). Prevalence of abdominal aortic aneurysm in patients with hidradenitis suppurativa in the Veterans Affairs Health Care System. British Journal of Dermatology, 192(1), 160–162. doi:10.1093/bjd/ljae325. [Journal](https://academic.oup.com/bjd/article-abstract/192/1/160/7734042?redirectedFrom=fulltext)
+
+### On DermNet
+
+- [Hidradenitis suppurativa images](https://dermnetnz.org/images/hidradenitis-suppurativa-images)
+- [Follicular occlusion syndrome](https://dermnetnz.org/topics/follicular-occlusion-syndrome)
+- [Hidradenitis suppurativa: severity assessment](https://dermnetnz.org/topics/hidradenitis-suppurativa-severity-assessment)
+- [Management of hidradenitis suppurativa: an Australasian consensus statement](https://dermnetnz.org/topics/hidradenitis-suppurativa-guidelines)
+- [Smoking and its effects on the skin](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+
+### Other websites
+
+- [Global HS COVID-19 Registry](https://hscovid.ucsf.edu/) — Health professionals complete de-identified case histories of patients with hidradenitis suppurativa with confirmed or suspected COVID-19
+- [HS-Online for NZ](http://www.hs-online.co.nz/)
+- [Hidradenitis suppurativa](http://ghr.nlm.nih.gov/condition/hidradenitis-suppurativa) US National Library of Medicine Genetics Home Reference
+- [Hidradenitis Suppurativa](http://www.nlm.nih.gov/medlineplus/hidradenitissuppurativa.html) — Medline Plus
+- [HS-online](http://www.hs-online.com.au/)
+- [The Hidradenitis Suppurativa Trust](http://www.ba-hs.org.uk/)
+- [HS-USA](http://hs-usa.webs.com/) Support Group
+- [Hidradenitis Suppurativa Foundation, Inc](http://www.hs-foundation.org/)
+- [Hidradenitis Suppurativa Awareness](https://www.facebook.com/groups/hssufferersinaustralia/) — Facebook Group — Australia
+- [Hidradenitis Suppurativa Australia/New Zealand](https://www.facebook.com/groups/101870120150148/) Facebook group
+- [Dermatologic Manifestations of Hidradenitis Suppurativa](http://emedicine.medscape.com/article/1073117-overview) — Medscape
+- [Hidradenitis Suppurativa](https://www.bad.org.uk/pils/hidradenitis-suppurativa/) — British Association of Dermatologists
+- [Adalimumab for treating moderate to severe hidradenitis suppurativa](https://www.nice.org.uk/guidance/ta392) — NICE technology appraisal guidance, June 2016
+- [Hidradenitis suppurativa and diet: What's recommended?](http://www.mayoclinic.org/diseases-conditions/hidradenitis-suppurativa/expert-answers/hidradenitis-suppurativa-diet/faq-20182593) — Mayo Clinic
+- [Hidradenitis suppurativa, diet, and PCOS](https://www.pcosnutrition.com/hidradenitis-suppurativa/) — PCOS Nutrition Center
+- [Hidradenitis suppurativa](https://www.aad.org/public/diseases/a-z/hidradenitis-suppurativa-overview) — American Academy of Dermatology
+- [Systematic reviews on hidradenitis suppurativa](https://www.nottingham.ac.uk/research/groups/cebd/resources/hs-systematic-reviews.aspx) — University of Nottingham
+
+### Books about skin diseases
+
+- [Books about the skin](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- second edition](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Other recommended articles
+
+![close](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

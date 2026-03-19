@@ -1,0 +1,17 @@
+## Nhiễm nấm da
+
+- [Nấm học](https://dermnetnz.org/fungal/mycology.html) (nghiên cứu về nấm)
+- [Xét nghiệm trong phòng thí nghiệm cho nhiễm nấm](https://dermnetnz.org/fungal/fungi-laboratory.html)
+- [Nhiễm nấm Tinea](https://dermnetnz.org/fungal/tinea.html)
+- [Tinea barbae](https://dermnetnz.org/fungal/tinea-barbae.html) (nhiễm nấm ở râu)
+- [Tinea capitis](https://dermnetnz.org/fungal/tinea-capitis.html) (nhiễm nấm ở da đầu)
+- [Tinea corporis](https://dermnetnz.org/fungal/tinea-corporis.html) (nhiễm nấm ở thân và chi)
+- [Tinea cruris](https://dermnetnz.org/fungal/tinea-cruris.html) (nhiễm nấm ở háng)
+- [Tinea faciei](https://dermnetnz.org/fungal/tinea-faciei.html) (nhiễm nấm ở mặt)
+- [Tinea incognito](https://dermnetnz.org/fungal/tinea-incognito.html) (nhiễm nấm được điều trị bằng steroid)
+- [Tinea manuum](https://dermnetnz.org/fungal/tinea-manuum.html) (nhiễm nấm ở tay)
+- [Tinea pedis](https://dermnetnz.org/fungal/tinea-pedis.html) (nhiễm nấm ở chân)
+- [Tinea unguium](https://dermnetnz.org/fungal/onychomycosis.html) (nấm móng, nhiễm nấm móng)
+- [U hạt Majocchi](https://dermnetnz.org/fungal/majocchi-granuloma.html) (nhiễm nấm sâu ở nang lông)
+- [Kerion](https://dermnetnz.org/fungal/kerion.html) (áp xe nấm)
+- [Phản ứng Dermatophytide (id)](https://dermnetnz.org/fungal/ide.html) (viêm da phản ứng với nhiễm nấm tinea)

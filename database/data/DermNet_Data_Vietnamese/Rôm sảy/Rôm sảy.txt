@@ -1,0 +1,170 @@
+##### Miliaria — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Phát ban mồ hôi, Rôm sảy
+
+Danh mục:
+
+Phát ban
+
+ICD-10:
+
+L74.0, L74.1, L74.2, L74.3
+
+ICD-11:
+
+EE02, EE02.0, EE02.Y, KC40.1
+
+SNOMED CT:
+
+63951004, 44279002, 72658003, 47317002, 201195008, 26988005, 402824003, 402821006
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Miliaria**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1997. Cập nhật bởi Bác sĩ Anita Eshraghi, Chuyên gia Da liễu, Thụy Điển. Tháng 2 năm 2018. Sửa đổi tháng 9 năm 2020
+
+[Giới thiệu](https://dermnetnz.org/topics/miliaria#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/miliaria#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/miliaria#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/miliaria#Clinical%20features) [Biến chứng](https://dermnetnz.org/topics/miliaria#Complications) [Chẩn đoán](https://dermnetnz.org/topics/miliaria#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/miliaria#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/miliaria#Treatment) [Kết quả](https://dermnetnz.org/topics/miliaria#Outcome)
+
+## Miliaria là gì?
+
+Miliaria là một bệnh da phổ biến do tắc nghẽn và/hoặc viêm ống mồ hôi eccrine. Miliaria thường gặp ở khí hậu nóng, ẩm hoặc nhiệt đới, ở bệnh nhân trong bệnh viện và trong giai đoạn sơ sinh. Miliaria còn được gọi là phát ban nhiệt, phát ban mồ hôi hoặc rôm sảy.
+
+Dựa trên mức độ tắc nghẽn ống mồ hôi, miliaria được chia thành ba loại:
+
+- Miliaria crystallina (sudamina) do tắc nghẽn ống mồ hôi gần bề mặt da trong lớp sừng của biểu bì
+- Miliaria rubra xảy ra sau khi tắc nghẽn ống mồ hôi ở các lớp sâu hơn của da (giữa biểu bì)
+- Miliaria profunda (anhidrosis nhiệt đới) là kết quả của mồ hôi rò rỉ từ các tuyến mồ hôi vào lớp giữa của da (tắc nghẽn tại hoặc dưới điểm nối dermoepidermal) sau các đợt miliaria rubra lặp đi lặp lại.
+
+![Miliaria](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/miliaria1.jpg)
+
+Miliaria
+
+![Miliaria](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/miliaria2.jpg)
+
+Miliaria
+
+![](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/miliaria3.jpg)
+
+## Ai bị miliaria?
+
+- Miliaria crystallina ảnh hưởng đến tới 9% trẻ sơ sinh, với độ tuổi trung bình là 1 tuần. Nó cũng có thể xảy ra ở người lớn bị sốt.
+- Miliaria rubra là loại phát ban nhiệt phổ biến nhất. Nó được thấy ở trẻ em và tới 30% người lớn di chuyển đến môi trường nhiệt đới hoặc bất ngờ tiếp xúc với nhiệt và độ ẩm. Mặc dù miliaria có thể phát triển trong vài ngày sau khi đến vùng nhiệt đới, nhưng thường mất vài tháng để đạt đỉnh.
+- Miliaria profunda hiếm gặp và xuất hiện ở nam giới trưởng thành.
+
+Phát ban nhiệt có thể ảnh hưởng đến tất cả các nhóm tuổi và nhóm chủng tộc.
+
+## Nguyên nhân gây ra miliaria là gì?
+
+Rôm sảy là kết quả của việc đổ mồ hôi. Các nguyên nhân và yếu tố nguy cơ chính bao gồm:
+
+- Ống mồ hôi chưa trưởng thành ở trẻ sơ sinh
+- Môi trường nóng và ẩm
+- Tập thể dục hoặc hoạt động thể chất cường độ cao
+- Sốt
+- Da bị bít kín với băng không thấm hoặc quần áo tổng hợp tiếp xúc với da
+- Bệnh nhân nằm viện hoặc nằm liệt giường nằm trên nệm chống thấm nước hoặc bảo vệ nệm.
+
+Các bệnh và điều trị khác có liên quan đến miliaria bao gồm:
+
+- [Tăng tiết mồ hôi do thuốc](https://dermnetnz.org/topics/drug-induced-hyperhidrosis)
+- [Phản ứng bất lợi với thuốc](https://dermnetnz.org/topics/adverse-cutaneous-reactions-to-drugs) như hóa trị liệu cảm ứng
+- [Hội chứng Stevens-Johnson / hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis)
+- Bệnh di truyền (hội chứng Morvan và giả thiếu hụt aldosteron type I)
+- Xạ trị.
+
+## Các đặc điểm lâm sàng của miliaria là gì?
+
+Triệu chứng của phát ban nhiệt thay đổi tùy theo loại:
+
+- Miliaria crystallina xuất hiện dưới dạng mụn nước trong suốt 1–2 mm dễ vỡ. Các mụn nước có thể trông giống như giọt mồ hôi. Không có viêm. Các mụn nước thường được thấy lan rộng trên đầu, cổ và thân trên. Các mụn nước dễ vỡ để lại vảy dạng cám.
+- Miliaria rubra, dạng phát ban nhiệt phổ biến nhất, dẫn đến các sẩn và sẩn mụn nước đỏ, 2–4 mm, không có nang lông. Chúng rất ngứa. Nền đỏ thường có mặt. Ở trẻ em, miliaria ảnh hưởng đến thân và các nếp gấp da của cổ, nách hoặc bẹn. Ở người lớn, miliaria thường ảnh hưởng đến thân trên, da đầu, cổ và các nếp gấp, đặc biệt ở các khu vực ma sát với quần áo.
+- Miliaria pustulosa là một biến thể của miliaria rubra với mụn mủ.
+- Miliaria profunda xuất hiện dưới dạng các sẩn sâu không triệu chứng. Các sẩn màu da, đường kính 1–3 mm phát triển trên thân và chi.
+
+## Các biến chứng của miliaria là gì?
+
+Biến chứng của miliaria bao gồm:
+
+- [Nhiễm trùng vi khuẩn thứ phát](https://dermnetnz.org/topics/wound-infections), thường do [tụ cầu khuẩn](https://dermnetnz.org/topics/staphylococcal-skin-infection) gây ra
+- Suy giảm điều hòa nhiệt
+- [Tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) ở các khu vực không bị ảnh hưởng.
+
+## Miliaria được chẩn đoán như thế nào?
+
+Phát ban nhiệt được chẩn đoán dựa trên biểu hiện lâm sàng điển hình.
+
+Trong các trường hợp nghiêm trọng hoặc các đợt lặp đi lặp lại, [sinh thiết đục lỗ](https://dermnetnz.org/topics/skin-biopsy) có thể hữu ích. Miliaria crystallina cho thấy các mụn nước liên quan đến các ống mồ hôi trong hoặc ngay dưới lớp sừng của biểu bì. Mô học của miliaria rubra cho thấy hiện tượng bọt biển và các mụn nước bọt biển.
+
+Phết Tzanck lấy từ các mụn nước sẽ phân biệt miliaria với herpes simplex hoặc ban đỏ độc hại của trẻ sơ sinh.
+
+## Chẩn đoán phân biệt cho miliaria là gì?
+
+Các rối loạn da xuất hiện với các sẩn, mụn nước hoặc mụn mủ trông giống miliaria bao gồm:
+
+- [Herpes simplex](https://dermnetnz.org/topics/herpes-simplex)
+- [Nhiễm nấm](https://dermnetnz.org/topics/fungal-skin-infections)
+- [Viêm nang lông do vi khuẩn](https://dermnetnz.org/topics/bacterial-folliculitis)
+- [Mụn trứng cá](https://dermnetnz.org/topics/acne)
+- [Ban mụn mủ toàn thân cấp tính (AGEP)](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis)
+- [Ban đỏ độc hại của trẻ sơ sinh](https://dermnetnz.org/topics/toxic-erythema-of-the-newborn)
+- [Bệnh Grover](https://dermnetnz.org/topics/transient-acantholytic-dermatosis).
+
+## Điều trị miliaria là gì?
+
+Giải quyết miliaria yêu cầu giảm thiểu nhiệt và độ ẩm để giảm đổ mồ hôi và tránh kích ứng da. Các chiến lược để tránh đổ mồ hôi, giữ cho da mát mẻ và giảm kích ứng có thể giúp điều trị và ngăn ngừa phát ban nhiệt:
+
+- Làm việc trong văn phòng có điều hòa không khí ít nhất vài giờ mỗi ngày
+- Ngủ trong phòng ngủ thông thoáng, mát mẻ
+- Di chuyển khỏi khí hậu nhiệt đới, tránh thời tiết ẩm ướt
+- Tránh mặc quần áo quá nhiều và quần áo chật
+- Tránh xà phòng quá mức và các chất kích thích
+- Mặc áo sơ mi và áo blouse làm từ vải tổng hợp thoáng khí hoặc cotton
+- Thay quần áo ướt
+- Chườm nước mát và tắm mát
+- Bệnh nhân nên được giáo dục về các triệu chứng của kiệt sức do nhiệt.
+
+Phát ban nhiệt có thể cần chăm sóc y tế bao gồm:
+
+- Dung dịch calamine để giảm khó chịu; vì dung dịch calamine có tính khô, có thể cần một [chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers).
+- Điều trị sốt bằng thuốc hạ sốt như paracetamol (thuật ngữ Mỹ là acetoaminophen)
+- [Steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid/) nhẹ
+- [Chất khử trùng](https://dermnetnz.org/topics/antiseptic) và [kháng sinh chống tụ cầu khuẩn](https://dermnetnz.org/topics/penicillin/) cho nhiễm trùng thứ phát.
+
+## Kết quả của miliaria là gì?
+
+Hầu hết các trường hợp phát ban nhiệt sẽ tự khỏi trong vòng một hoặc hai ngày sau khi chuyển sang môi trường mát mẻ mà không cần điều trị hoặc biến chứng.
+
+### Tài liệu tham khảo
+
+- Haas N, Martens F, Henz BM. Miliaria crystallina trong môi trường chăm sóc đặc biệt. Clin Exp Dermatol. 2004;29(1):32–4. doi:10.1111/j.1365-2230.2004.01444.x. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/14723716).
+- Carter R 3rd, Garcia AM, Souhan BE. Bệnh nhân xuất hiện miliaria khi mặc quần áo chống cháy trong nhiệt độ môi trường cao: một loạt trường hợp. J Med Case Rep. 2011;5:474. doi:10.1186/1752-1947-5-474. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3195105/).
+- Godkar D, Razaq M, Fernandez G. Rối loạn da hiếm gặp phức tạp hóa trị liệu doxorubicin: miliaria crystallina. Am J Ther. 2005;12(3):275–6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15891274/)
+- Nguyen TA, Ortega-Loayza AG, Stevens MP. Phát ban miliaria sau sốt giảm bạch cầu và hóa trị liệu cảm ứng cho bệnh bạch cầu cấp dòng tủy. An Bras Dermatol. 2011;86(4 Suppl 1):S104–6. doi:10.1590/s0365-05962011000700027. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/15891274).
+- Miller JL. Bệnh của các tuyến mồ hôi eccrine và apocrine. Trong: Bolognia JL, Schaffer J, Cerroni L (biên tập). Da liễu [2 tập], Elsevier, 2017.
+- Griffiths C, Barker J, Bleiker T, Chalmers R, Creamer D (biên tập). Sách giáo khoa Da liễu của Rook [4 tập], ấn bản thứ 9, Wiley Blackwell, 2016.
+- Miller JL. Miliaria. UpToDate. Cập nhật ngày 26 tháng 5 năm 2017. Có sẵn tại: [https://www.uptodate.com/contents/miliaria](https://www.uptodate.com/contents/miliaria) (truy cập ngày 19 tháng 2 năm 2018).
+
+### Trên DermNet
+
+- [Rối loạn đổ mồ hôi](https://dermnetnz.org/topics/disorders-of-sweating)
+- [Tăng tiết mồ hôi do thuốc](https://dermnetnz.org/topics/drug-induced-hyperhidrosis)
+- [Các tình trạng da có mụn nước](https://dermnetnz.org/topics/blistering-skin-conditions)
+
+### Các trang web khác
+
+- [Biểu hiện da liễu của Miliaria](http://emedicine.medscape.com/article/1070840-overview) — Tham khảo Medscape
+- [Thông tin bệnh nhân: Phát ban nhiệt (rôm sảy) (Cơ bản)](http://www.uptodate.com/contents/heat-rash-prickly-heat-the-basics) — UpToDate (dành cho người đăng ký)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

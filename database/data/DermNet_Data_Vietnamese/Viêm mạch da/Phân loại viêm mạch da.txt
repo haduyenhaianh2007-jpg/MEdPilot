@@ -1,0 +1,40 @@
+## Phân loại viêm mạch da
+
+### Viêm mao mạch
+
+- Ban xuất huyết sắc tố tiến triển: dạng phổ biến nhất của [viêm mao mạch](https://dermnetnz.org/topics/capillaritis)
+- Ban xuất huyết ngứa
+- Viêm da lichenoid sắc tố
+- Ban xuất huyết vòng telangiectodes
+- Viêm mao mạch liên quan đến dị ứng tiếp xúc
+- [Lichen aureus](https://dermnetnz.org/topics/capillaritis)
+
+### Viêm mạch máu nhỏ
+
+- Viêm mạch máu nhỏ da do tự phát, thuốc hoặc nhiễm trùng (viêm mạch quá mẫn)
+- [Ban xuất huyết Henoch-Schönlein](https://dermnetnz.org/topics/henoch-schoenlein-purpura)
+- [Phù xuất huyết cấp tính ở trẻ sơ sinh](https://dermnetnz.org/topics/acute-haemorrhagic-oedema-of-infancy)
+- [Viêm mạch mề đay](https://dermnetnz.org/topics/urticarial-vasculitis)
+- [Viêm mạch do tập thể dục](https://dermnetnz.org/topics/exercise-induced-vasculitis)
+- [Ban đỏ nổi cao diutinum](https://dermnetnz.org/topics/erythema-elevatum-diutinum)
+- [Viêm động mạch huyết khối lympho](https://dermnetnz.org/topics/lymphocytic-thrombophilic-arteritis)
+- [Ban sẩn teo ác tính](https://dermnetnz.org/topics/malignant-atrophic-papulosis) (Degos)
+- [Cryoglobulinaemia](https://dermnetnz.org/topics/cryoglobulinaemia)
+- [Viêm mạch hoại tử tái phát do bạch cầu ái toan](https://dermnetnz.org/topics/recurrent-cutaneous-necrotising-eosinophilic-vasculitis)
+- Viêm mạch liên quan ANCA
+
+  - Viêm đa mạch vi thể
+  - [Viêm u hạt bạch cầu ái toan với viêm đa mạch / Churg-Strauss](https://dermnetnz.org/topics/eosinophilic-granulomatosis-with-polyangiitis)
+  - [Viêm u hạt với viêm đa mạch](https://dermnetnz.org/topics/granulomatosis-with-polyangiitis)
+  - [Viêm u hạt lymphomatoid](https://dermnetnz.org/topics/lymphomatoid-granulomatosis)
+
+### Viêm mạch máu trung bình
+
+- [Viêm đa động mạch nút da](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa)
+- [Bệnh Kawasaki](https://dermnetnz.org/topics/kawasaki-disease)
+- [Viêm mạch nút](https://dermnetnz.org/topics/nodular-vasculitis)
+
+### Viêm mạch máu lớn
+
+- Bệnh Takayasu
+- [Viêm động mạch tế bào khổng lồ](https://dermnetnz.org/topics/giant-cell-arteritis)

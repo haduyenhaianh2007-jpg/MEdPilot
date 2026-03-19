@@ -1,0 +1,29 @@
+##### Thông tin thêm về bệnh ghẻ
+
+Từ đồng nghĩa:
+
+Ngứa do Sarcoptes, Nhiễm trùng do Sarcoptes scabiei var hominis
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B86, B88.9
+
+ICD-11:
+
+1G04, 1G04.0, 1G04.1
+
+SNOMED CT:
+
+128869009, 67333007, 128870005, 128873007, 409977006, 47624007, 39552000, 410457007, 387559003
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infestations)**
+
+# **Bệnh ghẻ**
+
+Tác giả: Bác sĩ Jessica Rachel Maguire, IMT, Barts Health NHS Trust, London, Vương quốc Anh, tháng 3 năm 2022; cập nhật bởi Bác sĩ Ian Coulson, Chuyên gia Da liễu, Vương quốc Anh, tháng 4 năm 2025.
+
+[Giới thiệu](https://dermnetnz.org/topics/scabies#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/scabies#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/scabies#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/scabies#Clinical%20features%3Cbr%20/%3E) [Biến thể trong các loại da](https://dermnetnz.org/topics/scabies#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/scabies#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/scabies#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/scabies#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/scabies#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/scabies#Outcome)

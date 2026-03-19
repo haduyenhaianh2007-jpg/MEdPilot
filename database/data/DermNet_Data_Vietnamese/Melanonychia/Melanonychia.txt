@@ -1,0 +1,159 @@
+##### Melanonychia — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Sắc tố móng, Melanonychia striata
+
+Danh mục:
+
+Rối loạn sắc tố, Thuật ngữ
+
+ICD-10:
+
+L60.8
+
+ICD-11:
+
+EE11.0
+
+SNOMED CT:
+
+402633003, 707197003, 707197007
+
+**[Rối loạn sắc tố](https://dermnetnz.org/topics?category=Pigmentary%20disorders) [Thuật ngữ](https://dermnetnz.org/topics?category=Terminology)**
+
+# **Melanonychia**
+
+Tác giả: Ken Hiu-Kan Ip, Sinh viên Y khoa, Đại học Auckland, New Zealand; Tổng biên tập: Bác sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand; Biên tập viên: Clare Morrison, Tháng 6 năm 2014. Cập nhật bởi Bác sĩ Ebtisam Elghblawi và Bác sĩ Oakley vào tháng 10 năm 2017.
+
+[Giới thiệu](https://dermnetnz.org/topics/melanonychia#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/melanonychia#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/melanonychia#Causes) [Biến chứng](https://dermnetnz.org/topics/melanonychia#Complications) [Quản lý](https://dermnetnz.org/topics/melanonychia#Management) [Triển vọng](https://dermnetnz.org/topics/melanonychia#Outlook)
+
+## Melanonychia là gì?
+
+Melanonychia là sự đổi màu nâu hoặc đen của móng. Nó có thể lan rộng hoặc có dạng dải dọc.
+
+### Melanonychia dọc lành tính
+
+![](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/melanonychia-06.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/melanonychia-09.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/melanonychia-19.jpg)
+
+[Xem thêm hình ảnh về melanonychia](https://dermnetnz.org/topics/melanonychia-images).
+
+## Ai có nguy cơ bị melanonychia?
+
+Melanonychia có thể xuất hiện ở mọi lứa tuổi, bao gồm cả trẻ em, và ảnh hưởng đến cả hai giới tính như nhau. Nó phổ biến hơn ở những người có màu da, đặc biệt là [loại da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) V và VI.
+
+- Gần như tất cả người Afro-Caribbean sẽ phát triển sắc tố đen-nâu của móng vào tuổi 50.
+- Melanonychia ảnh hưởng đến tới 20% người Nhật Bản.
+- Người da trắng ít bị ảnh hưởng hơn.
+
+Melanonychia cũng có thể liên quan đến các rối loạn di truyền, chấn thương, thuốc, thiếu dinh dưỡng, bệnh nội tiết, [bệnh mô liên kết](https://dermnetnz.org/topics/connective-tissue-diseases), bệnh da viêm, khối u cục bộ hoặc nhiễm trùng móng.
+
+## Nguyên nhân gây ra melanonychia là gì?
+
+Móng là một cấu trúc cứng, trong suốt được tạo thành từ keratin. Nó thường không có sắc tố. Melanocytes thường nằm im lìm trong ma trận móng gần nơi móng bắt nguồn. Melanin được lắng đọng vào móng đang phát triển khi melanocytes được kích hoạt, dẫn đến một dải sắc tố — đây là melanonychia dọc.
+
+Sự lắng đọng melanin trong móng có thể do 2 quá trình:
+
+- Tăng sản melanocytic
+- Kích hoạt melanocytic.
+
+### Tăng sản melanocytic
+
+Tăng sản melanocytic đề cập đến sự gia tăng số lượng melanocytes trong ma trận móng. Điều này có thể đại diện cho một quá trình lành tính hoặc ác tính.
+
+#### Tăng sản lành tính
+
+Naevi melanocytic thường xuất hiện ở trẻ em. Về mặt mô học có các tổ hợp tế bào naevus.
+
+Lentigines thường thấy ở người lớn. Không có tổ hợp.
+
+#### Tăng sản ác tính
+
+Melanoma của đơn vị móng thường ảnh hưởng đến ngón cái, ngón trỏ và ngón chân cái.
+
+### Kích hoạt melanocytic
+
+Kích hoạt melanocytic là sự gia tăng sản xuất và lắng đọng melanin vào các tế bào móng (onychocytes), mà không tăng số lượng melanocytes. Nguyên nhân của kích hoạt melanocytic được liệt kê trong bảng dưới đây.
+
+| Melanonychia liên quan đến kích hoạt melanocytic |  |
+| --- | --- |
+| Sinh lý (chức năng) | Biến thể chủng tộc<br>Mang thai |
+| Chấn thương | [Cắn móng tay](https://dermnetnz.org/topics/onychophagia), nhai, gãy và nhặt<br>Ma sát do biến dạng chân hoặc giày dép |
+| Bệnh da viêm | [Vảy nến](https://dermnetnz.org/topics/psoriasis)<br>[Viêm da Hallopeau](https://dermnetnz.org/topics/acrodermatitis-continua-of-hallopeau)<br>[Lichen phẳng](https://dermnetnz.org/topics/lichen-planus)<br>[Amyloidosis](https://dermnetnz.org/topics/cutaneous-amyloidosis) |
+| Tổn thương không melanocytic | [Carcinoma trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma)<br>[Carcinoma tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)<br>[Mụn cóc do virus](https://dermnetnz.org/topics/viral-wart) |
+| Thiếu dinh dưỡng | Thiếu vitamin B12 hoặc folate |
+| Rối loạn nội tiết | [Bệnh Addison](https://dermnetnz.org/topics/addison-disease)<br>[Hội chứng Cushing](https://dermnetnz.org/topics/cushing-syndrome)<br>[Cường giáp](https://dermnetnz.org/topics/hyperthyroidism)<br>[Acromegaly](https://dermnetnz.org/topics/acromegaly) |
+| Bệnh hệ thống khác | Haemosiderosis<br>[Porphyria cutanea tarda](https://dermnetnz.org/topics/porphyria-cutanea-tarda)<br>[Nhiễm virus suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome)<br>[Lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus)<br>[Xơ cứng bì hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) |
+| Hội chứng | [Hội chứng Laugier-Hunziker](https://dermnetnz.org/topics/laugier-hunziker-syndrome)<br>[Hội chứng Peutz-Jeghers](https://dermnetnz.org/topics/peutz-jeghers-syndrome)<br>Hội chứng Touraine |
+| Iatrogenic | [Quang trị liệu](https://dermnetnz.org/topics/phototherapy)<br>[Tiếp xúc tia X; liệu pháp chùm electron](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) |
+| Thuốc | Tác nhân hóa trị liệu (đặc biệt là [hydroxyurea](https://dermnetnz.org/topics/hydroxyurea), busulfan, [bleomycin](https://dermnetnz.org/topics/bleomycin), adriamycin, doxorubicin, [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide), [5-fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream)<br>[Liệu pháp chống sốt rét](https://dermnetnz.org/topics/hydroxychloroquine) |
+
+Các tác nhân gây bệnh có thể gây ra melanonychia không đều khi chúng kích thích viêm kích hoạt melanocytes. Ví dụ:
+
+- Vi khuẩn Gram âm ( _Proteus mirabilis_, _Klebsiella_, [Pseudomonas](https://dermnetnz.org/topics/pseudomonas-skin-infections))
+- [Nấm móng](https://dermnetnz.org/topics/fungal-nail-infections) do [dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) ( _Trichophyton rubrum_) hoặc [nấm men](https://dermnetnz.org/topics/yeasts-on-human-skin) ( _Candida albicans_).
+
+Các tác nhân bên ngoài có thể nhuộm màu móng.
+
+- Thuốc nhuộm tóc
+- Henna
+- Men
+- Sơn.
+
+### Móng đổi màu
+
+![Onychomycosis sắc tố](https://dermnetnz.org/assets/Uploads/brown-onychomycosis.jpg)
+
+Onychomycosis sắc tố
+
+![](https://dermnetnz.org/assets/Uploads/pseudomonas-nail.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/dithranol-stained-nail.jpg)
+
+## Các biến chứng có thể xảy ra của melanonychia là gì?
+
+Biến chứng phụ thuộc vào nguyên nhân của melanonychia.
+
+- Melanoma dưới móng có thể dẫn đến di căn và cuối cùng là tử vong của bệnh nhân. Tiên lượng cho melanoma ma trận móng thường tệ hơn so với melanoma ở các vị trí khác.
+- Chấn thương, nhiễm trùng và bệnh viêm có thể dẫn đến nứt và tách móng và loạn dưỡng móng không đẹp hoặc đau đớn.
+
+## Quản lý melanonychia như thế nào?
+
+Khi melanonychia được cho là do nguyên nhân lành tính, không cần điều trị thêm.
+
+Quản lý [melanoma của đơn vị móng](https://dermnetnz.org/topics/melanoma-of-the-nail-unit) yêu cầu cắt bỏ hoàn toàn khối u và có thể cần cắt cụt ngón.
+
+## Triển vọng cho bệnh nhân bị melanonychia là gì?
+
+Melanonychia có xu hướng kéo dài, trừ khi liên quan đến thuốc — trong trường hợp đó nó sẽ mờ đi sau khi ngừng thuốc.
+
+### Tài liệu tham khảo
+
+- Rook's Textbook of Dermatology. 4th edition. Eds: Rook A, Wilkinson DS, Ebling FJB, Champion RH, Burton JL. Blackwell Scientific Publications.
+- Mannava KA, et al. Longitudinal melanonychia: detection and management of nail melanoma. Hand Surgery 2013; 18: 133–9. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23413869)
+- Jefferson J, Rich P. Melanonychia. Dermatol Res Pract 2012; 2012: 952186. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/22792094)
+- Haneke E, Baran R. Longitudinal melanonychia. Dermatol Surg 2001; 27: 580–4. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/11442597)
+- Benati E, Ribero S, Longo C, Piana S, Puig S, Carrera C, Cicero F, Kittler H, Deinlein T, Zalaudek I, Stolz W, Scope A, Pellacani G, Moscarella E, Piraccini BM, Starace M, Argenziano G. Clinical and dermoscopic clues to differentiate pigmented nail bands: an International Dermoscopy Society study. J Eur Acad Dermatol Venereol 2016. doi:10.1111/jdv.13991. [Journal](http://onlinelibrary.wiley.com.ezproxy.auckland.ac.nz/doi/10.1111/jdv.13991/full)
+- Braun RP, Baran R, Le Gal FA, Dalle S, Ronger S, Pandolfi R, Gaide O, French LE, Laugier P, Saurat JH, Marghoob AA, Thomas L. Diagnosis and management of nail pigmentations. J Am Acad Dermatol 2007; 56: 835–47. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17320240)
+
+### Trên DermNet
+
+- [Bệnh móng](https://dermnetnz.org/topics/nail-terminology)
+- [Melanoma của đơn vị móng](https://dermnetnz.org/topics/melanoma-of-the-nail-unit)
+- [Dermatoscopy của móng](https://dermnetnz.org/cme/dermoscopy-course/dermoscopy-of-the-nail)
+- [Bệnh móng do thuốc gây ra](https://dermnetnz.org/topics/drug-induced-nail-disease)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

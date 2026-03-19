@@ -1,0 +1,492 @@
+##### Mề đay và các tình trạng giống mề đay — thông tin bổ sung
+
+Danh mục:
+
+Phản ứng, Phát ban
+
+ICD-10:
+
+L50, T78.3, L50.1, L50.9, L50.8, L50.3, L50.5, L50.2, L50.6, L56.3, L28.2, L12.0, L24, L23, L51, L51.9, L27.0, D47.01, Q82.2, L13.9, O26.86, L53.1, L98.3, L74.8, L61.1, M31.8, L98.2, M04.2
+
+ICD-11:
+
+EB05, 4A00.15, EB04, EB00, EB00.0, EB00.1, ME62.2, ME63.1, EB01, EB01.0, EB03.0, EB01.1, EB01.Y, EB01.3, EK10, EK10.1, EK01.2, EK50.0Z, EK50.02, EK50.00, EB41.0, EK0Z, EB12.0, EH61.0, 2A21.20, ME63.3, JA65.12, EB11, EB30, EB2Y, NE61, PB36, EF40.10, EB20, EB2Y, 4A60.1, EB03
+
+SNOMED CT:
+
+126485001, 41291007, 404177007, 247472004, 402383003, 42265009, 402408009, 302161006, 51611005, 302162004, 402601007, 7632005, 73098005, 302165002, 74774004, 201261003, 62211002, 19364004, 19364004, 402305008, 402304007, 89870006, 10347006, 387788000, 402385005, 55608001, 238938000, 110979008, 36715001, 28664002, 89322006, 78745000, 88697005, 200920000, 400009001, 773732005, 238931006, 238754005, 83227006, 718217000, 402656007, 239945009, 402855009, 403510002, 84625002, 402417009, 238687000, 724
+
+**[Phản ứng](https://dermnetnz.org/topics?category=Reactions) [Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Mề đay và các tình trạng giống mề đay**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. 2011.
+
+[Giới thiệu - chẩn đoán mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions#Introduction%20-%20diagnoses%20of%20urticaria%3Cbr%20/%3E) [Giới thiệu - mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions#Introduction%20-%20urticaria%3Cbr%20/%3E) [Mề đay thông thường](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions#Ordinary%20urticaria%3Cbr%20/%3E) [Tổn thương da giống mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions#Urticaria-like%20skin%20lesions%3Cbr%20/%3E) [Mề đay liên quan đến bệnh hệ thống](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions#Urticaria%20associated%20with%20systemic%20disease)
+
+## Giới thiệu
+
+Chủ đề này cung cấp chẩn đoán phân biệt cho [mề đay](https://dermnetnz.org/topics/urticaria-an-overview) và cho các tình trạng giống mề đay nhưng không do phù nề gây ra.
+
+## Mề đay là gì?
+
+Mề đay mô tả một nhóm các tình trạng trong đó có các vết sưng (hoặc phù nề) trên da, là các cục ngứa màu trắng hoặc đỏ. Mề đay đôi khi có thể là dấu hiệu của bệnh hệ thống.
+
+## Mề đay thông thường
+
+[Mề đay tự phát hoặc 'thông thường'](https://dermnetnz.org/topics/urticaria-an-overview) được chia thành [mề đay cấp tính](https://dermnetnz.org/topics/acute-urticaria) (kéo dài vài giờ hoặc ngày hoặc lên đến sáu tuần) và [mề đay mãn tính](https://dermnetnz.org/topics/chronic-urticaria) (kéo dài hơn sáu tuần, và đôi khi suốt đời).
+
+- [Mề đay cấp tính](https://dermnetnz.org/topics/acute-urticaria) tự giới hạn và thường liên quan đến nhiễm trùng, và ít thường xuyên hơn do thực phẩm hoặc [do thuốc gây ra](https://dermnetnz.org/topics/drug-induced-urticaria).
+- [Mề đay mãn tính](https://dermnetnz.org/topics/chronic-urticaria) không có nguyên nhân bên ngoài cụ thể (do đó ' [tự phát](https://dermnetnz.org/topics/chronic-spontaneous-urticaria)') và được coi là tự miễn trong hầu hết các trường hợp.
+- Mề đay thông thường có thể đi kèm với [phù mạch](https://dermnetnz.org/topics/angioedema).
+
+Các vết sưng được xác định rõ ràng với bề mặt mịn. Chúng có thể có màu đỏ hoặc trắng, được bao quanh bởi một vầng đỏ hoặc trắng. Các vết sưng có kích thước từ vài milimet đến nhiều centimet đường kính. Hình dạng cũng thay đổi: tròn, đa vòng (các vòng chồng lên nhau), hình vòng (hình nhẫn), địa lý (như bản đồ). Chúng phân bố ngẫu nhiên trên cơ thể và có thể ảnh hưởng đến bất kỳ vị trí nào. Chúng tồn tại không quá 24 giờ và không để lại dấu vết nào.
+
+### Mề đay thông thường: các vết sưng không đối xứng rõ ràng trong vòng 24 giờ
+
+![](https://dermnetnz.org/assets/Uploads/reactions/urticaria01.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/reactions/urticaria02.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/reactions/urticaria03.jpg)
+
+[Xem thêm về mề đay thông thường.](https://dermnetnz.org/topics/urticaria-an-overview)
+
+### Mề đay có thể gây ra
+
+[Mề đay mãn tính có thể gây ra](https://dermnetnz.org/topics/chronic-inducible-urticaria) (trước đây được gọi là mề đay vật lý) phát sinh để đáp ứng với một yếu tố bên ngoài. Phân loại dựa trên yếu tố kích thích: vuốt da trong [chứng viết da](https://dermnetnz.org/topics/dermographism) (viết trên da), acetylcholine được giải phóng trong quá trình đổ mồ hôi trong [mề đay cholinergic](https://dermnetnz.org/topics/cholinergic-urticaria), không khí lạnh hoặc nước trong [mề đay lạnh](https://dermnetnz.org/topics/cold-urticaria), nhiệt độ cục bộ trong [mề đay nhiệt](https://dermnetnz.org/topics/heat-urticaria), một yếu tố tiếp xúc trong [mề đay tiếp xúc](https://dermnetnz.org/topics/contact-urticaria), nước ở bất kỳ loại hoặc nhiệt độ nào trong [mề đay aquagenic](https://dermnetnz.org/topics/aquagenic-urticaria), tiếp xúc với ánh nắng mặt trời trong [mề đay mặt trời](https://dermnetnz.org/topics/solar-urticaria) và áp lực mạnh trong [mề đay áp lực chậm](https://dermnetnz.org/topics/pressure-urticaria). Mề đay vật lý có các đặc điểm sau.
+
+- Các vết sưng được gây ra tại vị trí của yếu tố kích thích
+- Các vết sưng kéo dài khoảng 15 phút, gần như luôn dưới một giờ (ngoại trừ mề đay áp lực chậm, kéo dài hàng giờ đến ngày)
+
+### Mề đay có thể gây ra: các vết sưng ngắn hạn tại vị trí của yếu tố kích thích
+
+![Chứng viết da](https://dermnetnz.org/assets/Uploads/reactions/dermographism04.jpg)
+
+Chứng viết da
+
+![Mề đay mặt trời được kích thích thực nghiệm](https://dermnetnz.org/assets/Uploads/reactions/solar-urticaria2.jpg)
+
+Mề đay mặt trời được kích thích thực nghiệm
+
+![Mề đay lạnh được kích thích bằng viên đá](https://dermnetnz.org/assets/Uploads/reactions/cold-urticaria6.jpg)
+
+Mề đay lạnh được kích thích bằng viên đá
+
+## Tổn thương da giống mề đay là gì?
+
+Tổn thương da giống mề đay là các mảng phẳng màu đỏ hoặc màu da hoặc sưng với bề mặt mịn kéo dài hơn 24 giờ.
+
+### Côn trùng cắn
+
+[Côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings) thường dẫn đến các cục ngứa (sẩn) hoặc các vết sưng. Các đặc điểm của chúng bao gồm:
+
+- Cảm giác chích ban đầu thường được cảm nhận
+- Trên các vị trí tiếp xúc
+- Bọng nước trung tâm (bọng nước)
+- Các nhóm tổn thương, thường phân bố không đối xứng
+- Thường xuất hiện vào mùa hè và mùa thu
+- Các tổn thương cá nhân kéo dài từ vài ngày đến vài tuần
+- Sự đổi màu nâu kéo dài trong vài tháng thường thấy ở da dễ rám nắng.
+
+Trẻ em và, ít thường xuyên hơn, người lớn có thể phát triển [mề đay sẩn](https://dermnetnz.org/topics/papular-urticaria), được hiểu là phản ứng quá mẫn với côn trùng cắn. Không có cảm giác chích ban đầu, và các tổn thương cũ có thể tái xuất hiện.
+
+Một [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) cho thấy sự thâm nhập viêm bao gồm bạch cầu ái toan và sự xốp của biểu bì.
+
+### Côn trùng cắn: tổn thương mề đay nhóm với điểm chích hoặc bọng nước trung tâm
+
+![Côn trùng cắn](https://dermnetnz.org/assets/Uploads/reactions/insect-bites1.jpg)
+
+Côn trùng cắn
+
+![Côn trùng cắn](https://dermnetnz.org/assets/Uploads/reactions/insect-bites2.jpg)
+
+Côn trùng cắn
+
+![Côn trùng cắn](https://dermnetnz.org/assets/Uploads/reactions/insect-bites3.jpg)
+
+Côn trùng cắn
+
+### Viêm da mề đay
+
+Viêm da [mề đay](https://dermnetnz.org/topics/dermatitis) xuất hiện với cả tổn thương giống mề đay và tổn thương giống [eczema](https://dermnetnz.org/topics/atopic-dermatitis).
+
+- Viêm da mề đay thường ảnh hưởng đến bệnh nhân cao tuổi
+- Các mảng đỏ ngứa dai dẳng có thể có bề mặt mịn (giống mề đay) hoặc bề mặt khô bị trầy xước (giống eczema)
+- Chúng phân bố đối xứng trên thân, cánh tay trên và đùi
+- Trong một số trường hợp, viêm da mề đay là phản ứng bất lợi với thuốc.
+
+Một sinh thiết có thể được báo cáo là viêm da bì với các tế bào viêm hỗn hợp trong lớp bì và sự xốp tối thiểu trong lớp biểu bì.
+
+Viêm da mề đay có thể là dấu hiệu sớm của [pemphigoid bọng nước](https://dermnetnz.org/topics/bullous-pemphigoid). Cuối cùng, các bọng nước căng xuất hiện. Đặc điểm sinh thiết là bạch cầu ái toan và sự tách lớp dưới biểu bì với nhuộm dương tính trên [miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence).
+
+### Viêm da mề đay: các mảng đỏ dai dẳng với bề mặt mịn hoặc khô
+
+![Viêm da mề đay](https://dermnetnz.org/assets/Uploads/reactions/w/urticarial-dermatitis01.jpg)
+
+Viêm da mề đay
+
+![Viêm da mề đay](https://dermnetnz.org/assets/Uploads/reactions/w/urticarial-dermatitis02.jpg)
+
+Viêm da mề đay
+
+![Viêm da mề đay](https://dermnetnz.org/assets/Uploads/reactions/w/urticarial-dermatitis03.jpg)
+
+Viêm da mề đay
+
+### Viêm da tiếp xúc
+
+Viêm da tiếp xúc đôi khi xuất hiện giống mề đay hơn là eczema, với hầu hết viêm nằm trong lớp bì hơn là lớp biểu bì nông hơn.
+
+- Nó xuất hiện tại vị trí tiếp xúc với tác nhân gây ra
+- Nó có thể phát sinh trong [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) hoặc [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- Các tổn thương sẽ hết trong vài ngày đến vài tuần
+- [Thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) có thể tiết lộ một chất gây dị ứng trong các trường hợp dị ứng
+
+Viêm da tiếp xúc nên được phân biệt với [mề đay tiếp xúc](https://dermnetnz.org/topics/contact-urticaria), là một loại mề đay vật lý ngắn hạn (xem ở trên).
+
+### Viêm da tiếp xúc: đôi khi chủ yếu là lớp bì
+
+![Viêm da tiếp xúc lớp bì](https://dermnetnz.org/assets/Uploads/reactions/dermal-dermatitis1.jpg)
+
+Viêm da tiếp xúc lớp bì
+
+![Viêm da tiếp xúc lớp bì](https://dermnetnz.org/assets/Uploads/reactions/dermal-dermatitis2.jpg)
+
+Viêm da tiếp xúc lớp bì
+
+![Viêm da tiếp xúc lớp bì](https://dermnetnz.org/assets/Uploads/reactions/dermal-dermatitis3.jpg)
+
+Viêm da tiếp xúc lớp bì
+
+### Hồng ban đa dạng
+
+Hồng ban đa dạng cổ điển](https://dermnetnz.org/topics/erythema-multiforme) xuất hiện với sự bùng phát cấp tính của các tổn thương hình mục tiêu trên tay, chân, đầu gối và khuỷu tay. Tuy nhiên, các tổn thương hình mục tiêu cũng có thể được thấy trong mề đay thông thường.
+
+- [Tổn thương mục tiêu](https://dermnetnz.org/topics/target-and-targetoid-lesions) là các mảng giống mề đay được đặc trưng bởi các vòng đồng tâm
+- Trong hồng ban đa dạng, các bọng nước thường xuất hiện ở trung tâm của các mảng
+- Các tổn thương cá nhân kéo dài từ mười ngày đến 3 tuần
+- Các tổn thương niêm mạc xảy ra trong các trường hợp nghiêm trọng hơn
+- Hồng ban đa dạng có thể tái phát, thường do nhiễm virus herpes simplex
+
+Một [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) thường có đặc điểm.
+
+### Hồng ban đa dạng: các đợt tổn thương mục tiêu trên tay và đầu gối
+
+![Hồng ban đa dạng](https://dermnetnz.org/assets/Uploads/reactions/multiforme1.jpg)
+
+Hồng ban đa dạng
+
+![Hồng ban đa dạng](https://dermnetnz.org/assets/Uploads/reactions/multiforme4.jpg)
+
+Hồng ban đa dạng
+
+![Hồng ban đa dạng](https://dermnetnz.org/assets/Uploads/reactions/multiforme3.jpg)
+
+Hồng ban đa dạng
+
+### Phát ban do thuốc mề đay
+
+Phát ban do thuốc bao gồm mề đay và các phát ban giống mề đay. Các tổn thương cá nhân sẽ hết trong vài giờ trong mề đay do thuốc gây ra và kéo dài trong vài ngày trong các phát ban giống mề đay. Chúng thường được mô tả là [phát ban dạng sởi](https://dermnetnz.org/topics/morbilliform-drug-reaction) hoặc phát ban dạng mảng. Các đặc điểm của phát ban do thuốc bao gồm:
+
+- Phát ban bắt đầu trong vòng 14 ngày sau khi dùng một loại thuốc mới (trừ trong [hội chứng quá mẫn thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome), khi chúng xuất hiện trong vòng tám tuần sau khi bắt đầu một loại thuốc mới)
+- Chúng xuất hiện sớm hơn khi thử lại
+- Thuốc có thể đã bị ngừng khi phát ban xuất hiện
+- Các đốm đỏ (đốm phẳng nhỏ) và sẩn (đốm nổi nhỏ) có thể hợp nhất thành các mảng lớn (khu vực phẳng lớn) và mảng (khu vực nổi lớn)
+- Phát ban đối xứng và có xu hướng nghiêm trọng nhất trên thân
+- Phát ban có thể hoặc không thể ngứa
+- Có thể hoặc không thể có sốt nhẹ
+- Khi các tổn thương mờ đi, bề mặt sẽ bong tróc
+- Các dấu vết tối có thể kéo dài trong vài ngày đến vài tuần
+
+Một [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) cho thấy sự thâm nhập viêm tinh tế bao gồm bạch cầu ái toan, và tế bào lympho và tế bào sừng apoptotic trong lớp biểu bì.
+
+### Phát ban do thuốc: các sẩn và mảng mề đay đối xứng
+
+![Phát ban do thuốc](https://dermnetnz.org/assets/Uploads/reactions/drug-eruption1.jpg)
+
+Phát ban do thuốc
+
+![Phát ban do thuốc](https://dermnetnz.org/assets/Uploads/reactions/drug-eruption2.jpg)
+
+Phát ban do thuốc
+
+![Phát ban do thuốc](https://dermnetnz.org/assets/Uploads/reactions/drug-eruption3.jpg)
+
+Phát ban do thuốc
+
+### Mề đay sắc tố
+
+Mề đay sắc tố là một dạng của [bệnh mastocytosis da](https://dermnetnz.org/topics/maculopapular-cutaneous-mastocytosis) trong đó có các đốm nâu và sẩn.
+
+- Mề đay sắc tố chủ yếu được thấy ở trẻ sơ sinh và cải thiện theo tuổi
+- Nó cũng có thể xuất hiện ở người lớn khi có xu hướng kéo dài
+- Các tổn thương có thể ảnh hưởng đến thân và chi, và ít thường xuyên hơn là da đầu và mặt
+- Các tổn thương sẽ nổi mề đay khi chúng bị cọ xát, hoặc tự phát, tức là các sẩn sưng lên thành các vết sưng, và những vết này kéo dài đến một giờ
+- Các tổn thương có thể phồng rộp ở trẻ nhỏ
+- Có thể có từ vài đến hàng trăm tổn thương
+- Sự tham gia hệ thống có thể dẫn đến đỏ mặt và ngất xỉu
+
+Một [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) có thể tiết lộ số lượng tế bào mast tăng lên, nhưng những tế bào này có thể khó xác định, và mô có thể trông giống như da bình thường.
+
+### Mề đay sắc tố: các đốm nâu nổi mề đay
+
+![Mề đay sắc tố: các đốm nâu nổi mề đay](https://dermnetnz.org/assets/Uploads/reactions/urticaria-pigmentosa1.jpg)
+
+Mề đay sắc tố: các đốm nâu nổi mề đay
+
+### Bệnh phồng rộp tự miễn
+
+Các bệnh phồng rộp tự miễn dưới biểu bì](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) có thể ban đầu xuất hiện với các tổn thương mề đay vài ngày hoặc vài tuần trước khi các bọng nước xuất hiện. Các tổn thương mề đay này có thể được thấy trong:
+
+- [Pemphigoid bọng nước](https://dermnetnz.org/topics/bullous-pemphigoid)
+- [Pemphigoid thai kỳ](https://dermnetnz.org/topics/pemphigoid-gestationis) (pemphigoid liên quan đến thai kỳ)
+- [Bệnh bọng nước IgA tuyến tính](https://dermnetnz.org/topics/linear-iga-bullous-disease)
+- [Epidermolysis bullosa acquisita](https://dermnetnz.org/topics/epidermolysis-bullosa-acquisita)
+
+Các đặc điểm của bệnh phồng rộp tự miễn bao gồm:
+
+- Phân bố đối xứng
+- Xu hướng ảnh hưởng đến thân và nếp gấp da (nếp gấp)
+- Thường ảnh hưởng đến người cao tuổi (pemphigoid) hoặc bệnh nhân mang thai (pemphigoid thai kỳ).
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) cho [mô học thường quy](https://dermnetnz.org/topics/dermatopathology) và các nghiên cứu miễn dịch huỳnh quang trực tiếp là cần thiết để xác nhận chẩn đoán.
+
+### Các mảng mề đay trong bệnh phồng rộp tự miễn
+
+![Pemphigoid bọng nước](https://dermnetnz.org/assets/Uploads/reactions/preblister1.jpg)
+
+Pemphigoid bọng nước
+
+![Pemphigoid bọng nước](https://dermnetnz.org/assets/Uploads/reactions/preblister2.jpg)
+
+Pemphigoid bọng nước
+
+![Pemphigoid thai kỳ](https://dermnetnz.org/assets/Uploads/reactions/preblister3.jpg)
+
+Pemphigoid thai kỳ
+
+### Sẩn và mảng mề đay ngứa của thai kỳ
+
+[PUPPP](https://dermnetnz.org/topics/polymorphic-eruption-of-pregnancy) hoặc Sẩn và Mảng Mề Đay Ngứa của Thai Kỳ là một phát ban xảy ra trong vài tuần cuối của thai kỳ, thường là trong thai kỳ đầu tiên.
+
+- Các sẩn hồng nhỏ có thể kết hợp thành các mảng
+- Các tổn thương mề đay là phổ biến nhất, nhưng các mảng eczema và phồng rộp cũng có thể xuất hiện
+- Các tổn thương chủ yếu ảnh hưởng đến thân, cánh tay trên và đùi
+- Các đốm thường bắt đầu trong các vết rạn da (striae gravidarum)
+- PUPPP sẽ hết trong vài tuần sau khi sinh
+
+### PUPPP: các mảng mề đay đối xứng ưu tiên các vết rạn da
+
+![Phát ban đa dạng của thai kỳ PUPPP](https://dermnetnz.org/assets/Uploads/reactions/puppp1.jpg)
+
+Phát ban đa dạng của thai kỳ PUPPP
+
+![PUPPP phát ban đa dạng của thai kỳ](https://dermnetnz.org/assets/Uploads/reactions/puppp2.jpg)
+
+PUPPP phát ban đa dạng của thai kỳ
+
+![PUPPP phát ban đa dạng của thai kỳ](https://dermnetnz.org/assets/Uploads/reactions/puppp3.jpg)
+
+PUPPP phát ban đa dạng của thai kỳ
+
+### Hồng ban vòng
+
+[Hồng ban vòng](https://dermnetnz.org/topics/annular-erythema) thường bắt đầu như một đốm hồng đỏ nhỏ nổi lên từ từ mở rộng và hình thành hình vòng trong khi khu vực trung tâm phẳng và rõ ràng. Chúng có thể giống một vết sưng mề đay nhưng thường có vảy kéo dài. Chúng không có triệu chứng. Các vòng mở rộng với tốc độ khoảng 2-5 mm/ngày cho đến khi đạt đường kính khoảng 6-8 cm. Đôi khi các tổn thương không tạo thành vòng hoàn chỉnh mà phát triển thành hình dạng không đều.
+
+### Hồng ban vòng: các vòng mở rộng từ từ
+
+![Hồng ban vòng](https://dermnetnz.org/assets/Uploads/reactions/w/annular1.jpg)
+
+Hồng ban vòng
+
+![Hồng ban vòng](https://dermnetnz.org/assets/Uploads/reactions/w/annular2.jpg)
+
+Hồng ban vòng
+
+![Hồng ban vòng](https://dermnetnz.org/assets/Uploads/reactions/w/annular3.jpg)
+
+Hồng ban vòng
+
+### Viêm da tự miễn progesterone
+
+[Viêm da tự miễn progesterone](https://dermnetnz.org/topics/autoimmune-progesterone-dermatitis) là một phát ban hiếm gặp, tái phát và ngứa ảnh hưởng đến phụ nữ trong độ tuổi sinh đẻ.
+
+- Các tổn thương da xuất hiện trong nửa sau của chu kỳ kinh nguyệt và biến mất trong kỳ kinh nguyệt
+- Mề đay, các vết sưng giống mề đay, các tổn thương giống eczema, bọng nước và tổn thương mục tiêu có thể xảy ra
+- Nó được ngăn ngừa khi rụng trứng được ngăn chặn bởi một tác nhân tránh thai uống
+
+### Viêm da hạt kẽ
+
+[Viêm da hạt kẽ](https://dermnetnz.org/topics/granulomatous-dermatitis) là một thực thể bệnh lý đặc biệt của một phát ban da dai dẳng không bình thường thường thuộc loại mề đay. Các tổn thương khác được mô tả với cùng một bệnh lý bao gồm sẩn, nốt và mảng có màu da, đỏ hoặc nâu. Chúng có thể là hình bầu dục, vòng hoặc dạng dây.
+
+Viêm da hạt kẽ liên quan đến [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology), đặc biệt là viêm khớp đa dạng không có yếu tố dạng thấp, và đôi khi được thấy liên quan đến ung thư hạch, ung thư phổi, thuốc và nhiễm trùng
+
+![Viêm da hạt kẽ](https://dermnetnz.org/assets/Uploads/reactions/granulomatous-dermatitis1.jpg)
+
+Viêm da hạt kẽ
+
+![Viêm da hạt kẽ](https://dermnetnz.org/assets/Uploads/reactions/granulomatous-dermatitis2.jpg)
+
+Viêm da hạt kẽ
+
+![Viêm da hạt kẽ](https://dermnetnz.org/assets/Uploads/reactions/granulomatous-dermatitis3.jpg)
+
+Viêm da hạt kẽ
+
+### Hội chứng Wells
+
+[Hội chứng Wells](https://dermnetnz.org/topics/wells-syndrome), còn được gọi là viêm da bạch cầu ái toan, cũng xuất hiện với các tổn thương mề đay. Bạch cầu ái toan được thấy trong máu ở 50% bệnh nhân.
+
+- Các tổn thương có thể bị giới hạn ở một vị trí hoặc lan rộng hơn
+- Các tổn thương cá nhân là các sẩn hoặc mảng đỏ ngứa đến tím, sưng lên và biến mất trong vài ngày đến vài tuần
+- Chúng có thể giống [côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings) hoặc [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis)
+- Các tổn thương có thể để lại các dấu vết nâu kéo dài trong vài tuần đến vài tháng
+- Các bọng nước có thể xuất hiện trong các tổn thương
+- Các tổn thương có thể tái phát ở cùng một vị trí
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) được đặc trưng bởi bạch cầu ái toan và các hình ngọn lửa.
+
+![Hội chứng Wells](https://dermnetnz.org/assets/Uploads/reactions/wells1.jpg)
+
+Hội chứng Wells
+
+### Viêm tuyến mồ hôi trung tính
+
+[Viêm tuyến mồ hôi trung tính](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs#7) là một tình trạng hiếm gặp xảy ra ở bệnh nhân bị bệnh bạch cầu cấp tính dòng tủy, hoặc trong khi hoặc sau khi nhận hóa trị.
+
+- Các sẩn và mảng giống mề đay đơn độc hoặc nhóm có liên quan đến sốt
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) cho thấy bạch cầu trung tính xung quanh các tuyến mồ hôi và một số phá hủy các tế bào tuyến mồ hôi.
+
+### Viêm tuyến mồ hôi trung tính: các mảng mề đay không đều với sốt ở bệnh nhân hóa trị
+
+![Viêm tuyến mồ hôi trung tính](https://dermnetnz.org/assets/Uploads/reactions/eccrine-hidradenitis.jpg)
+
+Viêm tuyến mồ hôi trung tính
+
+## Mề đay – như một đặc điểm của bệnh hệ thống
+
+Bệnh nhân bị mề đay thông thường thường không có triệu chứng hệ thống, vì vậy nếu có, cần xem xét các chẩn đoán khác.
+
+### Ngộ độc cá scombroid
+
+Sự khởi phát đột ngột của phát ban đỏ ngứa trong vòng 30 phút sau khi tiêu thụ cá scombroid phân hủy có thể do [ngộ độc cá scombroid](https://dermnetnz.org/topics/scombroid-fish-poisoning) trong đó một lượng lớn histamine được tiêu thụ. Không giống như mề đay, không có các vết sưng. Các triệu chứng khác bao gồm đau đầu, hồi hộp, buồn nôn, tiêu chảy và ngất xỉu.
+
+### Ngộ độc cá scombroid (cá ngừ)
+
+![Phát ban scombroid](https://dermnetnz.org/assets/Uploads/reactions/scombroid1.jpg)
+
+Phát ban scombroid
+
+![Phát ban scombroid](https://dermnetnz.org/assets/Uploads/reactions/scombroid2.jpg)
+
+Phát ban scombroid
+
+### Viêm mạch mề đay
+
+[Viêm mạch mề đay](https://dermnetnz.org/topics/urticarial-vasculitis) được định nghĩa bằng mô học cho thấy [viêm mạch nhỏ](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis) trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy).
+
+- Các tổn thương da mề đay kéo dài hơn 24 giờ
+- Chúng châm chích và bỏng rát hơn là ngứa
+- Chúng để lại các dấu vết nâu hoặc bầm tím khi mờ đi
+- Chúng có thể đi kèm với [xuất huyết](https://dermnetnz.org/topics/purpura) và các đặc điểm khác của [viêm mạch da](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- Nó có thể là một quá trình cục bộ, hoặc có thể liên quan đến bệnh hệ thống
+- Nó có thể đi kèm với viêm khớp di chuyển, bệnh tim, bệnh phổi, bệnh thận, triệu chứng tiêu hóa và biến chứng thần kinh.
+- Các liên kết bao gồm [lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus), [xơ cứng bì hệ thống](https://dermnetnz.org/topics/systemic-sclerosis), nhiễm trùng, bệnh viêm ruột, ung thư hạch và ung thư cơ quan rắn.
+
+Viêm mạch quá mẫn, [viêm động mạch nút da](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa) và [hội chứng Churg-Strauss](https://dermnetnz.org/topics/eosinophilic-granulomatosis-with-polyangiitis) cũng có thể xuất hiện với các tổn thương giống mề đay.
+
+### Viêm mạch mề đay: các tổn thương mề đay biến mất với bầm tím
+
+![Viêm mạch mề đay](https://dermnetnz.org/assets/Uploads/reactions/urticarial-vasculitis1.jpg)
+
+Viêm mạch mề đay
+
+![Viêm mạch mề đay](https://dermnetnz.org/assets/Uploads/reactions/urticarial-vasculitis2.jpg)
+
+Viêm mạch mề đay
+
+![Viêm mạch mề đay](https://dermnetnz.org/assets/Uploads/reactions/urticarial-vasculitis3.jpg)
+
+Viêm mạch mề đay
+
+### Viêm da trung tính cấp tính sốt
+
+Các mảng giống mề đay đau có thể được thấy trong [viêm da trung tính cấp tính (hội chứng Sweet)](https://dermnetnz.org/topics/acute-febrile-neutrophilic-dermatosis). Các tổn thương thường phồng rộp và có thể ảnh hưởng đến bề mặt niêm mạc cũng như bề mặt da. Chúng thường được thấy trên cổ nhưng có thể xuất hiện ở bất kỳ vị trí nào. Các mảng mở rộng và kéo dài trong vài ngày đến vài tuần. Hội chứng Sweet dẫn đến sốt, mệt mỏi, đau khớp, và các triệu chứng hệ thống khác.
+
+### Hội chứng Sweet: các mảng mề đay thường phồng rộp
+
+![Bệnh Sweet](https://dermnetnz.org/assets/Uploads/reactions/w/sweet10.jpg)
+
+Bệnh Sweet
+
+![Bệnh Sweet](https://dermnetnz.org/assets/Uploads/reactions/w/sweet11.jpg)
+
+Bệnh Sweet
+
+![Bệnh Sweet](https://dermnetnz.org/assets/Uploads/reactions/w/sweet17.jpg)
+
+Bệnh Sweet
+
+### Viêm da mề đay trung tính
+
+Viêm da mề đay trung tính xuất hiện với các tổn thương mề đay được xác định bởi một mô hình phản ứng mô học tiết lộ bạch cầu trung tính xếp hàng giữa các sợi collagen.
+
+- Sốt và viêm khớp có thể đi kèm với các tổn thương da
+- Xét nghiệm máu cho thấy ESR / CRP tăng và bạch cầu trung tính tăng (số lượng bạch cầu tăng)
+- Các tình trạng viêm cơ bản như viêm khớp dạng thấp thường có mặt
+- Không giống như [viêm da trung tính cấp tính (hội chứng Sweet)](https://dermnetnz.org/topics/acute-febrile-neutrophilic-dermatosis), không có phồng rộp hoặc liên quan đến niêm mạc
+
+### Viêm da mề đay trung tính ở bệnh nhân viêm khớp dạng thấp
+
+![Viêm da trung tính liên quan đến viêm khớp dạng thấp](https://dermnetnz.org/assets/Uploads/immune/rheumatoid5.jpg)
+
+Viêm da trung tính liên quan đến viêm khớp dạng thấp
+
+![Viêm da trung tính liên quan đến viêm khớp dạng thấp](https://dermnetnz.org/assets/Uploads/immune/rheumatoid6.jpg)
+
+Viêm da trung tính liên quan đến viêm khớp dạng thấp
+
+![Viêm da trung tính liên quan đến viêm khớp dạng thấp](https://dermnetnz.org/assets/Uploads/reactions/rheumatoid11.jpg)
+
+Viêm da trung tính liên quan đến viêm khớp dạng thấp
+
+### Viêm da bạch cầu ái toan của bệnh ác tính huyết học
+
+[Viêm da bạch cầu ái toan của bệnh ác tính huyết học](https://dermnetnz.org/topics/eosinophilic-dermatosis-of-haematological-malignancy) phát sinh trong một số dạng bệnh bạch cầu. Các tổn thương da có thể bao gồm các mảng mề đay.
+
+### Hội chứng tự viêm
+
+Các [hội chứng tự viêm](https://dermnetnz.org/topics/autoinflammatory-syndromes) là một nhóm các bệnh chủ yếu di truyền ảnh hưởng đến da và các cơ quan khác.
+
+- Các vết sưng mề đay, các đốm và sẩn có thể xảy ra
+- Các tổn thương da đi kèm với sốt và bệnh khớp
+- Khởi phát thường xuyên trong thời thơ ấu
+- Viêm liên quan đến kích hoạt cytokine, interleukin IL-1beta
+
+### Hồng ban mề đay
+
+Hồng ban mề đay có nghĩa là phát ban với các mảng đỏ nổi lên. Điều này bao gồm nhiều tình trạng được mô tả ở trên. Khi đi kèm với các triệu chứng hô hấp trên, chẳng hạn như đau họng, sốt và mệt mỏi, nó thường do nhiễm virus cơ bản và là một loại [phát ban](https://dermnetnz.org/topics/exanthems). Một phát ban với các mảng đỏ phẳng cũng có thể được gọi là hồng ban độc.
+
+### Tài liệu tham khảo
+
+- Peroni A, Colato C, Schena D, Girolomoni G. Các tổn thương mề đay: nếu không phải mề đay, thì là gì? Chẩn đoán phân biệt của mề đay: phần I. Các bệnh da. J Am Acad Dermatol. 2010 Apr;62(4):541–55; quiz 555–6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20227577/)
+- Peroni A, Colato C, Zanoni G, Girolomoni G. Các tổn thương mề đay: nếu không phải mề đay, thì là gì? Chẩn đoán phân biệt của mề đay: phần II. Các bệnh hệ thống. J Am Acad Dermatol. 2010 Apr;62(4):557–70; quiz 571–2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20227577/)
+- Hannon GR, Wetter DA, Gibson LE. Viêm da mề đay: Đặc điểm lâm sàng, đánh giá chẩn đoán và các liên kết nguyên nhân trong một loạt 146 bệnh nhân tại Mayo Clinic (2006-2012). J Am Acad Dermatol. 2013 Nov 20. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/24268310)
+
+### Trên DermNet
+
+- [Mề đay](https://dermnetnz.org/topics/urticaria-an-overview)
+- [Phản vệ do tập thể dục](https://dermnetnz.org/topics/exercise-induced-anaphylaxis)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

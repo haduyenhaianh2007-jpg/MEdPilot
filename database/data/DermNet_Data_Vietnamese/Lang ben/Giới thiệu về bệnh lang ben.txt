@@ -1,0 +1,29 @@
+##### Lang ben — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Lang ben, Tinea flava
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B36, B36.0
+
+ICD-11:
+
+1F2D.0
+
+SNOMED CT:
+
+56454009, 29619007, 707291006, 10171000087105, 447178007
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Lang ben**
+
+Tác giả: A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 9 năm 2014. Sửa đổi DermNet tháng 8 năm 2021
+
+[Giới thiệu](https://dermnetnz.org/topics/pityriasis-versicolor#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/pityriasis-versicolor#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/pityriasis-versicolor#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/pityriasis-versicolor#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/pityriasis-versicolor#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/pityriasis-versicolor#Treatment%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/pityriasis-versicolor#Outlook)

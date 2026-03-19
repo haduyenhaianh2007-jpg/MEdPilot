@@ -1,0 +1,153 @@
+##### U xơ da — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+U mô bào xơ, U mô bào da, U mô bào xơ da, U máu xơ hóa, U xơ da dạng hạt, Xơ hóa nốt dưới biểu bì, U mạch xơ hóa, U xơ đơn giản, U tế bào đuôi gai da
+
+Danh mục:
+
+Tổn thương (lành tính)
+
+ICD-10:
+
+D23.9
+
+ICD-11:
+
+2F23.0
+
+SNOMED CT:
+
+427186000
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics?category=Lesions%20(benign))**
+
+# **U xơ da**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 1 năm 2016. Sửa đổi tháng 9 năm 2020
+
+[Giới thiệu](https://dermnetnz.org/topics/dermatofibroma#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/dermatofibroma#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/dermatofibroma#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/dermatofibroma#Clinical%20features) [Biến chứng](https://dermnetnz.org/topics/dermatofibroma#Complications) [Chẩn đoán](https://dermnetnz.org/topics/dermatofibroma#Diagnosis) [Điều trị](https://dermnetnz.org/topics/dermatofibroma#Treatment)
+
+## U xơ da là gì?
+
+U xơ da là một nốt xơ lành tính thường gặp, thường xuất hiện trên da của chân dưới.
+
+U xơ da còn được gọi là u mô bào xơ da.
+
+## Ai có thể bị u xơ da?
+
+U xơ da thường gặp ở người lớn. Người thuộc mọi sắc tộc đều có thể phát triển u xơ da. U xơ da thông thường phổ biến hơn ở phụ nữ so với nam giới, mặc dù một số biến thể mô học thường được xác định ở nam giới.
+
+## Nguyên nhân gây ra u xơ da là gì?
+
+Chưa rõ liệu u xơ da là một quá trình phản ứng hay là một khối u thực sự. Các tổn thương được cấu thành từ các nguyên bào sợi tăng sinh. Các tế bào mô bào cũng có thể tham gia.
+
+Đôi khi chúng được cho là do chấn thương nhẹ như vết cắn của côn trùng, tiêm chích, hoặc tổn thương do gai hoa hồng, nhưng không nhất quán. Nhiều u xơ da có thể phát triển ở bệnh nhân có hệ miễn dịch bị thay đổi như HIV, ức chế miễn dịch, hoặc các tình trạng tự miễn.
+
+## Đặc điểm lâm sàng của u xơ da là gì?
+
+U xơ da thường xuất hiện dưới dạng một nốt sần hoặc nốt cứng đơn độc trên một chi.
+
+- U xơ da có thể xuất hiện ở bất kỳ đâu trên da.
+- Kích thước u xơ da dao động từ 0,5–1,5 cm đường kính; hầu hết các tổn thương có đường kính 7–10 mm.
+- U xơ da bám chặt vào bề mặt da và di động trên mô dưới da.
+- Da phủ bên trên lõm lại khi véo tổn thương – dấu hiệu lõm hoặc véo.
+- Màu sắc có thể từ hồng đến nâu nhạt trên da trắng, và nâu đậm đến đen trên da tối màu; một số có vẻ nhạt hơn ở trung tâm.
+- U xơ da thường không gây triệu chứng, nhưng đôi khi có thể đau, nhạy cảm, hoặc ngứa.
+
+Các biến thể lâm sàng bao gồm dạng khổng lồ, bùng phát, và nhiều dạng.
+
+![U xơ da](https://dermnetnz.org/assets/Uploads/lesions/dermfib3.jpg)
+
+U xơ da
+
+![U xơ da](https://dermnetnz.org/assets/Uploads/lesions/dermfib1.jpg)
+
+U xơ da
+
+![U xơ da](https://dermnetnz.org/assets/Uploads/lesions/s/df6.jpg)
+
+U xơ da
+
+![U xơ da](https://dermnetnz.org/assets/Uploads/lesions/df5.jpg)
+
+U xơ da
+
+![Dấu hiệu véo của u xơ da](https://dermnetnz.org/assets/Uploads/lesions/df4.jpg)
+
+Dấu hiệu véo của u xơ da
+
+![Soi da của u xơ da](https://dermnetnz.org/assets/Uploads/lesions/dermfib2.jpg)
+
+Soi da của u xơ da
+
+[Xem thêm hình ảnh về u xơ da](https://dermnetnz.org/topics/dermatofibroma-images).
+
+## Biến chứng của u xơ da là gì?
+
+Vì u xơ da thường là tổn thương nổi, chúng có thể bị tổn thương, ví dụ như bởi dao cạo.
+
+Đôi khi hàng chục nốt có thể bùng phát trong vài tháng, thường trong bối cảnh ức chế miễn dịch.
+
+U xơ da không gây ra ung thư. Tuy nhiên, đôi khi nó có thể bị nhầm lẫn với [u sợi mô bào da nổi](https://dermnetnz.org/topics/dermatofibrosarcoma-protuberans) hoặc [u hắc tố dạng sợi](https://dermnetnz.org/topics/desmoplastic-melanoma).
+
+## U xơ da được chẩn đoán như thế nào?
+
+U xơ da thường dễ dàng được chẩn đoán lâm sàng, được hỗ trợ bởi [soi da](https://dermnetnz.org/topics/dermoscopy). Mẫu hình soi da phổ biến nhất là một vùng trắng trung tâm bao quanh bởi một mạng lưới sắc tố mờ. Tuy nhiên, các mẫu hình khác nhau có thể được thấy trên da màu.
+
+[Phẫu thuật cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) hoặc [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) được thực hiện nếu có đặc điểm không điển hình như tăng kích thước gần đây, loét, hoặc cấu trúc và màu sắc không đối xứng trên soi da.
+
+[Bệnh lý của u xơ da](https://dermnetnz.org/topics/dermatofibroma-fibrous-histiocytoma-pathology) cho thấy các bó tế bào hình thoi xoắn ốc với sự lắng đọng collagen quá mức trong lớp bì. Có nhiều biến thể bệnh lý bao gồm:
+
+- tế bào
+- phình mạch
+- biểu mô
+- không điển hình
+- dạng mắt cá chân lipid hóa
+- xếp hàng
+- cholesterol
+
+Trong trường hợp nghi ngờ, [nhuộm hóa mô miễn dịch](https://dermnetnz.org/topics/immunohistochemistry-stains) được sử dụng để xác nhận chẩn đoán.
+
+## Điều trị u xơ da là gì?
+
+U xơ da vô hại và hiếm khi gây ra triệu chứng. Thông thường, chỉ cần trấn an là đủ. Nếu nó gây phiền toái hoặc lo ngại, tổn thương có thể được loại bỏ bằng phẫu thuật. Tái phát là phổ biến vì tổn thương thường mở rộng ra ngoài ranh giới lâm sàng.
+
+[Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy), sinh thiết cạo và [điều trị laser](https://dermnetnz.org/topics/lasers-in-dermatology) hiếm khi thành công hoàn toàn.
+
+### Thư mục
+
+- Beatrous SV, Riahi RR, Grisoli SB, Cohen PR. Các tình trạng liên quan ở bệnh nhân có nhiều u xơ da: báo cáo trường hợp và đánh giá tài liệu. Dermatol Online J. 2017;23(9):13030/qt8zv852d8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29469716/)
+- Alves JV, Matos DM, Barreiros HF, Bártolo EA. Các biến thể của u xơ da - một nghiên cứu mô học. An Bras Dermatol. 2014;89(3):472–7. doi:10.1590/abd1806-4841.20142629. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24937822/)
+- Kelati A, Aqil N, Baybay H, Gallouj S, Mernissi FZ. Ngoài các mẫu hình soi da cổ điển của u xơ da: một nghiên cứu nghiên cứu triển vọng. J Med Case Rep. 2017;11(1):266. doi:10.1186/s13256-017-1429-6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28927449/)
+- Juliandri J, Wang XY, Liu ZJ, Zhang JW, Xu Y. Các mẫu hình soi da của u xơ da ở 72 bệnh nhân Trung Quốc. Chin Med J (Engl). 2019;132(17):2121–2. doi:10.1097/CM9.0000000000000406. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31425360/)
+- Calonje E. Các khối u mô mềm và các tình trạng giống khối u. Trong: Griffiths C, Barker J, Bleiker T, Chalmers R, Creamer D (eds). Rook's Textbook of Dermatology \[4 volumes\], 9th edn, Wiley Blackwell, 2016:137.19–22.
+
+### Trên DermNet
+
+- [Các tổn thương da lành tính phổ biến](https://dermnetnz.org/topics/benign-skin-lesions)
+- [U xơ da – bệnh lý](https://dermnetnz.org/topics/dermatofibroma-fibrous-histiocytoma-pathology)
+- [U mô bào biểu mô – bệnh lý](https://dermnetnz.org/topics/epithelioid-histiocytoma-pathology)
+- [U sợi mô bào da nổi](https://dermnetnz.org/topics/dermatofibrosarcoma-protuberans)
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- [U hắc tố](https://dermnetnz.org/topics/melanoma)
+- [Xơ hóa](https://dermnetnz.org/topics/fibromatosis)
+- [Nốt xơ mũi](https://dermnetnz.org/topics/fibrous-papule-of-the-nose)
+- [Các khối u da và dưới da](https://dermnetnz.org/cme/lesions/dermal-and-subcutaneous-lesions) – khóa học về các tổn thương da phổ biến
+
+### Các trang web khác
+
+- [U xơ da](http://emedicine.medscape.com/article/1056742-overview) — Tham khảo Medscape
+- [U xơ da](https://www.bad.org.uk/pils/dermatofibroma-also-known-as-histiocytoma/) — Hiệp hội Da liễu Anh
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

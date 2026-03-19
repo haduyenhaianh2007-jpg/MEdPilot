@@ -1,0 +1,9 @@
+## Lichen simplex được chẩn đoán như thế nào?
+
+Chẩn đoán lichen simplex chronicus chủ yếu dựa trên lâm sàng. Các xét nghiệm được thực hiện để loại trừ các chẩn đoán phân biệt khác:
+
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy)
+- [Thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) — được sử dụng để loại trừ [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) là bệnh da cơ bản
+- [Nuôi cấy nấm](https://dermnetnz.org/topics/fungal-skin-infections) — được sử dụng để điều tra nhiễm trùng [nấm da](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) hoặc [candida](https://dermnetnz.org/topics/candida) cơ bản.
+
+Để điều tra các tình trạng cơ bản gây ngứa, có thể thực hiện xét nghiệm TSH huyết thanh, T4 tự do, EUC, LFTs, FBC, chẩn đoán hình ảnh và các xét nghiệm khác.

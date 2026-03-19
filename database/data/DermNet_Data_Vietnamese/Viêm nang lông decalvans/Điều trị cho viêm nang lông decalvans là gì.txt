@@ -1,0 +1,19 @@
+## Điều trị viêm nang lông decalvans là gì?
+
+### Biện pháp chung
+
+- Thuốc sát trùng và dầu gội đầu bôi ngoài da — mặc dù có ít bằng chứng về hiệu quả
+
+### Biện pháp cụ thể
+
+- Kháng sinh
+  - Bôi ngoài da như [axit fusidic](https://dermnetnz.org/topics/topical-fusidic-acid)
+  - Uống [tetracyclines](https://dermnetnz.org/topics/tetracycline), azithromycin, [rifampicin](https://dermnetnz.org/topics/rifampicin) kết hợp với [clindamycin](https://dermnetnz.org/topics/clindamycin)
+- Các tác nhân hệ thống khác (sử dụng ngoài nhãn)
+
+  - [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) kết hợp với trimethoprim/sulfamethoxazole (co-trimoxazole)
+  - Uống [isotretinoin](https://dermnetnz.org/topics/isotretinoin), [dapsone](https://dermnetnz.org/topics/dapsone), [tacrolimus](https://dermnetnz.org/topics/tacrolimus), [apremilast](https://dermnetnz.org/topics/apremilast)
+  - [Immunoglobulin tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin), [chất ức chế yếu tố hoại tử khối u](https://dermnetnz.org/topics/tumour-necrosis-factor-inhibitors) (ví dụ, adalimumab)
+- Liệu pháp vật lý
+  - [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+  - [Phẫu thuật](https://dermnetnz.org/topics/skin-surgery) cho tình trạng rụng tóc vĩnh viễn nếu đã thuyên giảm

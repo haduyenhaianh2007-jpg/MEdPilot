@@ -1,0 +1,29 @@
+##### Thủy đậu — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Varicella, Varicella zoster, Herpes varicella zoster, Herpes virus type 3, Thủy đậu
+
+Danh mục:
+
+Nhiễm trùng, Phát ban
+
+ICD-10:
+
+B01, B01.9, B01.89, B01.2, B02
+
+ICD-11:
+
+1E90.0, 1E90.Y, 1E91.0
+
+SNOMED CT:
+
+38907003, 19551004, 195911009, 23737006, 402899000, 108729007, 4740000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections) [Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Thủy đậu**
+
+Tác giả: Vanessa Ngan, Nhà văn, 2002. Cập nhật bởi Tiến sĩ Jannet Gomez, Tháng 10 năm 2016; Tiến sĩ Adam Dedat, SHO và Tiến sĩ Ian Coulson, Bác sĩ Da liễu, Vương quốc Anh, Tháng 7 năm 2022.
+
+[Giới thiệu](https://dermnetnz.org/topics/chickenpox#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/chickenpox#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/chickenpox#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/chickenpox#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/chickenpox#Diagnosis%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/chickenpox#Complications%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/chickenpox#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/chickenpox#Prevention%3Cbr%20/%3E) [Tiêm phòng chống thủy đậu](https://dermnetnz.org/topics/chickenpox#Vaccination%20against%20chickenpox)

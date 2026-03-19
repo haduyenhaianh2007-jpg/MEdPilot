@@ -1,0 +1,127 @@
+##### Thâm nhiễm lympho Jessner — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Thâm nhiễm lympho lành tính, bệnh Jessner, hội chứng Jessner Kanof, rối loạn thâm nhiễm tế bào T mãn tính lành tính, thâm nhiễm lympho lành tính của Jessner
+
+Danh mục:
+
+Phát ban
+
+ICD-10:
+
+L98.6
+
+ICD-11:
+
+EE90
+
+SNOMED CT:
+
+19719003
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Thâm nhiễm lympho Jessner**
+
+Tác giả: Vanessa Ngan, Nhà văn nhân viên, 2003. Cập nhật bởi Hon A Prof Amanda Oakley, Tháng Chín 2015.
+
+[Giới thiệu](https://dermnetnz.org/topics/jessner-lymphocytic-infiltrate#Introduction) [Nguyên nhân](https://dermnetnz.org/topics/jessner-lymphocytic-infiltrate#Causes) [Dấu hiệu và triệu chứng](https://dermnetnz.org/topics/jessner-lymphocytic-infiltrate#Signs%20and%20symptoms) [Chẩn đoán](https://dermnetnz.org/topics/jessner-lymphocytic-infiltrate#Diagnosis) [Điều trị](https://dermnetnz.org/topics/jessner-lymphocytic-infiltrate#Treatment) [Triển vọng](https://dermnetnz.org/topics/jessner-lymphocytic-infiltrate#Outlook)
+
+## Thâm nhiễm lympho Jessner là gì?
+
+Thâm nhiễm lympho Jessner là một tình trạng da hiếm gặp xuất hiện dưới dạng các mảng đỏ không có vảy và các cục trên mặt, cổ và lưng trên. Chúng thường không đau và không ngứa. Các tổn thương có thể trải qua các giai đoạn thuyên giảm và trầm trọng hơn trong nhiều tháng hoặc nhiều năm. Sự hồi phục tự phát hoàn toàn cũng đã xảy ra trong một số trường hợp.
+
+Tình trạng này được biết đến với nhiều tên gọi khác nhau bao gồm thâm nhiễm lympho lành tính, bệnh Jessner, hội chứng Jessner-Kanof, và rối loạn thâm nhiễm tế bào T mãn tính lành tính. Nó được cho là nằm trong cùng phổ bệnh với [lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) (lupus tumidus) nhưng trên mô học, nhuộm kháng thể đơn dòng Leu 8 chỉ ra rằng chúng có thể là các tình trạng riêng biệt.
+
+## Nguyên nhân gây ra thâm nhiễm lympho Jessner là gì?
+
+Nguyên nhân của thâm nhiễm lympho Jessner chưa được biết. Nó được phân loại là một rối loạn tăng sinh lympho tế bào T lành tính. Một số trường hợp đã được liên kết với nhiễm Borrelia, nguyên nhân gây ra [bệnh Lyme](https://dermnetnz.org/topics/lyme-disease).
+
+Các trường hợp thâm nhiễm lympho Jessner do thuốc đã được mô tả do duloxetine, ramipril, leflunomide, glatiramer acetate và [ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis).
+
+## Dấu hiệu và triệu chứng của thâm nhiễm lympho Jessner là gì?
+
+Các mảng thâm nhiễm lympho Jessner thường bắt đầu dưới dạng các đốm đỏ nhỏ, hơi nhô lên, được xác định rõ ràng, dần dần mở rộng ra ngoại vi để tạo thành một mảng đỏ được phân định rõ. Đôi khi trung tâm của tổn thương được để trống, tức là tạo thành hình vòng và hình cung. Có thể xuất hiện một hoặc nhiều tổn thương và chúng có đường kính từ 2 mm đến 2 cm.
+
+Hoạt động theo mùa của thâm nhiễm lympho Jessner là biến đổi: nhiều bệnh nhân xấu đi vào mùa đông hơn mùa hè và các đợt bùng phát có thể liên quan đến việc tiếp xúc với ánh nắng mặt trời. Thông thường, chúng không có triệu chứng nhưng một số bệnh nhân có thể phàn nàn về ngứa hoặc nóng rát.
+
+![Thâm nhiễm lympho Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/jessner.jpg)
+
+Thâm nhiễm lympho Jessner
+
+![Thâm nhiễm lympho Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/jessner1.jpg)
+
+Thâm nhiễm lympho Jessner
+
+![Thâm nhiễm lympho Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/jessner2.jpg)
+
+Thâm nhiễm lympho Jessner
+
+![Thâm nhiễm lympho Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/jessner3.jpg)
+
+Thâm nhiễm lympho Jessner
+
+![Thâm nhiễm lympho Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/jessner4.jpg)
+
+Thâm nhiễm lympho Jessner
+
+![Thâm nhiễm lympho Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/jessner5.jpg)
+
+Thâm nhiễm lympho Jessner
+
+## Chẩn đoán thâm nhiễm lympho được thực hiện như thế nào?
+
+Chẩn đoán được thực hiện dựa trên cơ sở lâm sàng và [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy).
+
+Các chẩn đoán phân biệt chính là [lupus ban đỏ tumidus](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus), [lymphocytoma cutis](https://dermnetnz.org/topics/lymphocytoma-cutis), và [phát ban ánh sáng đa hình](https://dermnetnz.org/topics/polymorphic-light-eruption).
+
+## Có những phương pháp điều trị nào cho thâm nhiễm lympho Jessner?
+
+Thông thường, không cần điều trị cho thâm nhiễm lympho Jessner.
+
+[Ngụy trang thẩm mỹ](https://dermnetnz.org/topics/cosmetic-camouflage) có thể được sử dụng để che giấu tổn thương và cải thiện ngoại hình.
+
+Có sự đáp ứng biến đổi với các phương pháp điều trị sau:
+
+- [Corticosteroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid) và [tiêm trong tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection)
+- [Thuốc chống sốt rét](https://dermnetnz.org/topics/antimalarial), như [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- [Quang trị liệu UVA1](https://dermnetnz.org/topics/uva1-phototherapy) hoặc quang hóa trị liệu ( [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy))
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- [Cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)
+- [Thalidomide](https://dermnetnz.org/topics/thalidomide)
+- [Xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases)
+
+Tất cả bệnh nhân nên được khuyên tuân theo các biện pháp bảo vệ ánh nắng mặt trời, bất kể tiền sử của họ về sự trầm trọng do ánh sáng.
+
+## Triển vọng cho thâm nhiễm lympho Jessner là gì?
+
+Sau khi tồn tại trong vài tháng hoặc vài năm, các tổn thương biến mất tự phát mà không để lại sẹo hoặc gây ra các vấn đề khác. Đôi khi chúng có thể tái phát tại cùng vị trí hoặc nơi khác.
+
+### Tài liệu tham khảo
+
+- Sách: Giáo trình Da liễu. Ed Rook A, Wilkinson DS, Ebling FJB, Champion RH, Burton JL. Ấn bản thứ sáu. Blackwell Scientific Publications.
+- Pseudolymphoma do Duloxetine với các đặc điểm của thâm nhiễm lympho Jessner-Kanof. Monica Corazza, Alessandro Borghi, Sara Minghetti, Lucia Mantovani, Roberta Gafà, Annarosa Virgili. DOI: 10.2340/00015555-1785 [Tạp chí](https://www.medicaljournals.se/acta/content/html/10.2340/00015555-1785)
+- Guarneri C, Lentini M, Polimeni G, Giuffrida R, Cannavò SP. Phát ban do thuốc do Ustekinumab giống thâm nhiễm lympho (của Jessner-Kanof) và lupus ban đỏ tumidus. Br J Clin Pharmacol. 2016;81(4):792–4. doi:10.1111/bcp.12837. [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4799931/)
+
+### Trên DermNet
+
+- [Phát ban trên mặt](https://dermnetnz.org/topics/facial-skin-problems)
+- [Phát ban ánh sáng đa hình](https://dermnetnz.org/topics/polymorphic-light-eruption)
+- [Lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)
+- [Thuốc chống sốt rét trong da liễu](https://dermnetnz.org/topics/antimalarial)
+
+### Các trang web khác
+
+- [Thâm nhiễm lympho Jessner của da](http://emedicine.medscape.com/article/1098654-overview) – Tham khảo Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

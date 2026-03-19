@@ -1,0 +1,33 @@
+## Các đặc điểm lâm sàng của mề đay là gì?
+
+Các vết mề đay có thể có đường kính từ vài milimét đến vài centimet, có màu trắng hoặc đỏ, có hoặc không có viền đỏ. Mỗi vết mề đay có thể tồn tại trong vài phút hoặc vài giờ và có thể thay đổi hình dạng. Các vết mề đay có thể tròn, hoặc tạo thành vòng, mô hình giống bản đồ, hoặc mảng lớn.
+
+Mề đay có thể ảnh hưởng đến bất kỳ vị trí nào trên cơ thể và có xu hướng phân bố rộng rãi.
+
+[Phù mạch](https://dermnetnz.org/topics/angioedema) thường khu trú hơn. Nó thường ảnh hưởng đến mặt (đặc biệt là [mí mắt](https://dermnetnz.org/topics/eyelid-skin-problems) và các vị trí quanh miệng), tay, chân và bộ phận sinh dục. Nó có thể liên quan đến lưỡi, lưỡi gà, vòm miệng mềm hoặc thanh quản.
+
+[Bệnh huyết thanh](https://dermnetnz.org/topics/serum-sickness) do truyền máu và [phản ứng giống bệnh huyết thanh](https://dermnetnz.org/topics/serum-sickness-like-reaction) do một số loại thuốc gây ra mề đay cấp tính để lại vết bầm, sốt, sưng hạch bạch huyết, đau khớp và sưng.
+
+Trong [mề đay mãn tính do kích thích](https://dermnetnz.org/topics/chronic-inducible-urticaria), các vết mề đay xuất hiện khoảng 5 phút sau kích thích và tồn tại trong vài phút hoặc lên đến một giờ. Đặc trưng, các vết mề đay là:
+
+- Dạng đường thẳng trong [chứng vẽ da](https://dermnetnz.org/topics/dermographism)
+- Nhỏ trong [mề đay cholinergic](https://dermnetnz.org/topics/cholinergic-urticaria)
+- Giới hạn ở các khu vực tiếp xúc trong [mề đay tiếp xúc](https://dermnetnz.org/topics/contact-urticaria)
+- Lan rộng trong [mề đay lạnh](https://dermnetnz.org/topics/cold-urticaria) — nếu các vùng da lớn bị ảnh hưởng, chúng có thể dẫn đến ngất xỉu (có thể nguy hiểm nếu bơi trong nước lạnh).
+
+Các vết mề đay dai dẳng hơn trong mề đay tự phát mãn tính, nhưng mỗi tổn thương riêng lẻ sẽ biến mất trong vòng 24 giờ. Chúng có thể xuất hiện vào những thời điểm nhất định trong ngày.
+
+### Đánh giá mức độ nghiêm trọng của mề đay
+
+Thang đo tương tự trực quan có thể được sử dụng để ghi lại và so sánh mức độ ngứa.
+
+Hoạt động của mề đay tự phát mãn tính có thể được đánh giá bằng hệ thống điểm UAS7. Điểm số vết mề đay/ngứa hàng ngày được cộng lại trong bảy ngày; điểm tối đa là 42.
+
+| Điểm số | Vết mề đay/24 giờ | Ngứa |
+| --- | --- | --- |
+| 0 | Không có | Không có |
+| 1 | 20 | Nhẹ |
+| 2 | 20–50 | Vừa |
+| 3 | >50 | Dữ dội |
+
+Tác động cảm xúc của mề đay và ảnh hưởng của nó đến chất lượng cuộc sống cũng nên được đánh giá. [Chỉ số chất lượng cuộc sống da liễu (DLQI)](https://dermnetnz.org/topics/dermatology-life-quality-index-dlqi) và CU-Q2oL, một bảng câu hỏi cụ thể cho mề đay mãn tính, đã được xác nhận cho mề đay mãn tính, nơi gián đoạn giấc ngủ là một vấn đề đặc biệt.

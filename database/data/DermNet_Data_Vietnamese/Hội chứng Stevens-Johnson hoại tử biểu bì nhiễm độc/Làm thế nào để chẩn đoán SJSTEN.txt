@@ -1,0 +1,86 @@
+## Chẩn đoán SJS/TEN như thế nào?
+
+SJS/TEN được nghi ngờ lâm sàng và phân loại dựa trên diện tích bề mặt da bị tách rời ở mức độ tối đa.
+
+SJS
+
+- Da bị tách rời < 10% diện tích bề mặt cơ thể (BSA)
+- Các đốm đỏ hoặc tím lan rộng hoặc các mục tiêu phẳng không điển hình
+
+Chồng lấp SJS/TEN
+
+- Da bị tách rời từ 10% đến 30% BSA
+- Các đốm tím lan rộng hoặc các mục tiêu phẳng không điển hình
+
+TEN có đốm
+
+- Da bị tách rời > 30% BSA
+- Các đốm tím lan rộng hoặc các mục tiêu phẳng không điển hình
+
+TEN không có đốm
+
+- Da bị tách rời > 10% BSA
+- Các mảng biểu bì lớn và không có đốm tím
+
+Không phải lúc nào cũng có thể xác định chính xác loại bệnh khi mới xuất hiện. Do đó, chẩn đoán có thể thay đổi trong vài ngày đầu tiên tại bệnh viện.
+
+### Điều tra trong SJS/TEN
+
+Nếu có sẵn xét nghiệm, mức độ tăng cao của granulysin huyết thanh được lấy trong vài ngày đầu tiên của sự bùng phát thuốc có thể dự đoán SJS/TEN.
+
+[Sinh thiết da](https://dermnetnz.org/procedures/biopsy.html) thường được yêu cầu để xác nhận chẩn đoán lâm sàng và loại trừ [hội chứng da bị bỏng do tụ cầu](https://dermnetnz.org/bacterial/scalded-skin-syndrome.html) (SSSS) và các phát ban tổng quát khác với [mụn nước](https://dermnetnz.org/topics/blistering-skin-conditions).
+
+[Mô bệnh học](https://dermnetnz.org/pathology/dermatopathology.html) cho thấy hoại tử tế bào sừng (chết của các tế bào da riêng lẻ), hoại tử biểu bì/biểu mô toàn bộ độ dày (chết của một lớp da hoàn chỉnh), viêm tối thiểu (thâm nhiễm lympho nhẹ của lớp bì nông). Xét nghiệm miễn dịch huỳnh quang trực tiếp trên sinh thiết da là âm tính, cho thấy bệnh không phải do lắng đọng kháng thể trong da.
+
+Xét nghiệm máu không giúp chẩn đoán nhưng rất cần thiết để đảm bảo chất lỏng và dưỡng chất quan trọng đã được thay thế, để xác định các biến chứng và đánh giá các yếu tố tiên lượng (xem bên dưới). Các bất thường có thể bao gồm:
+
+- Thiếu máu xảy ra trong hầu hết các trường hợp (giảm hemoglobin).
+- Giảm bạch cầu (giảm tế bào trắng), đặc biệt là giảm lympho (giảm tế bào lympho) rất phổ biến (90%).
+- Giảm bạch cầu trung tính (giảm bạch cầu trung tính), nếu có, là dấu hiệu tiên lượng xấu.
+- Tăng bạch cầu ái toan (tăng số lượng bạch cầu ái toan) và tăng lympho không điển hình (tế bào lympho trông kỳ lạ) không xảy ra.
+- Tăng nhẹ men gan là phổ biến (30%), và khoảng 10% phát triển viêm gan rõ rệt.
+- Protein niệu nhẹ (protein rò rỉ vào nước tiểu) xảy ra ở khoảng 50%. Một số thay đổi trong chức năng thận xảy ra ở đa số.
+
+Các xét nghiệm chẩn đoán in vitro cho dị ứng thuốc bao gồm SJS/TEN đang được điều tra.
+
+[Thử nghiệm miếng dán](https://dermnetnz.org/procedures/patch-tests.html) hiếm khi xác định được thủ phạm trong SJS/TEN, và không được khuyến nghị.
+
+### SCORTEN
+
+SCORTEN là một điểm số mức độ nghiêm trọng của bệnh đã được phát triển để dự đoán tỷ lệ tử vong trong các trường hợp SJS và TEN. Một điểm được tính cho mỗi tiêu chí trong bảy tiêu chí có mặt tại thời điểm nhập viện. Các tiêu chí SCORTEN là:
+
+- Tuổi > 40 tuổi
+- Có mặt của bệnh ác tính (ung thư)
+- Nhịp tim > 120
+- Tỷ lệ tách rời biểu bì ban đầu > 10%
+- Mức độ ure huyết thanh > 10 mmol/L
+- Mức độ glucose huyết thanh > 14 mmol/L
+- Mức độ bicarbonate huyết thanh < 20 mmol/L.
+
+Nguy cơ tử vong do SJS/TEN phụ thuộc vào điểm số.
+
+- SCORTEN 0-1 > 3.2%
+- SCORTEN 2 > 12.1%
+- SCORTEN 3 > 35.3%
+- SCORTEN 4 > 58.3%
+- SCORTEN 5 hoặc nhiều hơn > 90%
+
+Năm 2019, một mô hình dự đoán mới được đề xuất, ABCD-10.
+
+A: tuổi trên 50 tuổi (một điểm)
+
+B: mức độ bicarbonate < 20 mmol/L (một điểm)
+
+C: ung thư có mặt và hoạt động (hai điểm)
+
+D: lọc máu trước khi nhập viện (3 điểm)
+
+10: tách rời biểu bì ≥ 10% diện tích bề mặt cơ thể khi nhập viện (một điểm)
+
+ABCD-10 đã được đánh giá trong một nhóm 370 bệnh nhân >với SJS/TEN tại nhiều cơ sở ở Mỹ và dự đoán tỷ lệ tử vong trong bệnh viện cũng như SCORTEN. Tỷ lệ tử vong dự đoán trong nhóm này được hiển thị trong bảng.
+
+![Điểm số mô hình dự đoán tử vong ABCD 10](https://dermnetnz.org/assets/Uploads/ABCD-10-table.png)
+
+Điểm số mô hình dự đoán tử vong ABCD 10
+
+Cần xác nhận trong các quần thể khác.

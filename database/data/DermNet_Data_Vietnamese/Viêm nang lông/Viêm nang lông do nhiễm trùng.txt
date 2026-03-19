@@ -1,0 +1,33 @@
+## Viêm nang lông do nhiễm trùng
+
+Cần lấy mẫu từ các mụn mủ để xét nghiệm tế bào học và nuôi cấy trong phòng thí nghiệm nhằm xác định liệu viêm nang lông có phải do nhiễm trùng hay không.
+
+### Vi khuẩn
+
+[Viêm nang lông do vi khuẩn](https://dermnetnz.org/topics/bacterial-folliculitis) thường do _[Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection)_. Nếu nhiễm trùng liên quan đến phần sâu của nang lông, nó sẽ dẫn đến [mụn nhọt](https://dermnetnz.org/topics/boil) đau đớn. Điều trị khuyến nghị bao gồm vệ sinh cẩn thận, sử dụng chất tẩy rửa hoặc kem [khử trùng](https://dermnetnz.org/topics/antiseptic), thuốc mỡ kháng sinh, hoặc [kháng sinh](https://dermnetnz.org/topics/antibiotics) đường uống.
+
+[Viêm nang lông do bể bơi spa](https://dermnetnz.org/topics/spa-pool-folliculitis) là do nhiễm _[Pseudomonas aeruginosa](https://dermnetnz.org/topics/pseudomonas-skin-infections),_ loài vi khuẩn phát triển mạnh trong nước ấm. [Viêm nang lông gram âm](https://dermnetnz.org/topics/gram-negative-folliculitis) là một sự bùng phát mụn mủ trên mặt cũng do nhiễm _Pseudomonas aeruginosa_ hoặc các sinh vật tương tự khác. Khi xuất hiện, nó thường xảy ra sau khi điều trị mụn trứng cá bằng tetracycline nhưng khá hiếm.
+
+### Nấm men
+
+Nấm men phổ biến nhất gây viêm nang lông là _Pityrosporum ovale_, còn được gọi là [Malassezia](https://dermnetnz.org/topics/malassezia-infections). [Viêm nang lông do Malassezia](https://dermnetnz.org/topics/malassezia-folliculitis) (viêm nang lông pityrosporum) là một tình trạng ngứa giống mụn trứng cá thường ảnh hưởng đến phần trên của thân người trẻ tuổi. Điều trị bao gồm tránh sử dụng kem dưỡng ẩm, ngừng sử dụng kháng sinh và sử dụng thuốc [kháng nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) hoặc [kháng nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) trong vài tuần.
+
+[_Candida albicans_](https://dermnetnz.org/topics/candida) cũng có thể gây viêm nang lông ở các nếp gấp da ([intertrigo](https://dermnetnz.org/topics/candidiasis-of-skin-folds)) hoặc vùng râu. Nó được điều trị bằng các tác nhân [kháng nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) hoặc [kháng nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) phù hợp.
+
+### Nấm
+
+Nấm da đầu ([tinea capitis](https://dermnetnz.org/topics/tinea-capitis)) thường dẫn đến bong tróc và rụng tóc, nhưng đôi khi dẫn đến viêm nang lông. Ở New Zealand, nấm mèo (_Microsporum canis_) là sinh vật phổ biến nhất gây nhiễm nấm da đầu. Các loại [nấm](https://dermnetnz.org/topics/fungal-skin-infections) khác như _Trichophyton tonsurans_ ngày càng được báo cáo nhiều hơn. Điều trị bằng thuốc kháng nấm đường uống trong vài tháng.
+
+### Nhiễm trùng virus
+
+Viêm nang lông có thể do virus [herpes simplex](https://dermnetnz.org/topics/herpes-simplex) gây ra. Tình trạng này thường đau và tự khỏi mà không cần điều trị trong khoảng mười ngày. Các đợt tái phát nghiêm trọng có thể được điều trị bằng [aciclovir](https://dermnetnz.org/topics/aciclovir) và các tác nhân kháng virus khác.
+
+[Herpes zoster](https://dermnetnz.org/topics/herpes-zoster) (nguyên nhân gây bệnh zona) có thể xuất hiện dưới dạng viêm nang lông với các mụn mủ đau và các đốm có vảy trong một vùng da (vùng da được cung cấp bởi một dây thần kinh duy nhất). Nó được điều trị bằng [aciclovir](https://dermnetnz.org/topics/aciclovir) liều cao.
+
+[Molluscum contagiosum](https://dermnetnz.org/topics/molluscum-contagiosum), phổ biến ở trẻ nhỏ, có thể xuất hiện với các nốt sần có lõm ở trung tâm, thường tập trung trong và xung quanh một nếp gấp cơ thể. Molluscum có thể gây ra [viêm da](https://dermnetnz.org/topics/dermatitis).
+
+### Nhiễm ký sinh trùng
+
+Viêm nang lông trên mặt hoặc da đầu của người lớn tuổi hoặc người bị suy giảm miễn dịch có thể do sự xâm nhập của ve nang lông (demodex). Tình trạng này được gọi là [demodicosis](https://dermnetnz.org/topics/demodex).
+
+Sự xâm nhập của con người, [ghẻ](https://dermnetnz.org/topics/scabies), thường gây ra viêm nang lông, cũng như các nốt sần không phải nang lông, mụn nước và mụn mủ.

@@ -1,0 +1,229 @@
+##### Thuật ngữ trong da liễu — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Từ vựng
+
+Danh mục:
+
+Thuật ngữ
+
+ICD-10:
+
+R23.9, L98.9, R23.4
+
+ICD-11:
+
+ED64, ME66.1, ME66.6Z, ME60.Z, ME60.0, EM0Z
+
+SNOMED CT:
+
+55988001, 53534000, 71966008, 1646003, 112629002, 25694009, 95319004, 276322001, 107652000, 72724002, 276323006, 271761007, 364530004, 274672009, 400048001, 95324001, 271807003
+
+**[Thuật ngữ](https://dermnetnz.org/topics?category=Terminology)**
+
+# **Thuật ngữ trong da liễu**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1997.
+
+[Giới thiệu](https://dermnetnz.org/topics/terminology#Introduction%3Cbr%20/%3E) [Mô tả các tình trạng da](https://dermnetnz.org/topics/terminology#Describing%20skin%20conditions%3Cbr%20/%3E) [Cấu trúc của da](https://dermnetnz.org/topics/terminology#Structure%20of%20the%20skin%3Cbr%20/%3E) [Phân bố](https://dermnetnz.org/topics/terminology#Distribution%3Cbr%20/%3E) [Cấu hình của tổn thương](https://dermnetnz.org/topics/terminology#Configuration%20of%20lesions%3Cbr%20/%3E) [Màu sắc](https://dermnetnz.org/topics/terminology#Colour%3Cbr%20/%3E) [Hình thái](https://dermnetnz.org/topics/terminology#Morphology%3Cbr%20/%3E) [Bề mặt da](https://dermnetnz.org/topics/terminology#Skin%20surface%3Cbr%20/%3E) [Thay đổi thứ cấp](https://dermnetnz.org/topics/terminology#Secondary%20changes)
+
+## Giới thiệu
+
+Nếu bạn không tìm thấy thông tin bạn cần trên trang này, hãy thử tham khảo [Thuật ngữ Da liễu](https://dermnetnz.org/glossary) của DermNet hoặc các chẩn đoán da liễu thường có nhiều tên gọi khác nhau. DermNet tham khảo nhiều nguồn tài liệu khi đặt tên cho các tình trạng, bao gồm Phân loại Bệnh tật Quốc tế của Tổ chức Y tế Thế giới (WHO) (xem [công cụ mã hóa ICD11](https://icd.who.int/ct11_2018/icd11_mms/en/release)), và Hệ thống Danh pháp Y học Lâm sàng ( [SNOMED CT](http://browser.ihtsdotools.org/)).
+
+## Mô tả các tình trạng da
+
+- Tổn thương là bất kỳ khu vực da nào bị thay đổi. Nó có thể đơn lẻ hoặc nhiều.
+- Phát ban là sự bùng phát rộng rãi của các tổn thương.
+- Bệnh da là thuật ngữ chung cho một bệnh của da.
+
+Khi khám da, một [bác sĩ da liễu](https://dermnetnz.org/topics/what-is-a-dermatologist) đánh giá sự phân bố, hình thái và sắp xếp của các tổn thương da: số lượng, kích thước và màu sắc của chúng, các vị trí bị ảnh hưởng, sự đối xứng, hình dạng và sắp xếp.
+
+Bác sĩ da liễu sẽ cẩn thận cảm nhận từng tổn thương, ghi nhận các đặc điểm bề mặt và sâu. Lớp nào của da bị ảnh hưởng? Nếu có vảy, bề mặt có dễ bong ra không? Nếu có vảy, bên dưới là gì?
+
+Các kỹ thuật chuyên biệt bao gồm:
+
+- [Đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination) (tia UVA dài) để kiểm tra các thay đổi sắc tố và nhiễm trùng phát quang
+- [Dermoscopy](https://dermnetnz.org/topics/dermoscopy) cho các tổn thương sắc tố để chẩn đoán u ác tính.
+
+## Cấu trúc của da
+
+Da được coi là có ba phần: lớp biểu bì ngoài cùng, lớp trung bì giữa và mô dưới da sâu. Có một màng đáy ngăn cách biểu bì với trung bì và hoạt động như một kênh giao tiếp giữa hai lớp.
+
+### Biểu bì
+
+Biểu bì là một 'bức tường gạch' phức tạp được tạo thành từ các tế bào gọi là keratinocytes, sản xuất một loại protein gọi là keratin. Biểu bì cũng chứa các tế bào sắc tố gọi là melanocytes, sản xuất melanin, các tế bào Langerhans, trình diện kháng nguyên cho hệ miễn dịch, và các tế bào Merkel, có chức năng cảm giác.
+
+- Lớp đáy — các tế bào hình cột hoặc hình chữ nhật ở đáy biểu bì từ đó các tế bào mới được sản xuất liên tục. Các melanocytes rải rác thường được tìm thấy trong lớp này.
+- Tế bào vảy — các tế bào biểu mô phẳng được tìm thấy trên bề mặt da. Cấu trúc của da được mô tả là biểu mô vảy phân tầng, đề cập đến cách các tế bào được xây dựng thành các lớp.
+- Lớp hạt — các tế bào dẹt chứa đầy các hạt tối chứa protein keratohyaline.
+- Lớp sừng — các lớp tế bào chết không có nhân tạo thành lớp sừng khô hoặc keratin hóa. Lớp trên cùng của các tế bào lỏng lẻo và rơi ra.
+- Desmosomes — các cấu trúc kết dính các keratinocytes liền kề chặt chẽ với nhau, giống như xi măng giữa các viên gạch.
+
+Các phần phụ biểu bì bao gồm:
+
+- Tuyến mồ hôi, sản xuất mồ hôi
+- Tuyến apocrine, tuyến mùi được tìm thấy ở nách và bẹn
+- Cấu trúc nang lông chứa tóc và tuyến bã nhờn
+- Móng.
+
+### Trung bì
+
+Trung bì được tạo thành từ mô liên kết hỗ trợ biểu bì, cung cấp chất dinh dưỡng và bảo vệ nó. Trung bì nhú là phần trên dưới biểu bì, và phần dưới là trung bì lưới.
+
+- Collagen — một loại protein cấu trúc tạo thành phần lớn của trung bì. Nó được sản xuất bởi các nguyên bào sợi. Nó được cấu tạo từ một chuỗi xoắn ba của các sợi mạnh.
+- Elastin — protein tạo thành các sợi đàn hồi mỏng. Chúng được sản xuất bởi các nguyên bào sợi. Chúng đưa da bị biến dạng trở lại vị trí nghỉ ngơi.
+- Chất nền — thành phần gel của trung bì. Nó chứa axit hyaluronic, dermatan sulphate, và chondroitin-6-sulphate (đây là polysaccharides anion hoặc glycosaminoglycans).
+- Nguyên bào sợi — các tế bào được tìm thấy trong trung bì sản xuất collagen, elastin, chất nền và fibronectin (một glycoprotein).
+- Dây thần kinh — các sợi cảm giác và tự động với các đầu dây thần kinh riêng biệt cho cảm giác chạm, nhiệt, lạnh, áp lực và đau.
+- Mạch máu — động mạch, tiểu động mạch, mao mạch, tiểu tĩnh mạch và tĩnh mạch mang máu đến và từ da.
+- Hệ bạch huyết — một mạng lưới rộng lớn của các mạch mỏng thành nuôi dưỡng và dẫn lưu da.
+- Cơ dựng lông — chúng được gắn vào nang lông. Co lại dẫn đến nổi da gà.
+- Thâm nhiễm tế bào — các tế bào miễn dịch xung quanh mạch máu, và được tuyển dụng với số lượng lớn để chữa lành vết thương và chống nhiễm trùng. Nhiều bệnh da được đặc trưng bởi các mô hình cụ thể của các tế bào này.
+
+### Mô dưới da
+
+Mô dưới da, còn gọi là lớp dưới da, được tạo thành từ các tế bào mỡ hoặc lipocytes (tế bào mỡ). Chúng được bao quanh bởi mô liên kết, mạch máu và dây thần kinh.
+
+## Phân bố
+
+Phân bố đề cập đến cách các tổn thương da được rải rác hoặc lan rộng. Các tổn thương da có thể là đơn lẻ (đơn độc hoặc đơn lẻ) hoặc nhiều. Vị trí của nhiều tổn thương trong các vùng nhất định giúp chẩn đoán, vì các bệnh da thường có phân bố đặc trưng. Phạm vi của sự bùng phát và mô hình của nó là gì?
+
+- Acral — liên quan đến hoặc ảnh hưởng đến các chi xa (ví dụ, tai, ngón tay, ngón chân, mũi, dương vật và núm vú).
+- [Đường Blaschko](https://dermnetnz.org/topics/blaschko-lines) — theo mô hình tuyến tính, phân đoạn được mô tả bởi Blaschko. Nhiều vết bớt dường như được phân bố trong các phân đoạn này.
+- Dermatomal — tổn thương giới hạn trong một hoặc nhiều phân đoạn da được chi phối bởi một dây thần kinh cột sống đơn ( [dermatomes](https://dermnetnz.org/topics/dermatomes)).
+- Extensor — liên quan đến bề mặt duỗi của các chi. Đối lập với bề mặt gấp.
+- Flexural — liên quan đến sự gấp, hoặc nếp gấp da, như mặt sau của đầu gối, nách, nếp gấp khuỷu tay và bẹn.
+- Follicular — tổn thương nằm trong hoặc xung quanh nang lông.
+- Generalised — tổn thương phân bố ngẫu nhiên trên hầu hết bề mặt cơ thể (rộng rãi) hoặc trong một vùng giải phẫu.
+- Herpetiform — các nốt sần rắn trong một cụm.
+- [Koebnerised](https://dermnetnz.org/topics/the-koebner-phenomenon) — sự xuất hiện của các tổn thương mới của bệnh da, như bệnh vẩy nến, tại vị trí chấn thương.
+- [Nhạy cảm ánh sáng](https://dermnetnz.org/topics/photosensitivity) — tăng phản ứng của da với ánh sáng mặt trời.
+- Đầu và cổ — tránh mí mắt, độ sâu của nếp nhăn và nếp gấp, các khu vực bị che bóng bởi tóc, mũi và cằm. Thường liên quan đến “V” của cổ.
+- Mặt sau của bàn tay — tránh các khe ngón tay. Nặng hơn ở các đốt ngón gần hơn so với xa.
+- Cẳng tay — bề mặt duỗi hơn là gấp.
+- Bàn chân — bề mặt lưng, tránh các khu vực được che phủ bởi giày dép.
+- Chân dưới — có thể ảnh hưởng đến bề mặt duỗi và gấp
+- Thân mình — bề mặt lưng và bụng (mặt sau và trước của thân mình)
+- Khu vực áp lực — ảnh hưởng đến các khu vực thường xuyên bị chấn thương do áp lực khi nghỉ ngơi
+  - Đỉnh tai khi ngủ
+  - Mông khi ngồi
+  - Gót chân khi nằm.
+- Seborrhoeic — liên quan đến [seborrhoea](https://dermnetnz.org/topics/seborrhoea) (tiếng Anh Mỹ: seborrhea) nơi có sự tiết và bài tiết bã nhờn (chất bôi trơn béo được tiết ra bởi các tuyến bã nhờn) tăng bất thường, tạo ra vẻ ngoài nhờn cho da và sự hình thành vảy nhờn.
+  - [Keratosis seborrhoeic](https://dermnetnz.org/topics/seborrhoeic-keratosis) — một sự phát triển có vảy phổ biến, vô hại.
+- Đối xứng – cả hai bên giống nhau hoặc tương tự.
+- Truncal — ưu tiên thân mình và hiếm khi ảnh hưởng đến các chi.
+- Đơn phương — phát ban ảnh hưởng đến một bên của cơ thể.
+
+## Cấu hình của tổn thương
+
+Cấu hình đề cập đến hình dạng hoặc đường viền của các tổn thương da. Các tổn thương da thường được nhóm lại. Mô hình hoặc hình dạng có thể giúp chẩn đoán vì nhiều tình trạng da có cấu hình đặc trưng.
+
+- Tổn thương nummular — tổn thương hình tròn (hình đồng xu); còn được gọi là discoid.
+- Tổn thương tuyến tính — hình dạng tuyến tính của tổn thương thường xảy ra vì một lý do bên ngoài nào đó, chẳng hạn như gãi; còn được gọi là striate.
+- [Tổn thương mục tiêu](https://dermnetnz.org/topics/target-and-targetoid-lesions) — các vòng đồng tâm như bảng phi tiêu; còn được gọi là tổn thương iris.
+- Phát ban gyrate — phát ban có vẻ như xoáy trong một vòng tròn.
+- Annular — tổn thương được nhóm lại thành một vòng tròn.
+
+## Màu sắc
+
+Các thuật ngữ mô tả được sử dụng để mô tả màu da bao gồm:
+
+- [Carotenoderma](https://dermnetnz.org/topics/carotenoderma) — màu da vàng/cam do beta-carotene lưu thông quá mức (tiền chất vitamin A có nguồn gốc từ rau và trái cây màu vàng/cam); có xu hướng nổi bật trên lòng bàn tay và lòng bàn chân, và không ảnh hưởng đến củng mạc.
+- Tăng sắc tố — da tối hơn so với bình thường; có thể là cục bộ hoặc toàn thân.
+- Giảm sắc tố — màu da nhạt hơn so với bình thường.
+- [Leukoderma](https://dermnetnz.org/topics/leukoderma) — da trắng; còn được gọi là achromia.
+- Nhồi máu — các khu vực đen của mô hoại tử do nguồn cung cấp máu bị gián đoạn.
+- Vàng da — vàng da và lòng trắng của mắt và là do sự tích tụ của sắc tố mật trong máu; điều này thường do bệnh mật hoặc gan.
+- Ban đỏ — da đỏ do nguồn cung cấp máu tăng; có thể được áp dụng cho bất kỳ bệnh da đỏ nào.
+- [Erythroderma](https://dermnetnz.org/topics/erythroderma) — tình trạng da ảnh hưởng đến toàn bộ cơ thể hoặc gần như toàn bộ cơ thể, đỏ toàn bộ.
+- [Telangiectasia](https://dermnetnz.org/topics/telangiectasia) — các mạch máu da nổi bật; chúng có màu đỏ hoặc tím.
+- [Purpura](https://dermnetnz.org/topics/purpura) — chảy máu vào da, dưới dạng petechiae (đốm đỏ, tím hoặc nâu nhỏ) hoặc ecchymoses (vết bầm); purpura không nhạt đi khi ấn (diascopy).
+
+## Hình thái
+
+Hình thái là hình thức hoặc cấu trúc của một tổn thương da cá nhân.
+
+- Các tổn thương da có thể phẳng, nâng lên trên mặt phẳng của da hoặc lõm xuống dưới mặt phẳng của da.
+- Chúng có thể có màu da hoặc đỏ, hồng, tím, nâu, đen, xám, xanh, cam, vàng.
+- Độ nhất quán có thể mềm, chắc, cứng, dao động hoặc xơ hóa (sẹo hoặc giống như bảng).
+- Các tổn thương có thể nóng hơn hoặc lạnh hơn so với da xung quanh.
+- Chúng có thể di động hoặc không di động.
+- Macule — một mảng da nhỏ bị thay đổi màu sắc, nhưng không nâng lên.
+- Patch — một khu vực lớn thay đổi màu sắc, với bề mặt mịn.
+- Papule — tổn thương nổi, rắn, có thể sờ thấy có đường kính ≤ 1 cm. Chúng có thể đơn lẻ hoặc nhiều. Papules có thể là:
+
+  - Acuminate (nhọn)
+  - Hình vòm (tròn)
+  - Filiform (giống như sợi chỉ)
+  - Đỉnh phẳng
+  - Hình bầu dục hoặc tròn
+  - Có cuống (có cuống)
+  - Không có cuống (không có cuống)
+  - Có lõm trung tâm
+  - Verrucous (giống như mụn cóc)
+- Nodule — tổn thương nổi, rắn, có thể sờ thấy > 1 cm thường nằm chủ yếu trong trung bì và dưới da (các lớp sâu hơn của da). Phần lớn nhất của tổn thương có thể ở trên hoặc dưới bề mặt da.
+- [Cyst](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) — papule hoặc nodule chứa chất lỏng hoặc chất bán lỏng nên dao động.
+- Plaque — một tổn thương có thể sờ thấy, có đường kính hơn 1 cm; hầu hết các mảng đều nổi. Các mảng có thể là kết quả của sự hợp nhất của các papules. Hầu hết các mảng đều nổi, nhưng một mảng cũng có thể là một khu vực dày lên mà không được nâng lên rõ ràng trên bề mặt da. Chúng có thể có đường viền rõ ràng hoặc không rõ ràng. Tên 'plaque' được lấy từ từ tiếng Pháp cho một tấm. Các mảng có thể là:
+
+  - Annular (hình vòng)
+  - Arcuate (hình bán nguyệt)
+  - Polygonal (hình dạng không hình học đa dạng)
+  - Polymorphic (hình dạng đa dạng)
+  - Serpiginous (hình dạng giống như rắn)
+  - Poikilodermatous (hình thức đa dạng, thường là sự pha trộn giữa nhạt màu, telangiectasia và sắc tố)
+- Vesicle — một mụn nước nhỏ. Nó là một tổn thương có đường kính ≤ 1 cm chứa chất lỏng (trong, huyết thanh hoặc xuất huyết). Chúng có thể đơn lẻ hoặc nhiều. Tính từ là "vesicular".
+- Pustule — một tổn thương có chứa mủ. Nó chứa đầy bạch cầu trung tính và có thể có màu trắng hoặc vàng. Không phải tất cả các mụn mủ đều bị nhiễm trùng.
+- Bulla — một mụn nước lớn. Một tổn thương có đường kính hơn 1 cm chứa chất lỏng (trong, huyết thanh hoặc xuất huyết).
+- Một áp xe là một sự tích tụ mủ cục bộ.
+- Weal — cũng được viết là ‘wheal’, là một sự nâng lên tạm thời của da do phù nề da, thường nhạt ở trung tâm với một viền đỏ và không có thay đổi bề mặt. Wealing chỉ ra mề đay hoặc một tình trạng giống mề đay.
+
+## Bề mặt da
+
+Bề mặt da của một tổn thương da có thể bình thường hoặc mịn vì quá trình bệnh lý nằm dưới bề mặt, hoặc trung bì hoặc dưới da. Các thay đổi bề mặt chỉ ra rằng có sự thay đổi biểu bì.
+
+- Bong vảy hoặc tăng sừng — sự gia tăng các tế bào chết trên bề mặt da (lớp sừng). Các thuật ngữ mô tả cho vảy bao gồm:
+
+  - Desquamation (da bong ra thành vảy)
+  - Psoriasiform (vảy trắng hoặc bạc lớn)
+  - Pityriasiform (vảy bột mịn)
+  - Lichenoid (vảy rõ ràng bám chặt vào bề mặt da)
+  - Keratotic (vảy sừng)
+  - Exfoliation (da bong tróc)
+  - Maceration (da bong tróc ẩm)
+  - Verrucous (giống như mụn cóc).
+
+## Thay đổi thứ cấp
+
+- Lichenification — do cọ xát mãn tính, dẫn đến da dày lên có thể sờ thấy với các dấu hiệu da tăng lên và vảy lichenoid. Nó xảy ra trong chàm atopice mãn tính và lichen simplex.
+- Crusting — kết quả của huyết tương rỉ ra qua biểu bì bị xói mòn. Nó thô trên bề mặt và có màu vàng hoặc nâu. Vảy máu có màu đỏ, tím hoặc đen.
+- Dystrophy — thoái hóa hoặc hình thành bất thường của da. Nó thường được sử dụng để chỉ các bệnh về móng.
+- Excoriation — mất biểu bì và một phần của trung bì do gãi hoặc chấn thương ngoại sinh. Nó có thể là tuyến tính hoặc chấm.
+- Erosion — một vết loét do sự phá hủy bề mặt mô như da.
+- Fissure — một vết nứt, nứt, xói mòn hoặc loét hẹp của da.
+- Fungating — đề cập đến một khối u ác tính lớn đang bùng phát như một cây nấm hoặc nấm.
+- Granulation tissue — được tạo thành từ một khối lượng mao mạch mới và mô sợi trong một vết thương đang lành.
+- Ulcer — mất toàn bộ độ dày của biểu bì cộng với ít nhất một phần của trung bì; nó có thể mở rộng vào mô dưới da. Một vết loét lành với một vết sẹo.
+- Granuloma — một loại viêm đặc trưng bởi các tế bào histiocytes.
+- Hypertrophy — giải thích rằng một số thành phần của da như một vết sẹo được mở rộng hoặc đã phát triển quá mức.
+
+### Tài liệu tham khảo
+
+- Nast A, Griffiths CE, Hay R, Sterry W, Bolognia JL. Bảng thuật ngữ sửa đổi năm 2016 của Liên đoàn Quốc tế về Da liễu để mô tả các tổn thương da. Br J Dermatol. 2016 Jun;174(6):1351–8. doi: 10.1111/bjd.14419. Epub 2016 Apr 3. PubMed PMID: 26801523. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26801523). [Journal](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.14419).
+
+### Trên DermNet
+
+- [Thuật ngữ](https://dermnetnz.org/glossary)
+- [Thuật ngữ da liễu bệnh lý](https://dermnetnz.org/topics/dermatopathological-terminology)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

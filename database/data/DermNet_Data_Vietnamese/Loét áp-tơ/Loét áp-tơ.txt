@@ -1,0 +1,192 @@
+##### Loét áp-tơ — thông tin thêm
+
+Từ đồng nghĩa:
+
+Áp-tơ, Áp-tơ-tít, Viêm miệng áp-tơ, Loét miệng
+
+Danh mục:
+
+Tổn thương (lành tính)
+
+ICD-10:
+
+K12.0, N76.6, N50.8, N77.0
+
+ICD-11:
+
+DA01.10, GA00.3, GA41.0, GA41.Y
+
+SNOMED CT:
+
+427617000, 426965005, 398870000, 196531008, 307772002, 319297003, 426567008, 70718000, 402708008
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics?category=Lesions%20(benign))**
+
+# **Loét áp-tơ**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật bởi A/Prof Amanda Oakley, Tổng biên tập, Tháng 1 năm 2016. Sửa đổi DermNet Tháng 4 năm 2021
+
+[Giới thiệu](https://dermnetnz.org/topics/aphthous-ulcer#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/aphthous-ulcer#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/aphthous-ulcer#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/aphthous-ulcer#Clinical%20features) [Chẩn đoán](https://dermnetnz.org/topics/aphthous-ulcer#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/aphthous-ulcer#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/aphthous-ulcer#Treatment) [Kết quả](https://dermnetnz.org/topics/aphthous-ulcer#Outcome)
+
+## Loét áp-tơ là gì?
+
+Loét áp-tơ là tình trạng loét phổ biến nhất của niêm mạc miệng, xuất hiện dưới dạng vết loét đau trên màng nhầy miệng hoặc sinh dục. Chúng cũng được gọi là áp-tơ, áp-tơ-tít, viêm miệng áp-tơ và loét miệng.
+
+## Ai bị loét áp-tơ?
+
+Bất kỳ ai cũng có thể bị loét áp-tơ; 20% dân số có một hoặc nhiều vết loét, ít nhất là thỉnh thoảng. Chúng thường xuất hiện lần đầu tiên ở trẻ em hoặc thanh thiếu niên, và thường ảnh hưởng đến nữ giới hơn nam giới.
+
+Loét áp-tơ có thể là biểu hiện sớm của một bệnh hệ thống như bệnh Behçet, hoặc các rối loạn tiêu hóa bao gồm bệnh celiac, [bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease), và [viêm loét đại tràng](https://dermnetnz.org/topics/oral-manifestations-of-inflammatory-bowel-disease). Viêm miệng áp-tơ là một đặc điểm của hội chứng sốt tái phát [hội chứng PFAPA](https://dermnetnz.org/topics/pfapa-syndrome).
+
+Thú vị là, [hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) có thể bảo vệ chống lại áp-tơ, mặc dù hút thuốc làm nhiều tình trạng miệng và da trở nên tồi tệ hơn.
+
+## Nguyên nhân gây loét áp-tơ là gì?
+
+Lý do chính xác tại sao loét áp-tơ phát triển vẫn chưa được xác định rõ ràng. Khoảng 40% người bị loét áp-tơ có tiền sử gia đình bị loét áp-tơ. Suy nghĩ hiện tại là hệ thống miễn dịch bị rối loạn bởi một số yếu tố bên ngoài và phản ứng bất thường chống lại một protein trong mô niêm mạc.
+
+Các yếu tố dường như kích hoạt bùng phát loét bao gồm:
+
+- [Căng thẳng cảm xúc](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) và thiếu ngủ
+- Chấn thương cơ học, ví dụ, tự cắn
+- Thiếu dinh dưỡng, đặc biệt là vitamin B, sắt và axit folic
+- Một số thực phẩm, bao gồm sô-cô-la
+- Một số loại kem đánh răng; điều này có thể liên quan đến sodium laureth sulphate (thành phần tạo bọt của kem đánh răng)
+- Kinh nguyệt
+- Một số loại thuốc, bao gồm nicorandil, được dùng cho đau thắt ngực
+- Nhiễm virus.
+
+## Đặc điểm lâm sàng của loét áp-tơ là gì?
+
+Loét áp-tơ thường là một vết loét tròn hoặc bầu dục đơn lẻ bên trong miệng trên một khu vực mà niêm mạc không gắn chặt vào xương bên dưới, chẳng hạn như bên trong môi và má hoặc dưới lưỡi. Loét áp-tơ cũng có thể ảnh hưởng đến bộ phận sinh dục ở nam và nữ.
+
+Loét áp-tơ tái phát thường bắt đầu như một điểm vàng nhạt tròn được bao quanh bởi một quầng đỏ. Sau đó, nó phân hủy thành một vết loét, được phủ một màng trắng, vàng hoặc xám lỏng lẻo. Mô xung quanh khỏe mạnh và không bị ảnh hưởng. Vết loét có thể đau, đặc biệt nếu bị kích thích bởi chuyển động hoặc ăn một số loại thực phẩm như trái cây họ cam quýt.
+
+Người ta có thể trải qua một vết loét đơn lẻ hoặc nhiều vết loét. Nhiều vết loét có xu hướng phân bố rộng rãi trong miệng của một người.
+
+Loét áp-tơ được phân loại thành ba loại.
+
+- Loét áp-tơ nhỏ tái phát (80%). Điều này có đường kính dưới 5 mm và lành trong vòng 1–2 tuần.
+- Loét áp-tơ lớn, có kích thước lớn (thường hơn 10 mm) và mất vài tuần hoặc tháng để lành và để lại sẹo.
+- Loét dạng herpes, là nhiều vết loét nhỏ điểm mà lành trong vòng một tháng. Chúng thường xuất hiện trên lưỡi.
+
+### Loét áp-tơ nhỏ
+
+![Loét áp-tơ](https://dermnetnz.org/assets/Uploads/site-age-specific/aphth.jpg)
+
+Loét áp-tơ
+
+![Loét áp-tơ](https://dermnetnz.org/assets/Uploads/site-age-specific/s/aphth1.jpg)
+
+Loét áp-tơ
+
+![Loét áp-tơ](https://dermnetnz.org/assets/Uploads/site-age-specific/s/aphth2.jpg)
+
+Loét áp-tơ
+
+## Loét áp-tơ được chẩn đoán như thế nào?
+
+Loét áp-tơ thường được chẩn đoán lâm sàng. Các cuộc điều tra hiếm khi được yêu cầu, nhưng được thực hiện nếu có các đợt tấn công tái phát của nhiều vết loét miệng nghiêm trọng hoặc áp-tơ phức tạp.
+
+Xét nghiệm máu có thể bao gồm:
+
+- Đếm máu, sắt, vitamin B12, và nghiên cứu axit folic
+- Xét nghiệm kháng thể gluten cho [bệnh celiac](https://dermnetnz.org/topics/gluten-enteropathy-in-patients-with-dermatitis-herpetiformis)
+- Xét nghiệm calprotectin phân cho bệnh Crohn.
+
+Các mẫu xét nghiệm vi sinh học đánh giá sự hiện diện của _[Candida albicans](https://dermnetnz.org/topics/oral-candidiasis)_, virus _[Herpes simplex](https://dermnetnz.org/topics/herpes-simplex)_ và các sinh vật Vincent.
+
+## Chẩn đoán phân biệt của loét áp-tơ là gì?
+
+Các nguyên nhân khác của [loét miệng](https://dermnetnz.org/topics/mouth-ulcer) nên được xem xét, bao gồm:
+
+- [Herpes simplex](https://dermnetnz.org/topics/herpes-simplex), [bệnh tay chân miệng](https://dermnetnz.org/topics/hand-foot-and-mouth-disease), và các nhiễm virus khác
+- [Herpangina](https://dermnetnz.org/topics/herpangina)
+- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+- [Phản ứng thuốc cố định](https://dermnetnz.org/topics/fixed-drug-eruption).
+
+### Chẩn đoán phân biệt loét áp-tơ miệng
+
+![Bệnh tay chân miệng](https://dermnetnz.org/assets/Uploads/enteroviral-stomatitis-044.jpg)
+
+Bệnh tay chân miệng
+
+![Phản ứng thuốc cố định](https://dermnetnz.org/assets/Uploads/doctors/emergencies/images/fde2.jpg)
+
+Phản ứng thuốc cố định
+
+![Herpangina](https://dermnetnz.org/assets/Uploads/viral/herpangina.jpg)
+
+Herpangina
+
+## Điều trị loét áp-tơ là gì?
+
+Không có cách chữa trị cho loét áp-tơ và các vết loét tự lành. Mục tiêu chính của điều trị là giảm đau và khó chịu và thúc đẩy quá trình lành.
+
+### Biện pháp chung
+
+- Các loại kem bảo vệ tạo thành một hàng rào trên vết loét để giảm tiếp xúc với các chất kích thích.
+- Đốt mô bề mặt bằng que bạc nitrat.
+- [Thuốc gây tê cục bộ](https://dermnetnz.org/topics/local-anaesthesia) benzocaine và lignocaine (lidocaine) để giảm đau.
+- Kem đánh răng có thuốc không chứa sodium laureth sulphate.
+- [Nước súc miệng](https://dermnetnz.org/topics/mouthwash) kháng khuẩn để giảm nhiễm trùng thứ cấp.
+- Tránh các thực phẩm kích thích hoặc làm trầm trọng thêm vết loét.
+- Điều trị tình trạng liên quan hoặc nguyên nhân cơ bản, ví dụ -
+  - Bổ sung chế độ ăn uống bằng vitamin hoặc khoáng chất, nếu chế độ ăn uống không đủ hoặc phát hiện thiếu hụt.
+- Giảm căng thẳng.
+
+### Thuốc kê đơn cho loét áp-tơ
+
+Thuốc kê đơn tại chỗ hiếm khi cần thiết:
+
+- Hỗn dịch [Tetracycline](https://dermnetnz.org/topics/tetracycline) như [nước súc miệng](https://dermnetnz.org/topics/mouthwash)
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) dưới dạng lotion, kem hoặc kem dán ví dụ, triamcinolone trong kem dán nha khoa
+- [Chất ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors): [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) hoặc [tacrolimus](https://dermnetnz.org/topics/tacrolimus) tại chỗ.
+
+Trong các trường hợp nghiêm trọng, đặc biệt nếu có triệu chứng hệ thống, có thể xem xét các loại thuốc uống có hoạt tính chống viêm (sử dụng ngoài nhãn):
+
+- [Tetracycline](https://dermnetnz.org/topics/tetracycline) ví dụ, doxycycline 50-100mg hàng ngày trong 3-6 tháng hoặc lâu hơn
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Colchicine](https://dermnetnz.org/topics/colchicine)
+- [Steroid hệ thống](https://dermnetnz.org/topics/systemic-steroids)
+- Các chất ức chế miễn dịch như [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine), [methotrexate](https://dermnetnz.org/topics/methotrexate), [ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+
+## Kết quả của loét áp-tơ là gì?
+
+Hầu hết các vết loét áp-tơ nhỏ tái phát lành trong vòng 1–2 tuần mà không để lại sẹo mà không cần điều trị. Loét áp-tơ nhỏ thường tái phát không liên tục.
+
+Loét áp-tơ tái phát chủ yếu là một phiền toái nhỏ, nhưng chúng có liên quan đến các vấn đề sức khỏe đáng kể ở một số người.
+
+Loét áp-tơ lớn lành với sẹo.
+
+### Tài liệu tham khảo
+
+- Akintoye SO, Greenberg MS. Viêm miệng áp-tơ tái phát. Dent Clin North Am. 2014;58(2):281–97. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964366/) doi:10.1016/j.cden.2013.12.002
+- Al-Maweri SA, Halboub E, Ashraf S, et al. Ứng dụng đơn lẻ của doxycycline tại chỗ trong quản lý viêm miệng áp-tơ tái phát: một đánh giá hệ thống và phân tích tổng hợp của các bằng chứng có sẵn. BMC Oral Health. 2020;20(1):231. doi:10.1186/s12903-020-01220-5. [Journal](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-020-01220-5)
+- Cui RZ, Bruce AJ, Rogers RS 3rd. Viêm miệng áp-tơ tái phát. Clin Dermatol. 2016;34(4):475-81. doi:10.1016/j.clindermatol.2016.02.020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27343962/)
+- Giannetti L, Murri Dello Diago A, Lo Muzio L. Viêm miệng áp-tơ tái phát. Minerva Stomatol. 2018;67(3):125-8. doi:10.23736/S0026-4970.18.04137-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29332375/)
+- Kolios AGA, Yawalkar N, Feusi A, Kündig T, Boyman O, Nilsson J. Apremilast trong điều trị viêm miệng áp-tơ tái phát khó chữa. N Engl J Med. 2019;381(20):1975-7. doi:10.1056/NEJMc1901987. [Journal](https://www.nejm.org/doi/pdf/10.1056/NEJMc1901987?articleTools=true)
+- Letsinger JA, McCarty MA, Jorizzo JL. Aphthosis phức tạp: một loạt trường hợp lớn với thuật toán đánh giá và thang điều trị từ thuốc bôi đến thalidomide. J Am Acad Dermatol. 2005;52(3 Pt 1):500-8. doi:10.1016/j.jaad.2004.10.863. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15761429/)
+
+### Trên DermNet
+
+- [Bệnh Behcet](https://dermnetnz.org/topics/behcet-disease)
+- [Chẩn đoán phân biệt loét âm hộ](https://dermnetnz.org/topics/differential-diagnosis-of-vulval-ulcers)
+- [Xói mòn và loét](https://dermnetnz.org/topics/erosions-and-ulcers)
+- [Loét miệng](https://dermnetnz.org/topics/mouth-ulcer)
+- [Loét sinh dục không do quan hệ tình dục](https://dermnetnz.org/topics/non-sexually-acquired-genital-ulceration)
+- [Biểu hiện miệng của bệnh viêm ruột](https://dermnetnz.org/topics/oral-manifestations-of-inflammatory-bowel-disease)
+
+### Các trang web khác
+
+- [Loét áp-tơ](http://emedicine.medscape.com/article/867080-overview) — Tham khảo Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

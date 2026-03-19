@@ -1,0 +1,29 @@
+##### SCORAD — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Đánh giá viêm da cơ địa
+
+Danh mục:
+
+Chàm, Chẩn đoán và kiểm tra
+
+ICD-10:
+
+L20
+
+ICD-11:
+
+EA80
+
+SNOMED CT:
+
+24079001
+
+**[Chàm](https://dermnetnz.org/topics?category=Eczemas) [Chẩn đoán và kiểm tra](https://dermnetnz.org/topics?category=Diagnosis%20and%20testing)**
+
+# **SCORAD**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên khoa Da liễu, Hamilton, New Zealand, 2009.
+
+[Giới thiệu](https://dermnetnz.org/topics/scorad#Introduction) [Diện tích](https://dermnetnz.org/topics/scorad#Area) [Cường độ](https://dermnetnz.org/topics/scorad#Intensity) [Tổng điểm](https://dermnetnz.org/topics/scorad#Total%20score)

@@ -1,0 +1,29 @@
+##### U nhú xơ kích thích miệng — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+U nhú xơ miệng do chấn thương, Tăng sản xơ trong miệng khu trú, Polyp miệng, Polyp xơ biểu mô của niêm mạc miệng, Tăng sản kích thích của niêm mạc miệng, Polyp xơ biểu mô miệng
+
+Danh mục:
+
+Viêm
+
+ICD-10:
+
+D10.1, K14, K13.70, K13.6, K06.2
+
+ICD-11:
+
+DA01.42, DA0B.Y
+
+SNOMED CT:
+
+21863002, 419585004
+
+**[Viêm](https://dermnetnz.org/topics?category=Inflammation)**
+
+# **U nhú xơ kích thích miệng**
+
+Tác giả: Bác sĩ Delwyn Dyall-Smith FACD, Chuyên gia Da liễu, 2010.
+
+[Giới thiệu](https://dermnetnz.org/topics/oral-irritated-fibroma#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/oral-irritated-fibroma#Demographics) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/oral-irritated-fibroma#Clinical%20features) [Chẩn đoán](https://dermnetnz.org/topics/oral-irritated-fibroma#Diagnosis) [Điều trị](https://dermnetnz.org/topics/oral-irritated-fibroma#Treatment)

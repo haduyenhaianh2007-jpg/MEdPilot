@@ -1,0 +1,9 @@
+## Làm thế nào để chẩn đoán nhiễm trùng da do vi khuẩn?
+
+Nhiễm trùng da do vi khuẩn thường được chẩn đoán lâm sàng, mặc dù các [nghiên cứu trong phòng thí nghiệm](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections) có thể hữu ích, chẳng hạn như:
+
+- Tổng số lượng máu: nhiễm trùng do vi khuẩn thường làm tăng số lượng bạch cầu và bạch cầu trung tính
+- C-reactive protein (CRP): tăng >50 trong các trường hợp nhiễm trùng do vi khuẩn nghiêm trọng (lưu ý có thể có sự chậm trễ >24 giờ giữa khởi phát triệu chứng và sự gia tăng CRP)
+- Procalcitonin: dấu hiệu xét nghiệm máu cho nhiễm trùng huyết tổng quát do nhiễm trùng vi khuẩn
+- Cấy máu: nếu sốt (>38⁰C)
+- Mẫu gạc từ tổn thương da được gửi để soi kính hiển vi, nuôi cấy và kiểm tra độ nhạy.

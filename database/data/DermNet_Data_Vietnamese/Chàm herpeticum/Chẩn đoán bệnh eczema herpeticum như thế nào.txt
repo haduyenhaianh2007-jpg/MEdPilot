@@ -1,0 +1,12 @@
+## Chẩn đoán bệnh eczema herpeticum như thế nào?
+
+Bệnh eczema herpeticum có thể được chẩn đoán lâm sàng khi một bệnh nhân đã biết bị viêm da dị ứng xuất hiện đột ngột các mụn nước đau, đơn hình, tụ thành cụm kèm theo sốt và mệt mỏi. Nhiễm virus có thể được xác nhận bằng cách lấy mẫu virus bằng cách cạo đáy của một mụn nước mới. Có sẵn một số [xét nghiệm trong phòng thí nghiệm](https://dermnetnz.org/topics/laboratory-tests-for-viral-infections).
+
+- Nuôi cấy virus
+- Nhuộm kháng thể huỳnh quang trực tiếp
+- Giải trình tự PCR (Phản ứng chuỗi polymerase)
+- [Tzank smear](https://dermnetnz.org/topics/tzanck-smear) cho thấy tế bào khổng lồ đa nhân biểu mô và hiện tượng tách tế bào (acantholysis)
+
+Cần lấy mẫu vi khuẩn để soi kính hiển vi và nuôi cấy vì eczema herpeticum có thể giống với [chốc lở](https://dermnetnz.org/topics/impetigo) và có thể bị biến chứng bởi [nhiễm trùng vi khuẩn thứ phát](https://dermnetnz.org/topics/wound-infections).
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) cho thấy những [thay đổi bệnh lý](https://dermnetnz.org/topics/herpes-virus-infection-pathology) đặc trưng.

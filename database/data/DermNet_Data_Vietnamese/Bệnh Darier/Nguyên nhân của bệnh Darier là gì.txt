@@ -1,0 +1,3 @@
+## Nguyên nhân của bệnh Darier là gì?
+
+Gen bất thường trong bệnh Darier đã được xác định là _ATP2A2_, nằm trên nhiễm sắc thể 12q23-24.1. Gen này mã hóa cho enzyme hoặc bơm SERCA (SarcoEndoplasmic Reticulum Calcium-ATPase) cần thiết để vận chuyển canxi trong tế bào. Cơ chế chính xác mà gen bất thường này gây ra bệnh vẫn đang được nghiên cứu, nhưng có vẻ như cách mà các tế bào da kết hợp với nhau có thể bị gián đoạn. Các tế bào da (keratinocytes) kết dính với nhau thông qua các cấu trúc gọi là desmosomes và có vẻ như desmosomes không lắp ráp đúng cách nếu thiếu canxi.

@@ -1,0 +1,31 @@
+## Điều trị bệnh vảy nến mủ toàn thân là gì?
+
+Bệnh vảy nến mủ toàn thân (GPP) rất nghiêm trọng và các biến chứng có thể đe dọa tính mạng. Nó cần được điều trị kịp thời và thường cần nhập viện. Có thể cần hỗ trợ chăm sóc đặc biệt.
+
+### Biện pháp chung
+
+- [Chất làm mềm và dưỡng ẩm da](https://dermnetnz.org/topics/emollients-and-moisturisers).
+- Dịch truyền tĩnh mạch và điện giải.
+- Giảm đau.
+- Nếu mang thai, cần theo dõi cẩn thận mẹ và thai nhi.
+
+### Biện pháp cụ thể
+
+- Tác nhân bôi ngoài da:
+  - [Calcipotriol](https://dermnetnz.org/topics/calcipotriol)
+  - [Tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+  - Steroid nhẹ, ví dụ, triamcinolone.
+- [Quang trị liệu](https://dermnetnz.org/topics/phototherapy) — thường kết hợp với các tác nhân toàn thân.
+- [Kháng sinh](https://dermnetnz.org/topics/antibiotics) trong trường hợp nhiễm khuẩn thứ phát.
+- Tác nhân không sinh học:
+  - [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+  - [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+  - [Retinoid uống (acitretin)](https://dermnetnz.org/topics/oral-retinoids)
+  - [Mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+  - Ít phổ biến hơn — [apremilast](https://dermnetnz.org/topics/apremilast), [hydroxyurea](https://dermnetnz.org/topics/hydroxyurea), [colchicine](https://dermnetnz.org/topics/colchicine), [dapsone](https://dermnetnz.org/topics/dapsone).
+- Tác nhân sinh học:
+  - Chất đối kháng TNFα — [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis), [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis), certolizumab, [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis)
+  - Chất đối kháng Interleukin 17 (IL-17) — [brodalumab](https://dermnetnz.org/topics/brodalumab), [secukinumab](https://dermnetnz.org/topics/secukinumab), [ixekizumab](https://dermnetnz.org/topics/ixekizumab), [bimekizumab](https://dermnetnz.org/topics/bimekizumab)
+  - Chất đối kháng Interleukin 23 (IL-23) và 12 (IL-12) — [guselkumab](https://dermnetnz.org/topics/guselkumab), [risankizumab](https://dermnetnz.org/topics/risankizumab), [ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis)
+  - Chất đối kháng Interleukin 1 (IL-1) — canakinumab, gevokizumab
+  - Chất đối kháng Interleukin 36 (IL-36) — [spesolimab.](https://dermnetnz.org/topics/spesolimab) Imsidolimab hiện đang được nghiên cứu.

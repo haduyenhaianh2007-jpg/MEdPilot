@@ -1,0 +1,11 @@
+## Nhiễm trùng vết thương là gì?
+
+Nhiễm trùng vết thương được Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC) định nghĩa là nhiễm trùng vị trí phẫu thuật (SSI). Điều này được định nghĩa chi tiết như sau:
+
+- SSI rạch da nông – nhiễm trùng chỉ liên quan đến da và mô dưới da của vết rạch.
+- SSI rạch da sâu — nhiễm trùng liên quan đến các mô sâu, chẳng hạn như lớp cơ và lớp mặt.
+- SSI cơ quan/không gian — nhiễm trùng liên quan đến bất kỳ phần nào của giải phẫu trong các cơ quan và không gian khác ngoài vết rạch, đã được mở hoặc thao tác trong quá trình phẫu thuật.
+
+Mặc dù định nghĩa này về nhiễm trùng vết thương bị giới hạn ở những vết thương phát sinh từ vết rạch phẫu thuật, một định nghĩa rộng hơn và tổng quát hơn sẽ là nhiễm trùng của một [vết thương](https://dermnetnz.org/topics/wounds) gây ra bởi chấn thương vật lý của da do chấn thương xuyên thấu từ thực vật, động vật, súng, dao hoặc các vật thể khác. Vết thương phá vỡ sự liên tục của da và cho phép các sinh vật xâm nhập vào mô và gây nhiễm trùng.
+
+Nhiễm trùng phát sinh trong vết thương phẫu thuật là một trong những nhiễm trùng mắc phải tại bệnh viện phổ biến nhất và là nguyên nhân quan trọng gây bệnh tật và tử vong. Do đó, trọng tâm của bài viết này là nhận biết và quản lý nhiễm trùng vết thương phẫu thuật.

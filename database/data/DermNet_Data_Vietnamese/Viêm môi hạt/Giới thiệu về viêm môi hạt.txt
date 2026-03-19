@@ -1,0 +1,29 @@
+##### Viêm môi hạt — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Viêm môi Miescher
+
+Danh mục:
+
+Viêm
+
+ICD-10:
+
+K13.4, G51.2
+
+ICD-11:
+
+DA00.0, 8B88.Y
+
+SNOMED CT:
+
+235136001, 215617000, 3777007, 235048000
+
+**[Viêm](https://dermnetnz.org/topics?category=Inflammation)**
+
+# **Viêm môi hạt**
+
+Tác giả: Vanessa Ngan, Nhà văn nhân viên, 2003.
+
+[Giới thiệu](https://dermnetnz.org/topics/granulomatous-cheilitis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/granulomatous-cheilitis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/granulomatous-cheilitis#Causes%3Cbr%20/%3E) [Dấu hiệu và triệu chứng](https://dermnetnz.org/topics/granulomatous-cheilitis#Signs%20and%20symptoms%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/granulomatous-cheilitis#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/granulomatous-cheilitis#Treatment)

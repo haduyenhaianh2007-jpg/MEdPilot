@@ -1,0 +1,29 @@
+##### Loét áp-tơ — thông tin thêm
+
+Từ đồng nghĩa:
+
+Áp-tơ, Áp-tơ miệng, Viêm miệng áp-tơ, Loét miệng
+
+Danh mục:
+
+Tổn thương (lành tính)
+
+ICD-10:
+
+K12.0, N76.6, N50.8, N77.0
+
+ICD-11:
+
+DA01.10, GA00.3, GA41.0, GA41.Y
+
+SNOMED CT:
+
+427617000, 426965005, 398870000, 196531008, 307772002, 319297003, 426567008, 70718000, 402708008
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics?category=Lesions%20(benign))**
+
+# **Loét áp-tơ**
+
+Tác giả: Vanessa Ngan, Nhà văn nhân viên, 2003. Cập nhật bởi A/Prof Amanda Oakley, Tổng biên tập, Tháng 1 năm 2016. Sửa đổi DermNet Tháng 4 năm 2021
+
+[Giới thiệu](https://dermnetnz.org/topics/aphthous-ulcer#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/aphthous-ulcer#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/aphthous-ulcer#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/aphthous-ulcer#Clinical%20features) [Chẩn đoán](https://dermnetnz.org/topics/aphthous-ulcer#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/aphthous-ulcer#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/aphthous-ulcer#Treatment) [Kết quả](https://dermnetnz.org/topics/aphthous-ulcer#Outcome)

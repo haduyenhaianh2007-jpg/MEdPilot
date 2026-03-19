@@ -1,0 +1,81 @@
+##### Bệnh lý u hạt vàng trẻ em — thông tin bổ sung
+
+Danh mục:
+
+Di truyền, Chẩn đoán và xét nghiệm
+
+ICD-10:
+
+D76.3
+
+ICD-11:
+
+2B31.0
+
+SNOMED CT:
+
+400031009
+
+**[Di truyền](https://dermnetnz.org/topics?category=Genetic) [Chẩn đoán và xét nghiệm](https://dermnetnz.org/topics?category=Diagnosis%20and%20testing)**
+
+# **Bệnh lý u hạt vàng trẻ em**
+
+Tác giả: Phó Giáo sư Phụ tá Patrick Emanuel, Bác sĩ Da liễu, Clinica Ricardo Palma, Lima, Peru. Tổng biên tập DermNet: Phó Giáo sư Phụ tá Amanda Oakley. Biên tập bởi Gus Mitchell. Tháng 9 năm 2018.
+
+[Giới thiệu](https://dermnetnz.org/topics/juvenile-xanthogranuloma-pathology#Introduction%3Cbr%20/%3E) [Mô học](https://dermnetnz.org/topics/juvenile-xanthogranuloma-pathology#Histology%3Cbr%20/%3E) [Nghiên cứu đặc biệt](https://dermnetnz.org/topics/juvenile-xanthogranuloma-pathology#Special%20studies%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/juvenile-xanthogranuloma-pathology#Differential%20diagnoses)
+
+## Giới thiệu
+
+[U hạt vàng trẻ em](https://dermnetnz.org/topics/juvenile-xanthogranuloma) thường xuất hiện ở trẻ nhỏ dưới dạng một nốt màu hồng hoặc vàng mịn.
+
+## Mô học của u hạt vàng trẻ em
+
+Trong u hạt vàng trẻ em, tổn thương bắt đầu là sự tăng sinh dày đặc của tế bào lympho-histiocyte ở lớp bì với các tế bào khổng lồ hiếm gặp. Khi phát triển, khối u ở lớp bì chứa một quần thể tế bào bọt histiocyte và tế bào khổng lồ (hình 1–3). Tế bào khổng lồ Touton khá đặc trưng cho u hạt vàng trẻ em (tốt nhất là thấy ở hình 3). Những tế bào này chứa một vòng nhân bao quanh một bào tương đồng nhất ở trung tâm, trong khi bào tương bọt bao quanh các nhân. Sau đó, các tế bào trở nên dạng thoi và giống tế bào xơ-histiocyte hơn.
+
+![Hình 1](https://dermnetnz.org/assets/Uploads/juvenile-xanthogranuloma-figure-1-3.jpg)
+
+Hình 1
+
+![Hình 2](https://dermnetnz.org/assets/Uploads/juvenile-xanthogranuloma-figure-2-3.jpg)
+
+Hình 2
+
+![Hình 3](https://dermnetnz.org/assets/Uploads/juvenile-xanthogranuloma-figure-3-3.jpg)
+
+Hình 3
+
+## Nghiên cứu đặc biệt cho u hạt vàng trẻ em
+
+Có thể sử dụng hóa mô miễn dịch. Thông thường, khối u dương tính với CD68, alpha-1-antichymotrypsin, lysozyme, vimentin, và Factor XIIIa. Các vết nhuộm âm tính hữu ích bao gồm S100 và CD1a.
+
+## Chẩn đoán phân biệt cho u hạt vàng trẻ em
+
+- [U xơ da](https://dermnetnz.org/topics/dermatofibroma-fibrous-histiocytoma-pathology/) thường thiếu tế bào khổng lồ Touton và có nền mô collagen dày đặc, kiểu tăng trưởng dạng xoắn, và thường có sự tăng sinh biểu mô giả phía trên.
+- [U vàng](https://dermnetnz.org/topics/xanthoma) cho thấy tế bào bọt histiocyte đồng nhất hơn và thường xuất hiện nhiều hơn. Sự thâm nhiễm đa hình thường thấy trong u hạt vàng trẻ em thường không có.
+- [Bệnh tế bào Langerhans](https://dermnetnz.org/topics/langerhans-cell-histiocytosis) thường cho thấy nhuộm S100+ và CD1a+.
+- [U hạt lưới](https://dermnetnz.org/topics/reticulohistiocytoma-pathology/) được cấu thành từ các tế bào histiocyte với bào tương ái toan hoặc dạng kính mờ.
+
+### Tài liệu tham khảo
+
+- [Bệnh tế bào Langerhans](http://www.pathologyoutlines.com/topic/skintumornonmelanocyticLCH.html) — PathologyOutlines.com
+
+### Trên DermNet
+
+- [U hạt vàng trẻ em](https://dermnetnz.org/topics/juvenile-xanthogranuloma)
+- [Thuật ngữ bệnh lý da](https://dermnetnz.org/topics/dermatopathological-terminology)
+- [Chỉ mục bệnh lý da](https://dermnetnz.org/topics/dermatopathology-index/)
+
+### Các trang web khác
+
+- [U hạt vàng trẻ em](http://www.pathologyoutlines.com/topic/skintumornonmelanocyticjuvenilexantho.html)— PathologyOutlines.com
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

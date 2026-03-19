@@ -1,0 +1,29 @@
+##### Miliaria — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Rôm sảy, Nhiệt gai
+
+Danh mục:
+
+Phát ban
+
+ICD-10:
+
+L74.0, L74.1, L74.2, L74.3
+
+ICD-11:
+
+EE02, EE02.0, EE02.Y, KC40.1
+
+SNOMED CT:
+
+63951004, 44279002, 72658003, 47317002, 201195008, 26988005, 402824003, 402821006
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Miliaria**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1997. Cập nhật bởi Bác sĩ Anita Eshraghi, Chuyên gia Da liễu, Thụy Điển. Tháng 2 năm 2018. Sửa đổi tháng 9 năm 2020
+
+[Giới thiệu](https://dermnetnz.org/topics/miliaria#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/miliaria#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/miliaria#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/miliaria#Clinical%20features) [Biến chứng](https://dermnetnz.org/topics/miliaria#Complications) [Chẩn đoán](https://dermnetnz.org/topics/miliaria#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/miliaria#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/miliaria#Treatment) [Kết quả](https://dermnetnz.org/topics/miliaria#Outcome)

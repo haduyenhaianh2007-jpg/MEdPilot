@@ -1,0 +1,139 @@
+##### Notalgia paraesthetica — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Chèn ép dây thần kinh ngực
+
+Danh mục:
+
+Viêm
+
+ICD-10:
+
+G60.8
+
+ICD-11:
+
+EC90.3
+
+SNOMED CT:
+
+45781009, 277802001
+
+**[Viêm](https://dermnetnz.org/topics?category=Inflammation)**
+
+# **Notalgia paraesthetica**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1998. Cập nhật vào tháng 7 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/notalgia-paraesthetica#Introduction) [Nguyên nhân](https://dermnetnz.org/topics/notalgia-paraesthetica#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/notalgia-paraesthetica#Clinical%20features) [Điều tra](https://dermnetnz.org/topics/notalgia-paraesthetica#Investigations) [Điều trị](https://dermnetnz.org/topics/notalgia-paraesthetica#Treatment)
+
+## Notalgia paraesthetica là gì?
+
+Notalgia paraesthetica là một dạng [rối loạn cảm giác da](https://dermnetnz.org/topics/cutaneous-dysaesthesia) nơi ngứa và/hoặc cảm giác thay đổi xuất hiện ở các vùng da ở mặt trong của xương bả vai ở hai bên lưng. _Notalgia_ có nghĩa là đau lưng, và _paraesthetica_ đề cập đến đau rát, ngứa ran hoặc ngứa.
+
+Nó cũng được gọi là hội chứng chèn ép dây thần kinh da ngực.
+
+Da bị ngứa mà không có phát ban; tuy nhiên, gãi và cọ xát có thể dẫn đến các thay đổi thứ cấp như [chàm](https://dermnetnz.org/topics/dermatitis).
+
+## Nguyên nhân của notalgia paraesthetica là gì?
+
+Các dây thần kinh cung cấp cảm giác cho phần lưng trên xuất phát từ tủy sống (đoạn ngực thứ 2 đến thứ 6) và chạy một quãng đường dài qua các cơ dày của lưng. Chúng tạo một góc vuông trước khi đến da. Các dây thần kinh dường như dễ bị chèn ép hoặc kéo căng. Chèn ép một phần hoặc tổn thương dẫn đến các triệu chứng.
+
+Tổn thương ban đầu của dây thần kinh có thể bao gồm:
+
+- Chấn thương lưng
+- Đĩa đệm thoát vị hoặc 'trượt'
+- [Herpes zoster](https://dermnetnz.org/topics/herpes-zoster) (bệnh zona)
+- [Cháy nắng](https://dermnetnz.org/topics/sunburn)
+- Bệnh lý tủy sống
+- Bệnh lý sợi nhỏ
+
+## Đặc điểm lâm sàng của notalgia paraesthetica là gì?
+
+Notalgia paraesthetica thường bắt đầu sau một giai đoạn tập thể dục cường độ cao dẫn đến cứng cơ, hoặc một giai đoạn không hoạt động. Một chấn thương cụ thể có thể được nhớ lại.
+
+Nó được đặc trưng bởi ngứa dữ dội ([ngứa](https://dermnetnz.org/topics/pruritus)) ở bờ trong của một hoặc cả hai xương bả vai, tức là giữa các xương bả vai. Ngứa này có thể gián đoạn hoặc liên tục. Nó không được giảm bớt bằng cách gãi, mặc dù việc gãi và cọ xát có thể mang lại cảm giác dễ chịu.
+
+Vùng bị ảnh hưởng có thể lan ra cả hai xương bả vai và rộng hơn trên lưng và vai. Ở nhiều bệnh nhân, không có dấu hiệu rõ ràng.
+
+Các thay đổi rõ ràng thường phát sinh từ việc cọ xát và gãi vùng bị ảnh hưởng. Bao gồm:
+
+- Dấu vết gãi
+- Tăng sắc tố (dấu nâu)
+- >Giảm sắc tố (dấu trắng)
+- [Lichen simplex](https://dermnetnz.org/topics/lichen-simplex) (một loại [chàm](https://dermnetnz.org/topics/dermatitis))
+- Sẹo
+
+Có thể có cảm giác thay đổi ở vùng da bị ảnh hưởng, khi được kiểm tra bằng kim châm, bông gòn hoặc nhiệt và lạnh. Có thể có giảm hoặc không có mồ hôi ở vùng bị ảnh hưởng.
+
+![Dấu vết gãi](https://dermnetnz.org/assets/Uploads/systemic/notalgia2.jpg)
+
+Dấu vết gãi
+
+![Tăng sắc tố](https://dermnetnz.org/assets/Uploads/systemic/notalgia.jpg)
+
+Tăng sắc tố
+
+![Sẹo](https://dermnetnz.org/assets/Uploads/systemic/notalgia1.jpg)
+
+Sẹo
+
+## Những điều tra nào nên được thực hiện trong notalgia paraesthetica?
+
+Chụp X-quang, CT scan hoặc MRI có thể cho thấy một đốt sống thoái hóa hoặc đĩa đệm bị sa ở khu vực tương ứng với nguồn cung cấp dây thần kinh cho da bị ảnh hưởng (dermatome). Trong nhiều trường hợp, không có bất thường nào được tiết lộ.
+
+Sinh thiết da sẽ được báo cáo là bình thường trừ khi có viêm da chồng lên.
+
+## Điều trị notalgia paraesthetica là gì?
+
+Điều trị không phải lúc nào cũng cần thiết, và không phải lúc nào cũng thành công. Quản lý điển hình có thể bao gồm những điều sau:
+
+- Kem hoặc lotion làm mát khi cần thiết (camphor và menthol)
+- [Steroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid) để điều trị [lichen simplex](https://dermnetnz.org/topics/lichen-simplex) liên quan
+- Kem [Capsaicin](https://dermnetnz.org/topics/capsaicin) – làm cạn kiệt các đầu dây thần kinh của các chất dẫn truyền hóa học của chúng nhưng cần bôi lại thường xuyên và gây ra tác dụng phụ khó chịu tại chỗ
+- Kem [gây tê cục bộ](https://dermnetnz.org/topics/local-anaesthesia) có thể cung cấp sự giảm nhẹ tạm thời các triệu chứng
+- [Amitriptyline](https://dermnetnz.org/topics/tricyclic-antidepressants) hoặc các thuốc tricyclic uống khác vào ban đêm để giúp ngủ và chống lại các triệu chứng thần kinh
+- [Gabapentin](https://dermnetnz.org/topics/gabapentin) >, pregabalin hoặc các thuốc chống co giật khác
+- [Botulinum toxin](https://dermnetnz.org/topics/botulinum-toxin) đã được sử dụng nhưng một thử nghiệm mù đôi cho thấy nó không hiệu quả
+- Kích thích dây thần kinh điện qua da (TENS)
+- Giải nén phẫu thuật của chèn ép dây thần kinh đốt sống
+
+Vật lý trị liệu với các bài tập và kéo giãn lặp đi lặp lại cho lưng trên đã được báo cáo là hiệu quả.
+
+- Trong khi ngồi, khoanh tay và cúi người về phía trước để kéo giãn lưng trên.
+- Tay ở hai bên, nâng vai và xoay chúng về phía trước và phía sau.
+- Tay thẳng, xoay về phía trước 360 độ và phía sau 360 độ.
+- >Xoay thân trên sang trái và phải cho đến khi cảm thấy căng và giữ.
+- Massage các cơ bên cạnh cột sống ở vùng bị ảnh hưởng.
+
+### Tài liệu tham khảo
+
+- Samuel Zagarella, Shivam Kapila và Alireza Fallahi. Notalgia paraesthetica: Nghiên cứu thí điểm về điều trị bằng các bài tập và kéo giãn đơn giản. Tạp chí Da liễu Úc (2016);57:222–24 doi: 10.1111/ajd.12412. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26499931)
+- Savk E, Savk O, Bolukbasi O, Culhaci N, Dikicioğlu E, Karaman G, Sendur N. Notalgia paresthetica: nghiên cứu về cơ chế bệnh sinh. Int J Dermatol. 2000
+
+Tháng 10;39(10):754–9. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/11095194)
+- Savk O, Savk E. Điều tra bệnh lý cột sống trong notalgia paresthetica. J Am Acad Dermatol. 2005 Tháng 6;52(6):1085–7. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/15928634)
+
+### Trên DermNet
+
+- [Rối loạn cảm giác da](https://dermnetnz.org/topics/cutaneous-dysaesthesia)
+- [Ngứa](https://dermnetnz.org/topics/pruritus)
+- [Ngứa brachioradial](https://dermnetnz.org/topics/brachioradial-pruritus)
+- [Meralgia paraesthetica](https://dermnetnz.org/topics/meralgia-paraesthetica)
+- [Dấu hiệu da của các bệnh thần kinh](https://dermnetnz.org/topics/skin-signs-of-neurological-diseases)
+
+### Các trang web khác
+
+- [Notalgia Paresthetica](http://emedicine.medscape.com/article/1599159-overview) — Tham khảo Medscape
+
+### Sách về các bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

@@ -1,0 +1,26 @@
+## Số E cho chất tạo ngọt
+
+### Bảng 4. Chất tạo ngọt (E400s và E900s)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Số E** | **Tên** | **Mô tả** | **Ví dụ sử dụng** |
+| E420 | Sorbitol | \- Rượu đường được sản xuất từ glucose<br>\- Hấp thụ chậm hơn đường nên thường được sử dụng làm chất tạo ngọt<br>\- Cũng được sử dụng như chất giữ ẩm và chất pha loãng màu thực phẩm<br>\- Có thể gây tác dụng nhuận tràng khi dùng liều lớn | \- Được sử dụng rộng rãi trong kẹo cho người tiểu đường, mứt, bánh quy, bánh ngọt và nước giải khát |
+| E421 | Mannitol | \- Rượu đường được chiết xuất từ mannose, nhưng thường được sản xuất từ rong biển<br>\- Hoạt động như chất tạo ngọt, chất nhũ hóa, chất chống vón cục và chất làm đặc | \- Được sử dụng trong kẹo và món tráng miệng |
+| E950 | Acesulfame K | \- Chất tạo ngọt | \- Chất tạo ngọt ít calo được sử dụng trong nhiều loại thực phẩm và đồ uống |
+| E951 | Aspartame | \- Chất tạo ngọt nhân tạo mới có nguồn gốc từ protein<br>\- Chứa phenylalanine | \- Chất tạo ngọt nhân tạo, kẹo, kem, món tráng miệng ít calo và nước giải khát |
+| E952 | Axit cyclamic và muối Na và Ca của nó | \- Chất tạo ngọt nhân tạo |  |
+| E953 | Isomalt | \- Chất tạo ngọt<br>\- Ổn định ở nhiệt độ cao | \- Được sử dụng làm chất tạo ngọt trong các sản phẩm chịu nhiệt, ví dụ như sản phẩm bánh |
+| E954 | Saccharin và muối Na, K, và Ca của nó | \- Chất tạo ngọt nhân tạo không calo | \- Sản phẩm ít calo, nước giải khát và kẹo |
+| E955 | Sucralose | \- Chất tạo ngọt | \- Kẹo, thanh ăn sáng, nước giải khát, trái cây đóng hộp |
+| E957 | Thaumatin | \- Chất tạo ngọt<br>\- Protein thực vật tự nhiên | \- Có thể được sử dụng trong đồ uống, sản phẩm sữa hoặc kẹo cao su |
+| E959 | Neohesperidine DC | \- Chất tạo ngọt<br>\- Chiết xuất từ cam quýt | \- Được sử dụng rộng rãi trong món tráng miệng, sản phẩm sữa, kẹo và đồ uống |
+| E960 | Glycoside steviol | \- Chất tạo ngọt | \- Được sử dụng rộng rãi trong nước giải khát có ga, nước trái cây, trà, món tráng miệng, sản phẩm sữa, kẹo và các sản phẩm khác |
+| E961 | Neotame | \- Chất tạo ngọt, tương tự như aspartame (E951) | \- Được sử dụng rộng rãi (xem E951) |
+| E962 | Muối của aspartame-acesulfame | \- Chất tạo ngọt ít calo |  |
+| E964 | Xi-rô polyglycitol | \- Chất tạo ngọt |  |
+| E965 | Maltitol | \- Đường tự nhiên có trong nho và ngô | \- Kẹo, bánh ngọt, bánh quy, pudding, món tráng miệng, nước giải khát, thực phẩm tiện lợi |
+| E966 | Lactitol | \- Chất tạo ngọt tổng hợp<br>\- Chiết xuất từ lactose | \- Chất tạo ngọt thay thế cho thực phẩm ít calo |
+| E967 | Xylitol | \- Chất tạo ngọt | \- Được sử dụng rộng rãi như chất thay thế đường, ví dụ như kẹo, nước sốt ngọt, rượu mùi, mứt, món tráng miệng |
+| E968 | Erythritol | \- Chất tạo ngọt<br>\- Được sản xuất từ quá trình lên men carbohydrate |  |
+| E969 | Advantame | \- Chất tạo ngọt | \- Chất tạo ngọt để bàn, kẹo, kẹo cao su, đồ uống có hương vị và các sản phẩm khác |

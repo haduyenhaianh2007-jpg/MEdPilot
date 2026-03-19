@@ -1,0 +1,107 @@
+{
+  "request_id": "req_scribe_demo_001",
+  "module": "medical_scribe",
+  "schema_version": "0.1",
+  "input_type": "text",
+  "transcript": "Bác sĩ: Chào em, hôm nay em đến khám vì vấn đề gì?\nBệnh nhân: Dạ khoảng hai tuần nay da ở hai bàn tay em bị nổi đỏ, ngứa nhiều, với lại hơi bong vảy.\nBác sĩ: Tình trạng này bắt đầu từ khi nào? Xuất hiện đột ngột hay từ từ?\nBệnh nhân: Dạ lúc đầu chỉ hơi đỏ ở mu bàn tay thôi, sau đó vài ngày thì ngứa nhiều hơn rồi lan dần ra cổ tay.\nBác sĩ: Tổn thương xuất hiện ở cả hai bên hay chỉ một bên?\nBệnh nhân: Dạ cả hai bên ạ, nhưng bên tay phải bị nặng hơn.\nBác sĩ: Ngoài ngứa ra thì em có đau, rát, châm chích hay nóng da không?\nBệnh nhân: Dạ không đau, còn rát thì em cũng không rõ lắm, chủ yếu là ngứa thôi.\nBác sĩ: Có mụn nước, chảy dịch hay chảy máu không?\nBệnh nhân: Dạ không có chảy dịch hay chảy máu, em cũng không thấy mụn nước.\nBác sĩ: Gần đây em có tiếp xúc hóa chất, xà phòng, nước rửa chén, găng tay, mỹ phẩm hay chất gì lạ không?\nBệnh nhân: Dạ có, em rửa chén nhiều hơn bình thường với hay dùng nước rửa chén, sau đó em thấy ngứa tăng lên.\nBác sĩ: Em đã bôi hay uống thuốc gì trước khi đến khám chưa?\nBệnh nhân: Dạ em có mua một tuýp kem ở tiệm thuốc gần nhà để bôi, nhưng em không nhớ tên. Bôi mấy hôm thì thấy đỡ ít thôi.\nBác sĩ: Trước đây em đã từng bị tình trạng như vậy chưa?\nBệnh nhân: Dạ hồi trước em từng bị viêm da cơ địa, nhưng lâu rồi, chắc khoảng hai năm trước.\nBác sĩ: Em có dị ứng thuốc, dị ứng mỹ phẩm hay thức ăn gì không?\nBệnh nhân: Dạ em không nhớ mình có dị ứng thuốc gì, trước giờ chưa thấy bị gì đặc biệt.\nBác sĩ: Em có sốt, mệt, hay tổn thương ở chỗ khác ngoài tay với cổ tay không?\nBệnh nhân: Dạ không sốt, không mệt, hiện tại chủ yếu ở hai bàn tay với cổ tay thôi.\nBác sĩ: Rồi, bác sĩ ghi nhận em bị nổi đỏ, ngứa, bong vảy nhẹ ở hai bàn tay, lan ra cổ tay khoảng hai tuần nay, có thể liên quan việc tiếp xúc nước rửa chén. Bác sĩ sẽ kiểm tra thêm tổn thương da rồi tư vấn hướng xử lý tiếp theo.\nBệnh nhân: Dạ vâng ạ.",
+  "patient_info": {
+    "patient_id": null,
+    "name": null,
+    "age": null,
+    "gender": null
+  },
+  "clinical_info": {
+    "chief_complaint": "Nổi đỏ, ngứa nhiều và bong vảy nhẹ ở hai bàn tay",
+    "symptoms": [
+      "nổi đỏ",
+      "ngứa nhiều",
+      "bong vảy nhẹ"
+    ],
+    "duration": "khoảng 2 tuần",
+    "onset": "ban đầu hơi đỏ ở mu bàn tay, sau vài ngày ngứa nhiều hơn rồi lan dần ra cổ tay",
+    "lesion_location": [
+      "mu bàn tay",
+      "hai bàn tay",
+      "cổ tay"
+    ],
+    "lesion_distribution": "hai bên, tay phải nặng hơn",
+    "itching": true,
+    "pain": false,
+    "burning": null,
+    "scaling": true,
+    "blister": false,
+    "discharge": false,
+    "bleeding": false,
+    "spreading_pattern": "lan từ mu bàn tay ra cổ tay",
+    "trigger_factors": [
+      "rửa chén nhiều hơn bình thường",
+      "tiếp xúc nước rửa chén"
+    ],
+    "previous_treatment": [
+      "bôi một tuýp kem mua ở tiệm thuốc gần nhà, không nhớ tên, đỡ ít"
+    ],
+    "history_from_records": [],
+    "history_update": [
+      "từng bị viêm da cơ địa khoảng 2 năm trước"
+    ],
+    "allergy_update": [
+      "không nhớ có dị ứng thuốc hay không",
+      "trước giờ chưa thấy dị ứng gì đặc biệt"
+    ],
+    "medication_update": [
+      "đã tự bôi một loại kem không rõ tên mua ở tiệm thuốc"
+    ],
+    "current_notes": "Không sốt, không mệt, hiện tại tổn thương chủ yếu ở hai bàn tay và cổ tay"
+  },
+  "structured_summary": {
+    "one_liner": "Bệnh nhân đến khám vì ban đỏ ngứa hai bàn tay kéo dài khoảng 2 tuần, có bong vảy nhẹ, lan dần ra cổ tay, triệu chứng tăng khi tiếp xúc nước rửa chén, có tiền sử viêm da cơ địa.",
+    "important_findings": [
+      "Nổi đỏ, ngứa nhiều, bong vảy nhẹ ở hai bàn tay",
+      "Tổn thương xuất hiện hai bên, tay phải nặng hơn",
+      "Lan dần ra cổ tay",
+      "Triệu chứng tăng khi rửa chén và tiếp xúc nước rửa chén",
+      "Đã tự bôi kem mua ở tiệm thuốc nhưng cải thiện ít",
+      "Có tiền sử viêm da cơ địa khoảng 2 năm trước"
+    ],
+    "negative_findings": [
+      "Không đau",
+      "Không chảy dịch",
+      "Không chảy máu",
+      "Không thấy mụn nước",
+      "Không sốt",
+      "Không mệt"
+    ],
+    "missing_required_fields": []
+  },
+  "draft_note": "Bệnh nhân đến khám vì nổi đỏ, ngứa nhiều và bong vảy nhẹ ở hai bàn tay khoảng 2 tuần nay. Ban đầu tổn thương xuất hiện ở mu bàn tay, sau vài ngày ngứa nhiều hơn và lan dần ra cổ tay. Tổn thương xuất hiện ở cả hai bên, tay phải nặng hơn. Bệnh nhân không đau, không ghi nhận chảy dịch, chảy máu hay mụn nước; cảm giác rát chưa khai thác rõ. Triệu chứng tăng khi rửa chén nhiều và tiếp xúc nước rửa chén. Bệnh nhân đã tự bôi một loại kem mua ở tiệm thuốc gần nhà nhưng không nhớ tên, cải thiện ít. Tiền sử ghi nhận từng bị viêm da cơ địa khoảng 2 năm trước. Hiện không sốt, không mệt, tổn thương chủ yếu ở hai bàn tay và cổ tay. Cần bác sĩ kiểm tra thêm hình thái tổn thương thực thể và làm rõ tiền sử dị ứng nếu cần.",
+  "missing_required_fields": [],
+  "uncertain_fields": [
+    "burning",
+    "allergy_update",
+    "previous_treatment"
+  ],
+  "requires_doctor_approval": true,
+  "field_confidence": {
+    "chief_complaint": 0.97,
+    "symptoms": 0.96,
+    "duration": 0.95,
+    "onset": 0.92,
+    "lesion_location": 0.95,
+    "lesion_distribution": 0.93,
+    "itching": 0.99,
+    "pain": 0.98,
+    "burning": 0.34,
+    "scaling": 0.91,
+    "blister": 0.9,
+    "discharge": 0.98,
+    "bleeding": 0.98,
+    "spreading_pattern": 0.92,
+    "trigger_factors": 0.95,
+    "previous_treatment": 0.68,
+    "history_update": 0.9,
+    "allergy_update": 0.45,
+    "current_notes": 0.95
+  },
+  "latency_ms": 0,
+  "model_version": "scribe_v1"
+}

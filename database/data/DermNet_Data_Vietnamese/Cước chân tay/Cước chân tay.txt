@@ -1,0 +1,196 @@
+##### Chilblains — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Perniosis, Pernio, Erythema pernio, Chilblain
+
+Danh mục:
+
+Vấn đề mạch máu
+
+ICD-10:
+
+T69.1
+
+ICD-11:
+
+NF03.0
+
+SNOMED CT:
+
+37869000
+
+**[Vấn đề mạch máu](https://dermnetnz.org/topics?category=Blood%20vessel%20problems)**
+
+# **Chilblains**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1999; Cập nhật và chỉnh sửa bởi: Dr Gia Toan Tang, RMO, Bệnh viện Đại học Townsville, Townsville, Úc; A/Prof Rosemary Nixon AM, Bác sĩ Da liễu, Viện Sức khỏe Da, Melbourne, Úc. Biên tập bởi Gus Mitchell. Tháng 2 năm 2021.
+
+[Giới thiệu](https://dermnetnz.org/topics/chilblains#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/chilblains#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/chilblains#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/chilblains#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/chilblains#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/chilblains#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/chilblains#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/chilblains#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/chilblains#Outcome)
+
+## Chilblains là gì?
+
+Chilblains là những vết sưng đau và/hoặc ngứa ở các vị trí ngoại vi sau khi tiếp xúc với điều kiện ẩm ướt, lạnh, không đóng băng gây ra một dạng viêm mạch cục bộ. Chilblains còn được gọi là pernio hoặc perniosis.
+
+![](https://dermnetnz.org/assets/Uploads/reactions/pernio2.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/reactions/pernio1.jpg)
+
+## Ai bị chilblains?
+
+Chilblains có thể ảnh hưởng đến mọi lứa tuổi, nhưng phổ biến nhất ở người trưởng thành trẻ đến trung niên, với tỷ lệ nữ cao hơn. Chilblains ở trẻ em được mô tả rõ ràng nhưng dường như không phổ biến. Chilblains nguyên phát là không thường gặp ở người cao tuổi và nên tìm kiếm nguyên nhân tiềm ẩn.
+
+Các yếu tố nguy cơ dẫn đến phát triển chilblains bao gồm:
+
+- Hút thuốc
+- Chỉ số khối cơ thể thấp và dinh dưỡng kém
+- Nguy cơ nghề nghiệp cho người lao động ngoài trời, như ngư dân và nông dân
+- Tham gia các môn thể thao trượt băng
+- Rối loạn tủy xương tiềm ẩn ví dụ, bệnh bạch cầu myelomonocytic mãn tính
+- Rối loạn mô liên kết tiềm ẩn, đặc biệt là lupus ban đỏ hệ thống (khi nó được gọi là [lupus chilblain](https://dermnetnz.org/topics/chilblain-lupus-erythematosus)), [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis), [bệnh Behcet](https://dermnetnz.org/topics/behcet-disease), [viêm mạch máu nhỏ ở da](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis), và [lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus)
+- [Acrocyanosis](https://dermnetnz.org/topics/acrocyanosis) tiềm ẩn và hiện tượng [Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon) nguyên phát hoặc thứ phát
+- Xu hướng gia đình phát triển chilblains.
+
+Chilblains thường thấy ở các vùng khí hậu ôn hòa hơn là ở các quốc gia có khí hậu cực lạnh nơi không khí thường khô, và điều kiện sống và quần áo phù hợp giảm thiểu rủi ro. Cuối mùa đông và đầu mùa xuân, khi trời ẩm ướt và nhiệt độ trên mức đóng băng, là mùa cao điểm cho chilblains.
+
+### Chilblains và COVID-19
+
+Trong đại dịch [COVID-19](https://dermnetnz.org/topics/covid-19), nhiều trường hợp thay đổi giống chilblains trên ngón chân ('COVID-toes') đã được báo cáo như một biểu hiện muộn ở trẻ em và người lớn trẻ tuổi sau một bệnh nhẹ nghi ngờ do virus corona mới SARS-CoV-2; các xét nghiệm PCR và kháng thể cho virus phần lớn (nhưng không phải luôn luôn) âm tính. Nhiều bệnh nhân được báo cáo không có tiếp xúc gần đây với lạnh, và một phản ứng interferon kháng virus mạnh mẽ đã được giả thuyết để gây ra thay đổi trong các mạch máu nhỏ. Sinh thiết đã được thực hiện trên một số ít trường hợp và các thay đổi được mô tả là điển hình của chilblains, lupus chilblain, hoặc một mô hình viêm mạch huyết khối. Mối liên hệ giữa COVID-19 và chilblains vẫn đang được xác định. Tuy nhiên, sự phát triển của các tổn thương giống chilblains trong trường hợp không tiếp xúc với lạnh ẩm hoặc nguyên nhân thứ phát, nên được nghi ngờ là liên quan đến nhiễm SARS-CoV-2.
+
+![Phát ban nghi ngờ COVID-19](https://dermnetnz.org/assets/Uploads/covid-4.jpg)
+
+Phát ban nghi ngờ COVID-19
+
+## Nguyên nhân gây ra chilblains là gì?
+
+Lạnh gây co thắt các động mạch và tĩnh mạch nhỏ nhưng một phản xạ sinh lý bảo vệ giãn mạch máu định kỳ để ngăn ngừa thiếu máu da. Co thắt mạch kéo dài hoặc kéo dài do phản ứng mạch máu bất thường với lạnh có thể dẫn đến thiếu oxy và viêm để tạo ra chilblains.
+
+## Đặc điểm lâm sàng của chilblains là gì?
+
+Chilblains thường xảy ra trên ngón tay, ngón chân và tai (các vị trí ngoại vi). Tuy nhiên, chilblains có thể phát triển trên bất kỳ khu vực nào tiếp xúc với lạnh mãn tính, chẳng hạn như đùi/hông của người cưỡi ngựa (‘viêm mô mỡ cưỡi ngựa’). Chilblains phát triển vài giờ sau khi tiếp xúc với lạnh ẩm và kéo dài hơn 24 giờ.
+
+Chilblains thường biểu hiện như:
+
+- Ngứa và/hoặc đau rát
+- Sưng cục bộ
+- Đổi màu đỏ/tím có thể làm nhạt.
+
+Dermoscopy không cung cấp nhiều thông tin, nhưng việc kiểm tra các mao mạch ở nếp gấp móng có thể hữu ích nếu nghi ngờ có bệnh mô liên kết tiềm ẩn.
+
+![](https://dermnetnz.org/assets/Uploads/reactions/pernio3.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/reactions/chilblains1.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/reactions/pernio5.jpg)
+
+## Biến chứng của chilblains là gì?
+
+Chilblains nghiêm trọng có thể phồng rộp, hoặc trở nên xói mòn và loét.
+
+## Chilblains được chẩn đoán như thế nào?
+
+Chilblains thường được chẩn đoán lâm sàng. Đôi khi cần thực hiện các xét nghiệm để loại trừ chẩn đoán phân biệt hoặc tìm kiếm nguyên nhân của chilblains thứ phát.
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) của chilblains vô căn nguyên phát cho thấy viêm mạch lympho bề mặt và sâu, các tế bào lympho xung quanh các tuyến mồ hôi eccrine, phù dưới biểu bì, có hoặc không có thay đổi giao diện. \[xem [Perniosis pathology](https://dermnetnz.org/topics/perniosis-pathology)\].
+
+Mayo Clinic đã phát triển tiêu chí chẩn đoán cho chilblains:
+
+**Tiêu chí chính** (bắt buộc) — đỏ và sưng cục bộ ở các vị trí ngoại vi kéo dài ít nhất 24 giờ.
+
+**Tiêu chí phụ** (ít nhất một trong các điều sau):
+
+- Khởi phát và/hoặc xấu đi trong những tháng lạnh hơn
+- Mô học phù hợp với chilblains
+- Cải thiện với việc làm ấm và làm khô.
+
+Chilblains được phân loại là vô căn (nguyên phát) nếu không có nguyên nhân liên quan, và thứ phát nếu có thể xác định được nguyên nhân.
+
+Các xét nghiệm cho nguyên nhân thứ phát của chilblains có thể bao gồm:
+
+- Công thức máu đầy đủ
+- ANA, yếu tố thấp khớp, kháng thể kháng phospholipid
+- Mức độ bổ thể
+- Điện di protein
+- Ngưng kết lạnh và, ở trẻ em, cryoglobulins.
+
+## Chẩn đoán phân biệt cho chilblains là gì?
+
+- [Tê cóng](https://dermnetnz.org/topics/frostbite)
+- [Lupus ban đỏ chilblain](https://dermnetnz.org/topics/chilblain-lupus-erythematosus)
+- [Lupus pernio](https://dermnetnz.org/topics/lupus-pernio) ( [sarcoidosis](https://dermnetnz.org/topics/sarcoidosis))
+- [Viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- [Bệnh microgeodic](https://dermnetnz.org/topics/microgeodic-disease)
+
+![Lupus chilblains](https://dermnetnz.org/assets/Uploads/chilblains-018-v2.jpg)
+
+Lupus chilblains
+
+![Lupus pernio](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/sarc4.jpg)
+
+Lupus pernio
+
+![Bệnh microgeodic](https://dermnetnz.org/assets/Uploads/reactions/pernio4.jpg)
+
+Bệnh microgeodic
+
+## Điều trị cho chilblains là gì?
+
+### Phòng ngừa chilblains
+
+- Tránh môi trường lạnh, ẩm ướt nếu có thể
+- Mặc quần áo ấm, khô trong thời tiết lạnh để bảo vệ tay, chân và tai
+- Tập thể dục mạnh mẽ để giữ ấm và cải thiện tuần hoàn
+- Giữ khu vực trong nhà ấm và khô
+- Ngâm tay trong nước ấm trước khi tiếp xúc
+- Ngừng hút thuốc và các chất gây co mạch khác
+
+### Điều trị tại chỗ
+
+- Nitroglycerine tại chỗ 0,2%
+- Betamethasone valerate tại chỗ 0,1% hai lần mỗi ngày — có thể giảm ngứa
+
+### Điều trị toàn thân
+
+- Nifedipine 20–60 mg ba lần mỗi ngày — rút ngắn thời gian lành và giảm nguy cơ tái phát
+- Pentoxifylline
+
+## Kết quả cho chilblains là gì?
+
+Chilblains thường tự khỏi trong 1–3 tuần. Tuy nhiên, chilblains có thể trở thành mãn tính. Tái phát có thể xảy ra với các lần tiếp xúc sau hoặc hàng năm.
+
+### Thư mục
+
+- Arora JS, Kesler A, Min MS. Một nghiên cứu hồi cứu toàn cầu xác định tỷ lệ pernio cao hơn ở những người có bệnh mô liên kết. J Am Acad Dermatol. 2025;92(3):636-640. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39557079/)
+- Aschoff R, Zimmermann N, Beissert S, Günther C. Chữ ký interferon loại I trong các tổn thương giống chilblain liên quan đến đại dịch COVID-19. Dermatopathology (Basel). 2020;7(3):57–63. doi:10.3390/dermatopathology7030010. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33291622/)
+- Baeck M, Herman A. COVID toes: chúng ta đang đứng ở đâu với bằng chứng hiện tại?. Int J Infect Dis. 2021;102:53–5. doi:10.1016/j.ijid.2020.10.021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33075530/)
+- Ladha MA, Luca N, Constantinescu C, Naert K, Ramien ML. Tiếp cận với chilblains trong đại dịch COVID-19. J Cutan Med Surg. 2020;24(5):504–17. doi:10.1177/1203475420937978. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32741218/)
+- Neri I, Virdi A, Corsini I, et al. Cụm lớn của chilblains 'thực sự' nguyên phát ở trẻ em trong đại dịch COVID-19: hậu quả của thay đổi lối sống do phong tỏa. J Eur Acad Dermatol Venereol. 2020;34(11):2630–5. doi:10.1111/jdv.16751. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32533899/)
+- Nyssen A, Benhadou F, Magnée M, André J, Koopmansch C, Wautrecht JC. Chilblains. Vasa. 2020;49(2):133–40. doi:10.1024/0301-1526/a000838. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31808732/)
+- Patterson JW. Weedon’s Skin Pathology, 5th edn. Elsevier, 2020. p290.
+- Singh H, Kaur H, Singh K, Sen CK. Biểu hiện da của COVID-19: một đánh giá có hệ thống. Adv Wound Care (New Rochelle). 2021;10(2):51–80. doi:10.1089/wound.2020.1309. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33035150/)
+- Smith ML. Bệnh da liên quan đến môi trường và thể thao. In: Bolognia JL, Schaffer JV, Cerroni L (eds). Dermatology \[2 volumes\], 4th edn. Elsevier, 2017: 1569–94.
+- Sohier P, Matar S, Meritet JF, Laurent-Roussel S, Dupin N, Aractingi S. Đặc điểm mô học của các tổn thương giống chilblain phát triển trong bối cảnh đại dịch COVID-19. Arch Pathol Lab Med. 2020;10.5858/arpa.2020-0613-SA. doi:10.5858/arpa.2020-0613-SA. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33036032/)
+
+### Trên DermNet
+
+- [Các tình trạng da phồng rộp](https://dermnetnz.org/topics/blistering-skin-conditions)
+- [Lupus ban đỏ chilblain](https://dermnetnz.org/topics/chilblain-lupus-erythematosus)
+- [Tê cóng](https://dermnetnz.org/topics/frostbite)
+- [Nhiệt và lạnh](https://dermnetnz.org/topics/heat-and-cold)
+- [Bệnh microgeodic](https://dermnetnz.org/topics/microgeodic-disease)
+
+### Các trang web khác
+
+- [Rối loạn phồng rộp](https://www.youtube.com/watch?v=xvBTdPl0uao&t=1s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Pernio](http://emedicine.medscape.com/article/1087946-overview) – Da liễu Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

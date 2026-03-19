@@ -1,0 +1,29 @@
+##### Hoại tử da do warfarin — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Hoại tử warfarin
+
+Danh mục:
+
+Phản ứng
+
+ICD-10:
+
+T45.515A, E83.59
+
+ICD-11:
+
+EH76.3, EB90.42
+
+SNOMED CT:
+
+403659005, 403658002, 717043006
+
+**[Phản ứng](https://dermnetnz.org/topics?category=Reactions)**
+
+# **Hoại tử da do warfarin**
+
+Tác giả: Bác sĩ Ritva Vyas, Bác sĩ Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2009. Cập nhật bởi Phó Giáo sư Amanda Oakley, tháng 2 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Causes%3Cbr%20/%3E) [Yếu tố nguy cơ](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Risk%20factors%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Clinical%20features%3Cbr%20/%3E) [Điều tra](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Investigations%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis#Treatment)

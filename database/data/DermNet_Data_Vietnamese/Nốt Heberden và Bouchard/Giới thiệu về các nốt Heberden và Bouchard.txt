@@ -1,0 +1,29 @@
+##### Nốt Heberden và Bouchard — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Nốt Heberden, Nốt Bouchard
+
+Danh mục:
+
+Bệnh hệ thống
+
+ICD-10:
+
+M15.1, M15.2, M71.349
+
+ICD-11:
+
+FA0Z, EK70.2
+
+SNOMED CT:
+
+371598009, 20243008, 404098005
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics?category=Systemic%20diseases)**
+
+# **Nốt Heberden và Bouchard**
+
+Tác giả: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, Tháng 3 năm 2020.
+
+[Giới thiệu](https://dermnetnz.org/topics/heberden-bouchard-nodes#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/heberden-bouchard-nodes#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/heberden-bouchard-nodes#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/heberden-bouchard-nodes#Clinical%20features) [Chẩn đoán](https://dermnetnz.org/topics/heberden-bouchard-nodes#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/heberden-bouchard-nodes#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/heberden-bouchard-nodes#Treatment)

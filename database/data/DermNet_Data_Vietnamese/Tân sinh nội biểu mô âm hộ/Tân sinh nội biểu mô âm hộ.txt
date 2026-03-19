@@ -1,0 +1,185 @@
+##### Tân sinh nội biểu mô âm hộ — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Tổn thương nội biểu mô vảy âm hộ, VIN, Ung thư biểu mô tế bào vảy tại chỗ của âm hộ, Bệnh Bowen của âm hộ, Loạn sản âm hộ
+
+Danh mục:
+
+Tổn thương (ung thư)
+
+ICD-10:
+
+N90.3, N90.0, N90.1, D07.1, D07.30
+
+ICD-11:
+
+2E67.10, 2E67.1, GA13.1, 2F33.0, 2E67.10
+
+SNOMED CT:
+
+399933001, 20365006, 22725004, 313351009, 302812006, 240545008, 767544007, 399911003, 276873004, 276874005, 403475002, 399966002
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics?category=Lesions%20(cancerous))**
+
+# **Tân sinh nội biểu mô âm hộ**
+
+Tác giả: Vanessa Ngan, Nhà văn, 2003. Cập nhật bởi Hon A/Prof Amanda Oakley và Dr Darion Rowan, Bác sĩ da liễu, New Zealand, tháng 9 năm 2017.
+
+[Giới thiệu](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Introduction%3Cbr%20/%3E) [Trình bày](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Presentation%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Demographics%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Diagnosis%3Cbr%20/%3E) [Phân loại](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Classification%3Cbr%20/%3E) [Điều trị và theo dõi](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Treatment%20and%20follow-up%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Prevention%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Outcome)
+
+## Tân sinh nội biểu mô âm hộ là gì?
+
+Tân sinh nội biểu mô âm hộ (hoặc âm hộ) là một tổn thương da tiền ung thư (một loại ung thư biểu mô tế bào vảy tại chỗ) có thể ảnh hưởng đến bất kỳ phần nào của âm hộ. Thuật ngữ tân sinh nội biểu mô âm hộ mô tả hai tình trạng với hành vi sinh học khác nhau: loại thông thường và loại phân biệt.
+
+### Tân sinh nội biểu mô âm hộ loại thông thường
+
+VIN loại thông thường có liên quan đến nhiễm virus papilloma ở người (HPV), và còn được gọi là uVIN và tổn thương nội biểu mô vảy âm hộ độ cao (HSIL). Trong bài viết này, chúng tôi viết tắt tình trạng này là uVIN/HSIL.
+
+- uVIN/HSIL là một dạng ung thư biểu mô tế bào vảy nội biểu mô
+- uVIN/HSIL trước đây được biết đến như là bệnh Bowen của âm hộ, nhưng thuật ngữ này không còn được sử dụng.
+- Khoảng 12% uVIN/HSIL tự khỏi trong vòng một năm. Đây thường là bệnh đa ổ xảy ra ở phụ nữ trẻ.
+- uVIN/HSIL không phải là ung thư xâm lấn, nhưng [ung thư âm hộ](https://dermnetnz.org/topics/vulval-cancer) (ung thư biểu mô tế bào vảy, SCC) có thể phát triển trong nhiều trường hợp sau trung bình 7 năm nếu uVIN/HSIL không được điều trị.
+- Thuật ngữ uVIN/HSIL loại trừ [bệnh Paget ngoài vú](https://dermnetnz.org/topics/extramammary-paget-disease) và [melanoma](https://dermnetnz.org/topics/melanoma) tại chỗ của âm hộ.
+
+### Tân sinh nội biểu mô âm hộ loại phân biệt
+
+VIN phân biệt (dVIN) có liên quan đến các bệnh viêm âm hộ, [lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus) và [lichen planus ăn mòn](https://dermnetnz.org/topics/erosive-lichen-planus) (và không liên quan đến HPV). Nó ít phổ biến hơn nhiều so với uVIN/HSIL và chiếm 5% VIN. Lên đến 85% dVIN sẽ tiến triển thành SCC nếu không được điều trị.
+
+## uVIN/HSIL và dVIN biểu hiện như thế nào?
+
+Mặc dù một số phụ nữ không có triệu chứng, uVIN/HSIL và dVIN thường biểu hiện với:
+
+- Ngứa âm hộ từ nhẹ đến nặng
+- Rát âm hộ từ nhẹ đến nặng
+- Một hoặc nhiều tổn thương da phẳng hoặc hơi nhô lên, được xác định rõ
+- Những tổn thương này có thể có màu hồng, đỏ, nâu và/hoặc trắng.
+
+Các tổn thương có thể xảy ra trên bất kỳ phần nào của âm hộ, nhưng thường được chẩn đoán trên môi lớn có lông, môi nhỏ không có lông và bốn góc sau. Hầu hết các trường hợp dVIN xảy ra trên da không có lông.
+
+[Xem hình ảnh của VIN/HSIL và dVIN ...](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia-images)
+
+## Tại sao VIN/HSIL và dVIN xảy ra và ai có nguy cơ?
+
+### uVIN/HSIL
+
+uVIN/HSIL có thể xảy ra ở phụ nữ ở mọi lứa tuổi, mặc dù số lượng phụ nữ trẻ (thậm chí là thanh thiếu niên) tăng lên đang trình bày; độ tuổi trung bình khi chẩn đoán là khoảng 40 năm.
+
+Các yếu tố sau đã được liên kết với uVIN/HSIL.
+
+- HPV gây ra hầu hết các trường hợp uVIN/HSIL. HPV cũng gây ra [mụn cóc sinh dục](https://dermnetnz.org/topics/anogenital-warts) và các loại ung thư và tiền ung thư sinh dục khác (ung thư cổ tử cung, ung thư âm đạo và ung thư hậu môn). Chỉ các loại HPV gây ung thư (đặc biệt là loại 16, 18 và 33) có liên quan đến uVIN/HSIL. (Mụn cóc sinh dục có thể nhìn thấy chủ yếu do loại 6 và 11 gây ra). Khoảng một nửa số phụ nữ bị uVIN/HSIL cũng có tiền sử phết tế bào cổ tử cung bất thường hoặc ung thư cổ tử cung.
+- [Hút thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin): người ta cho rằng các chất gây ung thư trong thuốc lá được tập trung trong da của đường sinh dục dưới và người hút thuốc có nguy cơ uVIN/HSIL cao hơn so với người không hút thuốc.
+- [Suy giảm miễn dịch](https://dermnetnz.org/topics/opportunistic-infections) do bệnh, chẳng hạn như [nhiễm virus suy giảm miễn dịch ở người](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome) (HIV), hoặc thuốc, chẳng hạn như những loại được sử dụng bởi người nhận ghép tạng.
+
+### dVIN
+
+dVIN có liên quan đến bệnh viêm da âm hộ mãn tính, đặc biệt là [lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus) hoặc [lichen planus ăn mòn](https://dermnetnz.org/topics/erosive-lichen-planus). Độ tuổi trung bình khi trình bày với dVIN là 60 năm.
+
+## uVIN/HSIL và dVIN được chẩn đoán như thế nào?
+
+Một hoặc nhiều mảng đỏ, trắng hoặc sắc tố không đều, phẳng hoặc dày trên âm hộ có thể gợi ý chẩn đoán uVIN/HSIL hoặc dVIN. Soi cổ tử cung (kiểm tra bằng cách sử dụng kính lúp và ánh sáng đặc biệt) có thể được sử dụng để kiểm tra hình dáng và mức độ của tình trạng. Một [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) là cần thiết để xác nhận các tế bào biểu mô bất thường trong biểu mô, và để xác định bất kỳ [ung thư](https://dermnetnz.org/topics/skin-cancer) xâm lấn nào.
+
+- Biểu mô có thể bị tăng sừng (vảy) và tăng gai (dày).
+- uVIN/HSIL tiết lộ các tế bào không bào và loạn sản với sự phân bào khắp biểu mô, có thể bao gồm biểu mô nang.
+- dVIN tiết lộ các tế bào loạn sản và sự phân bào giới hạn ở lớp đáy.
+- [Nhuộm hóa mô miễn dịch](https://dermnetnz.org/topics/immunohistochemistry-stains): uVIN/HSIL dương tính với p16, và dVIN dương tính với p53.
+
+Các tổn thương có mụn cóc ở phụ nữ mãn kinh nên được sinh thiết, đặc biệt nếu chúng không khỏi với điều trị đơn giản.
+
+Phụ nữ bị [lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus) và [lichen planus ăn mòn](https://dermnetnz.org/topics/erosive-lichen-planus) nên được theo dõi cẩn thận. Bất kỳ khu vực nào không đáp ứng với [corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) mạnh, đặc biệt nếu tăng sừng, nên được sinh thiết để loại trừ dVIN.
+
+## Phân loại VIN/SIL
+
+[Phân loại uVIN/SIL](https://dermnetnz.org/topics/lower-anogenital-squamous-terminology) đã phát triển qua nhiều năm. Thuật ngữ được Hiệp hội Quốc tế về Nghiên cứu Bệnh âm hộ và âm đạo ([ISSVD](https://www.issvd.org/)) thông qua vào năm 2015 là:
+
+1. Tổn thương nội biểu mô vảy độ thấp (condyloma phẳng hoặc hiệu ứng HPV) (LSIL)
+2. Tổn thương nội biểu mô vảy độ cao (VIN loại thông thường) (HSIL), trước đây gọi là VIN 2 và VIN3
+3. Tân sinh nội biểu mô, loại phân biệt (dVIN)
+
+HSIL và dVIN có khả năng tiến triển thành [ung thư âm hộ](https://dermnetnz.org/topics/vulval-cancer) xâm lấn, trong khi các tổn thương LSIL có nguy cơ thấp và không phải là tân sinh. Các ung thư liên quan đến HSIL có xu hướng có hình dạng mụn cóc.
+
+## uVIN/HSIL có cần điều trị không?
+
+LSIL không phải lúc nào cũng cần điều trị, nhưng nên sắp xếp theo dõi cho đến khi các tổn thương tự khỏi, vì đôi khi chúng tiến triển thành uVIN/HSIL.
+
+Cũng có một nhóm phụ nữ trẻ với uVIN/HSIL đa ổ mà bệnh tự khỏi trong vòng một năm. Các tổn thương của họ thường có dạng nhú và sắc tố. Nếu chúng tồn tại lâu hơn, nên thực hiện điều trị.
+
+uVIN/HSIL và d-VIN được điều trị để giảm nguy cơ phát triển [ung thư](https://dermnetnz.org/topics/skin-cancer) xâm lấn và để giảm bớt triệu chứng.
+
+## Có những phương pháp điều trị nào cho uVIN/HSIL?
+
+Mục tiêu là loại bỏ tất cả các mô bị ảnh hưởng với một biên độ của mô không bị ảnh hưởng rõ ràng. Điều này có thể được thực hiện bằng [phẫu thuật cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions). Đôi khi một cuộc cắt bỏ âm hộ hoàn toàn (loại bỏ âm hộ) được thực hiện do mức độ của bệnh hoặc do uVIN/HSIL đa ổ. Cắt bỏ cũng được thực hiện cho dVIN, hiếm khi là đa ổ nhưng có thể hung hăng hơn uVIN/HSIL.
+
+Nếu không nghi ngờ ung thư xâm lấn, [đốt laser](https://dermnetnz.org/topics/laser-resurfacing) có thể được sử dụng ở một số trung tâm. Giống như phẫu thuật cắt bỏ, nó được thực hiện dưới gây mê toàn thân.
+
+Liệu pháp y tế được báo cáo là hiệu quả trong ít nhất một số trường hợp uVIN/HSIL, và hữu ích cho việc điều trị một khu vực có nguy cơ bệnh đa ổ. Các lựa chọn bao gồm:
+
+- [Kem Imiquimod](https://dermnetnz.org/topics/imiquimod), bôi 3 lần mỗi tuần trong 12 đến 20 tuần. Điều này dẫn đến mô đỏ, viêm và xói mòn và thường đi kèm với sự khó chịu đáng kể.
+- [Kem 5-fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream), bôi hai lần mỗi ngày trong vài tuần. Điều này gây viêm khá nghiêm trọng trong vài tuần, và không phải tất cả phụ nữ đều chịu đựng được. Nó kém hiệu quả hơn kem imiquimod và do đó được sử dụng ít thường xuyên hơn so với trước đây.
+- [Liệu pháp quang động (PDT)](https://dermnetnz.org/topics/photodynamic-therapy) yêu cầu thiết bị chuyên dụng và cũng có thể rất đau đớn.
+- Tiêm chủng HPV điều trị.
+- Cidovir đã được mô tả là hữu ích ở một số bệnh nhân.
+
+Không có phương pháp điều trị y tế nào trong số này được chính thức phê duyệt cho uVIN/HSIL và chúng hiếm khi được khuyến nghị cho dVIN.
+
+Thật không may, uVIN/HSIL tái phát ở tới một nửa số bệnh nhân sau khi điều trị. Điều này có khả năng xảy ra hơn nếu:
+
+- Bệnh nhân bị [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression)
+- Tổn thương không được loại bỏ hoàn toàn (các biên độ dương tính có thể đã được báo cáo bởi nhà giải phẫu bệnh)
+- Bệnh là đa ổ.
+
+Lichen sclerosus liên quan đến dVIN cũng là một yếu tố nguy cơ tái phát.
+
+## Phòng ngừa uVIN/HSIL và dVIN
+
+Tiêm chủng với [vắc-xin HPV](https://dermnetnz.org/topics/vaccines-against-human-papillomavirus) đã được chứng minh là giảm sự phát triển của uVIN/HSIL cũng như ung thư cổ tử cung và [mụn cóc sinh dục](https://dermnetnz.org/topics/anogenital-warts). Về lý thuyết, vắc-xin HPV chín giá có thể giảm nguy cơ từ 80–90%. Nó không giảm nguy cơ dVIN.
+
+Phụ nữ đã từng bị mụn cóc sinh dục hoặc uVIN/HSIL trước đó nên được khuyến khích mạnh mẽ để ngừng hút thuốc.
+
+Điều trị hiệu quả các rối loạn da âm hộ như [lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus) có thể giảm nguy cơ uVIN/HSIL, dVIN, và [ung thư âm hộ](https://dermnetnz.org/topics/vulval-cancer).
+
+## Kết quả cho phụ nữ với uVIN/HSIL và dVIN là gì?
+
+Nếu không được điều trị:
+
+- LSIL thường tự khỏi trong vòng một hoặc hai năm.
+- uVIN/HSIL có thể phát triển thành [ung thư xâm lấn](https://dermnetnz.org/topics/skin-cancer). Trung bình mất 6–7 năm để uVIN/HSIL liên quan đến HPV không được điều trị tiến triển thành ung thư.
+- dVIN không được điều trị dẫn đến ung thư âm hộ trong hầu hết các trường hợp trong vòng 2–4 năm. Ung thư phát triển nhanh hơn trong dVIN so với uVIN/HSIL, và khả năng này tăng lên theo tuổi.
+
+Theo dõi cẩn thận sau khi điều trị là cần thiết lâu dài.
+
+- uVIN/HSIL và dVIN có thể tái phát trong tới 50% các trường hợp sau khi điều trị, đặc biệt nếu biên độ cắt bỏ không đủ.
+- Theo dõi mỗi 6–12 tháng được khuyến nghị ít nhất 5 năm sau phẫu thuật cho uVIN/HSIL và vô thời hạn cho dVIN.
+
+Lên đến 50% phụ nữ với uVIN/HSIL phát triển tân sinh nội biểu mô cổ tử cung (CIN), tân sinh nội biểu mô hậu môn (AIN), tân sinh nội biểu mô âm đạo (VAIN) hoặc ung thư xâm lấn của đường sinh dục hoặc [hậu môn](https://dermnetnz.org/topics/anal-cancer-and-anal-canal-cancer).
+
+- Đặc biệt quan trọng là có phết tế bào cổ tử cung thường xuyên.
+- Bệnh nhân suy giảm miễn dịch, đặc biệt là những người nhiễm HIV, cũng nên thực hiện xét nghiệm tế bào học của hậu môn.
+
+### Trên DermNet
+
+- [Thuật ngữ vảy hậu môn thấp hơn](https://dermnetnz.org/topics/lower-anogenital-squamous-terminology)
+- [Vấn đề da sinh dục](https://dermnetnz.org/topics/genital-skin-problems)
+- [Papulosis Bowenoid](https://dermnetnz.org/topics/bowenoid-papulosis)
+- [Ung thư biểu mô tế bào vảy âm hộ](https://dermnetnz.org/topics/vulval-cancer)
+- [Ung thư biểu mô tế bào vảy hậu môn](https://dermnetnz.org/topics/anal-cancer-and-anal-canal-cancer)
+- [Ung thư âm hộ](https://dermnetnz.org/topics/vulval-cancer)
+- [Virus papilloma ở người lây qua đường tình dục](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus)
+- [Vắc-xin chống lại virus papilloma ở người](https://dermnetnz.org/topics/vaccines-against-human-papillomavirus)
+
+### Các trang web khác
+
+- [Tổn thương nội biểu mô vảy âm hộ](https://3b64we1rtwev2ibv6q12s4dd-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/Vulvar-SIL-4.17.2017-FINAL-ACCEPTED-AND-POSTED.pdf) — ISSVD (PDF)
+- [ISSVD Rối loạn âm hộ và âm đạo](https://www.issvd.org/): một thuật toán cho chẩn đoán và điều trị cơ bản cho người lớn
+- [Rối loạn âm hộ và âm đạo](https://vulvovaginaldisorders.org/): Một con đường đến chẩn đoán và điều trị
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

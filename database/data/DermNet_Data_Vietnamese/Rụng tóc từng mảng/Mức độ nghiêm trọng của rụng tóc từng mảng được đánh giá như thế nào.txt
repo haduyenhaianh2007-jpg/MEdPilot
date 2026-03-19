@@ -1,0 +1,11 @@
+## Làm thế nào để đánh giá mức độ nghiêm trọng của rụng tóc từng mảng?
+
+Rụng tóc từng mảng trên da đầu được đánh giá dựa trên tỷ lệ phần trăm của da đầu bị ảnh hưởng - đây là điểm SALT.
+
+SALT 0 có nghĩa là không có rụng tóc do rụng tóc từng mảng.
+
+SALT 50 có nghĩa là 50% da đầu bị ảnh hưởng bởi rụng tóc từng mảng. SALT 40 được coi là rụng tóc từng mảng nghiêm trọng bởi những người mắc bệnh và các bác sĩ da liễu.
+
+Rụng lông mi và lông mày có thể khó che giấu và làm tăng gánh nặng của tình trạng này.
+
+Điểm ASAMI (Chỉ số Mức độ Nghiêm trọng và Bệnh lý Rụng tóc từng mảng) gần đây đã được phát triển để xem xét không chỉ các vị trí và mức độ rụng tóc, mà còn các triệu chứng tập trung vào người mắc bệnh như khó khăn trong việc ngụy trang, ảnh hưởng đến công việc giải trí, mối quan hệ và sức khỏe tinh thần.

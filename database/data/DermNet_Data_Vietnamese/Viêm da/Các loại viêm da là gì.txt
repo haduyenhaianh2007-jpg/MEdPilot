@@ -1,0 +1,28 @@
+## Các loại viêm da là gì?
+
+**Viêm da ngoại sinh** là kết quả của một yếu tố hoặc tác động bên ngoài gây viêm da. Các nguyên nhân phổ biến bao gồm:
+
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) — do sự nhạy cảm miễn dịch của một cá nhân với một chất gây dị ứng, thường ngay cả ở nồng độ thấp, như niken, thuốc nhuộm tóc, cao su, hoặc nước hoa; được xác định bằng thử nghiệm miếng dán.
+- [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) — sẽ xảy ra ở bất kỳ ai tiếp xúc với chất kích ứng ở nồng độ đủ cao trong thời gian đủ lâu; các chất kích ứng bao gồm xà phòng, chất tẩy rửa, dung môi hữu cơ, chất tẩy dầu mỡ, chất mài mòn, chất hút ẩm, bụi, nước tiểu, và thậm chí là nước.
+- [Viêm da nhạy cảm ánh sáng](https://dermnetnz.org/topics/photosensitivity) — kích hoạt bởi ánh sáng hoặc bức xạ UV.
+- Viêm da sau chấn thương — do các chấn thương vật lý như trầy xước, bỏng, hoặc phẫu thuật (ví dụ, [viêm da mất thần kinh tự chủ](https://dermnetnz.org/topics/autonomic-denervation-dermatitis)).
+- Viêm da do nhiễm trùng da cục bộ như vi khuẩn, nấm, và virus, ví dụ như bệnh molluscum contagiosum và bệnh HTLV-1.
+- Viêm da do thuốc.
+
+**Viêm da nội sinh** xảy ra do các yếu tố nội tại thường khó hiểu. Các loại phổ biến bao gồm:
+
+- [Viêm da cơ địa](https://dermnetnz.org/topics/atopic-dermatitis) — một dạng viêm da phổ biến xảy ra ở trẻ em và người lớn, và thường xảy ra trong các gia đình có tiền sử hen suyễn và viêm mũi dị ứng.
+- [Viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) — eczema mãn tính phổ biến ảnh hưởng đến mặt, da đầu, tai và các nếp gấp lớn, do phản ứng với nấm men cư trú trên da.
+- [Viêm da hình đĩa (nummular)](https://dermnetnz.org/topics/discoid-eczema) — các mảng viêm da hình đồng xu thường ảnh hưởng đến các chi.
+- [Lichen simplex](https://dermnetnz.org/topics/lichen-simplex) — viêm da mãn tính dày lên do gãi liên tục.
+- [Pityriasis alba](https://dermnetnz.org/topics/pityriasis-alba) — các mảng viêm da nhạt màu ảnh hưởng đến má.
+- [Viêm da tay](https://dermnetnz.org/topics/hand-dermatitis) — các yếu tố kích ứng nội tại, ngoại tại và dị ứng có thể đều đóng vai trò ngay cả trong một cá nhân.
+- [Viêm da mí mắt](https://dermnetnz.org/topics/eyelid-contact-dermatitis) — thường có nguyên nhân hỗn hợp.
+- [Viêm tai ngoài](https://dermnetnz.org/topics/otitis-externa) — viêm da ảnh hưởng đến ống tai và vành tai.
+- [Viêm da tĩnh mạch hoặc trọng lực](https://dermnetnz.org/topics/venous-eczema) — viêm da do sự suy giảm chức năng của van tĩnh mạch chân dưới.
+- [Viêm da lòng bàn chân trẻ em](https://dermnetnz.org/topics/juvenile-plantar-dermatosis) — eczema lòng bàn chân bóng và nứt nẻ xảy ra ở trẻ em.
+- [Viêm da chuyển hóa](https://dermnetnz.org/topics/metabolic-syndrome) — thấy trong một số rối loạn dinh dưỡng và nội tiết.
+- [Viêm da vảy nông mãn tính](https://dermnetnz.org/topics/chronic-superficial-scaly-dermatitis) — các mảng eczema hình ngón tay xảy ra trên thân mình.
+- [Viêm da khô](https://dermnetnz.org/topics/asteatotic-eczema) — viêm da hình lát gạch do mất dầu trên da từ việc tắm rửa quá mức và sử dụng xà phòng trên chân ở người cao tuổi.
+- [Viêm da quầng hoặc Meyerson naevus](https://dermnetnz.org/topics/meyerson-naevus) — có thể bao quanh một nốt ruồi lành tính.
+- [Viêm da đỏ da toàn thân](https://dermnetnz.org/topics/erythrodermic-psoriasis) — viêm da nghiêm trọng khi hơn 80% da bị ảnh hưởng.

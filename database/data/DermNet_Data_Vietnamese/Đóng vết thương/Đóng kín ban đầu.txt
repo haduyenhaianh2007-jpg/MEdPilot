@@ -1,0 +1,8 @@
+## Đóng kín chính
+
+Đóng kín chính đề cập đến việc áp sát trực tiếp các mép vết thương. Xem sơ đồ thiết kế đóng kín chính.
+
+1. Các mép vết thương có thể được tách ra để giải phóng các mép vết thương và giảm căng thẳng.
+2. Sau đó, các mũi khâu được đặt để đóng vết thương.
+3. Thường thì nên đặt hai lớp mũi khâu: một lớp mũi khâu tự tiêu được chôn trong lớp bì hoặc các lớp mô sâu hơn, sau đó là mũi khâu tự tiêu hoặc không tự tiêu dưới áp lực tối thiểu để áp sát gọn gàng lớp biểu bì.
+4. Đối với các vết thương có độ căng cao hoặc vết thương trên da mỏng manh, có thể sử dụng các kỹ thuật khâu đặc biệt để phân tán căng thẳng dọc theo mép vết thương.

@@ -1,0 +1,230 @@
+##### Sởi — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Morbilli, Rubeola, Sởi Anh
+
+Danh mục:
+
+Nhiễm trùng, Phát ban
+
+ICD-10:
+
+B05, B05.0, B09
+
+ICD-11:
+
+1F03, 1F03.0, EA0Y, 8A45.01
+
+SNOMED CT:
+
+14189004, 52584002, 396427003, 424306000, 271667004, 192685000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections) [Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Sởi**
+
+Tác giả: Bác sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 2002. Cập nhật bởi Bác sĩ Jannet Gomez, tháng 10 năm 2016. Cập nhật tháng 10 năm 2020
+
+[Giới thiệu](https://dermnetnz.org/topics/measles#Introduction%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/measles#Causes%3Cbr%20/%3E) [Tỷ lệ mắc](https://dermnetnz.org/topics/measles#Prevalence%3Cbr%20/%3E) [Lây truyền](https://dermnetnz.org/topics/measles#Transmission%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/measles#Demographics%3Cbr%20/%3E) [Dấu hiệu và triệu chứng](https://dermnetnz.org/topics/measles#Signs%20and%20symptoms%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/measles#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/measles#Treatment%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/measles#Complications%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/measles#Prevention)
+
+## Sởi là gì?
+
+[Bạn có xác nhận mắc sởi? Gửi hình ảnh của bạn cho DermNet.](https://dermnetnz.org/contact-us/submit-a-photo)
+
+Sởi, còn được gọi là sởi Anh, rubeola hoặc morbilli, là một bệnh nhiễm virus rất dễ lây lan gây sốt và phát ban.
+
+Sởi là một bệnh cần thông báo.
+
+![Đốm Koplik Ngày 1](https://dermnetnz.org/assets/Uploads/viral/measles01.jpg)
+
+Đốm Koplik Ngày 1
+
+![](https://dermnetnz.org/assets/Uploads/viral/measles03.jpg)
+
+![Phát ban Ngày 3](https://dermnetnz.org/assets/Uploads/viral/measles08.jpg)
+
+Phát ban Ngày 3
+
+[Xem thêm hình ảnh về sởi](https://dermnetnz.org/topics/measles-images).
+
+## Nguyên nhân gây ra sởi là gì?
+
+Sởi do virus sởi gây ra, thuộc họ morbillivirus.
+
+## Sởi phổ biến như thế nào?
+
+Trước khi tiêm chủng rộng rãi chống lại sởi ở các nước công nghiệp hóa, sởi là một bệnh rất phổ biến ở trẻ em với tỷ lệ tử vong cao. Ngày nay, ở các quốc gia nơi sởi là một phần của chương trình tiêm chủng, nguy cơ phơi nhiễm và tỷ lệ mắc bệnh thực tế là thấp. Một xu hướng gần đây của một số phụ huynh không tiêm chủng cho con cái đã dẫn đến sự gia tăng số ca mắc sởi và các biến chứng của nó.
+
+Ở các nước đang phát triển, sởi vẫn xảy ra thường xuyên và liên quan đến tỷ lệ biến chứng và tử vong cao. Nó vẫn là một bệnh phổ biến ngay cả ở một số nước phát triển ở châu Âu và châu Á.
+
+WHO đã báo cáo sự gia tăng các ca mắc trên toàn thế giới vào năm 2018, với gần 10 triệu ca và hơn 140.000 ca tử vong chủ yếu ở trẻ em dưới 5 tuổi. Tỷ lệ mắc cao nhất là ở Ukraine, Somalia, Cộng hòa Dân chủ Congo, Liberia và Madagascar. Mỹ đã báo cáo tỷ lệ nhiễm cao nhất trong 25 năm, và bốn quốc gia ở châu Âu đã mất trạng thái 'loại trừ sởi'.
+
+## Làm thế nào bạn có thể mắc sởi?
+
+Sởi rất dễ lây và dễ dàng lây lan từ người này sang người khác qua việc hít phải các giọt bắn hô hấp trong không khí từ người bị nhiễm khi ho hoặc hắt hơi.
+
+Người bị nhiễm có thể lây nhiễm 2 ngày trước khi có triệu chứng và vẫn lây nhiễm ít nhất 5 ngày sau khi phát ban bắt đầu.
+
+Nhiễm sởi cấp tính gần như luôn mang lại miễn dịch suốt đời.
+
+## Ai có nguy cơ mắc sởi?
+
+Những người có nguy cơ đặc biệt bị nhiễm sởi bao gồm:
+
+- Trẻ sơ sinh đã mất miễn dịch thụ động từ mẹ (nhận từ mẹ qua chuyển giao kháng thể qua nhau thai) và trước khi tiêm chủng lần đầu
+- Khách du lịch chưa được tiêm chủng đến các khu vực nơi sởi là bệnh đặc hữu
+- Những người có [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) (ví dụ, do nhiễm [HIV/AIDS](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection), bệnh bạch cầu, ung thư, [liệu pháp corticosteroid](https://dermnetnz.org/topics/systemic-steroids)), bất kể tình trạng tiêm chủng của họ
+- Người di cư và tị nạn.
+
+Nguy cơ lớn nhất đối với sởi nặng và các biến chứng của nó được thấy ở:
+
+- Những người suy dinh dưỡng (đặc biệt là trẻ em thiếu vitamin A)
+- Những người có suy giảm miễn dịch cơ bản
+- Phụ nữ mang thai.
+
+## Dấu hiệu và triệu chứng của sởi là gì?
+
+Sởi phát triển qua các giai đoạn lâm sàng khác nhau.
+
+#### Thời kỳ ủ bệnh
+
+- Kéo dài từ 7–14 ngày (trung bình 10–11 ngày).
+- Bệnh nhân thường không có triệu chứng.
+- Một số có thể trải qua các triệu chứng của sự lan truyền virus ban đầu (sốt, phát ban lốm đốm và triệu chứng hô hấp do virus trong máu) trong vòng 2–3 ngày sau khi phơi nhiễm.
+
+#### Giai đoạn tiền triệu
+
+- Thường bắt đầu 10–12 ngày sau khi phơi nhiễm.
+- Xuất hiện dưới dạng sốt, mệt mỏi và chán ăn, sau đó là viêm kết mạc (mắt đỏ), ho và coryza (nghẹt hoặc chảy mũi).
+- 2–3 ngày vào giai đoạn tiền triệu, các đốm Koplik xuất hiện. Đây là các đốm trắng xanh bên trong miệng đối diện với răng hàm, và xảy ra 24–48 giờ trước giai đoạn [exanthem](https://dermnetnz.org/topics/exanthems) (phát ban).
+- Các triệu chứng tiền triệu thường kéo dài từ 2–5 ngày nhưng trong một số trường hợp có thể kéo dài đến 7–10 ngày.
+
+#### Exanthem (phát ban)
+
+- Các đốm đỏ phẳng có đường kính từ 0.1–1.0cm xuất hiện vào ngày thứ 4 hoặc thứ 5 sau khi các triệu chứng bắt đầu.
+- Phát ban không ngứa này bắt đầu trên mặt và sau tai. Trong vòng 24–36 giờ, nó lan ra toàn bộ thân và chi (lòng bàn tay và lòng bàn chân hiếm khi bị ảnh hưởng).
+- Các đốm có thể kết hợp với nhau, đặc biệt là ở các khu vực trên mặt.
+- Sự khởi phát của phát ban thường trùng với sốt cao ít nhất 40C.
+- Phát ban bắt đầu mờ dần 3–4 ngày sau khi nó xuất hiện lần đầu. Nó mờ dần thành màu tím và sau đó thành các tổn thương màu nâu/đồng với vảy mịn.
+
+#### Phục hồi
+
+- Ho có thể kéo dài từ 1–3 tuần.
+- Các biến chứng liên quan đến sởi có thể là nguyên nhân gây sốt kéo dài sau ngày thứ 3 của phát ban.
+
+### Exanthem sởi
+
+![](https://dermnetnz.org/assets/Uploads/viral/w/measles-28.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/viral/w/measles-29.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/viral/measles04.jpg)
+
+## Sởi được chẩn đoán như thế nào?
+
+Chẩn đoán sởi dựa trên lịch sử đặc trưng và khám lâm sàng. Vì bệnh này hiện nay rất hiếm gặp ở các nước phát triển, bất kỳ trường hợp nghi ngờ nào cũng cần xác nhận bằng xét nghiệm. Điều này đặc biệt hữu ích trong các tình huống sau:
+
+- Các trường hợp lẻ tẻ
+- Các trường hợp không điển hình
+- Nhầm lẫn với các bệnh khác.
+
+Sởi cấp tính thường được xác nhận bằng cách lấy mẫu dịch mũi họng hoặc họng phân tích bằng phản ứng chuỗi polymerase (PCR). Mẫu máu và nước tiểu cũng có thể được sử dụng. Điều này nên được thực hiện trong vòng 5 ngày sau khi phát ban bắt đầu, tuy nhiên, kết quả dương tính đôi khi được thu được lên đến 10–14 ngày sau khi phát ban đã biến mất.
+
+Máu cũng được lấy để kiểm tra kháng thể IgM và IgG của sởi (huyết thanh học). Mức độ IgM đặc hiệu tăng lên trong giai đoạn nhiễm trùng hoạt động và kháng thể IgG xuất hiện trong giai đoạn phục hồi.
+
+Nuôi cấy virus từ mẫu họng và mũi họng được ưu tiên ở bệnh nhân suy giảm miễn dịch nơi bằng chứng huyết thanh học có thể không có do phản ứng miễn dịch giảm. Xét nghiệm miễn dịch huỳnh quang cho kháng nguyên sởi cũng có thể được xem xét ở bệnh nhân có miễn dịch kém.
+
+## Điều trị sởi như thế nào?
+
+Không có điều trị cụ thể cho sởi, đó là lý do tại sao tiêm chủng rất quan trọng. Điều trị cho các trường hợp sởi nhẹ là hỗ trợ. Nghỉ ngơi trên giường là rất quan trọng, vì nó ngăn ngừa biến chứng và ngăn chặn sự lây lan của virus.
+
+- Cho paracetamol để giảm sốt. Không nên cho trẻ bị bệnh virus uống aspirin, vì nó liên quan đến sự phát triển của hội chứng Reyes.
+- Vitamin A cho trẻ em ở các nước đang phát triển hoặc suy dinh dưỡng. WHO khuyến nghị liều 200.000 đơn vị quốc tế (IU) vitamin A trong hai ngày, để giảm sởi và các biến chứng của nó. Một đánh giá Cochrane đã tìm thấy điều này giảm tỷ lệ tử vong và tỷ lệ tử vong liên quan đến viêm phổi ở trẻ em dưới 2 tuổi.
+- Duy trì lượng nước uống đủ để ngăn ngừa mất nước.
+- Sử dụng máy tạo độ ẩm để giảm ho/đau họng.
+- Cung cấp hỗ trợ dinh dưỡng khi cần thiết.
+- Theo dõi cẩn thận những người có nguy cơ cao để ngăn ngừa biến chứng.
+
+Bệnh nhân có triệu chứng buồn ngủ, mất nước hoặc khó thở cần nhập viện để được chăm sóc hỗ trợ.
+
+[Kháng sinh](https://dermnetnz.org/topics/antibiotics) chỉ cần thiết để điều trị nhiễm khuẩn thứ cấp như viêm tai giữa, tiêu chảy nhiễm trùng, viêm phổi và nhiễm trùng huyết.
+
+Ribavirin (kháng virus) được sử dụng để điều trị nhiễm sởi ở bệnh nhân suy giảm miễn dịch và những người bị ảnh hưởng bởi viêm não xơ cứng bán cấp.
+
+## Các biến chứng từ sởi là gì?
+
+Khoảng 30% các trường hợp sởi được báo cáo có một hoặc nhiều biến chứng.
+
+- Đường tiêu hóa: tiêu chảy có thể gây tử vong nếu mất nước xảy ra, [loét miệng](https://dermnetnz.org/topics/mouth-ulcer), viêm ruột thừa, viêm gan, viêm hạch mạc treo và viêm tụy.
+- Tai: viêm tai giữa (gần như chỉ ở trẻ em) có thể dẫn đến điếc.
+- Đường hô hấp: viêm thanh quản, viêm phổi sởi và viêm phổi (cả virus nguyên phát hoặc vi khuẩn thứ cấp) — nguyên nhân phổ biến nhất gây tử vong do sởi.
+- Tim: viêm cơ tim và viêm màng ngoài tim.
+- Hệ thống huyết học: giảm tiểu cầu, gây chảy máu và [rối loạn đông máu nội mạch lan tỏa (DIC).](https://dermnetnz.org/topics/disseminated-intravascular-coagulation)
+- Mắt: viêm kết mạc và/hoặc loét giác mạc dẫn đến mù lòa (đặc biệt nếu thiếu vitamin A), và lác.
+- Thận: viêm cầu thận cấp (viêm thận) và suy thận.
+- Hệ thần kinh: co giật do sốt và viêm não.
+- [Suy dinh dưỡng](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) (đặc biệt nếu từ cộng đồng nghèo).
+- Nhiễm sởi trong thai kỳ làm tăng nguy cơ sinh non và sinh non, mất thai và tử vong mẹ.
+
+Hiếm khi, viêm não xơ cứng bán cấp — một tình trạng gây tử vong — phát triển hàng thập kỷ sau khi nhiễm sởi do sự tồn tại của virus sởi trong hệ thần kinh trung ương.
+
+## Làm thế nào để phòng ngừa sởi?
+
+Sởi có thể được phòng ngừa bằng cách tiêm vắc-xin sởi sống giảm độc lực. Nó có sẵn dưới dạng một chế phẩm kháng nguyên đơn hoặc kết hợp với vắc-xin sống giảm độc lực quai bị và/hoặc rubella. Vắc-xin kết hợp sởi, quai bị và rubella (MMR) hiện là một phần của chương trình tiêm chủng thường xuyên ở hầu hết các nước công nghiệp hóa, bao gồm New Zealand.
+
+Vắc-xin sởi tạo ra miễn dịch lâu dài (có thể suốt đời) ở hầu hết các cá nhân. Lịch tiêm chủng khuyến nghị chiến lược tiêm chủng hai liều; liều đầu tiên ở 12–15 tháng tuổi, tiếp theo là liều thứ hai ở 4–6 tuổi.
+
+Vắc-xin sởi không nên được tiêm trong thai kỳ. Phụ nữ chưa được tiêm chủng trước đó chống lại sởi nên tránh mang thai trong một tháng (28 ngày) sau khi nhận vắc-xin MMR.
+
+Globulin miễn dịch không ngăn ngừa sởi, nhưng nó có ích trong việc giảm mức độ nghiêm trọng của bệnh ở những người tiếp xúc với virus. Nó được khuyến nghị cho:
+
+- Phụ nữ mang thai
+- Người có suy giảm miễn dịch
+- Trẻ sơ sinh.
+
+Những người được tiêm chủng trước năm 1968 có thể cần tiêm chủng lại, vì các vắc-xin được sử dụng trước thời điểm này có thể không mang lại miễn dịch suốt đời.
+
+### Thư mục
+
+- Fragkou PC, Thomas K, Sympardi S, et al. Đặc điểm lâm sàng và kết quả của đợt bùng phát sởi ở người lớn: Một nghiên cứu quan sát hồi cứu đa trung tâm của 93 người lớn nhập viện ở Hy Lạp. J Clin Virol. 2020;131:104608. doi:10.1016/j.jcv.2020.104608. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32877891/)
+- Huiming Y, Chaomin W, Meng M. Vitamin A để điều trị sởi ở trẻ em. Cochrane Database Syst Rev. 2005;2005(4):CD001479. doi:10.1002/14651858.CD001479.pub3. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16235283/)
+- Hummel KB, Lowe L, Bellini WJ, Rota PA. Phát triển các xét nghiệm RT-PCR định lượng gen cụ thể để phát hiện virus sởi trong các mẫu lâm sàng. J Virol Methods. 2006;132(1-2):166–73. doi:10.1016/j.jviromet.2005.10.006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16274752/)
+- Pal G. Tác động của ribavirin đối với sởi. J Indian Med Assoc. 2011;109(9):666-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22480102/)
+- Patel M, Lee AD, Clemmons NS, et al. Cập nhật quốc gia về các trường hợp và đợt bùng phát sởi - Hoa Kỳ, ngày 1 tháng 1 - ngày 1 tháng 10 năm 2019. MMWR Morb Mortal Wkly Rep. 2019;68(40):893–6. doi:10.15585/mmwr.mm6840e2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31600181/)
+- Perry RT, Halsey NA. Ý nghĩa lâm sàng của sởi: một đánh giá. J Infect Dis. 2004;189 Suppl 1:S4–S16. doi:10.1086/377712. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15106083/)
+- Ratnam S, Tipples G, Head C, Fauvel M, Fearon M, Ward BJ. Hiệu suất của các xét nghiệm huyết thanh học gián tiếp IgM và các xét nghiệm bắt giữ IgM để chẩn đoán sởi trong phòng thí nghiệm. J Clin Microbiol. 2000;38(1):99-104. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10618071/)
+- Sudfeld CR, Navar AM, Halsey NA. Hiệu quả của tiêm chủng sởi và điều trị vitamin A. Int J Epidemiol. 2010;39 Suppl 1(Suppl 1):i48–i55. doi:10.1093/ije/dyq021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20348126/)
+- White SJ, Boldt KL, Holditch SJ, Poland GA, Jacobson RM. Sởi, quai bị và rubella. Clin Obstet Gynecol. 2012;55(2):550–9. doi:10.1097/GRF.0b013e31824df256. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22510638/)
+- [https://www.who.int/news/item/05-12-2019-more-than-140-000-die-from-measles-as-cases-surge-worldwide](https://www.who.int/news/item/05-12-2019-more-than-140-000-die-from-measles-as-cases-surge-worldwide) (truy cập 23/10/2020)
+
+### Trên DermNet
+
+- [Hình ảnh về sởi](https://dermnetnz.org/topics/measles-images)
+- [Nhiễm virus](https://dermnetnz.org/topics/viral-skin-infections)
+- [Exanthem](https://dermnetnz.org/topics/exanthems)
+
+### Các trang web khác
+
+- [Sởi](http://blog.kudoybook.com/morbilli/) — dịch trang DermNet sang tiếng Ukraina, ngày 3 tháng 9 năm 2015 bởi Viktoriya Parnak
+- [Корь](http://car--reviews.com/morbilli.html) — dịch trang DermNet sang tiếng Nga, ngày 3 tháng 9 năm 2015 bởi Viktoriya Parnak
+- [Masalas](http://www.autoteileprofi.de/science/2017/02/06/masalas/) — dịch trang DermNet sang tiếng Latvia, ngày 08 tháng 2 năm 2017 bởi Arija Liepkalnietis
+- [Sởi](http://www.nlm.nih.gov/medlineplus/measles.html) — Medline Plus
+- [Sởi](http://www.health.govt.nz/system/files/documents/publications/imm-handbook-11-measles-may17_1.pdf) — Sổ tay Tiêm chủng 2017, Bộ Y tế, NZ
+- [Sởi](http://www.immune.org.nz/?t=753) — Trung tâm Tư vấn Tiêm chủng, Đại học Auckland
+- [Sởi](http://www.who.int/topics/measles/en/) Tổ chức Y tế Thế giới (WHO)
+- [Sởi, rubeola](http://emedicine.medscape.com/article/966220-overview) — Tham khảo Medscape
+- [Sởi](http://www.emedicinehealth.com/articles/15569-1.asp) — emedicinehealth
+- [Sởi](http://www.nhs.uk/conditions/measles/Pages/Introduction.aspx) — Lựa chọn NHS
+- [https://www.who.int/en/news-room/fact-sheets/detail/measles](https://www.who.int/en/news-room/fact-sheets/detail/measles)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

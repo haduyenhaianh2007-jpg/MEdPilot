@@ -1,0 +1,15 @@
+## Chẩn đoán mề đay như thế nào?
+
+Mề đay được chẩn đoán ở những người có tiền sử nổi mẩn kéo dài dưới 24 giờ có hoặc không có [phù mạch](https://dermnetnz.org/topics/angioedema). Cần thu thập thông tin về thuốc và tiền sử gia đình. Cần tiến hành khám sức khỏe kỹ lưỡng.
+
+Các xét nghiệm [chích da](https://dermnetnz.org/topics/skin-prick-testing) và xét nghiệm radioallergosorbent (RAST) hoặc CAP fluoroimmunoassay có thể được yêu cầu nếu nghi ngờ [thuốc](https://dermnetnz.org/topics/drug-eruptions), [latex](https://dermnetnz.org/topics/latex-allergy), hoặc [dị ứng thực phẩm](https://dermnetnz.org/topics/food-allergy) trong mề đay cấp tính.
+
+Không có xét nghiệm chẩn đoán thường quy trong mề đay tự phát mãn tính ngoài xét nghiệm công thức máu và protein C-reactive (CBC, CRP), nhưng có thể tiến hành điều tra nếu nghi ngờ có rối loạn tiềm ẩn.
+
+[Thử nghiệm huyết thanh tự thân](https://dermnetnz.org/topics/autologous-serum-skin-testing) đôi khi được thực hiện trong mề đay tự phát mãn tính, nhưng giá trị của nó không chắc chắn. Nó dương tính nếu tiêm huyết thanh của bệnh nhân dưới da gây ra mẩn đỏ.
+
+Mề đay có thể gây ra thường được xác nhận bằng cách gây ra phản ứng ví dụ, cào da trong [chứng vẽ da](https://dermnetnz.org/topics/dermographism) hoặc áp dụng một viên đá lạnh trong nghi ngờ [mề đay lạnh](https://dermnetnz.org/topics/cold-urticaria).
+
+Các cuộc điều tra về tình trạng hệ thống hoặc [bệnh tự viêm](https://dermnetnz.org/topics/autoinflammatory-syndromes) nên được thực hiện ở bệnh nhân mề đay có sốt, đau khớp hoặc xương, và mệt mỏi. Bệnh nhân có phù mạch không có mẩn đỏ nên được hỏi xem họ có dùng thuốc ức chế ACE không và được kiểm tra bổ thể C4; mức độ, chức năng và kháng thể C1-INH; và C1q.
+
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) của mề đay có thể không đặc hiệu. Bệnh lý cho thấy phù nề trong lớp bì và mạch máu giãn nở, với sự xâm nhập viêm hỗn hợp biến đổi. Tổn thương thành mạch chỉ ra [viêm mạch mề đay](https://dermnetnz.org/topics/urticarial-vasculitis).

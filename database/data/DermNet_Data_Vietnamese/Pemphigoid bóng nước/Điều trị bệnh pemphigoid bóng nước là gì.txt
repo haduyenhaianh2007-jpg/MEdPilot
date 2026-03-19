@@ -1,0 +1,44 @@
+## Điều trị bệnh pemphigoid bóng nước là gì?
+
+Nếu pemphigoid lan rộng, có thể sắp xếp nhập viện để băng bó các vết phồng rộp và xói mòn.
+
+Điều trị y tế bao gồm:
+
+- [Steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) cực mạnh để điều trị bệnh giới hạn < 10% diện tích cơ thể (ví dụ, kem clobetasol propionate)
+- [Steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) có độ mạnh vừa phải và [chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) để giảm ngứa và khô da
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) (ví dụ, prednisone) – tuy nhiên, chúng có liên quan đến nguy cơ tăng tác dụng phụ có hại và có thể gây tử vong.
+- Kháng sinh [tetracycline](https://dermnetnz.org/topics/tetracycline), thường là doxycycline 200 mg/ngày; doxycycline có ít tác dụng phụ hơn so với corticosteroid uống và hiệu quả tự nó đối với bệnh nhẹ
+- Các thuốc không chứa steroid khác tự nó hoặc kết hợp với steroid
+- [Kháng sinh](https://dermnetnz.org/topics/antibiotics) cho nhiễm trùng [vi khuẩn thứ cấp](https://dermnetnz.org/topics/bacterial-skin-infections)
+- Giảm đau.
+
+Hầu hết bệnh nhân bị pemphigoid bóng nước được điều trị bằng viên steroid, hoặc prednisone hoặc prednisolone với liều ban đầu 0,5 mg/kg/ngày. Liều lượng được điều chỉnh cho đến khi các vết phồng rộp ngừng xuất hiện, thường mất vài tuần. Liều prednisone sau đó được giảm dần khi có ít hơn 3 vết phồng rộp đáng kể, trong nhiều tháng hoặc năm. Vì steroid toàn thân có nhiều [tác dụng phụ](https://dermnetnz.org/topics/prophylaxis-systemic-steroid) không mong muốn, các thuốc khác được thêm vào để đảm bảo liều thấp nhất có thể (nhắm đến 5–10 mg prednisone hàng ngày). Các thuốc khác này có thể bao gồm doxycycline hoặc:
+
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Nicotinamide](https://dermnetnz.org/topics/nicotinamide)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Immunoglobulin tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin)
+- [Rituximab](https://dermnetnz.org/topics/rituximab)
+- [Dupilumab](https://dermnetnz.org/topics/dupilumab)
+- [Omalizumab](https://dermnetnz.org/topics/omalizumab-for-urticaria).
+
+Người dùng steroid toàn thân cũng có thể nhận thêm thuốc để giảm bớt tác dụng phụ tiềm tàng của chúng (như viêm dạ dày, tăng huyết áp, tiểu đường, và loãng xương).
+
+Các kháng thể đơn dòng nhắm vào IgE (như [omalizumab](https://dermnetnz.org/topics/omalizumab-for-urticaria)), IL-17 (như [secukinumab](https://dermnetnz.org/topics/secukinumab)), IL-4, IL-13, IL-5 (mepolixumab), eotaxin-1 (bertilumumab), protease serine đặc hiệu bổ thể C1 (sutimlimab), [chất ức chế JAK](https://dermnetnz.org/topics/janus-kinase-inhibitors), và các chất trung gian khác đang được nghiên cứu để điều trị pemphigoid bóng nước.
+
+### Đánh giá và theo dõi
+
+Vì điều trị toàn thân có thể cần thiết cho pemphigoid bóng nước trong thời gian dài, mức độ và mức độ nghiêm trọng của bệnh nên được ghi lại cẩn thận tại các cuộc hẹn ban đầu và theo dõi. Các khía cạnh sau có thể được xem xét.
+
+- Vị trí cơ thể bị ảnh hưởng (da và màng nhầy)
+- Loại tổn thương: thoáng qua và không thoáng qua
+- Số lượng tổn thương: phồng rộp, mề đay, mảng chàm
+- Mức độ ngứa
+- Điểm quan sát: giai đoạn ban đầu, điều trị tích cực, giảm điều trị, giai đoạn duy trì với điều trị tối thiểu, hoặc thuyên giảm hoàn toàn không cần điều trị
+- Điều trị hiện tại
+
+Chỉ số Diện tích Bệnh Pemphigoid Bóng nước (BPDAI) có điểm số riêng cho hoạt động của da và màng nhầy.
+
+Huyết áp, cân nặng cơ thể, quét xương DEXA, và xét nghiệm máu là cần thiết để theo dõi liệu pháp, vì các thuốc dùng cho pemphigoid bóng nước có thể có tác dụng phụ nghiêm trọng ở một số bệnh nhân.

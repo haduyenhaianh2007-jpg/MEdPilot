@@ -1,0 +1,48 @@
+## Quá mẫn cảm với phụ gia thực phẩm
+
+Phản ứng bất lợi với [phụ gia thực phẩm](https://dermnetnz.org/topics/food-additives) (quá mẫn cảm) có thể xảy ra thông qua cơ chế miễn dịch hoặc không miễn dịch. Phản ứng không miễn dịch đôi khi được gọi là ‘không dung nạp thực phẩm’.
+
+Phụ gia thực phẩm liên quan đến phản ứng bất lợi bao gồm, nhưng không giới hạn ở:
+
+- [Sulfites](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin)
+- Aspartame
+- Tartrazine
+- Monosodium glutamate (MSG)
+- Butylated hydroxytoluene (BHT) và butylated hydroxyanisole (BHA)
+- Parabens
+- Benzoates.
+
+#### Dịch tễ học
+
+Tỷ lệ phản ứng bất lợi với phụ gia thực phẩm trong dân số chung là thấp, ước tính khoảng 1–2% ở trẻ em và 1% ở người lớn. Dường như phổ biến hơn ở trẻ em [atopic](https://dermnetnz.org/topics/atopy) (2–7%).
+
+#### Đặc điểm lâm sàng
+
+Phản ứng có thể từ nhẹ đến nặng, và có thể liên quan đến triệu chứng trên da và không trên da.
+
+- Triệu chứng trên da có thể bao gồm đỏ bừng, [ngứa](https://dermnetnz.org/topics/pruritus), phát ban, [mề đay](https://dermnetnz.org/topics/urticaria-an-overview), và [phù mạch](https://dermnetnz.org/topics/angioedema). Benzoates và hương liệu đã được cho là nguyên nhân gây [viêm hạt orofacial](https://dermnetnz.org/topics/orofacial-granulomatosis).
+- Triệu chứng không trên da có thể bao gồm chảy nước mũi, ho, buồn nôn và nôn, trào ngược hoặc ‘ợ nóng’, đau quặn bụng, tiêu chảy hoặc táo bón, và [sốc phản vệ](https://dermnetnz.org/topics/anaphylaxis).
+
+Đôi khi phản ứng với phụ gia thực phẩm có thể góp phần làm trầm trọng thêm bệnh hiện có, chẳng hạn như bùng phát [viêm da dị ứng (eczema)](https://dermnetnz.org/topics/atopic-dermatitis) hoặc hen suyễn.
+
+Lịch sử gợi ý khả năng quá mẫn cảm với phụ gia thực phẩm bao gồm:
+
+- Phản ứng bất lợi với một số loại thực phẩm không liên quan
+- Phản ứng với một loại thực phẩm khi được chế biến thương mại, nhưng không phải khi nấu tại nhà
+- Làm trầm trọng thêm tình trạng hiện có (ví dụ, eczema) mà không có nguyên nhân rõ ràng khác.
+
+#### Chẩn đoán
+
+Công cụ chẩn đoán phản ứng bất lợi với phụ gia thực phẩm bao gồm:
+
+- [Thử nghiệm chích da](https://dermnetnz.org/topics/skin-prick-testing)
+- Xét nghiệm máu — [Xét nghiệm Immunoglobulin E (IgE)](https://dermnetnz.org/topics/immunoglobulin-e-tests) đối với các phụ gia thực phẩm cụ thể như carmine, mannitol, saffron, và gum thực vật
+- [Thử nghiệm miếng dán atopy](https://dermnetnz.org/topics/atopy-patch-test)
+- Thử thách thực phẩm bằng miệng
+
+#### Điều trị
+
+- Tránh các phụ gia đã được xác định là phương pháp điều trị chính.
+- Kiểm tra danh sách thành phần trên nhãn thực phẩm, cũng như thuốc và [mỹ phẩm](https://dermnetnz.org/topics/contact-reactions-to-cosmetics) được khuyến nghị.
+
+Điều trị cụ thể phụ thuộc vào phản ứng quan sát được. Điều trị có thể bao gồm [thuốc kháng histamine đường uống](https://dermnetnz.org/topics/antihistamines), [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid), thuốc xịt mũi, hoặc trong trường hợp sốc phản vệ, [adrenaline](https://dermnetnz.org/topics/the-physiology-and-pharmacology-of-adrenaline) (epinephrine). Cũng khuyến nghị đeo vòng tay cảnh báo y tế cho những người có phản ứng nghiêm trọng và sốc phản vệ.

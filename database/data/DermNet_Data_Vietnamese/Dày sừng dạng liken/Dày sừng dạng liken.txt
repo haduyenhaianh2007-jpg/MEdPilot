@@ -1,0 +1,142 @@
+##### Lichenoid keratosis — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Lichen planus-like keratosis, LPLK, Benign lichenoid keratosis, BLK, Solitary lichen planus, Involuting lichenoid plaque
+
+Danh mục:
+
+Tổn thương (lành tính)
+
+ICD-10:
+
+L57.0
+
+ICD-11:
+
+2F21.Y
+
+SNOMED CT:
+
+403198004
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics?category=Lesions%20(benign))**
+
+# **Lichenoid keratosis**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006. Cập nhật bởi A/Prof Amanda Oakley, Tháng 3 năm 2016. Sửa đổi DermNet Tháng 9 năm 2021
+
+[Giới thiệu](https://dermnetnz.org/topics/lichenoid-keratosis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/lichenoid-keratosis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/lichenoid-keratosis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/lichenoid-keratosis#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/lichenoid-keratosis#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/lichenoid-keratosis#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/lichenoid-keratosis#Outcome)
+
+## Lichenoid keratosis là gì?
+
+Lichenoid keratosis là một đốm nhỏ, viêm hoặc mảng sắc tố mỏng, thường đơn độc, với phản ứng mô lichenoid trên mô học.
+
+![](https://dermnetnz.org/assets/Uploads/lesions/lichenoid-keratosis7.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/lichenoid-keratosis-46.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/lesions/lichenoid-keratosis3.jpg)
+
+Lichenoid keratosis còn được gọi là benign lichenoid keratosis, solitary [lichen planus](https://dermnetnz.org/topics/lichen-planus), lichen planus-like keratosis và involuting lichenoid plaque. Đây là một trong những nguyên nhân của [lentigo mặt trời không điển hình](https://dermnetnz.org/topics/atypical-solar-lentigo).
+
+## Ai bị lichenoid keratosis?
+
+Lichenoid keratosis thường phát triển ở bệnh nhân da sáng từ 30–80 tuổi. Nó phổ biến gấp đôi ở nữ giới so với nam giới. Nó thường thấy nhất ở người da trắng và hiếm khi ảnh hưởng đến người châu Á, người Mỹ gốc Phi hoặc người gốc Tây Ban Nha.
+
+## Nguyên nhân gây ra lichenoid keratosis?
+
+Lichenoid keratosis là một phản ứng viêm phát sinh trong một [lentigo mặt trời](https://dermnetnz.org/topics/solar-lentigo) hoặc [seborrhoeic keratosis](https://dermnetnz.org/topics/seborrhoeic-keratosis) đang thoái hóa. Không rõ nguyên nhân gây ra phản ứng, nhưng các tác nhân kích thích có thể bao gồm chấn thương nhẹ như ma sát, thuốc, viêm da và tiếp xúc với ánh nắng mặt trời.
+
+## Đặc điểm lâm sàng của lichenoid keratosis là gì?
+
+- Một tổn thương đơn độc có mặt trong 90% trường hợp lichenoid keratosis, với những trường hợp khác có nhiều tổn thương.
+- Nó thường được tìm thấy nhất ở phần trên của thân, sau đó là các chi trên xa, và ít phổ biến hơn ở đầu và cổ.
+- Kích thước dao động từ vài milimet đến một centimet hoặc lớn hơn.
+- Bề mặt da có thể mịn, có vảy hoặc có mụn cóc.
+- Tổn thương thường không có triệu chứng. Nó có thể ngứa hoặc có cảm giác châm chích nhẹ.
+
+Các đặc điểm lâm sàng của lichenoid keratosis thay đổi tùy thuộc vào giai đoạn viêm của tổn thương.
+
+| Phân loại cổ điển, bóng nước, hoặc không điển hình |  |
+| --- | --- |
+| Đặc điểm lâm sàng | - Tổn thương phát triển nhanh chóng cấp tính (có mặt trong 3 tháng)<br>  <br>- Sẩn hoặc mảng đỏ hoặc hồng<br>  <br>- [Dermoscopy](https://dermnetnz.org/topics/dermoscopy) có thể cho thấy tàn dư của mạng lưới sắc tố, các đốm màu nâu tinh tế, cụm các chấm xám cộng với các mạch máu telangiectatic không đều, có hình dạng khác nhau |
+| Mô học | - Biến thể cổ điển cho thấy acanthosis biểu bì với thâm nhiễm lympho băng lichenoid. Sự hiện diện của parakeratosis biểu bì phân biệt các tổn thương này với [lichen planus](https://dermnetnz.org/topics/lichen-planus) điển hình.<br>  <br>- Biến thể bóng nước cho thấy các khoang bóng nước trong biểu bì hoặc dưới biểu bì với thâm nhiễm lympho dày đặc và số lượng tế bào keratinocyte lớp đáy hoại tử tăng lên.<br>  <br>- Biến thể không điển hình cho thấy mô học tương tự như loại cổ điển với các tế bào lympho CD-3, CD-30 (+) lớn rải rác với nhân tăng sắc, không đều. |
+| Phân loại sớm hoặc giao diện |  |
+| Đặc điểm lâm sàng | - Tổn thương bán cấp có mặt từ 3 tháng đến một năm<br>  <br>- Tổn thương đỏ đến đỏ sẫm hoặc nâu tăng sắc tố<br>  <br>- Tùy thuộc vào tuổi của tổn thương, dermoscopy có thể cho thấy các đặc điểm của một lentigo mặt trời hoặc seborrhoeic keratosis phẳng với các đường viền bị ăn mòn, dấu vân tay, nang giống milia, lỗ giống comedo, cộng với các ổ nhỏ của melanophages (chấm xám). |
+| Mô học | - Các tế bào lympho đơn lẻ xếp dọc theo đường nối dermoepidermal mà không có acanthosis biểu bì và lentigo liền kề |
+| Phân loại thoái hóa muộn hoặc teo |  |
+| Đặc điểm lâm sàng | - Tổn thương đã có mặt hơn một năm<br>  <br>- Có thể là sẩn màu tím hoặc tổn thương phân bố không đều với các sắc thái nâu hoặc xám |
+| Mô học | - Teo biểu bì với sẹo nhú bì, thâm nhiễm lympho không đều và mất melanin |
+
+Nhiều lichenoid keratoses bùng phát ở các vị trí tiếp xúc với ánh nắng mặt trời cũng được mô tả. Màu sắc của chúng thay đổi từ nâu đỏ ban đầu đến tím/xám khi tổn thương tự giải quyết sau vài tuần hoặc vài tháng.
+
+![ ](https://dermnetnz.org/assets/collection-O/Lichenoid-keratosis-SOC/lichenoid-keratosis-00078.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/lesions/lichenoid-keratosis2.jpg)
+
+![Lichenoid keratosis](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/sebk6.jpg)
+
+Lichenoid keratosis
+
+## Lichenoid keratosis được chẩn đoán như thế nào?
+
+Lichenoid keratosis có thể được chẩn đoán lâm sàng và xác nhận qua [dermoscopy](https://dermnetnz.org/topics/dermoscopy) cho thấy các cụm chấm xám đồng nhất \[xem [Mô hình hạt vòng dermoscopy](https://dermnetnz.org/topics/annular-granular-pattern)\]. Tùy thuộc vào giai đoạn của tổn thương, có thể có dấu hiệu của lentigo hoặc seborrhoeic keratosis ban đầu đã tồn tại trước đó, những dấu hiệu này sẽ biến mất theo thời gian. Sau đó, các chấm xám cũng biến mất, khi tổn thương tự giải quyết.
+
+Một [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) là cần thiết nếu khám lâm sàng và dermoscopy không thể phân biệt giữa lichenoid keratosis và các tổn thương đỏ đơn độc khác.
+
+Mô học giống [lichen planus](https://dermnetnz.org/topics/lichen-planus-pathology) hoặc [phản ứng thuốc lichenoid](https://dermnetnz.org/topics/lichenoid-drug-reaction-pathology), với một số khác biệt nhỏ. Tàn dư của [lentigo mặt trời](https://dermnetnz.org/topics/lentigo-pathology) hoặc seborrhoeic keratosis ban đầu có thể rõ ràng.
+
+![Chấm xám](https://dermnetnz.org/assets/Uploads/lesions/lichenoid-keratosis4.jpg)
+
+Chấm xám
+
+![Mô hình hạt vòng](https://dermnetnz.org/assets/Uploads/lesions/grey-dots-lplk.jpg)
+
+Mô hình hạt vòng
+
+![Chấm xám](https://dermnetnz.org/assets/Uploads/lesions/lichenoid-keratosis6.jpg)
+
+Chấm xám
+
+## Điều trị lichenoid keratosis là gì?
+
+Nếu có bất kỳ nghi ngờ nào về chẩn đoán, hình ảnh kỹ thuật số dermoscopy có thể được chụp và sử dụng trong lần theo dõi vài tháng sau đó.
+
+Lichenoid keratosis có thể được loại bỏ nếu muốn bằng [nitơ lỏng](https://dermnetnz.org/topics/cryotherapy), [phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery) hoặc [nạo](https://dermnetnz.org/topics/curettage-and-cautery).
+
+Nhiều lichenoid keratoses bùng phát có thể được điều trị hiệu quả bằng [retinoid uống](https://dermnetnz.org/topics/oral-retinoids), [acitretin](https://dermnetnz.org/topics/acitretin).
+
+## Kết quả của lichenoid keratosis là gì?
+
+Lichenoid keratosis là vô hại và tự giải quyết.
+
+Cho đến nay chưa có báo cáo nào về lichenoid keratosis chuyển thành khối u da ác tính.
+
+### Thư mục
+
+- BinJadeed H, Aljomah N, Alsubait N, Alsaif F, AlHumidi A. Lichenoid keratosis được điều trị thành công bằng imiquimod bôi. JAAD Case Rep. 2020;6(12):1353–5. doi:10.1016/j.jdcr.2020.10.002. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7718139/)
+- Gori A, Oranges T, Janowska A, et al. Đặc điểm lâm sàng và dermoscopic của lichenoid keratosis: một nghiên cứu trường hợp hồi cứu. J Cutan Med Surg. 2018;22(6):561–6. doi:10.1177/1203475418786213. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30016886/)
+- Maor D, Ondhia C, Yu LL, Chan JJ. Lichenoid keratosis thường bị chẩn đoán nhầm là ung thư biểu mô tế bào đáy. Clin Exp Dermatol. 2017;42(6):663–6. doi:10.1111/ced.13178. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28636260/)
+- Pitney L, Weedon D, Pitney M. Nhiều lichen planus-like keratoses: phản ứng thuốc lichenoid giả và nguyên nhân chưa được công nhận của các đợt bùng phát ngứa ở người cao tuổi. Australas J Dermatol. 2016 Feb;57(1):54–6. doi: 10.1111/ajd.12288. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25753682)
+
+### Trên DermNet
+
+- [Lichen planus](https://dermnetnz.org/topics/lichen-planus)
+- [Phản ứng thuốc lichenoid](https://dermnetnz.org/topics/lichenoid-drug-eruption)
+- [Rối loạn lichenoid](https://dermnetnz.org/topics/lichenoid-disorders)
+- [Lentigo](https://dermnetnz.org/topics/lentigo)
+- [Lentigo mặt trời không điển hình](https://dermnetnz.org/topics/atypical-solar-lentigo)
+- [Seborrhoeic keratosis](https://dermnetnz.org/topics/seborrhoeic-keratosis)
+- [Lentigo mặt trời](https://dermnetnz.org/topics/solar-lentigo)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

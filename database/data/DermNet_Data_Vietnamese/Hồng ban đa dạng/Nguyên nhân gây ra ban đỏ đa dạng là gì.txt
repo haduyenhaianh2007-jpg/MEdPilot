@@ -1,0 +1,32 @@
+## Nguyên nhân gây ra ban đỏ đa dạng?
+
+Nhiễm trùng gây ra 90% các trường hợp, với HSV type 1 là nguyên nhân chủ yếu. Các tác nhân nhiễm trùng khác bao gồm:
+
+- HSV type 2
+- [Cytomegalovirus](https://dermnetnz.org/topics/cytomegalovirus-infection-pathology)
+- [Virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus)
+- Virus cúm
+- [Nhiễm nấm Candida âm hộ âm đạo](https://dermnetnz.org/topics/vulvovaginal-candidiasis)
+- [SARS-CoV-2](https://dermnetnz.org/topics/covid-19)
+- [Orf](https://dermnetnz.org/topics/orf).
+
+Nhiễm trùng [Mycoplasma pneumoniae](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection) thường được liệt kê là tác nhân gây ban đỏ đa dạng, tuy nhiên các biểu hiện niêm mạc da liên quan đến nhiễm trùng này gần đây đã được phân loại là một thực thể độc lập, _phát ban và viêm niêm mạc do Mycoplasma pneumoniae_ (MIRM).
+
+Các loại thuốc có thể gây ra ban đỏ đa dạng bao gồm:
+
+- Kháng sinh (bao gồm erythromycin, nitrofurantoin, penicillin, [sulfonamides](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin), và tetracyclines)
+- Thuốc chống động kinh
+- Thuốc chống viêm không steroid
+- Vắc xin (nguyên nhân phổ biến nhất ở trẻ sơ sinh).
+
+Các tình trạng khác liên quan đến ban đỏ đa dạng (thường trong bệnh dai dẳng) bao gồm:
+
+- Bệnh viêm ruột
+- Viêm gan C
+- Bệnh bạch cầu
+- [Lymphoma](https://dermnetnz.org/topics/lymphoma)
+- Ung thư cơ quan rắn.
+
+Trong nhiều trường hợp, yếu tố gây bệnh vẫn chưa được biết.
+
+Hầu hết các nghiên cứu về cơ chế bệnh tập trung vào biểu hiện liên quan đến herpes. Virus herpes bị thực bào bởi các tế bào đơn nhân biểu hiện kháng nguyên lymphocyte da (một thụ thể hướng da). DNA virus bị nuốt chửng sau đó được chuyển đến biểu bì và vào các tế bào sừng. Trong lớp tế bào sừng, sự biểu hiện của các mảnh DNA virus kích thích phản ứng miễn dịch qua trung gian tế bào, bao gồm sản xuất interferon-γ, chất làm tăng quá trình viêm.

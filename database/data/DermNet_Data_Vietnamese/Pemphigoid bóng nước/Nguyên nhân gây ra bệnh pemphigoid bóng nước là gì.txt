@@ -1,0 +1,9 @@
+## Nguyên nhân gây ra bệnh pemphigoid bóng nước?
+
+Pemphigoid bóng nước là kết quả của sự tấn công vào màng đáy của biểu bì bởi các globulin miễn dịch IgG \+/\- IgE (kháng thể) và các tế bào lympho T đã được kích hoạt (bạch cầu). Mục tiêu là protein BP180 (còn gọi là collagen loại XVII), hoặc ít thường xuyên hơn là BP230 (một loại plakin). Các protein này nằm trong miền NC16A của collagen XVII. Chúng liên kết với các hemidesmosome, các cấu trúc đảm bảo các tế bào keratinocyte của biểu bì dính vào lớp hạ bì để tạo ra một lớp kín chống thấm nước.
+
+Sự liên kết của các tự kháng thể với các protein và sự giải phóng cytokine từ các tế bào T dẫn đến sự kích hoạt [bổ thể](https://dermnetnz.org/topics/the-complement-system), tuyển mộ các bạch cầu trung tính (các tế bào viêm cấp tính) và sự giải phóng các enzyme phân giải protein. Những điều này phá hủy các hemidesmosome và gây ra sự hình thành các bóng nước dưới biểu bì.
+
+Sự liên kết của các bệnh lý thần kinh với pemphigoid bóng nước được cho là liên quan đến sự hiện diện của collagen XVII trong hệ thần kinh trung ương và các hemidesmosome của da.
+
+Một biến thể hiếm gặp của pemphigoid với các kháng thể IgG hướng tới một protein DEJ 200 kDa đã được mô tả - có sự liên kết mạnh mẽ với bệnh vảy nến (laminin gamma 1).

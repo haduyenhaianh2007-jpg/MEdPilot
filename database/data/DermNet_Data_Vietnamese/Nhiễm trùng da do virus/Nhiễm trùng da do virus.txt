@@ -1,0 +1,100 @@
+##### Nhiễm virus và da — thông tin bổ sung
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B08, B09, B08.8, B08.20, B34.9, B97.89
+
+ICD-11:
+
+EA3Z, 1F0Z 1F0Y, EA00, EA0Y
+
+SNOMED CT:
+
+128937004, 49882001
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Nhiễm virus và da**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2002.
+
+Các nhiễm virus thường gặp ở trẻ em có thể gây ra các [ban đỏ](https://dermnetnz.org/viral/exanthem.html) lan rộng:
+
+- [Sởi](https://dermnetnz.org/viral/morbilli.html) (morbilli)
+- [Sởi Đức](https://dermnetnz.org/viral/rubella.html) (rubella)
+- [Thủy đậu](https://dermnetnz.org/viral/varicella.html) (varicella)
+- [Ban đỏ nhiễm trùng](https://dermnetnz.org/viral/fifth.html) và [hội chứng găng tay và tất có ban đỏ](https://dermnetnz.org/viral/gloves-and-socks.html) (parvovirus)
+- [Roseola](https://dermnetnz.org/viral/roseola.html) (ban đỏ đột ngột, do herpesvirus 6 và 7)
+- [Bệnh tăng bạch cầu đơn nhân nhiễm trùng](https://dermnetnz.org/viral/ebv.html) (sốt tuyến) (do [virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus))
+- [Nhiễm enterovirus](https://dermnetnz.org/viral/enterovirus.html).
+
+Các hội chứng virus khác có đặc điểm niêm mạc và da bao gồm:
+
+- [Pityriasis rosea](https://dermnetnz.org/viral/pityriasis-rosea.html), herpesvirus 6 và 7
+- [Bệnh tay chân miệng](https://dermnetnz.org/viral/hand-foot-mouth.html) (viêm miệng mụn nước do enterovirus), do nhiễm coxsackie. Các phát ban mụn nước lan rộng hơn cũng có thể do enterovirus
+- [Viêm da dạng hạt ở trẻ em](https://dermnetnz.org/topics/papular-acrodermatitis-of-childhood) (hội chứng Gianotti-Crosti) thường do [virus Epstein-Barr](https://dermnetnz.org/viral/ebv.html) hoặc [viêm gan B](https://dermnetnz.org/viral/viral-hepatitis.html) gây ra
+- [Ban đỏ bên ngực](https://dermnetnz.org/viral/apec.html) (ban đỏ không đối xứng ở trẻ em hoặc APEC), nguyên nhân không chắc chắn nhưng nhiều virus được cho là có liên quan trong các báo cáo trường hợp
+- [COVID-19](https://dermnetnz.org/topics/covid-19) (SARS-CoV-2)
+- Sốt xuất huyết do togavirus, bunyavirus và arenavirus có thể gây tử vong, với chảy máu vào da
+- [Bệnh đậu mùa](https://dermnetnz.org/viral/smallpox.html), một căn bệnh chết người hy vọng đã được loại trừ nhờ tiêm chủng rộng rãi
+- [Bệnh đậu bò](https://dermnetnz.org/viral/cowpox.html)
+- [Bệnh đậu khỉ](https://dermnetnz.org/viral/monkeypox.html), một loại virus đậu mới xuất hiện ở Congo
+- [Sốt chikungunya](https://dermnetnz.org/viral/chikungunya.html), [sốt xuất huyết dengue,](https://dermnetnz.org/viral/dengue.html) và [sốt zika](https://dermnetnz.org/viral/zika.html) (do arbovirus).
+- Các sốt xuất huyết khác bao gồm sốt xuất huyết Crimean-Congo (nairovirus), sốt Lassa (arenavirus), sốt xuất huyết Ebola và sốt xuất huyết Marburg (filovirus).
+- [Epidermodysplasia verruciformis](https://dermnetnz.org/viral/epidermodysplasia-verruciformis.html) là một rối loạn di truyền với khuynh hướng mắc các loại virus papilloma ở da người độc đáo và ung thư da.
+- Các vấn đề về da khác nhau phổ biến hơn với nhiễm [virus suy giảm miễn dịch ở người](https://dermnetnz.org/viral/human-immunodeficiency-virus.html) (HIV) (AIDS) bao gồm [hội chứng nhiễm virus suy giảm miễn dịch ở người cấp tính](https://dermnetnz.org/viral/acute-hiv.html) và [sarcoma Kaposi](https://dermnetnz.org/lesions/kaposi-sarcoma.html) (do nhiễm herpesvirus 8)
+- [Bệnh rickettsial](https://dermnetnz.org/bacterial/rickettsia.html) do các sinh vật được phân loại giữa vi khuẩn và virus gây ra
+- [Sốt vàng da](https://dermnetnz.org/viral/yellow-fever.html) là một nhiễm flavivirus nghiêm trọng đặc trưng bởi da và mắt vàng do vàng da.
+
+Nhiễm virus cũng có thể gây ung thư. Ví dụ bao gồm:
+
+- Neoplasia nội biểu mô liên quan đến [virus papilloma ở người](https://dermnetnz.org/topics/penile-intraepithelial-neoplasia), [âm hộ](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia), và [miệng](https://dermnetnz.org/topics/carcinoma-in-situ-of-oral-cavity), ung thư [âm hộ](https://dermnetnz.org/topics/vulval-cancer) và [miệng](https://dermnetnz.org/topics/oral-cancer), [epidermodysplasia verruciformis](https://dermnetnz.org/topics/epidermodysplasia-verruciformis)
+- [Rối loạn tăng sinh lympho liên quan đến virus Epstein–Barr](https://dermnetnz.org/topics/epsteinbarr-virus-associated-lymphoproliferative-disorders).
+
+Các tình trạng da và niêm mạc cục bộ do nhiễm virus bao gồm:
+
+- [Herpes simplex](https://dermnetnz.org/viral/herpes-simplex.html) (mụn rộp và [herpes sinh dục](https://dermnetnz.org/viral/genital-herpes.html)), [eczema herpeticum](https://dermnetnz.org/viral/eczema-herpeticum.html), [herpetic whitlow](https://dermnetnz.org/topics/herpetic-whitlow)
+- [Herpes zoster](https://dermnetnz.org/viral/herpes-zoster.html) (giời leo), bao gồm [hội chứng Ramsay Hunt](https://dermnetnz.org/topics/ramsay-hunt-syndrome)
+- [Herpangina](https://dermnetnz.org/viral/herpangina.html) / viêm miệng mụn nước (loét miệng)
+- [Molluscum contagiosum](https://dermnetnz.org/viral/molluscum-contagiosum.html)
+- [Mụn cóc do virus](https://dermnetnz.org/viral/viral-warts.html) (verrucas, [mụn cóc sinh dục](https://dermnetnz.org/viral/genital-warts.html) hoặc condylomas và [u nhú tế bào vảy](https://dermnetnz.org/lesions/squamous-papilloma.html))
+- [Orf](https://dermnetnz.org/viral/orf.html)
+- [Nốt sần của người vắt sữa](https://dermnetnz.org/viral/milkers-nodules.html)
+- [Bạch sản lông miệng](https://dermnetnz.org/topics/oral-hairy-leukoplakia).
+
+Trong tương lai, chúng ta mong đợi phân loại nhiều tình trạng da hơn có nguồn gốc từ virus khi các xét nghiệm tinh vi hơn cho các hạt virus trở nên khả dụng.
+
+Nhiễm virus bao gồm [viêm gan virus](https://dermnetnz.org/viral/viral-hepatitis.html) đôi khi gây ra:
+
+- [Ban đỏ đa dạng](https://dermnetnz.org/reactions/erythema-multiforme.html)
+- [Ban đỏ nút](https://dermnetnz.org/vascular/erythema-nodosum.html)
+- [Bệnh Kawasaki](https://dermnetnz.org/bacterial/kawasaki.html).
+
+### Trên DermNet
+
+- [Virus herpes](https://dermnetnz.org/viral/herpes-viruses.html)
+- [Viêm da nghề nghiệp trong công nhân xây dựng](https://dermnetnz.org/topics/occupational-dermatitis-among-construction-workers)
+- [Peptide kháng khuẩn](https://dermnetnz.org/topics/antimicrobial-peptides)
+- [Bệnh da nhiệt đới](https://dermnetnz.org/topics/tropical-skin-diseases)
+- [Virus papilloma ở người lây qua đường tình dục](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus)
+- [Nhiễm virus papilloma ở người không lây qua đường tình dục](https://dermnetnz.org/topics/non-sexually-acquired-human-papillomavirus-infection)
+- [Vắc-xin chống virus papilloma ở người](https://dermnetnz.org/topics/vaccines-against-human-papillomavirus)
+
+### Các trang web khác
+
+- [Nhiễm virus](http://emedicine.medscape.com/dermatology#viral) – Tham khảo Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ Dàng_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

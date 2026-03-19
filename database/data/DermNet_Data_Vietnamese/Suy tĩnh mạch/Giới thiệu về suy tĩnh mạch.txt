@@ -1,0 +1,29 @@
+##### Suy tĩnh mạch — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Suy tĩnh mạch mạn tính, Suy tĩnh mạch ngoại biên, Suy tĩnh mạch chân
+
+Danh mục:
+
+Vấn đề mạch máu
+
+ICD-10:
+
+I87.2, I83, I83.009, I83.10, I87.319
+
+ICD-11:
+
+BD74.Z, BD74.0, BD74.1Z, BD74.2, BD74.3Z, BD93.10, ED62.0, MG29.10,
+
+SNOMED CT:
+
+443904006, 20696009, 234050002, 703283003, 440346008, 703280000, 238788004, 402863005, 35498005, 410016009, 762536003, 762537007, 128060009, 72866009, 706913006, 10692931000119102, 275700003, 403261006
+
+**[Vấn đề mạch máu](https://dermnetnz.org/topics?category=Blood%20vessel%20problems)**
+
+# **Suy tĩnh mạch**
+
+Tác giả: Bác sĩ Jenny Caesar, Bác sĩ Da liễu, Bệnh viện Singleton, Swansee, Vương quốc Anh. Tháng 11 năm 2020; Cập nhật: Bác sĩ Ian Coulson, Bác sĩ Da liễu Tư vấn, East Lancashire NHS Trust, Vương quốc Anh. Biên tập bởi Gus Mitchell. Tháng 8 năm 2021
+
+[Định nghĩa suy tĩnh mạch là gì?](https://dermnetnz.org/topics/venous-insufficiency#What%20is%20venous%20insufficiency?%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/venous-insufficiency#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/venous-insufficiency#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/venous-insufficiency#Clinical%20features%3Cbr%20/%3E) [Biến đổi theo loại da](https://dermnetnz.org/topics/venous-insufficiency#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/venous-insufficiency#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/venous-insufficiency#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/venous-insufficiency#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/venous-insufficiency#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/venous-insufficiency#Outcome)

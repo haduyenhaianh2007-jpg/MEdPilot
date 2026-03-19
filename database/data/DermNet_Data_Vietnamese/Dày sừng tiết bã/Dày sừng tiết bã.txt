@@ -1,0 +1,225 @@
+##### Dày sừng tiết bã - thông tin bổ sung
+
+Từ đồng nghĩa:
+
+U nhú tế bào đáy, Mụn cóc tuổi già, Tăng sừng tuổi già, Dày sừng tuổi già
+
+Danh mục:
+
+Tổn thương (lành tính)
+
+ICD-10:
+
+L82, L82.0, L57.0, L81.4, L82.1
+
+ICD-11:
+
+2F21.0, EJ20.1, 2F21.Y, EL10
+
+SNOMED CT:
+
+398838000, 403862005, 442348004, 446352002, 394727000, 403867004, 403865007, 403868009, 403864006, 403866008, 102606000, 254669003, 403869001, 403870000, 394728005, 733894009, 403198004, 72100002
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics?category=Lesions%20(benign))**
+
+# **Dày sừng tiết bã**
+
+**Được xem xét lần cuối: Tháng 1, 2016**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1997. Cập nhật, Tháng 1 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/seborrhoeic-keratosis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/seborrhoeic-keratosis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/seborrhoeic-keratosis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/seborrhoeic-keratosis#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/seborrhoeic-keratosis#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/seborrhoeic-keratosis#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/seborrhoeic-keratosis#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/seborrhoeic-keratosis#Prevention%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/seborrhoeic-keratosis#Outlook)
+
+## Dày sừng tiết bã là gì?
+
+Dày sừng tiết bã là một đốm mụn cóc vô hại xuất hiện trong cuộc sống trưởng thành như một dấu hiệu phổ biến của [lão hóa da](https://dermnetnz.org/topics/ageing-skin). Một số người có hàng trăm đốm như vậy.
+
+Dày sừng tiết bã (chính tả Mỹ - dày sừng tiết bã) còn được gọi là SK, u nhú tế bào đáy, mụn cóc tuổi già, mụn cóc nâu, mụn cóc trí tuệ, hoặc hàu. Thuật ngữ mô tả, dày sừng lành tính, là một thuật ngữ rộng hơn được sử dụng để bao gồm các tổn thương da có vảy liên quan sau:
+
+- Dày sừng tiết bã
+- [Lentigo mặt trời](https://dermnetnz.org/topics/solar-lentigo) (có thể khó phân biệt với dày sừng tiết bã phẳng)
+- [Dày sừng giống lichen phẳng](https://dermnetnz.org/topics/lichenoid-keratosis) (phát sinh từ dày sừng tiết bã hoặc lentigo mặt trời).
+
+![Dày sừng tiết bã](https://dermnetnz.org/assets/Uploads/lesions/bcp2.jpg)
+
+Dày sừng tiết bã
+
+![Dày sừng tiết bã](https://dermnetnz.org/assets/Uploads/lesions/bcp8.jpg)
+
+Dày sừng tiết bã
+
+![Dày sừng tiết bã có sắc tố](https://dermnetnz.org/assets/Uploads/lesions/pigmented-lesion-06.jpg)
+
+Dày sừng tiết bã có sắc tố
+
+## Ai bị dày sừng tiết bã?
+
+Dày sừng tiết bã cực kỳ phổ biến. Ước tính có hơn 90% người lớn trên 60 tuổi có một hoặc nhiều đốm như vậy. Chúng xuất hiện ở cả nam và nữ thuộc mọi chủng tộc, thường bắt đầu bùng phát ở độ tuổi 30 hoặc 40. Chúng hiếm gặp ở độ tuổi dưới 20.
+
+## Nguyên nhân gây ra dày sừng tiết bã là gì?
+
+Nguyên nhân chính xác của dày sừng tiết bã chưa được biết.
+
+Tên gọi này gây hiểu lầm, vì chúng không giới hạn ở phân bố tiết bã (da đầu, giữa mặt, ngực, lưng trên) như trong [viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis), cũng không được hình thành từ tuyến bã nhờn, như trường hợp với [tăng sản tuyến bã](https://dermnetnz.org/topics/sebaceous-hyperplasia), cũng không liên quan đến bã nhờn - vốn là chất nhờn.
+
+Dày sừng tiết bã được coi là thoái hóa tự nhiên. Theo thời gian, dày sừng tiết bã trở nên nhiều hơn. Một số người thừa hưởng xu hướng phát triển một số lượng rất lớn các đốm này. Các nhà nghiên cứu đã ghi nhận:
+
+- Dày sừng tiết bã bùng phát có thể xảy ra sau [cháy nắng](https://dermnetnz.org/topics/sunburn) hoặc [viêm da](https://dermnetnz.org/topics/dermatitis).
+- Ma sát da có thể là lý do chúng xuất hiện ở các nếp gấp cơ thể.
+- Nguyên nhân [virus](https://dermnetnz.org/topics/viral-skin-infections) (ví dụ như virus papilloma ở người) dường như không có khả năng.
+- Đột biến ổn định và nhân bản hoặc kích hoạt các gen FRFR3, PIK3CA, RAS, AKT1 và EGFR được tìm thấy trong dày sừng tiết bã.
+- Dày sừng tiết bã có thể phát sinh từ [lentigo mặt trời](https://dermnetnz.org/topics/solar-lentigo).
+- Đột biến FRFR3 cũng phát sinh trong lentigo mặt trời. Những đột biến này liên quan đến tuổi tác tăng và vị trí trên đầu và cổ, gợi ý vai trò của bức xạ tia cực tím trong các tổn thương này.
+- Dày sừng tiết bã không chứa đột biến gen ức chế khối u.
+- [Chất ức chế thụ thể yếu tố tăng trưởng biểu bì](https://dermnetnz.org/topics/egfr-and-protein-kinase-inhibitors) (được sử dụng để điều trị ung thư) thường dẫn đến gia tăng dày sừng dạng mụn cóc.
+
+## Đặc điểm lâm sàng của dày sừng tiết bã là gì?
+
+Dày sừng tiết bã có thể xuất hiện trên bất kỳ khu vực da nào, có hoặc không có che phủ, ngoại trừ lòng bàn tay và lòng bàn chân. Chúng không phát sinh từ màng nhầy.
+
+Dày sừng tiết bã có hình dạng rất đa dạng.
+
+- Sẩn hoặc mảng phẳng hoặc nhô lên
+- Đường kính từ 1 mm đến vài cm
+- Màu da, vàng, xám, nâu nhạt, nâu đậm, đen hoặc màu hỗn hợp
+- Bề mặt mịn, sáp hoặc mụn cóc
+- Đơn lẻ hoặc nhóm ở một số khu vực nhất định, chẳng hạn như trong da đầu, dưới ngực, trên cột sống hoặc ở háng
+
+Chúng dường như dính vào bề mặt da như hàu.
+
+![Dày sừng tiết bã](https://dermnetnz.org/assets/Uploads/lesions/bcp1.jpg)
+
+Dày sừng tiết bã
+
+![Dày sừng tiết bã](https://dermnetnz.org/assets/Uploads/lesions/s/seborrh-k.jpg)
+
+Dày sừng tiết bã
+
+![Dày sừng tiết bã](https://dermnetnz.org/assets/Uploads/lesions/bcp4.jpg)
+
+Dày sừng tiết bã
+
+- [Xem thêm hình ảnh về dày sừng tiết bã](https://dermnetnz.org/topics/seborrhoeic-keratosis-images)
+- [Xem hình ảnh soi da của dày sừng tiết bã](https://dermnetnz.org/topics/seborrhoeic-keratosis-dermoscopy-images)
+
+### Biến thể của dày sừng tiết bã
+
+Biến thể của dày sừng tiết bã bao gồm:
+
+- [Lentigo mặt trời](https://dermnetnz.org/topics/solar-lentigo): các mảng sắc tố phẳng có giới hạn rõ ràng ở các vị trí tiếp xúc với ánh nắng
+- [Dermatosis papulosa nigra](https://dermnetnz.org/topics/dermatosis-papulosa-nigra): dày sừng tiết bã nhỏ, có cuống và sắc tố nặng trên đầu và cổ của những người có làn da tối màu
+- [Stucco keratose](https://dermnetnz.org/topics/stucco-keratosis): sẩn màu xám, trắng hoặc vàng trên các chi dưới
+- Dày sừng nang lông ngược
+- Acanthoma tế bào lớn
+- [Dày sừng giống lichen](https://dermnetnz.org/topics/lichenoid-keratosis): một giai đoạn viêm trước khi thoái hóa của một số dày sừng tiết bã và lentigo mặt trời.
+
+![Tổn thương florid của stucco keratoses trên mắt cá chân](https://dermnetnz.org/assets/Uploads/lesions/bcp6.jpg)
+
+Tổn thương florid của stucco keratoses trên mắt cá chân
+
+![Dermatosis papulosa nigra](https://dermnetnz.org/assets/Uploads/lesions/dermatosis-papulosa.jpg)
+
+Dermatosis papulosa nigra
+
+![Dày sừng tiết bã bị kích thích](https://dermnetnz.org/assets/Uploads/lesions/bcp7.jpg)
+
+Dày sừng tiết bã bị kích thích
+
+![](https://dermnetnz.org/assets/Uploads/lesions/lichenoid-keratosis3.jpg)
+
+## Biến chứng của dày sừng tiết bã
+
+Dày sừng tiết bã không phải là khối u tiền ác tính. Tuy nhiên:
+
+- [Ung thư da](https://dermnetnz.org/topics/skin-cancer) đôi khi khó phân biệt với dày sừng tiết bã.
+- Ung thư da có thể tình cờ phát sinh trong hoặc va chạm với dày sừng tiết bã.
+
+Rất hiếm khi, dày sừng tiết bã bùng phát có thể chỉ ra một khối u ác tính nội tạng tiềm ẩn, thường là ung thư biểu mô tuyến dạ dày. Hội chứng cận ung thư được biết đến như [dấu hiệu của Leser-Trélat](https://dermnetnz.org/topics/sign-of-leser-trelat). Dày sừng tiết bã bùng phát không liên quan đến ung thư đôi khi được mô tả là có dấu hiệu giả của Leser-Trélat.
+
+Dày sừng tiết bã bùng phát và bị kích thích cũng có thể phát sinh như một phản ứng bất lợi đối với một loại thuốc, chẳng hạn như [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis), [vemurafenib](https://dermnetnz.org/topics/vemurafenib), [dabrafenib](https://dermnetnz.org/topics/dabrafenib), [5-fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream) và nhiều [thuốc hóa trị](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs).
+
+Dày sừng tiết bã bị kích thích là một tổn thương viêm, đỏ và có vảy. Nó có thể gây ra [viêm da chàm](https://dermnetnz.org/topics/dermatitis) xung quanh dày sừng tiết bã. Viêm da cũng có thể kích hoạt sự xuất hiện của các dày sừng tiết bã mới.
+
+## Dày sừng tiết bã được chẩn đoán như thế nào?
+
+Chẩn đoán dày sừng tiết bã thường dễ dàng.
+
+- Mảng mụn cóc bám dính, có ranh giới rõ ràng
+- Các tổn thương tương tự khác
+
+Đôi khi, dày sừng tiết bã có thể giống với [ung thư da](https://dermnetnz.org/topics/skin-cancer), chẳng hạn như [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma), [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) hoặc [u ác tính](https://dermnetnz.org/topics/melanoma).
+
+[Soi da](https://dermnetnz.org/topics/dermoscopy) thường cho thấy cấu trúc rối loạn trong [dày sừng tiết bã](https://dermnetnz.org/cme/dermoscopy-course/dermoscopy-of-seborrhoeic-keratosis), cũng như đối với ung thư da. Có những dấu hiệu soi da chẩn đoán dày sừng tiết bã, chẳng hạn như nhiều đám màu cam hoặc nâu (do keratin trong các khe bề mặt da), đám giống như milia màu trắng, và các rãnh và rãnh cong dày tạo thành một mô hình giống não hoặc cerebriform.
+
+Nếu vẫn còn nghi ngờ, dày sừng tiết bã có thể trải qua [sinh thiết cạo hoặc đục lỗ](https://dermnetnz.org/topics/skin-biopsy) hoặc [cắt bỏ chẩn đoán](https://dermnetnz.org/topics/excision-of-skin-lesions). \[xem [Bệnh lý dày sừng tiết bã](https://dermnetnz.org/topics/seborrhoeic-keratosis-pathology)\]
+
+Các đặc điểm mô học chủ yếu của dày sừng tiết bã có thể được mô tả như:
+
+- Melanoacanthoma (sắc tố sâu)
+- Acanthotic
+- Tăng sừng hoặc nhú
+- Tuyến hoặc lưới
+- Nhân bản hoặc tổ
+- Adamantinoid hoặc nhầy
+- Desmoplastic
+- Bị kích thích.
+
+## Điều trị dày sừng tiết bã là gì?
+
+Một dày sừng tiết bã riêng lẻ có thể dễ dàng được loại bỏ nếu muốn. Lý do để loại bỏ có thể là vì nó không đẹp, ngứa, hoặc vướng vào quần áo.
+
+Các phương pháp được sử dụng để loại bỏ dày sừng tiết bã bao gồm:
+
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) (nitơ lỏng) cho các tổn thương mỏng hơn (lặp lại nếu cần thiết)
+- [Nạo](https://dermnetnz.org/topics/curettage-and-cautery) và/hoặc [đốt điện](https://dermnetnz.org/topics/electrosurgery)
+- [Phẫu thuật laser cắt bỏ](https://dermnetnz.org/topics/laser-resurfacing)
+- [Sinh thiết cạo](https://dermnetnz.org/topics/skin-biopsy) (cạo bằng dao mổ)
+- [Lột hóa chất](https://dermnetnz.org/topics/chemical-peels) tiêu điểm với axit trichloracetic
+
+Tất cả các phương pháp đều có nhược điểm. Mất sắc tố do điều trị là một vấn đề đặc biệt đối với bệnh nhân có làn da tối màu. Không có cách dễ dàng để loại bỏ nhiều tổn thương trong một lần.
+
+## Làm thế nào để ngăn ngừa dày sừng tiết bã?
+
+Cách ngăn ngừa dày sừng tiết bã chưa được biết.
+
+## Triển vọng cho dày sừng tiết bã là gì?
+
+Dày sừng tiết bã có xu hướng tồn tại. Thỉnh thoảng, các tổn thương đơn lẻ hoặc nhiều tổn thương có thể tự thuyên giảm hoặc thông qua cơ chế [dày sừng giống lichen](https://dermnetnz.org/topics/lichenoid-keratosis).
+
+Những tổn thương liên quan đến [viêm da](https://dermnetnz.org/topics/dermatitis) có thể thoái lui sau khi đã được kiểm soát.
+
+### Tài liệu tham khảo
+
+- Jackson JM, Alexis A, Berman B, Berson DS, Taylor S, Weiss JS. Hiểu biết hiện tại về Dày sừng tiết bã: Tỷ lệ, Nguyên nhân, Biểu hiện lâm sàng, Chẩn đoán và Quản lý. J Drugs Dermatol. 2015 Oct 1;14(10):1119–25. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/26461823)
+- Hafner C, Hartmann A, van Oers JM, Stoehr R, Zwarthoff EC, Hofstaedter F, Landthaler M, Vogt T. Đột biến FGFR3 trong dày sừng tiết bã đã có mặt trong các tổn thương phẳng và liên quan đến tuổi tác và vị trí. Mod Pathol. 2007 Aug;20(8):895–903. Epub 2007 Jun 22. [PubMed](http://www.nature.com/modpathol/journal/v20/n8/full/3800837a.html)
+- Hafner C, Hafner H, Groesser L. \[Cơ sở di truyền của dày sừng tiết bã và nevi biểu bì\]. Pathologe. 2014 Sep;35(5):413–23. doi: 10.1007/s00292-014-1928-9. Review. German. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/25187080)
+- Hida Y, Kubo Y, Arase S. Kích hoạt thụ thể yếu tố tăng trưởng nguyên bào sợi 3 và lão hóa do oncogene trong các khối u da. Br J Dermatol. 2009 Jun;160(6):1258–63. doi: 10.1111/j.1365-2133.2009.09068.x. Epub 2009 Mar 9. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/19298285)
+- Husain Z, Ho JK, Hantash BM. Dấu hiệu và dấu hiệu giả của Leser-Trélat: báo cáo trường hợp và đánh giá tài liệu. J Drugs Dermatol. 2013 May;12(5):e79–87. Review. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23652964)
+
+### Trên DermNet
+
+- [Lão hóa da](https://dermnetnz.org/topics/ageing-skin)
+- [Lentigo mặt trời](https://dermnetnz.org/topics/solar-lentigo)
+- [Dấu vết nâu và tàn nhang](https://dermnetnz.org/topics/brown-spots-and-freckles)
+- [Khối u keratinocytic và adnexal lành tính](https://dermnetnz.org/cme/lesions/benign-keratinocytic-and-adnexal-lesions) – khóa học tổn thương da phổ biến
+- [Comedo](https://dermnetnz.org/topics/comedones)
+- [Tổn thương da lành tính phổ biến](https://dermnetnz.org/topics/benign-skin-lesions)
+
+### Các trang web khác
+
+- [Stucco Keratosis](http://emedicine.medscape.com/article/1059798-overview) — Medscape Reference
+- [Dày sừng tiết bã](http://emedicine.medscape.com/article/1059477-overview) — Medscape Reference
+- [Mụn cóc tiết bã](https://www.bad.org.uk/pils/seborrhoeic-keratosis/) — Hiệp hội Da liễu Anh
+- [Thông tin bệnh nhân: Dày sừng tiết bã (Cơ bản)](http://www.uptodate.com/contents/seborrheic-keratosis-the-basics) — UpToDate (dành cho người đăng ký)
+- [Dày sừng tiết bã](https://www.aad.org/public/diseases/bumps-and-growths/seborrheic-keratoses) — Học viện Da liễu Hoa Kỳ
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

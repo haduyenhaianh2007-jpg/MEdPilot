@@ -1,0 +1,29 @@
+##### Tân sinh nội biểu mô âm hộ — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Tổn thương nội biểu mô vảy âm hộ, VIN, Ung thư biểu mô tế bào vảy tại chỗ của âm hộ, Bệnh Bowen của âm hộ, Loạn sản âm hộ
+
+Danh mục:
+
+Tổn thương (ung thư)
+
+ICD-10:
+
+N90.3, N90.0, N90.1, D07.1, D07.30
+
+ICD-11:
+
+2E67.10, 2E67.1, GA13.1, 2F33.0, 2E67.10
+
+SNOMED CT:
+
+399933001, 20365006, 22725004, 313351009, 302812006, 240545008, 767544007, 399911003, 276873004, 276874005, 403475002, 399966002
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics?category=Lesions%20(cancerous))**
+
+# **Tân sinh nội biểu mô âm hộ**
+
+Tác giả: Vanessa Ngan, Nhà văn, 2003. Cập nhật bởi Hon A/Prof Amanda Oakley và Tiến sĩ Darion Rowan, Bác sĩ da liễu, New Zealand, Tháng 9 năm 2017.
+
+[Giới thiệu](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Introduction%3Cbr%20/%3E) [Trình bày](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Presentation%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Demographics%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Diagnosis%3Cbr%20/%3E) [Phân loại](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Classification%3Cbr%20/%3E) [Điều trị và theo dõi](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Treatment%20and%20follow-up%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Prevention%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia#Outcome)

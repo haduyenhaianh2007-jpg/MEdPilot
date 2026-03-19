@@ -1,0 +1,40 @@
+## Điều trị cho bệnh ngứa sần là gì?
+
+Thật không may, không có cách chữa trị và việc điều trị có thể gặp nhiều thách thức. Liệu pháp phải đa phương thức, bao gồm cả việc điều trị bất kỳ tình trạng tiềm ẩn nào đã được xác định.
+
+### Biện pháp cụ thể
+
+Các lựa chọn điều trị phổ biến bao gồm:
+
+- [Chất làm mềm da bôi ngoài](https://dermnetnz.org/topics/emollients-and-moisturisers)
+- [Kem steroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid) hoặc thuốc mỡ — thường là steroid cực mạnh và được bôi dưới băng dán hydrocolloid hoặc băng dán dính, hoặc [băng dán tẩm steroid](https://dermnetnz.org/topics/steroid-impregnated-tape)
+- [Capsaicin bôi ngoài](https://dermnetnz.org/topics/capsaicin) và [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus) 0,1% để giảm ngứa
+- [Thuốc mỡ calcipotriol/betamethasone](https://dermnetnz.org/topics/calcipotriolbetamethasone-dipropionate-ointment-and-gel)
+- [Tiêm corticosteroid tại chỗ](https://dermnetnz.org/topics/intralesional-steroid-injection) (ví dụ, triamcinolone acetonide 10–40 mg/ml) vào các nốt sần để giảm viêm
+- Thuốc [kháng histamin](https://dermnetnz.org/topics/antihistamines) uống gây buồn ngủ
+- Liệu pháp ánh sáng với [UVB](https://dermnetnz.org/topics/uvb-phototherapy) hoặc [quang hóa trị liệu (PUVA)](https://dermnetnz.org/topics/puva-photochemotherapy)
+- Điều trị toàn thân với [gabapentin](https://dermnetnz.org/topics/gabapentin), pregabalin, và naltrexone
+- Đôi khi, kháng sinh có thể được sử dụng để điều trị da bị nhiễm trùng cục bộ ([viêm mô tế bào](https://dermnetnz.org/topics/cellulitis)).
+
+Các lựa chọn điều trị khác bao gồm:
+
+- [Phẫu thuật lạnh](https://dermnetnz.org/topics/cryotherapy) hoặc [laser excimer](https://dermnetnz.org/topics/lasers-in-dermatology) cũng đã được sử dụng để điều trị các tổn thương sần
+- Trong các trường hợp rất nặng, tổn thương kháng trị, các liệu pháp ức chế miễn dịch như [steroid uống](https://dermnetnz.org/topics/systemic-steroids) ngắn hạn, [ciclosporin](https://dermnetnz.org/topics/ciclosporin), [methotrexate](https://dermnetnz.org/topics/methotrexate), hoặc [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) có thể được kê đơn để giúp giảm viêm
+- [Thalidomide](https://dermnetnz.org/topics/thalidomide) đã được sử dụng trong các trường hợp khó chữa
+- [Dupilumab](https://dermnetnz.org/topics/dupilumab) (một kháng thể đơn dòng ức chế IL 4 và 13 được sử dụng để điều trị eczema, hen suyễn và viêm xoang mãn tính) đã cho thấy hiệu quả trong việc làm sạch các tổn thương NP kháng trị.
+- Kháng thể đơn dòng vixarelimab (nhắm mục tiêu vào thụ thể cho cytokine IL-31 và oncostatin M) và [nemolizumab](https://dermnetnz.org/topics/nemolizumab) hiện đang được nghiên cứu như một phương pháp điều trị cho NP.
+- Kết quả hứa hẹn từ một thử nghiệm lâm sàng ngẫu nhiên (RCT) cho việc điều trị NP với liệu pháp đơn [abrocitinib](https://dermnetnz.org/topics/abrocitinib).
+
+### Biện pháp chung
+
+Điều quan trọng là bất kỳ ai bị NP phải ngừng gãi các tổn thương, vì điều này có thể làm tình trạng trở nên tồi tệ hơn. Các chiến lược có thể giúp bao gồm:
+
+- Giữ cho tâm trí bận rộn
+- Che phủ khu vực bị ảnh hưởng bằng băng dán kín; hydrocolloid thường bám dính tốt
+- Làm mát các khu vực bị ảnh hưởng:
+  - Đặt một khăn lạnh lên da có thể giảm viêm và giúp giảm ngứa — một số người giữ khăn trong tủ lạnh cho mục đích này
+  - Giữ phòng ở nhiệt độ mát
+  - Tránh ngủ với chăn nặng hoặc nhiều lớp
+- Tránh mặc quần áo làm từ sợi tổng hợp — cotton là lựa chọn tốt hơn
+- Thay thế xà phòng hoặc gel tắm có thể gây kích ứng da bằng chất làm mềm
+- Thoa [chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) ít nhất hai lần một ngày, đặc biệt nếu bạn có [da khô](https://dermnetnz.org/topics/dry-skin).

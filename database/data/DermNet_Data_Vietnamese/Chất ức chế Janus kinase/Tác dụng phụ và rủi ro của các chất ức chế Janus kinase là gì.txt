@@ -1,0 +1,57 @@
+## Tác dụng phụ và rủi ro của chất ức chế Janus kinase là gì?
+
+Các tác dụng phụ thường gặp của chất ức chế JAK bao gồm:
+
+- Nhiễm trùng ví dụ, nhiễm trùng đường hô hấp trên, [herpes zoster](https://dermnetnz.org/topics/herpes-zoster)
+- Đau đầu
+- Buồn nôn và tiêu chảy
+- [Mụn trứng cá](https://dermnetnz.org/topics/acne) – mụn trứng cá nhẹ đến trung bình xảy ra ở khoảng 15% những người bị chàm được điều trị bằng JAKis; thường đáp ứng với các tác nhân như [benzoyl peroxide](https://dermnetnz.org/topics/benzoyl-peroxide), kháng sinh, hoặc [retinoids](https://dermnetnz.org/topics/topical-retinoids), và hiếm khi cần ngừng thuốc.
+
+### Nhiễm trùng
+
+Chất ức chế Janus kinase làm tăng khả năng mắc các nhiễm trùng vi khuẩn, nấm, mycobacteria và virus nghiêm trọng do điều chỉnh miễn dịch. Do đó, cần sàng lọc bệnh lao, [viêm gan B và C](https://dermnetnz.org/topics/viral-hepatitis), và [HIV](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome) trước khi bắt đầu điều trị bằng chất ức chế JAK.
+
+Tái kích hoạt [virus herpes](https://dermnetnz.org/topics/herpes-viruses) dường như phổ biến; bệnh nhân nên được tiêm vắc-xin zoster (vắc-xin zoster tái tổ hợp) trước khi bắt đầu liệu pháp JAKi. Có thể xem xét dự phòng kháng virus cho bệnh nhân có tái phát herpes thường xuyên.
+
+Khuyến nghị tiêm chủng:
+
+- Cập nhật tiêm chủng trước khi điều trị JAKi, bao gồm vắc-xin phế cầu (không hoạt động) và vắc-xin cúm hàng năm.
+- Tránh tiêm vắc-xin sống trong hoặc ngay trước khi điều trị ví dụ, sởi-quai bị-rubella (MMR), thương hàn, bacillus Calmette-Guerin (BCG), sốt vàng, varicella zoster, rotavirus, và viêm não Nhật Bản.
+
+Xem: [Tiêm chủng cho bệnh nhân da liễu bị suy giảm miễn dịch](https://dermnetnz.org/topics/immunisation-in-immunosuppressed-dermatology-patients).
+
+Nếu có dấu hiệu hoặc triệu chứng nhiễm trùng nghiêm trọng phát triển trong quá trình điều trị bằng JAKis, nên ngừng điều trị cho đến khi kiểm soát được nhiễm trùng.
+
+### Rối loạn lipid máu
+
+JAKis có liên quan đến sự gia tăng các thông số lipid (cholesterol toàn phần, cholesterol LDL, cholesterol HDL, và triglycerides) trong 12 tuần đầu điều trị; mức lipid có xu hướng ổn định sau đó. Rối loạn lipid máu nên được quản lý theo hướng dẫn lâm sàng.
+
+### Sự kiện tim mạch bất lợi chính (MACEs)
+
+Có những báo cáo không nhất quán về mối liên hệ giữa JAKis và tăng nguy cơ MACEs (tổng hợp của nhồi máu cơ tim không tử vong, đột quỵ thiếu máu cục bộ không tử vong, và tử vong do tim mạch).
+
+[Tofacitinib](https://dermnetnz.org/topics/tofacitinib) có liên quan đến nguy cơ MACEs cao hơn so với chất ức chế yếu tố hoại tử khối u (TNF) trong điều trị bệnh nhân từ 50 tuổi trở lên bị viêm khớp dạng thấp. Tuy nhiên, nguy cơ tăng này chủ yếu được quan sát ở bệnh nhân từ 65 tuổi trở lên và những người có yếu tố nguy cơ từ trước ví dụ, bệnh xơ vữa động mạch, hút thuốc lâu năm.
+
+Mặc dù các sự kiện bất lợi tương tự chưa được báo cáo với [baricitinib](https://dermnetnz.org/topics/baricitinib) và [upadacitinib](https://dermnetnz.org/topics/upadacitinib), FDA nhận thấy các rủi ro chưa được đánh giá đầy đủ và đã đưa ra cảnh báo hộp đen do cơ chế hoạt động tương tự.
+
+### Ung thư
+
+Mối liên hệ giữa JAKis và ung thư (ví dụ, [u lympho T](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma)) hiện đang được điều tra, với kết quả cho đến nay là hỗn hợp.
+
+Ví dụ, một phân tích tổng hợp năm 2023 cho thấy tăng nguy cơ ung thư đối với JAKis so với [chất ức chế yếu tố hoại tử khối u](https://dermnetnz.org/topics/tumour-necrosis-factor-inhibitors), nhưng không khi so sánh với giả dược hoặc [methotrexate](https://dermnetnz.org/topics/methotrexate).
+
+[Tofacitinib](https://dermnetnz.org/topics/tofacitinib) được phát hiện có liên quan đến tăng tỷ lệ mắc ung thư so với chất ức chế TNF cho bệnh nhân viêm khớp dạng thấp từ 50 tuổi trở lên với ít nhất một yếu tố nguy cơ tim mạch. TGA ở Úc cảnh báo liều cao (10mg bd) nên được sử dụng thận trọng ở bệnh nhân có ung thư da không phải u hắc tố [ung thư da](https://dermnetnz.org/topics/skin-cancer).
+
+### Sự kiện huyết khối
+
+Một số JAKis có thể liên quan đến tăng nguy cơ huyết khối động mạch và tĩnh mạch (VTE), đặc biệt là [tofacitinib](https://dermnetnz.org/topics/tofacitinib) và [baricitinib](https://dermnetnz.org/topics/baricitinib).
+
+### Tác động huyết học
+
+JAKis đã được liên kết với giảm bạch cầu lympho, giảm bạch cầu trung tính, và thiếu máu. Những tác động này có thể phổ biến hơn ở JAKis không chọn lọc.
+
+Điều trị nên bị gián đoạn nếu bệnh nhân phát triển số lượng bạch cầu lympho tuyệt đối <0.5 × 10^9/L, số lượng bạch cầu trung tính tuyệt đối <1 × 10^9/L, hoặc nồng độ hemoglobin <80 g/L. Điều trị có thể được bắt đầu lại khi mức độ trở lại trên các ngưỡng này.
+
+_Tờ dữ liệu được phê duyệt là nguồn thông tin chính thức cho các loại thuốc, bao gồm các sử dụng được phê duyệt, liều lượng, và thông tin an toàn. Kiểm tra tờ dữ liệu cá nhân ở quốc gia của bạn để biết thông tin về thuốc._
+
+_Chúng tôi đề nghị bạn tham khảo cơ quan phê duyệt thuốc quốc gia của bạn như [Cơ quan Quản lý Hàng hóa Trị liệu Úc (TGA),](http://www.tga.gov.au/) [Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA)](http://www.fda.gov/), [Cơ quan quản lý sản phẩm y tế và chăm sóc sức khỏe Vương quốc Anh (MHRA)](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) / [emc](https://www.medicines.org.uk/emc/about-the-emc), và [Medsafe New Zealand,](https://www.medsafe.govt.nz/Medicines/infoSearch.asp) hoặc một dược điển quốc gia hoặc tiểu bang được phê duyệt ví dụ, [Dược điển New Zealand](http://www.nzf.org.nz/) (NZF) và [Dược điển New Zealand cho Trẻ em](http://www.nzfchildren.org.nz/) (NZFC) và [Dược điển Quốc gia Anh](http://bnf.nice.org.uk/) (BNF) và [Dược điển Quốc gia Anh cho Trẻ em](http://bnfc.nice.org.uk/) (BNFC)._

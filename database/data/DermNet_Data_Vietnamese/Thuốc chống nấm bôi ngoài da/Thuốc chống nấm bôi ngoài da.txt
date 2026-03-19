@@ -1,0 +1,177 @@
+##### Thuốc kháng nấm bôi ngoài da — thông tin bổ sung
+
+Danh mục:
+
+Nhiễm trùng, Điều trị
+
+ICD-10:
+
+T49.0, B37.0, B37.2, B37.3, B35.1
+
+ICD-11:
+
+1F23.13, 1F23.10, 1F23.0, 1F28.1, 1F28.0
+
+SNOMED CT:
+
+773126007, 350196005, 771822002, 771929005, 771735002, 72605008, 79740000, 187017007, 238408000, 414941008, 23484001, 5441008, 6064005, 448598008
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections) [Điều trị](https://dermnetnz.org/topics?category=Treatments)**
+
+# **Thuốc kháng nấm bôi ngoài da**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 2003.
+
+[Giới thiệu](https://dermnetnz.org/topics/topical-antifungal-medication#Introduction%3Cbr%20/%3E) [Thuốc kháng nấm bôi ngoài da](https://dermnetnz.org/topics/topical-antifungal-medication#Topical%20antifungal%20medication%3Cbr%20/%3E) [Công dụng](https://dermnetnz.org/topics/topical-antifungal-medication#Uses%3Cbr%20/%3E) [Thuốc kháng nấm cho da đầu](https://dermnetnz.org/topics/topical-antifungal-medication#Scalp%20antifungal%20agents%3Cbr%20/%3E) [Chuẩn bị cho nhiễm trùng nếp móng](https://dermnetnz.org/topics/topical-antifungal-medication#Preparations%20for%20nail%20fold%20infections%3Cbr%20/%3E) [Chuẩn bị cho nhiễm trùng móng](https://dermnetnz.org/topics/topical-antifungal-medication#Preparations%20for%20nail%20plate%20infections%3Cbr%20/%3E) [Chuẩn bị cho nhiễm trùng miệng](https://dermnetnz.org/topics/topical-antifungal-medication#Preparations%20for%20oral%20infections%3Cbr%20/%3E) [Chuẩn bị cho nhiễm trùng âm đạo](https://dermnetnz.org/topics/topical-antifungal-medication#Preparations%20for%20a%20vaginal%20infection%3Cbr%20/%3E) [Sản phẩm kết hợp](https://dermnetnz.org/topics/topical-antifungal-medication#Combination%20products%3Cbr%20/%3E) [Cách sử dụng](https://dermnetnz.org/topics/topical-antifungal-medication#How%20to%20use%3Cbr%20/%3E) [Kháng thuốc kháng nấm](https://dermnetnz.org/topics/topical-antifungal-medication#Antifungal%20drug%20resistance)
+
+## Nhiễm trùng da do nấm là gì?
+
+Nhiễm trùng da do nấm gây ra bởi:
+
+- Dermatophytes, dẫn đến [tinea corporis](https://dermnetnz.org/topics/tinea-corporis), [tinea cruris](https://dermnetnz.org/topics/tinea-cruris), [tinea faciei](https://dermnetnz.org/topics/tinea-faciei), [tinea manuum](https://dermnetnz.org/topics/tinea-manuum), [tinea pedis](https://dermnetnz.org/topics/tinea-pedis), [tinea capitis](https://dermnetnz.org/topics/tinea-capitis) và [tinea barbae](https://dermnetnz.org/topics/tinea-barbae)
+- Nấm men, dẫn đến [candida intertrigo](https://dermnetnz.org/topics/candidiasis-of-skin-folds) và [pityriasis versicolor](https://dermnetnz.org/topics/pityriasis-versicolor)
+- [Nấm mốc](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis), dẫn đến [tinea nigra](https://dermnetnz.org/topics/tinea-nigra) và nhiễm trùng móng.
+
+## Thuốc kháng nấm bôi ngoài da là gì?
+
+Thuốc kháng nấm bôi ngoài da là kem, dung dịch, lotion, bột, gel, xịt hoặc sơn móng được bôi lên bề mặt da để điều trị nhiễm trùng nấm.
+
+Nhiều loại thuốc kháng nấm phù hợp cho cả nhiễm trùng dermatophyte và nấm men. Một số khác thì đặc hiệu hơn cho một loại nấm. Những loại không phù hợp cho nhiễm trùng nấm dermatophyte được đánh dấu bằng dấu sao (\*) trong danh sách sau.
+
+- Thuốc mỡ Whitfield (3% axit salicylic, 6% axit benzoic trong petrolatum)
+- Undecylenic alkanolamide
+- Ciclopirox olamine
+- Polyenes \*
+  - Nystatin
+- Imidazoles
+  - Bifonazole
+  - Clotrimazole
+  - Econazole
+  - Efinaconazole
+  - Ketoconazole
+  - Luliconazole
+  - Miconazole
+  - Sulconazole
+  - Tioconazole
+- Allylamine
+  - [Terbinafine](https://dermnetnz.org/topics/terbinafine)
+- Thiocarbamates
+  - Tolciclate
+  - Tolnaftate
+- Benzoxaborole
+  - Tavaborole
+
+## Thuốc kháng nấm bôi ngoài da được sử dụng như thế nào?
+
+Thuốc kháng nấm bôi ngoài da có thể được mua mà không cần đơn thuốc của bác sĩ. Chúng thường được bôi lên vùng bị ảnh hưởng hai lần mỗi ngày trong hai đến bốn tuần, bao gồm một khoảng cách vài centimet của da bình thường. Điều trị nên tiếp tục trong một hoặc hai tuần sau khi phát ban cuối cùng đã biến mất. Chúng thường có thể chữa khỏi nhiễm trùng cục bộ, mặc dù tái phát là phổ biến nên điều trị lặp lại thường cần thiết.
+
+## Thuốc kháng nấm cho da đầu
+
+Dầu gội kháng nấm chủ yếu được sử dụng để điều trị gàu / [viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) nhưng cũng được sử dụng như một phương pháp hỗ trợ cho [tinea capitis](https://dermnetnz.org/topics/tinea-capitis) và [vảy nến da đầu](https://dermnetnz.org/topics/scalp-psoriasis).
+
+Các thành phần hiệu quả nhất là [ketoconazole](https://dermnetnz.org/topics/ketoconazole), miconazole và ciclopirox (Stieprox® liquid), nhưng nhiều dầu gội khác được quảng cáo cho gàu có tính chất kháng nấm.
+
+## Chuẩn bị cho nhiễm trùng nếp móng
+
+Có nhiều chế phẩm [khử trùng](https://dermnetnz.org/topics/antiseptic) và kháng nấm để kiểm soát nhiễm trùng nếp móng ([paronychia](https://dermnetnz.org/topics/paronychia)). Chúng nên được bôi hai hoặc ba lần mỗi ngày trong vài tháng.
+
+- Dung dịch Clotrimazole
+- Dung dịch Econazole
+- Miconazole
+- Sulfacetamide 15% trong cồn
+
+## Chuẩn bị cho nhiễm trùng móng
+
+[Onychomycosis](https://dermnetnz.org/topics/fungal-nail-infections) có thể được điều trị bằng sơn móng kháng nấm bôi một hoặc hai lần mỗi tuần. Thuốc nên được bôi lên bề mặt móng đã được làm sạch sau khi đã được làm nhám bằng dũa móng. Sơn móng thêm nên được bôi dưới mép móng.
+
+Những điều này có thể giảm và đôi khi chữa khỏi nhiễm trùng, với điều kiện:
+
+- Không quá 50% móng bị nhiễm
+- Phần móng đang mọc (ma trận) không bị ảnh hưởng
+- Không có bệnh nội khoa phức tạp (như tiểu đường) hoặc tình trạng da (như vảy nến).
+
+Các chế phẩm có sẵn là:
+
+- Amorolfine
+- Ciclopirox
+- Kem Bifonazole + thuốc mỡ [urea](https://dermnetnz.org/topics/urea)
+- Dung dịch Efinaconazole
+- Dung dịch Tavaborole.
+
+Điều trị cần được thực hiện trong thời gian dài (một năm hoặc lâu hơn) vì móng mất nhiều thời gian để mọc, đặc biệt là ở người lớn tuổi. Không khuyến khích sử dụng sơn móng tay, vì có thể ảnh hưởng đến hiệu quả của sản phẩm, mặc dù điều này chưa được chứng minh.
+
+## Chuẩn bị cho nhiễm trùng miệng
+
+[Nhiễm nấm miệng](https://dermnetnz.org/topics/oral-candidiasis) có thể được điều trị bằng:
+
+- Nystatin \*
+- Amphotericin B \*
+- Miconazole.
+
+**Lưu ý**: gel miconazole miệng không nên được sử dụng ở bệnh nhân đang dùng warfarin vì đã được báo cáo gây ra tương tác nguy hiểm, có thể dẫn đến chảy máu nghiêm trọng.
+
+## Chuẩn bị cho nhiễm trùng âm đạo
+
+[Nhiễm nấm âm đạo](https://dermnetnz.org/topics/vulvovaginal-candidiasis) có thể được điều trị bằng:
+
+- Nystatin \*
+- Clotrimazole
+- Econazole
+- Isoconazole
+- Miconazole
+- Tioconazole.
+
+\\* Không phù hợp cho nhiễm trùng nấm [dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections)
+
+## Sản phẩm kết hợp
+
+Thuốc kháng nấm bôi ngoài da có thể được bán kèm với thuốc kháng nấm uống, ví dụ, viên nang fluconazole kết hợp với kem clotrimazole.
+
+Kem kháng nấm đôi khi được kết hợp với:
+
+- Hydrocortisone hoặc một loại [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) khác
+- Tác nhân kháng khuẩn
+- Cả steroid bôi ngoài da và tác nhân kháng khuẩn.
+
+Một loại [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) mạnh có thể che giấu nhiễm trùng nấm, và vì chúng không có khả năng chữa trị, chúng có thể dẫn đến nhiễm trùng lan rộng hơn ([tinea incognito](https://dermnetnz.org/topics/tinea-incognito)) và các tác dụng phụ như teo da.
+
+## Khi nào nên sử dụng thuốc kháng nấm uống?
+
+Thuốc kháng nấm [uống](https://dermnetnz.org/topics/oral-antifungal-medication) có thể cần thiết cho nhiễm trùng nấm nếu:
+
+- Nó lan rộng hoặc nghiêm trọng
+- Nó kháng lại liệu pháp kháng nấm bôi ngoài da
+- Nó ảnh hưởng đến các khu vực có lông ([tinea capitis](https://dermnetnz.org/topics/tinea-capitis) và [tinea barbae](https://dermnetnz.org/topics/tinea-barbae)).
+
+## Kháng thuốc kháng nấm
+
+Trong những năm gần đây, cả thuốc kháng nấm [bôi ngoài da](https://dermnetnz.org/topics/topical-antifungal-medication) và [uống](https://dermnetnz.org/topics/oral-antifungal-medication) allylamine và triazole đã trở thành một vấn đề, đặc biệt là ở tiểu lục địa Ấn Độ.
+
+Nhiễm trùng dermatophyte kháng trị liệu rộng rãi nên được coi là một vấn đề có thể xảy ra. Khi có sẵn, nuôi cấy nấm và ước tính nồng độ ức chế tối thiểu của thuốc được xác định để hướng dẫn sử dụng thuốc phù hợp.
+
+Để biết thêm thông tin, xem [kháng thuốc kháng nấm](https://dermnetnz.org/topics/antifungal-drug-resistance).
+
+\*Các tờ dữ liệu được phê duyệt tại New Zealand là nguồn thông tin chính thức cho các loại thuốc kê đơn này, bao gồm các công dụng được phê duyệt và thông tin rủi ro. Kiểm tra tờ dữ liệu New Zealand cá nhân trên trang web Medsafe.\*
+
+### Trên DermNet
+
+- [Giới thiệu về nhiễm trùng nấm](https://dermnetnz.org/topics/introduction-to-fungal-infections)
+- [Điều trị nhiễm trùng nấm](https://dermnetnz.org/topics/treatment-of-fungal-infection)
+- [Thuốc kháng nấm uống](https://dermnetnz.org/topics/oral-antifungal-medication)
+- [Selenium sulfide](https://dermnetnz.org/topics/selenium-sulfide)
+
+### Các trang web khác
+
+- [Thông tin thuốc và tờ dữ liệu cho người tiêu dùng](http://www.medsafe.govt.nz/) — Medsafe
+- [Thuốc, Thảo dược và Thực phẩm bổ sung](http://www.nlm.nih.gov/medlineplus/druginformation.html) — MedlinePlus
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

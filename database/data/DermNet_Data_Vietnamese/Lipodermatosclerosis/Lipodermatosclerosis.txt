@@ -1,0 +1,202 @@
+##### Lipodermatosclerosis — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Viêm mô dưới da dạng xơ cứng, Viêm mô mỡ xơ cứng
+
+Danh mục:
+
+Viêm
+
+ICD-10:
+
+I83.10, J87.2
+
+ICD-11:
+
+BD74.2, BD74.Z
+
+SNOMED CT:
+
+410016009, 762536003, 234050002, 95336007, 95337003
+
+**[Viêm](https://dermnetnz.org/topics?category=Inflammation)**
+
+# **Lipodermatosclerosis**
+
+Tác giả: Bác sĩ Millicent Osti, Bác sĩ Nội trú, Bệnh viện Hoàng gia Melbourne, Melbourne, VIC, Úc; Phó Giáo sư Rosemary Nixon, Bác sĩ Da liễu, Phòng khám Da liễu Đông Melbourne, Melbourne, VIC, Úc. Biên tập viên trưởng DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 10 năm 2018.
+
+[Giới thiệu](https://dermnetnz.org/topics/lipodermatosclerosis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/lipodermatosclerosis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/lipodermatosclerosis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/lipodermatosclerosis#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/lipodermatosclerosis#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/lipodermatosclerosis#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/lipodermatosclerosis#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/lipodermatosclerosis#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/lipodermatosclerosis#Outcome)
+
+## Lipodermatosclerosis là gì?
+
+Lipodermatosclerosis là một tình trạng viêm mãn tính đặc trưng bởi xơ hóa dưới da và cứng da ở chân dưới.
+
+Lipodermatosclerosis còn được gọi là viêm mô mỡ xơ cứng và viêm mô dưới da dạng xơ cứng.
+
+## Ai bị lipodermatosclerosis?
+
+Lipodermatosclerosis phổ biến, ảnh hưởng đến người trung niên hoặc lớn tuổi. Nó phổ biến hơn ở phụ nữ và có liên quan đến tình trạng ít vận động và chỉ số khối cơ thể cao (béo phì) \[1\].
+
+## Nguyên nhân gây ra lipodermatosclerosis?
+
+Lipodermatosclerosis là một tình trạng viêm da do suy tĩnh mạch tiềm ẩn. Điều này gây ra bởi:
+
+- Van tĩnh mạch không hoạt động
+- Tắc nghẽn dòng chảy tĩnh mạch
+- Rối loạn chức năng bơm cơ bắp chân \[2\].
+
+Tăng huyết áp tĩnh mạch dẫn đến sự gia tăng bạch cầu trong tĩnh mạch, sau đó di chuyển vào mô xung quanh. Bạch cầu trở nên hoạt động, thu hút và giải phóng các tế bào viêm và cytokine, gây ra trạng thái viêm mãn tính. Sản xuất collagen tăng lên dẫn đến xơ hóa mỡ dưới da \[2\].
+
+## Đặc điểm lâm sàng của lipodermatosclerosis là gì?
+
+### Giai đoạn cấp tính
+
+Lipodermatosclerosis cấp tính có thể giống với [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis), với sự cứng, đỏ, đau, ngứa, nhức mỏi và cảm giác sưng hoặc nặng ở một hoặc thường là cả hai chi dưới \[2\].
+
+Trong giai đoạn cấp tính, các dấu hiệu có thể được khu trú ở một mảng đơn lẻ nhưng thường lan rộng hơn. Các khu vực bị ảnh hưởng phổ biến nhất là mặt trước xương chày hoặc mặt trong của chân.
+
+![Lipodermatosclerosis cấp tính](https://dermnetnz.org/assets/Uploads/acute-lipodermatosclerosis-18.jpg)
+
+Lipodermatosclerosis cấp tính
+
+![Lipodermatosclerosis cấp tính](https://dermnetnz.org/assets/Uploads/acute-lipodermatosclerosis-10.jpg)
+
+Lipodermatosclerosis cấp tính
+
+![Lipodermatosclerosis cấp tính](https://dermnetnz.org/assets/Uploads/acute-lipodermatosclerosis-06.jpg)
+
+Lipodermatosclerosis cấp tính
+
+[Xem thêm hình ảnh về lipodermatosclerosis cấp tính](https://dermnetnz.org/topics/lipodermatosclerosis-images).
+
+### Giai đoạn mãn tính
+
+Cứng, đỏ và đau tiếp tục trong giai đoạn mãn tính của lipodermatosclerosis. Xơ hóa dưới da có thể dẫn đến thu hẹp đáng kể chi dưới, khiến chân có hình dạng như 'chai rượu sâm banh lộn ngược' \[1,2\].
+
+Các đặc điểm lâm sàng khác của suy tĩnh mạch mãn tính có thể xuất hiện, bao gồm tăng sắc tố da do lắng đọng hemosiderin, [atrophie blanche](https://dermnetnz.org/topics/atrophie-blanche), [giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins), [eczema tĩnh mạch](https://dermnetnz.org/topics/venous-eczema), và [loét tĩnh mạch](https://dermnetnz.org/topics/stasis-ulcer).
+
+![Lipodermatosclerosis](https://dermnetnz.org/assets/Uploads/vascular/s/lds2.jpg)
+
+Lipodermatosclerosis
+
+![Lipodermatosclerosis](https://dermnetnz.org/assets/Uploads/vascular/lds4.jpg)
+
+Lipodermatosclerosis
+
+![Lipodermatosclerosis](https://dermnetnz.org/assets/Uploads/vascular/lds6.jpg)
+
+Lipodermatosclerosis
+
+[Xem thêm hình ảnh về lipodermatosclerosis mãn tính.](https://dermnetnz.org/topics/lipodermatosclerosis-images)
+
+## Biến chứng của lipodermatosclerosis là gì?
+
+Lipodermatosclerosis có liên quan đến việc lành vết thương kém do trạng thái viêm mãn tính và xơ hóa. [Loét tĩnh mạch](https://dermnetnz.org/topics/stasis-ulcer) thường cùng tồn tại và có thể khó điều trị.
+
+## Lipodermatosclerosis được chẩn đoán như thế nào?
+
+Lipodermatosclerosis thường được chẩn đoán lâm sàng. Suy tĩnh mạch tiềm ẩn có thể được xác nhận bằng cách sử dụng các nghiên cứu Doppler.
+
+Một [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) có ích nhưng nên được thực hiện cẩn thận vì khả năng lành vết thương kém \[3\]. Bất kỳ sinh thiết nào cũng cần bao gồm mô mỡ dưới da. Các đặc điểm đặc trưng được thấy khi sinh thiết phụ thuộc vào giai đoạn của bệnh nhưng bao gồm các thay đổi tiểu thùy và vách ngăn dưới da bao gồm:
+
+- Hoại tử tế bào mỡ
+- Hình thành giả nang
+- Thay đổi mô mỡ (mô mỡ)
+- Tập hợp đại thực bào hình thành lipogranulomas (một nốt viêm của các tế bào mỡ xung quanh một vật thể lạ)
+- Lắng đọng sắt \[4,5\].
+
+## Chẩn đoán phân biệt cho lipodermatosclerosis là gì?
+
+Chẩn đoán phân biệt cho lipodermatosclerosis có thể bao gồm:
+
+- [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis)
+- [Erythema nodosum](https://dermnetnz.org/topics/erythema-nodosum)
+- Các nguyên nhân khác của [viêm mô mỡ](https://dermnetnz.org/topics/panniculitis)
+- [Morphoea (xơ cứng da khu trú)](https://dermnetnz.org/topics/morphoea)
+- [Viêm mạch da](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- [Necrobiosis lipoidica](https://dermnetnz.org/topics/necrobiosis-lipoidica).
+
+## Điều trị lipodermatosclerosis là gì?
+
+### Biện pháp chung
+
+Hoạt động thể chất (đi bộ) nên được khuyến khích để tăng cường chức năng của bơm cơ bắp chân. Giảm cân có hiệu quả nếu béo phì là một yếu tố.
+
+### Liệu pháp nén và nâng cao
+
+Liệu pháp [nén cơ học](https://dermnetnz.org/topics/compression-therapy) sử dụng tất hoặc vớ nén là phương pháp điều trị chính, khuyến khích sự trở lại của tĩnh mạch và hỗ trợ kiểm soát triệu chứng, nhưng có thể không được dung nạp tốt ở một số người.
+
+Nâng cao chân có thể giúp giảm phù nề và đau.
+
+### Điều trị y tế
+
+- Stanozolol có thể hiệu quả trong việc giảm đau và cũng đã được chứng minh là giảm độ dày của da \[6\].
+- Oxandralone — một steroid đồng hóa khác với ít nguy cơ gan hơn.
+- Pentoxifylline đã được chứng minh là hữu ích trong [loét tĩnh mạch](https://dermnetnz.org/topics/stasis-ulcer) kết hợp với nén hoặc ở những bệnh nhân không thể chịu đựng nén.
+- Liệu pháp kết hợp với [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) có thể giảm triệu chứng không đáp ứng với các điều trị khác \[7,8\].
+- [Tiêm steroid nội tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) của triamcinolone đã chứng minh hiệu quả trong việc giảm triệu chứng \[9\].
+- [Tetracyclines](https://dermnetnz.org/topics/tetracycline), như doxycycline hoặc minocycline, có tính chất chống viêm và chống tạo mạch có thể mang lại lợi ích \[10–12\].
+- Thuốc phlebotonic điều chỉnh độ căng của thành tĩnh mạch, bao gồm diosmin, hydroxyethylrutoside, hoặc [chiết xuất hạt dẻ ngựa (escin)](https://dermnetnz.org/topics/horse-chestnut-extract), có thể giảm phù nề và các triệu chứng khác \[13\].
+- Liệu pháp siêu âm có thể mang lại lợi ích triệu chứng, giảm đỏ, cứng và đau \[14, 15\].
+- Tia cực tím ( [UVA1](https://dermnetnz.org/topics/uva1-phototherapy)) đã được báo cáo là hiệu quả \[16\].
+- [Chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) và [steroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid) hữu ích trong việc quản lý [eczema tĩnh mạch](https://dermnetnz.org/topics/venous-eczema) liên quan.
+
+### Điều trị phẫu thuật
+
+Điều trị suy tĩnh mạch tiềm ẩn có thể cải thiện triệu chứng và có thể giảm nguy cơ tái phát loét. Nên xem xét giới thiệu đến bác sĩ phẫu thuật mạch máu. [Liệu pháp tĩnh mạch chân](https://dermnetnz.org/topics/leg-vein-therapies) bao gồm:
+
+- Đốt tĩnh mạch nội mạch bằng laser, catheter tần số radio (RF), hơi nước, cyanoacrylate và tắc nghẽn cơ học với hỗ trợ hóa học (MOCA)
+- [Sclerotherapy](https://dermnetnz.org/topics/sclerotherapy)
+- Phẫu thuật tĩnh mạch \[17\].
+
+## Kết quả cho lipodermatosclerosis là gì?
+
+Suy tĩnh mạch là một bệnh tiến triển. Mặc dù điều trị có thể cải thiện triệu chứng hoặc làm chậm tiến triển, các tình trạng liên quan như lipodermatosclerosis thường là mãn tính và tái phát.
+
+### Tài liệu tham khảo
+
+01. Bruce AJ, Bennett DD, Lohse CM, Rooke TW, Davis MDP. Lipodermatosclerosis: review of cases evaluated at Mayo Clinic. J Am Acad Dermatol 2002; 46: 187–92. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/11807428)
+02. Bergan JJ, Schmid-Schonbein GW, Smith PD, Nicolaides AN, Boisseau MR, Eklof B. Chronic venous disease. N Engl J Med 2006; 355: 488–98. DOI: 10.1056/NEJMra055289. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/16885552)
+03. Kirsner RS, Pardes JB, Eaglstein WH, Falanga V. The clinical spectrum of lipodermatosclerosis. J Am Acad Dermatol 1993; 28: 623–7. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/8463465)
+04. Walsh SN, Santa Cruz DJ. Lipodermatosclerosis: a clinicopathological study of 25 cases. J Am Acad Dermatol 2010; 62: 1005–12. DOI: 10.1016/j.jaad.2009.08.006. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20466175)
+05. Mei A, Chen J, Chan JJ. Recalcitrant lipodermatosclerosis with ulceration treated with oxandrolone and pentoxifylline. Clin Exp Dermatol. 2024;49(12): 1711–3. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39024415/)
+06. Choonhakarn C, Chaowattanapanit S, Julanon N. Lipodermatosclerosis: a clinicopathologic correlation. Int J Dermatol 2016; 55: 303–8. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26275890)
+07. Dakovic Z, Vesic S, Vukovic J, Pavlovic LJ, Medenica MD. Acute lipodermatosclerosis: an open clinical trial of stanozolol in patients unable to sustain compression therapy. Dermatol Online J 2008; 14(2): 1. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18700104)
+08. Jull AB, Arroll B, Parag V, Waters J. Pentoxifylline for treating venous leg ulcers. Cochrane Database Syst Rev 2012; 12: CD001733. DOI: 10.1002/14651858.CD001733.pub3. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23235582)
+09. Choonhakarn C, Chaowattanapanit S. Lipodermatosclerosis: improvement noted with hydroxychloroquine and pentoxifylline. J Am Acad Dermatol 2012; 66: 1013–4. DOI: 10.1016/j.jaad.2011.11.942. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22583718)
+10. Campbell LB, Miller OF, 3rd. Intralesional triamcinolone in the management of lipodermatosclerosis. J Am Acad Dermatol 2006; 55: 166–8. DOI: 10.1016/j.jaad.2005.09.043. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/16781319)
+11. Plewig G, Schopf E. Anti-inflammatory effects of antimicrobial agents: an in vivo study. J Invest Dermatol 1975; 65: 532–6. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/1194716)
+12. Gilbertson-Beadling S, Powers EA, Stamp-Cole M, et al. The tetracycline analogs minocycline and doxycycline inhibit angiogenesis in vitro by a non-metalloproteinase-dependent mechanism. Cancer Chemother Pharmacol 1995; 36: 418–24. DOI: 10.1007/BF00686191. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/7543375)
+13. Mackelfresh J, Soon S, Arbiser JL. Combination therapy of doxycycline and topical tacrolimus for venous ulcers. Arch Dermatol 2005; 141: 1476–7. DOI: 10.1001/archderm.141.11.1476. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/16301410)
+14. Martinez-Zapata MJ, Vernooij RW, Uriona Tuma SM, et al. Phlebotonics for venous insufficiency. Cochrane Database Syst Rev 2016; 4: CD003229. DOI: 10.1002/14651858.CD003229.pub3. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27048768)
+15. Damian DL, Yiasemides E, Gupta S, Armour K. Ultrasound therapy for lipodermatosclerosis. Arch Dermatol 2009; 145: 330–2. DOI: 10.1001/archdermatol.2009.24. [Journal](https://jamanetwork.com/journals/jamadermatology/fullarticle/711923)
+16. Hamid SA, Ibrahim ZM,  Mohamady AM. The response of skin hardness and pain sensation to ultrasonic treatment in lipodermatosclerosis patients. Egyptian Journal of Medical Human Genetics, 2014;15: 193-198. [Journal](https://www.sciencedirect.com/science/article/pii/S1110863014000305).
+17. Patel N, Dahl M. Treatment of lipodermatosclerosis with UVA-1. J Am Acad Derm 2016;74 (5): AB229. [Journal](https://www.jaad.org/article/S0190-9622(16)01032-X/fulltext).
+18. Gohel MS, Barwell JR, Taylor M, et al. Long term results of compression therapy alone versus compression plus surgery in chronic venous ulceration (ESCHAR): randomised controlled trial. BMJ 2007; 335: 83. DOI: 10.1136/bmj.39216.542442.BE. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17545185)
+
+### Trên DermNet
+
+- [Hình ảnh về lipodermatosclerosis](https://dermnetnz.org/topics/lipodermatosclerosis-images)
+- [Loét tĩnh mạch](https://dermnetnz.org/topics/stasis-ulcer)
+- [Loét chân](https://dermnetnz.org/topics/leg-ulcer)
+- [Eczema tĩnh mạch](https://dermnetnz.org/topics/venous-eczema)
+- [Giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins)
+- [Suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency)
+- [Liệu pháp nén](https://dermnetnz.org/topics/compression-therapy)
+- [Chiết xuất hạt dẻ ngựa](https://dermnetnz.org/topics/horse-chestnut-extract)
+
+### Các trang web khác
+
+- [Suy tĩnh mạch](https://emedicine.medscape.com/article/1085412-overview) — Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

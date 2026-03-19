@@ -1,0 +1,37 @@
+##### Viêm tai ngoài — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Tai người bơi
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+H60, B37.84, H60.90, H60.50, H60.60, H60.539, B44.8, H92.0, H92.1, H62.43, B36.9, H62.40, B96.5
+
+ICD-11:
+
+EG4Z, AA3Z, 1F20.10, 1F23.16, AA0Y, AA10, EG40.0, EK02.10, AA11, AA13, AB70.2, AB70.0, AA02
+
+SNOMED CT:
+
+3135009, 86981007, 16681000, 53316003, 30250000, 53295002, 405821001, 280221000009107, 95812002, 232243009, 232231008, 232233006, 419957005, 302905001, 16001004, 65668001, 232230009
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Viêm tai ngoài**
+
+**Được xem xét lần cuối: Tháng Hai, 2024**
+
+Tác giả: Bác sĩ Ha Eun Grace Kim, Bác sĩ Nội trú Cao cấp trong Y học Tổng quát, Bệnh viện North Shore, New Zealand (2024)
+
+Người đóng góp trước đây: Vanessa Ngan, Nhà văn (2005)
+
+Bác sĩ da liễu xem xét: Bác sĩ Ian Coulson
+
+Chỉnh sửa bởi bộ phận nội dung DermNet
+
+[Giới thiệu](https://dermnetnz.org/topics/otitis-externa#Introduction%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/otitis-externa#Causes%3Cbr%20/%3E) [Dấu hiệu và triệu chứng](https://dermnetnz.org/topics/otitis-externa#Signs%20and%20symptoms%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/otitis-externa#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/otitis-externa#Treatment)

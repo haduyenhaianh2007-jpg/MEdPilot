@@ -1,0 +1,18 @@
+## Làm thế nào để đánh giá mức độ nghiêm trọng của bệnh bạch biến?
+
+Trong hầu hết các trường hợp, mức độ nghiêm trọng của bệnh bạch biến không được đánh giá chính thức. Tuy nhiên, có thể chụp ảnh lâm sàng để theo dõi tình trạng bệnh.
+
+Ít nhất hai hệ thống chấm điểm đã được phát triển cho bệnh bạch biến và được sử dụng trong các thử nghiệm lâm sàng.
+
+- Chỉ số Chấm điểm Khu vực Bạch biến (VASI)
+- Hệ thống Lực lượng Đặc nhiệm Châu Âu về Bạch biến (VETF)
+
+### VASI
+
+VASI dựa trên [hệ thống chấm điểm PASI](https://dermnetnz.org/topics/pasi-score) cho bệnh vẩy nến. Nó đo lường mức độ và mức độ mất sắc tố ở 6 vị trí: tay, chi trên, thân, chi dưới/chân, và đầu và cổ.
+
+### VETF
+
+VETF dựa trên [hệ thống chấm điểm SCORAD](https://dermnetnz.org/topics/scorad) cho viêm da dị ứng. VETF đánh giá mức độ, giai đoạn và sự lan rộng/tiến triển ở 5 vị trí: đầu/cổ, thân, cánh tay, chân và tay/chân. Nó được chấm từ 0 (sắc tố bình thường) đến 4 (tóc trắng hoàn toàn). Sự lan rộng được đánh giá bằng các điểm số sau: 0 (bệnh ổn định), -1 (bệnh thoái lui) và +1 (bệnh tiến triển).
+
+VETF bao gồm một mẫu đánh giá lâm sàng để ghi lại giới tính, tuổi, thời gian mắc bệnh, tuổi khởi phát, các đợt tái sắc tố, ảnh hưởng của bệnh bạch biến đến chất lượng cuộc sống, tiền sử gia đình, các tình trạng y tế bổ sung, và [loại da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) của bệnh nhân.

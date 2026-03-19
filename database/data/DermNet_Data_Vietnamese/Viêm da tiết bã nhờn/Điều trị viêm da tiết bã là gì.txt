@@ -1,0 +1,45 @@
+## Điều trị viêm da tiết bã nhờn là gì?
+
+### Biện pháp chung
+
+- Giáo dục bệnh nhân về tình trạng da và quy trình chăm sóc da phù hợp.
+- Xác định các yếu tố lối sống có thể thay đổi, ví dụ: ăn nhiều trái cây có liên quan đến việc giảm viêm da tiết bã nhờn trong khi căng thẳng có thể gây bùng phát.
+
+### Biện pháp cụ thể
+
+Điều trị viêm da tiết bã nhờn thường bao gồm một số lựa chọn sau.
+
+- [Chất làm bong sừng](https://dermnetnz.org/topics/keratolytic-agents): dùng để loại bỏ vảy khi cần thiết, ví dụ: [axit salicylic](https://dermnetnz.org/topics/salicylic-acid), axit lactic, [urea](https://dermnetnz.org/topics/urea), propylene glycol.
+- [Thuốc kháng nấm bôi ngoài da](https://dermnetnz.org/topics/topical-antifungal-medication): áp dụng để giảm _Malassezia_ ví dụ: [ketoconazole](https://dermnetnz.org/topics/ketoconazole), hoặc dầu gội và/hoặc kem ciclopirox. Lưu ý, một số chủng _Malassezia_ kháng thuốc kháng nấm azole. Thử kẽm pyrithione hoặc [selenium sulphide](https://dermnetnz.org/topics/selenium-sulfide).
+- [Corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) nhẹ: dùng trong 1–3 tuần để giảm viêm trong đợt bùng phát cấp tính.
+- [Chất ức chế calcineurin bôi ngoài da](https://dermnetnz.org/topics/calcineurin-inhibitors): ([kem pimecrolimus](https://dermnetnz.org/topics/pimecrolimus), [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus)) được chỉ định nếu cần sử dụng corticosteroid bôi ngoài da thường xuyên, vì chúng có ít tác dụng phụ hơn trên da mặt khi sử dụng lâu dài.
+
+Trong các trường hợp kháng thuốc ở người lớn, có thể khuyến nghị [itraconazole uống](https://dermnetnz.org/topics/itraconazole), [kháng sinh tetracycline](https://dermnetnz.org/topics/tetracycline), hoặc [liệu pháp ánh sáng](https://dermnetnz.org/topics/phototherapy). [Isotretinoin uống](https://dermnetnz.org/topics/isotretinoin) liều thấp cũng đã được chứng minh là hiệu quả đối với bệnh nặng hoặc trung bình.
+
+[Roflumilast](https://dermnetnz.org/topics/roflumilast) dạng bọt 0,3% đã được FDA phê duyệt gần đây để sử dụng cho viêm da tiết bã nhờn ở bệnh nhân từ 9 tuổi trở lên.
+
+#### Điều trị da đầu
+
+- Dầu gội thuốc chứa ketoconazole, ciclopirox, selenium sulfide, kẽm pyrithione, [nhựa than đá](https://dermnetnz.org/topics/coal-tar), và axit salicylic, sử dụng hai lần mỗi tuần trong ít nhất một tháng và nếu cần thiết, vô thời hạn.
+- [Ứng dụng steroid cho da đầu](https://dermnetnz.org/topics/hair-and-scalp) giảm ngứa và nên được áp dụng hàng ngày trong vài ngày mỗi lần.
+- [Chất ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) như tacrolimus có thể được sử dụng như là lựa chọn thay thế cho steroid.
+- Kem [nhựa than đá](https://dermnetnz.org/topics/coal-tar) có thể được áp dụng cho các khu vực có vảy và loại bỏ sau vài giờ bằng cách gội đầu.
+- Thường nên kết hợp liệu pháp.
+- Các phương pháp điều trị thay thế, như dầu gội cây trà, có thể được sử dụng.
+
+#### Mặt, tai, ngực và lưng
+
+- Làm sạch da bị ảnh hưởng kỹ lưỡng một hoặc hai lần mỗi ngày bằng cách sử dụng chất tẩy rửa không chứa xà phòng.
+- Áp dụng kem ketoconazole hoặc ciclopirox một lần mỗi ngày trong 2 đến 4 tuần, lặp lại khi cần thiết.
+- Kem hydrocortisone cũng có thể được sử dụng, áp dụng tối đa hai lần mỗi ngày trong 1 hoặc 2 tuần. Đôi khi có thể kê đơn steroid bôi ngoài da mạnh hơn.
+- Chất ức chế calcineurin bôi ngoài da như kem pimecrolimus hoặc thuốc mỡ tacrolimus có thể được sử dụng thay cho steroid bôi ngoài da.
+- Một loạt các biện pháp thảo dược thường được sử dụng, nhưng hiệu quả của chúng không chắc chắn.
+
+#### Quản lý ở trẻ sơ sinh
+
+Rửa da đầu thường xuyên bằng dầu gội cho trẻ em hoặc kem dưỡng ẩm, sau đó chải nhẹ để loại bỏ vảy.
+
+- Petrolatum trắng có thể hữu ích.
+- [Thuốc kháng nấm bôi ngoài da](https://dermnetnz.org/topics/topical-antifungal-medication) thường được kê đơn, tùy thuộc vào mức độ phát ban.
+
+Để biết thêm thông tin, xem [viêm da tiết bã nhờn ở trẻ sơ sinh](https://dermnetnz.org/topics/cradle-cap).

@@ -1,0 +1,323 @@
+##### Mụn cóc do virus — thông tin thêm
+
+Từ đồng nghĩa:
+
+Verruca, Papilloma
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B07, B07.9, B07.8, B07.0, A63.0, B97.7
+
+ICD-11:
+
+1E80, 1E80.0, 1E8Z, 1E81, 1E80.1, 1A95, 1A95.2
+
+SNOMED CT:
+
+57019003, 6344008, 240539000, 57019003, 240536007, 722521002, 9482002
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Mụn cóc do virus**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1996. Cập nhật bởi Bác sĩ Jannet Gomez, Học viên sau đại học về Da liễu Lâm sàng, Đại học Queen Mary London, Vương quốc Anh, tháng 12 năm 2016. Cập nhật tháng 2 năm 2021 và cập nhật nhỏ tháng 4 năm 2023.
+
+[Giới thiệu](https://dermnetnz.org/topics/viral-wart#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/viral-wart#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/viral-wart#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/viral-wart#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/viral-wart#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/viral-wart#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/viral-wart#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/viral-wart#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/viral-wart#Outcome)
+
+## Mụn cóc do virus là gì?
+
+Mụn cóc do virus là một tổn thương lành tính rất phổ biến do nhiễm virus papilloma ở người (HPV). Mụn cóc do virus có thể được phân loại theo vị trí là da hoặc niêm mạc vì các loại HPV khá khác biệt \[xem thêm [Mụn cóc hậu môn-sinh dục](https://dermnetnz.org/topics/anogenital-warts) và [Virus papilloma ở người lây qua đường tình dục](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus) để biết thêm thông tin về nhiễm HPV niêm mạc\]. Mụn cóc trên da cũng được gọi là verruca hoặc papilloma, và các tổn thương trông giống mụn cóc do bất kỳ nguyên nhân nào có thể được mô tả là verrucous hoặc papillomatous.
+
+### Mụn cóc do virus
+
+![Mụn cóc thông thường](https://dermnetnz.org/assets/Uploads/viral/viral-wart-07.jpg)
+
+Mụn cóc thông thường
+
+![Mụn cóc phẳng](https://dermnetnz.org/assets/Uploads/viral/plane-warts.jpg)
+
+Mụn cóc phẳng
+
+![Mụn cóc dạng sợi](https://dermnetnz.org/assets/Uploads/viral/viral-wart-22.jpg)
+
+Mụn cóc dạng sợi
+
+[Xem thêm hình ảnh về mụn cóc do virus](https://dermnetnz.org/topics/viral-warts-images).
+
+## Ai bị mụn cóc do virus trên da?
+
+Mụn cóc đặc biệt phổ biến ở:
+
+- Trẻ em trong độ tuổi đi học, tuy nhiên có thể xảy ra ở bất kỳ độ tuổi nào
+- [Viêm da](https://dermnetnz.org/topics/dermatitis), do hàng rào da bị khiếm khuyết
+- Người bị [ức chế miễn dịch do thuốc](https://dermnetnz.org/topics/drug-induced-immunosuppression) như sử dụng lâu dài [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) hoặc [ciclosporin](https://dermnetnz.org/topics/ciclosporin), hoặc bị nhiễm [virus suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection).
+
+## Nguyên nhân gây ra mụn cóc do virus trên da là gì?
+
+Mụn cóc là do nhiễm virus papilloma ở người (HPV), một loại virus DNA sợi kép. Có hơn 150 loại HPV đã biết, chỉ một số trong đó nhiễm vào da, gây ra nhiều biểu hiện lâm sàng khác nhau. Nhiễm trùng bắt đầu ở lớp đáy của biểu bì, gây ra sự tăng sinh của tế bào sừng (tế bào da) và tăng sừng, và sản xuất các hạt virus lây nhiễm — mụn cóc. Các loại HPV phổ biến nhất nhiễm vào da là loại 1, 2, 3, 4, 10, 27, 29 và 57.
+
+HPV lây lan qua tiếp xúc trực tiếp da với da hoặc tự tiêm nhiễm; nếu một mụn cóc bị cào hoặc nhặt, một mụn cóc có thể phát triển dưới móng tay (mụn cóc dưới móng) hoặc virus có thể lây lan sang khu vực da khác. Tự tiêm nhiễm virus vào một vết xước có thể dẫn đến một hàng mụn cóc (giả koebnerisation). Thời gian ủ bệnh có thể kéo dài đến mười hai tháng, tùy thuộc vào lượng virus được tiêm nhiễm.
+
+\[xem [Nhiễm virus papilloma ở người không lây qua đường tình dục](https://dermnetnz.org/topics/non-sexually-acquired-human-papillomavirus-infection)\]
+
+### Tự tiêm nhiễm mụn cóc
+
+![Giả koebnerisation của mụn cóc](https://dermnetnz.org/assets/Uploads/viral/wart27.jpg)
+
+Giả koebnerisation của mụn cóc
+
+![Mụn cóc dưới móng](https://dermnetnz.org/assets/Uploads/viral/subung-wart.jpg)
+
+Mụn cóc dưới móng
+
+![Mụn cóc dưới móng](https://dermnetnz.org/assets/Uploads/viral/s/wart24.jpg)
+
+Mụn cóc dưới móng
+
+## Đặc điểm lâm sàng của mụn cóc do virus là gì?
+
+Mụn cóc do virus trên da có bề mặt cứng, sừng hóa. Các chấm đỏ hoặc đen nhỏ có thể nhìn thấy trong mụn cóc là mao mạch nhú.
+
+### Mụn cóc thông thường
+
+Mụn cóc thông thường (verruca vulgaris) xuất hiện dưới dạng các nốt sần giống như súp lơ với bề mặt sần sùi, nhú và tăng sừng có kích thước từ 1 mm đến 1 cm hoặc lớn hơn. Chúng có thể đơn lẻ hoặc nhiều. Mụn cóc thông thường thường được tìm thấy nhất trên đầu gối, mặt sau của ngón tay hoặc ngón chân, và xung quanh móng tay (periungual).
+
+### Mụn cóc thông thường (verruca vulgaris)
+
+![](https://dermnetnz.org/assets/Uploads/verrucous.jpg)
+
+![Verruca vulgaris trên ngón tay cái](https://dermnetnz.org/assets/Uploads/viral/viral-wart-15.jpg)
+
+Verruca vulgaris trên ngón tay cái
+
+![](https://dermnetnz.org/assets/Uploads/viral/wart7.jpg)
+
+### Mụn cóc lòng bàn chân
+
+Mụn cóc lòng bàn chân (verruca plantaris) bao gồm các mụn cóc myrmecia đau đớn mọc vào trong lòng bàn chân do HPV 1 gây ra, và các cụm mụn cóc khảm nông ít đau hơn do HPV 2 gây ra. Mụn cóc myrmecial thường đau khi có áp lực bên và trực tiếp, được bao quanh bởi da tăng sừng vàng giống như vết chai với các dấu vết da nổi bật, nhưng với sự gián đoạn của các đường da qua mụn cóc thực tế.
+
+Các nang biểu bì lòng bàn chân có liên quan đến nhiễm HPV 60 ở các ống tuyến mồ hôi.
+
+### Mụn cóc lòng bàn chân, loại myrmecial (verruca plantaris)
+
+![](https://dermnetnz.org/assets/Uploads/viral/viral-wart-18.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/viral/wart11.jpg)
+
+![Mụn cóc lòng bàn chân](https://dermnetnz.org/assets/Uploads/viral/s/wart12.jpg)
+
+Mụn cóc lòng bàn chân
+
+### Mụn cóc lòng bàn chân, loại khảm
+
+![](https://dermnetnz.org/assets/Uploads/viral/verruca.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/viral/wart6.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/viral/wart5.jpg)
+
+### Mụn cóc phẳng
+
+Mụn cóc phẳng thường là các nốt sần nhỏ, phẳng, có màu da, nằm phổ biến nhất trên mặt, tay và cẳng chân. Trên cẳng chân và vùng râu của mặt, virus thường lây lan qua [cạo râu](https://dermnetnz.org/topics/shaving) dẫn đến nhiều mụn cóc. Mụn cóc phẳng chủ yếu do HPV loại 3 và 10 gây ra.
+
+### Mụn cóc phẳng (verruca plana)
+
+![](https://dermnetnz.org/assets/Uploads/viral/wart1.jpg)
+
+![Verruca plana ở vùng râu lan truyền qua cạo râu](https://dermnetnz.org/assets/Uploads/viral/wart10.jpg)
+
+Verruca plana ở vùng râu lan truyền qua cạo râu
+
+![](https://dermnetnz.org/assets/Uploads/viral/wart4.jpg)
+
+### Mụn cóc dạng sợi
+
+Mụn cóc dạng sợi là một cụm các nhánh mảnh mọc ra từ một đế hẹp thường được tìm thấy trên mặt. Chúng cũng được mô tả là dạng ngón tay (giống ngón tay).
+
+### Mụn cóc dạng sợi và dạng ngón tay
+
+![](https://dermnetnz.org/assets/Uploads/viral/viral-wart-03.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/filiform.jpg)
+
+![Mụn cóc dạng sợi](https://dermnetnz.org/assets/Uploads/viral/viral-wart-24.jpg)
+
+Mụn cóc dạng sợi
+
+### Mụn cóc của người làm thịt
+
+Mụn cóc của người làm thịt được gây ra đặc biệt bởi HPV 7 nhiễm vào tay của những người làm thịt và những người khác có nghề nghiệp liên quan đến tiếp xúc lâu dài với môi trường ẩm lạnh. Chúng có hình dạng giống mụn cóc thông thường và có xu hướng nhiều.
+
+### Epidermodysplasia verruciformis
+
+[Epidermodysplasia verruciformis](https://dermnetnz.org/topics/epidermodysplasia-verruciformis) là một tình trạng hiếm gặp do di truyền lặn tự phát dễ bị nhiễm trùng da với các loại HPV cụ thể gây ra các tổn thương giống pityriasis versicolor phẳng và [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma).
+
+## Biến chứng của mụn cóc do virus trên da là gì?
+
+- Mụn cóc do virus có thể lây nhiễm cho bệnh nhân và người khác.
+- Mụn cóc trên da có thể gây ra các tác động tâm lý xã hội đáng kể như bị trêu chọc ở trường, xấu hổ, bị từ chối cho học bơi.
+- Mụn cóc quanh móng có thể gây loạn dưỡng móng và phá hủy.
+- Đau do mụn cóc lòng bàn chân (loại myrmecia) cản trở việc đi lại và hoạt động thể thao, gây đau đầu gối hoặc hông.
+- Trong epidermodysplasia verruciformis, các loại HPV cụ thể liên quan có thể gây ra ung thư biểu mô tế bào vảy trên da.
+
+### Mụn cóc quanh móng gây loạn dưỡng móng
+
+![](https://dermnetnz.org/assets/Uploads/viral/s/wart25.jpg)
+
+![Mụn cóc dưới móng](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/a/ungueal-wart.jpg)
+
+Mụn cóc dưới móng
+
+![](https://dermnetnz.org/assets/Uploads/viral/s/wart21.jpg)
+
+## Làm thế nào để chẩn đoán mụn cóc do virus trên da?
+
+Mụn cóc do virus trên da thường được chẩn đoán lâm sàng. Các dấu hiệu lâm sàng để chẩn đoán có thể bao gồm:
+
+- Các chấm đỏ hoặc đen nhỏ (mao mạch nhú) được tiết lộ khi mụn cóc bị cạo xuống. Các mao mạch còn nguyên vẹn gây ra chảy máu nhỏ. Các vết chai lòng bàn chân không có mao mạch nhú.
+- Vị trí của mụn cóc lòng bàn chân không bị giới hạn ở các điểm áp lực trong khi một vết chai hoặc vết chai lòng bàn chân luôn ở một điểm áp lực.
+- Đau là tối đa với áp lực bên cho mụn cóc lòng bàn chân trong khi một vết chai hoặc vết chai đau hơn với áp lực trực tiếp.
+
+[Dermoscopy](https://dermnetnz.org/topics/dermoscopy) hỗ trợ việc quan sát các mao mạch nhú của mụn cóc do virus, và có thể phân biệt các tổn thương verrucous khác như [keratosis tiết bã](https://dermnetnz.org/topics/seborrhoeic-keratosis-dermoscopy-images).
+
+### Chẩn đoán mụn cóc do virus
+
+![Các chấm đỏ và đen nhỏ của mao mạch nhú](https://dermnetnz.org/assets/Uploads/viral/s/wart14.jpg)
+
+Các chấm đỏ và đen nhỏ của mao mạch nhú
+
+![Dermoscopy: mụn cóc do virus](https://dermnetnz.org/assets/Uploads/2010-quizzes/2010-June-1-verrucous.jpg)
+
+Dermoscopy: mụn cóc do virus
+
+![Dermoscopy: mụn cóc do virus](https://dermnetnz.org/assets/Uploads/2010-quizzes/2010-October-3-viral-wart.jpg)
+
+Dermoscopy: mụn cóc do virus
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) đôi khi cần thiết khi không thể loại trừ ung thư biểu mô tế bào vảy lâm sàng như trong trường hợp người nhận ghép tạng dễ bị cả hai. \[xem [Verruca vulgaris pathology](https://dermnetnz.org/topics/verruca-vulgaris-pathology), [Verruca plana pathology](https://dermnetnz.org/topics/verruca-plana-pathology)\]
+
+## Chẩn đoán phân biệt của mụn cóc do virus trên da là gì?
+
+Chẩn đoán phân biệt cho mụn cóc do virus trên da có thể bao gồm:
+
+- Keratosis tiết bã
+- Ung thư biểu mô tế bào vảy
+- [Vết chai và vết chai lòng bàn chân](https://dermnetnz.org/topics/corn-callus).
+
+## Điều trị mụn cóc do virus là gì?
+
+Điều trị có thể không cần thiết trong tất cả các trường hợp vì hầu hết mụn cóc tự khỏi, đặc biệt là ở trẻ em. Các chỉ định cho điều trị tích cực bao gồm:
+
+- Ức chế miễn dịch
+- Sự hiện diện của các biến chứng
+- Sự lựa chọn của bệnh nhân.
+
+Các phương pháp điều trị không tiêu diệt virus, nhưng hoạt động bằng cách loại bỏ da chứa virus. Kiên trì với điều trị và kiên nhẫn là điều cần thiết! Hãy nhớ rằng HPV nhiễm vào lớp tế bào đáy của biểu bì nên mụn cóc tái phát nhanh chóng nếu virus chưa được loại bỏ.
+
+### Điều trị tại chỗ
+
+Điều trị tại chỗ bao gồm sơn mụn cóc, bột nhão hoặc miếng dán chứa [axit salicylic](https://dermnetnz.org/topics/scalp-psoriasis), [podophyllin](https://dermnetnz.org/topics/podophyllotoxin), hoặc các hợp chất tương tự, hoạt động bằng cách loại bỏ các tế bào da bề mặt.
+
+Điều trị tại chỗ được áp dụng một lần mỗi ngày cho mụn cóc. Điều trị bằng sơn mụn cóc thường làm cho mụn cóc nhỏ hơn và ít khó chịu hơn; 70% mụn cóc tự khỏi trong vòng mười hai tuần sau khi áp dụng hàng ngày.
+
+- Làm mềm mụn cóc bằng cách ngâm trong bồn tắm hoặc bát nước xà phòng nóng.
+- Chà bề mặt mụn cóc bằng một miếng đá bọt hoặc bảng nhám.
+- Áp dụng sơn hoặc bột nhão mụn cóc một cách chính xác và bao gồm một viền da bình thường.
+- Để sơn khô trước khi phủ bằng băng dính hoặc băng keo.
+- Ngày hôm sau loại bỏ sơn cũ và lớp da chết bề mặt bằng đá bọt và áp dụng lại sơn hoặc bột nhão.
+
+Nếu sơn mụn cóc làm cho da đau, ngừng điều trị cho đến khi sự khó chịu đã giảm, sau đó tiếp tục như trên.
+
+### Liệu pháp lạnh
+
+[Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) với nitơ lỏng được lặp lại ở khoảng thời gian một đến hai tuần để gây bong tróc lớp bề mặt. Nó không thoải mái và dẫn đến phồng rộp trong vài ngày hoặc tuần. Điều trị cần được thực hiện thường xuyên để ngăn mụn cóc mọc lại giữa các cuộc hẹn. Thành công đạt khoảng 70% sau 3–4 tháng đóng băng thường xuyên.
+
+Một lần đóng băng mạnh bằng nitơ lỏng có thể để lại một dấu trắng vĩnh viễn. Nó cũng có thể gây tê tạm thời nếu thực hiện trên một dây thần kinh nông như ở bên ngón tay.
+
+### Điều trị mụn cóc
+
+![Liệu pháp lạnh cho mụn cóc](https://dermnetnz.org/assets/Uploads/doctors/viral-infections/images/cryo.jpg)
+
+Liệu pháp lạnh cho mụn cóc
+
+### Phẫu thuật điện
+
+[Phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery) ([curettage và đốt điện](https://dermnetnz.org/topics/curettage-and-cautery)) đã được sử dụng cho các mụn cóc lớn và kháng thuốc. Dưới gây tê cục bộ, sự phát triển được cạo đi và đế bị đốt cháy. Vết thương lành trong hai tuần hoặc lâu hơn (tùy thuộc vào vị trí); ngay cả khi đó 20% mụn cóc có thể tái phát trong vài tháng. Điều trị này để lại một vết sẹo vĩnh viễn có thể đau khi đi bộ nếu nằm trên một điểm áp lực. Mụn cóc tái phát trong một vết sẹo rất khó điều trị.
+
+### Các phương pháp điều trị khác
+
+Các phương pháp điều trị khác cho mụn cóc tái phát, kháng thuốc hoặc lan rộng bao gồm:
+
+- Kem điều hòa miễn dịch, [imiquimod](https://dermnetnz.org/topics/imiquimod) \- được chấp thuận để điều trị mụn cóc hậu môn-sinh dục nhưng thường không hiệu quả đối với mụn cóc trên da
+- [Tiêm bleomycin](https://dermnetnz.org/topics/bleomycin)
+- [Laser nhuộm xung](https://dermnetnz.org/topics/pulsed-dye-laser-treatment) phá hủy các mạch máu nuôi dưỡng
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- [Hơi hóa bằng laser](https://dermnetnz.org/topics/lasers-in-dermatology)
+- [Diphencyprone](https://dermnetnz.org/topics/diphenylcyclopropenone), dinitrochlorobenzene, hoặc axit squaric để gây viêm da tiếp xúc dị ứng cục bộ trên mụn cóc
+- Liệu pháp vi sóng cho mụn cóc lòng bàn chân.
+
+### Làm thế nào để ngăn ngừa mụn cóc do virus?
+
+[Vắc-xin chống lại virus papilloma ở người](https://dermnetnz.org/topics/vaccines-against-human-papillomavirus) có sẵn để ngăn ngừa [mụn cóc hậu môn-sinh dục](https://dermnetnz.org/topics/anogenital-warts). Theo kinh nghiệm, những vắc-xin này đã được báo cáo là dẫn đến việc loại bỏ mụn cóc không sinh dục ở một số người mà không có bằng chứng rõ ràng rằng vắc-xin là nguyên nhân của sự thuyên giảm.
+
+## Kết quả cho mụn cóc do virus trên da là gì?
+
+Không có phương pháp điều trị nào có hiệu quả hoàn toàn trong việc loại bỏ mụn cóc do virus.
+
+Ở trẻ em, ngay cả khi không điều trị, 50% mụn cóc biến mất trong vòng sáu tháng, và 90% biến mất trong 2 năm.
+
+Mụn cóc do virus bền bỉ hơn ở người lớn, nhưng cuối cùng chúng cũng biến mất. Chúng có khả năng tái phát ở những bệnh nhân bị [ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression), ví dụ, người nhận ghép tạng. Tái phát thường xuyên hơn ở những người [hút thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin).
+
+Miễn dịch với HPV có khả năng là đặc hiệu cho từng loại.
+
+### Tài liệu tham khảo
+
+- [Hướng dẫn của Hiệp hội Da liễu Anh về quản lý mụn cóc trên da 2014](https://www.bad.org.uk/guidelines-and-standards/clinical-guidelines/) – Hiệp hội Da liễu Anh
+- Doorbar J, Egawa N, Griffin H, Kranjec C, Murakami I. Sinh học phân tử của virus papilloma ở người và mối liên hệ với bệnh. Rev Med Virol. 2015;25 Suppl 1(Suppl Suppl 1):2-23. doi:10.1002/rmv.1822. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5024016/pdf/RMV-25-2.pdf)
+- Friedman PC. Quản lý mụn cóc khó điều trị: các phương pháp truyền thống và mới \[được xuất bản trực tuyến trước khi in, 2021 Jan 11\]. Am J Clin Dermatol. 2021;10.1007/s40257-020-00582-4. doi:10.1007/s40257-020-00582-4. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33432476/)
+- Ringin SA. Hiệu quả của việc giải quyết mụn cóc trên da với các phương thức điều trị hiện tại. J Cutan Aesthet Surg. 2020;13(1):24-30. doi:10.4103/JCAS.JCAS\_62\_19. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7335473/?report=printable)
+- Sterling JC, Gibbs S, Haque Hussain SS, Mohd Mustapa MF, Handfield-Jones SE. Hướng dẫn của Hiệp hội Da liễu Anh về quản lý mụn cóc trên da 2014. Br J Dermatol. 2014 Oct. 171(4):696-712. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25273231).
+- Youn, Sung Hwan, et al. Khoảng thời gian hai tuần tốt hơn khoảng thời gian ba tuần để giảm tỷ lệ tái phát của mụn cóc tay-chân sau liệu pháp lạnh: một đánh giá hồi cứu của 560 bệnh nhân mụn cóc tay-chân. Annals of Dermatology 23.1 (2011): 53-60.
+- Wenner R, Askari SK, Cham PM, Kedrowski DA, Liu A, Warshaw EM. Băng keo cho điều trị mụn cóc thông thường ở người lớn: một thử nghiệm ngẫu nhiên có kiểm soát mù đôi. Arch Dermatol. 2007;143(3):309-13. doi:10.1001/archderm.143.3.309. [PubMed](https://pubmed.ncbi.nlm.nih.gov/17372095/)
+- Youn SH, Kwon IH, Park EJ, Kim KH, Kim KJ. Khoảng thời gian hai tuần tốt hơn khoảng thời gian ba tuần để giảm tỷ lệ tái phát của mụn cóc tay-chân sau liệu pháp lạnh: một đánh giá hồi cứu của 560 bệnh nhân mụn cóc tay-chân. Ann Dermatol. 2011;23(1):53-60. doi:10.5021/ad.2011.23.1.53. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21738363/)
+
+### Trên DermNet
+
+- [Thêm hình ảnh về mụn cóc do virus](https://dermnetnz.org/topics/viral-warts-images)
+- [Verruca plana pathology](https://dermnetnz.org/topics/verruca-plana-pathology)
+- [Verruca vulgaris pathology](https://dermnetnz.org/topics/verruca-vulgaris-pathology)
+- [Nhiễm trùng do virus](https://dermnetnz.org/topics/viral-skin-infections)
+- [Mụn cóc hậu môn-sinh dục](https://dermnetnz.org/topics/anogenital-warts)
+- [Epidermodysplasia verruciformis](https://dermnetnz.org/topics/epidermodysplasia-verruciformis)
+- [Virus papilloma ở người lây qua đường tình dục](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus)
+- [Nhiễm virus papilloma ở người không lây qua đường tình dục](https://dermnetnz.org/topics/non-sexually-acquired-human-papillomavirus-infection)
+- [Vắc-xin chống lại virus papilloma ở người](https://dermnetnz.org/topics/vaccines-against-human-papillomavirus)
+
+### Các trang web khác
+
+- [Mụn cóc](http://www.nlm.nih.gov/medlineplus/warts.html) — Medline Plus
+- [Dự án HPV New Zealand](http://www.hpv.org.nz/)
+- [Mụn cóc không sinh dục](http://emedicine.medscape.com/article/1133317-overview) — Medscape Reference
+- [Mụn cóc lòng bàn chân (Verrucas)](https://www.bad.org.uk/pils/plantar-warts/) — Hiệp hội Da liễu Anh
+- [Mụn cóc không sinh dục](http://emedicine.medscape.com/article/1133317-overview) — Medscape Reference
+- [Mụn cóc lòng bàn chân](http://www.emedicinehealth.com/plantar_warts/article_em.htm) — emedicinehealth
+- [Mụn cóc](http://www.emedicinehealth.com/warts/article_em.htm) — emedicinehealth
+- [Thông tin bệnh nhân: Mụn cóc da (Cơ bản)](http://www.uptodate.com/contents/skin-warts-the-basics) — UpToDate (dành cho người đăng ký)
+- [Thông tin bệnh nhân: Mụn cóc da (Ngoài cơ bản)](http://www.uptodate.com/contents/skin-warts-beyond-the-basics) — UpToDate (dành cho người đăng ký)
+- [Mụn cóc: Tài liệu hướng dẫn bệnh nhân](http://pedsderm.net/for-patients-families/patient-handouts/) — Hiệp hội Da liễu Nhi khoa
+- [Mụn cóc](https://www.aad.org/public/diseases/contagious-skin-diseases/warts) — Học viện Da liễu Hoa Kỳ
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết khác được khuyến nghị
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

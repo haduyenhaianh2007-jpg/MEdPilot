@@ -1,0 +1,203 @@
+##### Lichen planopilaris — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Lichen planus follicularis, Lichen planus nang lông, LPP
+
+Danh mục:
+
+Rối loạn nang lông
+
+ICD-10:
+
+L66.1
+
+ICD-11:
+
+EA91.2
+
+SNOMED CT:
+
+64540004, 718215008, 238655003, 717055000, 403325003
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics?category=Follicular%20disorder)**
+
+# **Lichen planopilaris**
+
+Tác giả: Bác sĩ Delwyn Dyall-Smith FACD, Chuyên gia Da liễu, Úc, 2011. Cập nhật: Bác sĩ Naya T. Hassan, Bác sĩ Nội trú Da liễu, Syria. Biên tập bởi Gus Mitchell. Cập nhật tháng 5 năm 2022
+
+[Giới thiệu](https://dermnetnz.org/topics/lichen-planopilaris#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/lichen-planopilaris#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/lichen-planopilaris#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/lichen-planopilaris#Clinical%20features%3Cbr%20/%3E) [Biến thể trong các loại da](https://dermnetnz.org/topics/lichen-planopilaris#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/lichen-planopilaris#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/lichen-planopilaris#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/lichen-planopilaris#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/lichen-planopilaris#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/lichen-planopilaris#Outcome)
+
+## Lichen planopilaris là gì?
+
+Lichen planopilaris là một tình trạng viêm không phổ biến có thể dẫn đến rụng tóc vĩnh viễn.
+
+Bệnh được coi là một dạng của [lichen planus](https://dermnetnz.org/topics/lichen-planus) ảnh hưởng đến các nang lông. Nó dẫn đến rụng tóc từng mảng, tiến triển, vĩnh viễn chủ yếu trên da đầu, mặc dù các vùng da có lông khác (lông mày, vùng mu và cơ thể) cũng có thể bị ảnh hưởng. Có nhiều dạng được công nhận:
+
+- Lichen planopilaris cổ điển, còn được gọi là lichen planus nang lông
+- [Rụng tóc sợi trán](https://dermnetnz.org/topics/frontal-fibrosing-alopecia)
+- [Hội chứng Graham Little](https://dermnetnz.org/topics/graham-little-syndrome).
+
+![Lichen planopilaris](https://dermnetnz.org/assets/Uploads/hair-loss-02.jpg)
+
+Lichen planopilaris
+
+![Da đầu teo của bệnh nhân nam với hội chứng Graham-Little](https://dermnetnz.org/assets/collection/Lichen-planopilaris/lichen-planopilaris-0006.jpg)
+
+Da đầu teo của bệnh nhân nam với hội chứng Graham-Little (LPP-bệnh nhân2)
+
+![Madarosis do lichen planopilaris](https://dermnetnz.org/assets/Uploads/madarosis-20.jpg)
+
+Madarosis do lichen planopilaris
+
+![Hình ảnh lâm sàng của hội chứng Graham-Little, biểu hiện rụng tóc ở cẳng tay](https://dermnetnz.org/assets/collection/Lichen-planopilaris/lichen-planopilaris-0007.jpg)
+
+Hình ảnh lâm sàng của hội chứng Graham-Little, biểu hiện rụng tóc ở cẳng tay (LPP-bệnh nhân2)
+
+## Ai bị lichen planopilaris?
+
+- Lichen planopilaris thường ảnh hưởng đến phụ nữ trẻ tuổi, mặc dù độ tuổi có thể rộng và cũng có thể ảnh hưởng đến nam giới.
+- Nó thường phát triển liên quan đến [lichen planus](https://dermnetnz.org/topics/lichen-planus) ảnh hưởng đến da, niêm mạc và móng.
+- Mặc dù lichen planopilaris hiếm gặp, nhưng nó là một trong những nguyên nhân phổ biến gây rụng tóc sẹo trên da đầu.
+
+## Nguyên nhân gây ra lichen planopilaris là gì?
+
+Nguyên nhân chính xác của lichen planopilaris chưa được biết. Nó được cho là một phản ứng tự miễn dịch tế bào độc đối với một kháng nguyên không xác định nằm trong các nang lông. Bệnh hiếm khi liên quan đến gen. Nó cũng hiếm khi do thuốc gây ra, ví dụ, pembrolizumab.
+
+## Đặc điểm lâm sàng của lichen planopilaris là gì?
+
+Lichen planopilaris thường biểu hiện dưới dạng các mảng trắng mịn của rụng tóc trên da đầu. Không thể thấy các lỗ nang lông trong các khu vực rụng tóc. Vảy và đỏ bao quanh mỗi nang lông ở rìa các mảng này, có thể cảm thấy gai khi sờ. Tóc có thể dễ dàng bị kéo ra. Nó là đa tiêu điểm và các khu vực nhỏ có thể hợp nhất thành các khu vực không đều lớn hơn.
+
+Các vị trí thường bị ảnh hưởng là hai bên, phía trước và phía sau dưới của da đầu.
+
+Các triệu chứng thường không có, nhưng có thể bao gồm:
+
+- Ngứa
+- Đau
+- Nhạy cảm
+- Khó chịu
+- Nóng rát.
+
+Lichen planopilaris thường tiến triển chậm.
+
+Rụng tóc lan tỏa là không phổ biến.
+
+## Đặc điểm lâm sàng thay đổi như thế nào trong các loại da khác nhau?
+
+Các đặc điểm lâm sàng không thay đổi trong các loại da khác nhau.
+
+## Biến chứng của lichen planopilaris là gì?
+
+- Rụng tóc ([alopecia](https://dermnetnz.org/topics/alopecia-areata))
+- Hiếm khi [rụng lông mi và lông mày](https://dermnetnz.org/topics/madarosis)
+- Căng thẳng tâm lý và giảm chất lượng cuộc sống.
+
+## Lichen planopilaris được chẩn đoán như thế nào?
+
+Lichen planopilaris được nghi ngờ dựa trên biểu hiện lâm sàng và kiểm tra cẩn thận miệng, móng và da để tìm bằng chứng của lichen planus ở nơi khác.
+
+[Trichoscopy](https://dermnetnz.org/topics/trichoscopy) cho thấy không có nang lông, các chấm trắng, vảy quanh nang lông dạng ống và ban đỏ quanh nang lông.
+
+Chẩn đoán có thể được xác nhận trên [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) da đầu bao gồm tóc với đỏ và vảy xung quanh ở rìa của một khu vực rụng tóc. Lichen planopilaris là một ví dụ của viêm nang lông lympho bào nguyên phát.
+
+Tuy nhiên, không phải lúc nào cũng có thể chẩn đoán bằng sinh thiết. Khi chỉ có sẹo từng mảng, rụng tóc và không có bằng chứng viêm, chẩn đoán có thể không được xác nhận.
+
+![Hình ảnh soi da của lichen planopilaris biểu hiện với các lỗ nang lông phân bố không đều (mũi tên đỏ) biểu thị rụng tóc sẹo (cicatricial)](https://dermnetnz.org/assets/collection/Lichen-planopilaris/lichen-planopilaris-0001.jpg)
+
+Hình ảnh soi da của lichen planopilaris biểu hiện với các lỗ nang lông phân bố không đều (mũi tên đỏ) biểu thị rụng tóc sẹo (cicatricial)
+
+![Hình ảnh soi da cho thấy vảy quanh nang lông (vòng tròn đỏ, vỏ quanh ống (mũi tên đen) và các chấm xanh xám (vòng tròn vàng)](https://dermnetnz.org/assets/collection/Lichen-planopilaris/lichen-planopilaris-0003.jpg)
+
+Hình ảnh soi da cho thấy vảy quanh nang lông (vòng tròn đỏ, vỏ quanh ống (mũi tên đen) và các chấm xanh xám (vòng tròn vàng) (LPP-bệnh nhân1)
+
+![Hình ảnh soi da của hội chứng Graham-Little cho thấy vảy quanh nang lông của tổn thương da đầu biểu thị lichen planopilaris](https://dermnetnz.org/assets/collection/Lichen-planopilaris/lichen-planopilaris-0008.jpg)
+
+Hình ảnh soi da của hội chứng Graham-Little cho thấy vảy quanh nang lông của tổn thương da đầu biểu thị lichen planopilaris (LPP-bệnh nhân2)
+
+## Chẩn đoán phân biệt cho lichen planopilaris là gì?
+
+- [Lupus ban đỏ dạng đĩa (DLE)](https://dermnetnz.org/topics/discoid-lupus-erythematosus)
+- [Rụng tóc sẹo trung tâm ly tâm (CCCA)](https://dermnetnz.org/topics/central-centrifugal-cicatricial-alopecia)
+- [Viêm nang lông decalvans](https://dermnetnz.org/topics/folliculitis-decalvans)
+- [Rụng tóc từng mảng](https://dermnetnz.org/topics/alopecia-areata)
+- [Pseudopelade của Brocq](https://dermnetnz.org/topics/pseudopelade-of-brocq)
+
+## Điều trị cho lichen planopilaris là gì?
+
+Điều trị nên được tìm kiếm và cung cấp sớm, vì không có điều trị nào có thể phục hồi tóc đã bị mất và thay thế bằng sẹo. Mục tiêu của điều trị là làm chậm sự tiến triển của bệnh và giảm triệu chứng. Rụng tóc có thể tiếp tục, mặc dù với tốc độ chậm hơn.
+
+Các lựa chọn điều trị chống viêm bao gồm:
+
+- Corticosteroid — [bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) mạnh, [tiêm trong tổn thương](https://dermnetnz.org/topics/intralesional-injection), [uống](https://dermnetnz.org/topics/oral-retinoids)
+- [Tacrolimus bôi ngoài da](https://dermnetnz.org/topics/tacrolimus)
+- Minoxidil bôi ngoài da
+- [Ruxolitinib bôi ngoài da](https://dermnetnz.org/topics/ruxolitinib)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- [Tetracycline](https://dermnetnz.org/topics/tetracycline) ví dụ doxycycline
+- [Acitretin](https://dermnetnz.org/topics/acitretin)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- Pioglitazone (một chất chủ vận PPAR-γ đường uống): hiệu quả biến đổi; lên đến 50–70% bệnh nhân có triệu chứng giảm, viêm và tiến triển bệnh
+- Huyết tương giàu tiểu cầu
+- Adalimumab, một chất ức chế yếu tố hoại tử khối u-alpha (TNFα), cũng đã được báo cáo là có hiệu quả ở một số ít bệnh nhân
+- [Ức chế JAK đường uống](https://dermnetnz.org/topics/janus-kinase-inhibitors) với [tofacitinib](https://dermnetnz.org/topics/tofacitinib).
+
+Phản ứng với điều trị là biến đổi và một số nghiên cứu đã công bố mâu thuẫn với nhau về hiệu quả của chúng. Điều tốt nhất mà bệnh nhân có thể mong đợi là ngăn chặn sự tiến triển của rụng tóc và giảm thiểu khó chịu trên da đầu.
+
+Một giao thức quản lý như được đề xuất bởi Svigos et al. (2021) bao gồm:
+
+- Chẩn đoán lichen planopilaris lâm sàng, [trichoscopically](https://dermnetnz.org/topics/trichoscopy), và với sinh thiết da đầu.
+- Mức độ nghiêm trọng của triệu chứng, mức độ rụng tóc và sự hiện diện của hoạt động bệnh được ghi nhận tại mỗi lần khám, khoảng mỗi 3 tháng.
+- Sử dụng steroid [bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) mạnh hoặc siêu mạnh, với [minoxidil](https://dermnetnz.org/topics/minoxidil-solution) bôi ngoài da 5% và [tacrolimus](https://dermnetnz.org/topics/tacrolimus) 0.3%.
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) đường uống (thường là 200 mg hai lần mỗi ngày) được bắt đầu sau khi thực hiện các xét nghiệm phòng thí nghiệm và kiểm tra mắt thích hợp nếu bệnh nhân có triệu chứng, có rụng tóc tiến triển hoặc dấu hiệu của bệnh hoạt động.
+- Cân nhắc [doxycycline](https://dermnetnz.org/topics/tetracycline) đường uống nếu có sự tiến triển trên hydroxychloroquine.
+- Với sự tiến triển thêm, cân nhắc điều chỉnh miễn dịch với [methotrexate](https://dermnetnz.org/topics/methotrexate) hoặc [ciclosporin](https://dermnetnz.org/topics/ciclosporin).
+
+### Biện pháp không dùng thuốc
+
+- Ngụy trang với kiểu tóc cẩn thận, nhuộm tóc và các phụ kiện tóc như tóc giả có thể được thảo luận với bệnh nhân.
+- Phẫu thuật như giảm da đầu và cấy tóc đã được sử dụng cho bệnh không hoạt động giai đoạn cuối với các khu vực sẹo lớn nhưng không phải lúc nào cũng thành công. Nguy cơ của [hiện tượng Koebner](https://dermnetnz.org/topics/the-koebner-phenomenon) và giảm sự sống sót của mảnh ghép được trải nghiệm.
+
+## Kết quả cho lichen planopilaris là gì?
+
+Tiên lượng của bệnh không thể dự đoán được. Nó có thể tự cải thiện sau một thời gian, hoặc có thể trở nên tồi tệ hơn. Mục tiêu chính của điều trị là ngăn chặn rụng tóc, nhưng phản ứng với điều trị cũng khác nhau giữa các bệnh nhân.
+
+### Thư mục
+
+- Alam MS, LaBell B. Điều trị lichen planopilaris với adalimumab ở bệnh nhân bị hidradenitis suppurativa và viêm khớp dạng thấp. JAAD Case Reports 2020; 6(3): 219–21. [Tạp chí](https://www.jaadcasereports.org/article/S2352-5126(20)30008-4/fulltext)
+- Babahosseini H, Tavakolpour S, Mahmoudi H, et al. Lichen planopilaris: nghiên cứu hồi cứu về đặc điểm và điều trị của 291 bệnh nhân. J Dermatolog Treat. 2019;30(6):598–604. [Tạp chí](https://www.tandfonline.com/doi/abs/10.1080/09546634.2018.1542480?journalCode=ijdt20)
+- Nic Dhonncha E, Foley CC, Markham T. Vai trò của hydroxychloroquine trong điều trị lichen planopilaris: Một loạt trường hợp hồi cứu và đánh giá. Dermatol Ther. 2017;30(3):10.1111. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/dth.12463)
+- Cho BK, Sah D, Chwalek J, Roseborough I, Ochoa B, Chiang C, Price VH. Hiệu quả và an toàn của mycophenolate mofetil cho lichen planopilaris. J Am Acad Dermatol 2010; 62: 393–7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20061053/)
+- Mirmirani P, Karnik P. Lichen planopilaris được điều trị với chất chủ vận thụ thể γ kích hoạt peroxisome. Arch Dermatol 2009; 145: 1363–6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20026843/)
+- Singal A, Ong MM, Lipner SR. Tiếp xúc với gonadocorticoid có liên quan đến tăng khả năng mắc lichen planopilaris và rụng tóc sợi trán: Một nghiên cứu hồi cứu lớn. J Am Acad Dermatol. 2025;92(2):352-354. doi:10.1016/j.jaad.2024.10.030. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39476975/)
+- Svigos K, Yin L, Fried L, Lo Sicco K, Shapiro J. Một cách tiếp cận thực tế để chẩn đoán và quản lý Lichen Planopilaris cổ điển. Am J Clin Dermatol. 2021;22(5):681–92. doi:10.1007/s40257-021-00630-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34347282/)
+- Mesinkovska NA, Tellez A, Dawes D, Piliang M, Bergfeld W. Sử dụng pioglitazone đường uống trong điều trị lichen planopilaris. J Am Acad Dermatol 2015; 72:355–6. [Tạp chí](https://www.jaad.org/article/S0190-9622(14)02113-6/fulltext)
+- Spring P, et al. Lichen planopilaris được điều trị bởi chất chủ vận thụ thể γ kích hoạt peroxisome pioglitazone: Thiếu cải thiện hoặc chữa khỏi lâu dài ở phần lớn bệnh nhân. J Am Acad Dermatol. 2013; 69;830–2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24124823/)
+- Williams, K. N., Perez, S. M., Burroway, B., & Tosti, A. (2025). Ruxolitinib bôi ngoài da trong quản lý rụng tóc sợi trán và/hoặc lichen planopilaris: Một nghiên cứu hồi cứu đơn trung tâm. Journal of the American Academy of Dermatology, 92(1), 170–172. doi:10.1016/j.jaad.2024.09.032. [Tạp chí](https://www.jaad.org/article/S0190-9622(24)02888-3/fulltext)
+- Yang CC, Khanna T, Sallee B, Christiano AM, Bordone LA. Tofacitinib cho điều trị lichen planopilaris: Một loạt trường hợp. Dermatol Ther. 2018;31(6):e12656. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6585740/)
+
+### Trên DermNet
+
+- [Hội chứng Graham Little](https://dermnetnz.org/topics/graham-little-syndrome)
+- [Rụng tóc sợi trán](https://dermnetnz.org/topics/frontal-fibrosing-alopecia)
+- [Lichen planus](https://dermnetnz.org/topics/lichen-planus)
+- [Rụng tóc](https://dermnetnz.org/topics/hair-loss)
+- [Pseudopelade của Brocq](https://dermnetnz.org/topics/pseudopelade-of-brocq)
+- [Rối loạn lichenoid](https://dermnetnz.org/topics/lichenoid-disorders)
+- [Tác động tâm lý của rụng tóc](https://dermnetnz.org/topics/psychological-effects-of-hair-loss)
+
+### Các trang web khác
+
+- [Lichen planopilaris](https://www.bad.org.uk/pils/lichen-planopilaris/) — Thông tin bệnh nhân của Hiệp hội Da liễu Anh
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

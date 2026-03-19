@@ -1,0 +1,168 @@
+##### Mề đay ở trẻ em — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Mề đay ở trẻ em
+
+Danh mục:
+
+Phản ứng, Phát ban
+
+ICD-10:
+
+L50
+
+ICD-11:
+
+EB05
+
+SNOMED CT:
+
+126485001
+
+**[Phản ứng](https://dermnetnz.org/topics?category=Reactions) [Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Mề đay ở trẻ em**
+
+Tác giả: Natalie Allen, Sinh viên Y khoa, Đại học Auckland, Auckland, New Zealand. Biên tập viên trưởng DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập sao chép bởi Gus Mitchell/Maria McGivern. Tháng 4 năm 2019.
+
+[Giới thiệu](https://dermnetnz.org/topics/urticaria-in-children#Introduction%3Cbr%20/%3E) [Phân loại](https://dermnetnz.org/topics/urticaria-in-children#Classification%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/urticaria-in-children#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/urticaria-in-children#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/urticaria-in-children#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/urticaria-in-children#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/urticaria-in-children#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/urticaria-in-children#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/urticaria-in-children#Treatment)
+
+## Mề đay ở trẻ em là gì?
+
+[Mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions) đề cập đến một nhóm các tình trạng trong đó các vết sưng (mề đay) hoặc [phù mạch (sưng)](https://dermnetnz.org/topics/angioedema) phát triển trên da. Nó rất phổ biến ở trẻ em.
+
+Một vết sưng là một sự sưng nông, thường có màu nhạt hoặc màu da. Nó thường được bao quanh bởi một vùng ban đỏ và có thể kéo dài từ vài phút đến 24 giờ. Trẻ em thường sẽ phàn nàn về ngứa và đôi khi cảm giác nóng rát.
+
+[Phù mạch](https://dermnetnz.org/topics/angioedema) là sự sưng sâu hơn từ bên trong da hoặc màng nhầy. Nó thường trông đỏ và sưng phồng. Các khu vực phổ biến nhất cho phù mạch ở trẻ em là môi, lưỡi và mí mắt.
+
+![](https://dermnetnz.org/assets/Uploads/urticaria-051.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/urticaria-058.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/reactions/s/urticaria6.jpg)
+
+[Xem thêm hình ảnh về mề đay.](https://dermnetnz.org/topics/urticaria-images)
+
+## Mề đay ở trẻ em được phân loại như thế nào?
+
+Mề đay ở trẻ em có thể là [cấp tính](https://dermnetnz.org/topics/acute-urticaria) (thường biến mất trong vòng vài giờ đến vài ngày) hoặc [mãn tính](https://dermnetnz.org/topics/chronic-urticaria) (kéo dài hơn 6 tuần). Ở trẻ em, mề đay cấp tính phổ biến hơn nhiều so với mề đay mãn tính. Khoảng 40% trẻ em bị mề đay cấp tính cũng có [phù mạch](https://dermnetnz.org/topics/angioedema).
+
+Mề đay mãn tính có thể là [tự phát](https://dermnetnz.org/topics/chronic-spontaneous-urticaria) (khi các vết sưng xuất hiện mà không có kích thích cụ thể) hoặc [có thể gây ra](https://dermnetnz.org/topics/chronic-inducible-urticaria) (khi các vết sưng xuất hiện với một kích thích cụ thể).
+
+[Mề đay mãn tính có thể gây ra](https://dermnetnz.org/topics/chronic-inducible-urticaria) được phân loại theo các kích thích vật lý khác nhau, chẳng hạn như [chứng vẽ da](https://dermnetnz.org/topics/dermographism) (khi vuốt hoặc gãi da).
+
+## Những trẻ nào bị mề đay?
+
+Khoảng 15% tất cả trẻ em dưới 10 tuổi sẽ có ít nhất một lần bị [mề đay cấp tính](https://dermnetnz.org/topics/acute-urticaria). Nguy cơ này hơi cao hơn ở bé gái so với bé trai. Tuy nhiên, nếu một đứa trẻ bị dị ứng (có hen suyễn, [viêm da](https://dermnetnz.org/topics/dermatitis) và dị ứng), nguy cơ này khoảng 20%.
+
+## Nguyên nhân gây ra mề đay ở trẻ em là gì?
+
+Các vết sưng được gây ra bởi một số chất trung gian hóa học, chẳng hạn như histamine và cytokine, được giải phóng từ các tế bào viêm, bao gồm tế bào mast. Các chất trung gian này gây giãn mạch và rò rỉ chất lỏng vào các mô xung quanh để tạo ra sự đỏ và sưng của các vết sưng mề đay.
+
+Các kích thích của [mề đay cấp tính tự phát](https://dermnetnz.org/topics/acute-urticaria) có thể bao gồm:
+
+- Nhiễm virus (trong 40% trường hợp), chẳng hạn như nhiễm trùng đường hô hấp trên, [viêm gan virus](https://dermnetnz.org/topics/viral-hepatitis), hoặc [sốt tuyến (i](https://dermnetnz.org/topics/infectious-mononucleosis) [nfectious mononucleosis)](https://dermnetnz.org/topics/infectious-mononucleosis)
+- Nhiễm khuẩn, chẳng hạn như viêm xoang hoặc áp xe răng
+- [Dị ứng thực phẩm](https://dermnetnz.org/topics/food-allergy), thường xảy ra trong hoặc sau lần tiếp xúc đầu tiên với một loại thực phẩm cụ thể như trứng, sữa, đậu nành, [đậu phộng](https://dermnetnz.org/topics/peanut-allergy), và lúa mì
+- [Mề đay do thuốc](https://dermnetnz.org/topics/drug-induced-urticaria), chẳng hạn như do [kháng sinh](https://dermnetnz.org/topics/cutaneous-adverse-reactions-to-antibiotics) hoặc [thuốc chống viêm không steroid (NSAID)](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects)
+- [Vết đốt của ong hoặc ong bắp cày](https://dermnetnz.org/topics/bee-and-wasp-stings).
+
+Không có kích thích rõ ràng trong khoảng 50% trường hợp mề đay cấp tính. Điều này có thể được gọi là mề đay ‘vô căn’.
+
+[Mề đay mãn tính](https://dermnetnz.org/topics/chronic-urticaria) thường do tự miễn dịch hoặc nhiễm trùng mãn tính tiềm ẩn. Nó hiếm gặp ở trẻ em.
+
+[Mề đay có thể gây ra](https://dermnetnz.org/topics/chronic-inducible-urticaria) là do một kích thích trực tiếp, chẳng hạn như [chứng vẽ da](https://dermnetnz.org/topics/dermographism), [áp lực chậm](https://dermnetnz.org/topics/pressure-urticaria), [lạnh](https://dermnetnz.org/topics/cold-urticaria), [nóng](https://dermnetnz.org/topics/heat-urticaria), [ánh sáng mặt trời](https://dermnetnz.org/topics/solar-urticaria), [rung động](https://dermnetnz.org/topics/vibratory-urticaria), hoặc [tập thể dục](https://dermnetnz.org/topics/cholinergic-urticaria). Nó có liên quan đến [dị ứng](https://dermnetnz.org/topics/atopy) và mề đay mãn tính, nhưng cơ chế bệnh sinh chưa được hiểu rõ hoàn toàn.
+
+## Các đặc điểm lâm sàng của mề đay ở trẻ em là gì?
+
+Các vết sưng mề đay có thể xuất hiện trên bất kỳ phần nào của cơ thể và thường rất ngứa. Chúng có thể thay đổi kích thước từ kích thước của một đầu kim đến vài centimet đường kính. Chúng có màu trắng hoặc đỏ và có thể là cục bộ hoặc lan rộng. Các vết sưng thay đổi hình dạng và kích thước và mỗi vết kéo dài từ vài phút đến vài giờ.
+
+[Phù mạch](https://dermnetnz.org/topics/angioedema) thường cục bộ ở một khu vực duy nhất như tay, chân và bộ phận sinh dục. Nó thường ảnh hưởng đến khuôn mặt ở trẻ em. Trẻ có thể bị sưng lưỡi, mí mắt hoặc môi. Phù mạch thường đau hoặc nhức.
+
+[Mề đay có thể gây ra](https://dermnetnz.org/topics/chronic-inducible-urticaria) do kích thích vật lý thường xuất hiện trong vòng vài phút sau khi tiếp xúc và biến mất trong vòng chưa đầy một giờ. Các vết sưng sẽ cục bộ ở vị trí tiếp xúc. Phù mạch rất hiếm trong những trường hợp này.
+
+### Mề đay và phù mạch ở trẻ em
+
+![Phát ban mề đay cấp tính trên da màu](https://dermnetnz.org/assets/collection-O/Urticaria/urticaria-00007.jpg)
+
+Phát ban mề đay cấp tính trên da màu
+
+![Phát ban mề đay cấp tính trên da màu](https://dermnetnz.org/assets/collection-O/Urticaria/urticaria-00008.jpg)
+
+Phát ban mề đay cấp tính trên da màu
+
+![Phù mạch môi nghiêm trọng](https://dermnetnz.org/assets/collection/Angioedema/angioedema-0011.jpg)
+
+Phù mạch môi nghiêm trọng
+
+## Các biến chứng của mề đay ở trẻ em là gì?
+
+Mề đay thường tự giới hạn và sẽ tự biến mất. Tuy nhiên, nó có thể rất khó chịu cho trẻ do ngứa dữ dội. Thường không có hậu quả nghiêm trọng lâu dài cho trẻ em.
+
+Mề đay có thể là một phần của [phản vệ](https://dermnetnz.org/topics/anaphylaxis) (phản ứng dị ứng nghiêm trọng). Nếu trẻ cũng gặp khó khăn khi thở, thở khò khè, ngã quỵ, hoặc có vẻ không khỏe, cần tìm kiếm sự chăm sóc y tế khẩn cấp.
+
+## Mề đay ở trẻ em được chẩn đoán như thế nào?
+
+Mề đay thường được chẩn đoán bằng cách lấy tiền sử bệnh. Mề đay được đặc trưng bởi các vết sưng riêng lẻ biến mất hoặc thay đổi trong vòng 24 giờ. Trẻ nên được kiểm tra kỹ lưỡng để phát hiện các nguyên nhân có thể có.
+
+Nếu nghi ngờ [dị ứng thực phẩm](https://dermnetnz.org/topics/food-allergy) hoặc [dị ứng thuốc](https://dermnetnz.org/topics/drug-eruptions), có thể thỉnh thoảng sắp xếp [thử nghiệm chích da](https://dermnetnz.org/topics/skin-prick-testing) hoặc [xét nghiệm immunoglobulin E (IgE)](https://dermnetnz.org/topics/immunoglobulin-e-tests) để điều tra thêm.
+
+## Chẩn đoán phân biệt cho mề đay ở trẻ em là gì?
+
+Chẩn đoán phân biệt cho mề đay ở trẻ em bao gồm nhiều loại nhiễm trùng và tình trạng da.
+
+- [Vết cắn của côn trùng](https://dermnetnz.org/topics/arthropod-bites-and-stings) — chúng xuất hiện trên các vị trí tiếp xúc, chẳng hạn như vòng eo hoặc mắt cá chân, dưới dạng các cụm [mụn ngứa](https://dermnetnz.org/topics/papular-urticaria) hoặc vết sưng, thường có một mụn nước chứa đầy chất lỏng ở trung tâm. Các tổn thương kéo dài trong vài ngày hoặc lâu hơn.
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) — nó xuất hiện trên các khu vực tiếp xúc với [chất kích thích](https://dermnetnz.org/topics/irritant-contact-dermatitis) hoặc [dị ứng](https://dermnetnz.org/topics/contact-allergens) với các mảng không đều, đỏ, có mụn nước, có vảy, đôi khi sưng. [Viêm da](https://dermnetnz.org/topics/dermatitis) kéo dài trong nhiều ngày đến nhiều tuần, lâu hơn nhiều so với các vết sưng mề đay.
+- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme) — các mảng ban đỏ thường nằm ở các vị trí ngoại vi (tay, cánh tay, chân, mặt). Các tổn thương mục tiêu (một mô hình của các vòng đồng tâm) là đặc trưng, đôi khi có mụn nước ở trung tâm. Mỗi mảng kéo dài trong nhiều ngày đến nhiều tuần.
+- [Viêm mạch mề đay](https://dermnetnz.org/topics/urticarial-vasculitis) — điều này không phổ biến. Nó giống mề đay ngoại trừ các vết sưng kéo dài hơn 24 giờ và được theo sau bởi sự đổi màu giống như vết bầm.
+
+## Điều trị mề đay ở trẻ em là gì?
+
+Mề đay ở trẻ em được điều trị bằng [thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) không gây buồn ngủ, chẳng hạn như cetirizine. Điều này không chữa khỏi, nhưng thường kiểm soát ngứa và sự lan rộng của các vết sưng cho đến khi mề đay tự ổn định.
+
+Khuyến nghị liều lượng dựa trên các nhóm tuổi như sau:
+
+- Trẻ sơ sinh và trẻ nhỏ dưới 2 tuổi — 1 mL dung dịch uống cetirizine mỗi 4 kg hai lần mỗi ngày
+- Trẻ em từ 2–6 tuổi — 2,5 mL dung dịch uống cetirizine hai lần mỗi ngày
+- Trẻ em từ 6–12 tuổi — một viên cetirizine 10 mg mỗi ngày hoặc 10 mL dung dịch uống cetirizine mỗi ngày.
+
+Trong các trường hợp nghiêm trọng không đáp ứng với thuốc kháng histamine, có thể cho uống [prednisone](https://dermnetnz.org/topics/systemic-steroids) trong vài ngày.
+
+Trẻ em cũng có thể được khuyên tránh các kích thích như [thực phẩm](https://dermnetnz.org/topics/food-allergy) hoặc [thuốc](https://dermnetnz.org/topics/drug-eruptions), lạnh hoặc nóng.
+
+Ngứa có thể giảm bằng cách làm mát với quạt, túi đá, hoặc kem dưỡng ẩm.
+
+Nếu có [phản vệ](https://dermnetnz.org/topics/anaphylaxis) đe dọa tính mạng, nên tiêm [adrenaline](https://dermnetnz.org/topics/the-physiology-and-pharmacology-of-adrenaline) vào cơ.
+
+### Tài liệu tham khảo
+
+1. Saini S. Mề đay tự phát mãn tính: Biểu hiện lâm sàng, chẩn đoán, cơ chế bệnh sinh và lịch sử tự nhiên. UpToDate. Cập nhật ngày 25 tháng 10 năm 2018. Có sẵn tại: [www.uptodate.com/contents/chronic-spontaneous-urticaria-clinical-manifestations-diagnosis-pathogenesis-and-natural-history](https://www.uptodate.com/contents/chronic-spontaneous-urticaria-clinical-manifestations-diagnosis-pathogenesis-and-natural-history) (truy cập ngày 4 tháng 4 năm 2019)
+2. Shin M, Lee S. Tỷ lệ và nguyên nhân của mề đay ở trẻ em. Allergy Asthma Immunol Res 2017; 9: 189–90. DOI: 10.4168/aair.2017.9.3.189. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5352569/)
+3. Church MK, Weller K, Stock P, Maurer M. Mề đay tự phát mãn tính ở trẻ em: ngứa để hiểu biết. Pediatr Allergy Immunol 2011; 22: 1–8. DOI: 10.1111/j.1399-3038.2010.01120. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21261741)
+4. New Zealand Medicine Formulary for Children. Cetirizine hydrochloride. Tháng 4 năm 2019. Có sẵn tại: [https://nzfchildren.org.nz/nzf\_1840](https://nzfchildren.org.nz/nzf_1840) (truy cập ngày 1 tháng 4 năm 2019).
+5. Simons FER; Early Treatment of the Atopic Child (ETAC) Study Group. Phòng ngừa mề đay cấp tính ở trẻ nhỏ bị viêm da dị ứng. J Allergy Clin Immunol 2001; 107: 703–6. DOI: 10.1067/mai.2001.113866. [Journal](https://www.jacionline.org/article/S0091-6749(01)05657-3/abstract)
+
+### Trên DermNet
+
+- [Mề đay — tổng quan](https://dermnetnz.org/topics/urticaria-an-overview)
+- [Mề đay cấp tính](https://dermnetnz.org/topics/acute-urticaria)
+- [Mề đay tự phát mãn tính](https://dermnetnz.org/topics/chronic-spontaneous-urticaria)
+- [Mề đay mãn tính có thể gây ra](https://dermnetnz.org/topics/chronic-inducible-urticaria)
+- [Mề đay do thuốc](https://dermnetnz.org/topics/drug-induced-urticaria)
+- [Hình ảnh mề đay](https://dermnetnz.org/topics/urticaria-images)
+
+### Các trang web khác
+
+- [Mề đay](https://www.starship.org.nz/for-health-professionals/starship-clinical-guidelines/u/urticaria/) — Starship Child Health: Hướng dẫn lâm sàng của Starship
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

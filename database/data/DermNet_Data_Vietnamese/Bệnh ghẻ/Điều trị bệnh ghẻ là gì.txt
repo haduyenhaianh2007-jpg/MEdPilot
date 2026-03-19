@@ -1,0 +1,49 @@
+## Điều trị bệnh ghẻ là gì?
+
+### Biện pháp chung
+
+- Giặt ga trải giường, khăn tắm và quần áo đã mặc gần đây. Quần áo ngoài, chăn và mền nên được phơi thoáng trong 72 giờ.
+- Hút bụi đồ nội thất mềm nếu có thể, mặc dù điều này có thể có lợi ích hạn chế.
+- Cắt móng tay và làm sạch bất kỳ mảnh vụn nào dưới móng.
+
+### Biện pháp cụ thể
+
+Điều quan trọng cần lưu ý là tất cả những người tiếp xúc gần với trường hợp bệnh ghẻ đã được xác nhận nên hoàn thành liệu pháp diệt trừ, dù họ có triệu chứng hay không. Những người tiếp xúc có thể bị nhiễm nhưng không có triệu chứng trong vài tuần, do đó họ có thể tiếp tục lây nhiễm cho người khác và thậm chí tái nhiễm cho trường hợp ban đầu.
+
+#### Liệu pháp bôi ngoài da
+
+- Kem hoặc lotion 5% [permethrin](https://dermnetnz.org/topics/insecticides-and-the-skin) (diệt ve và diệt trứng) vẫn là liệu pháp hàng đầu.
+- Bôi lên toàn bộ cơ thể bao gồm mặt, cổ, da đầu và tai (hoặc theo chỉ dẫn khác) và để qua đêm từ 8–12 giờ. Cần bôi lại nếu tay bị rửa trong thời gian điều trị.
+- Việc bôi nên bao gồm dưới móng tay và giữa các ngón chân.
+- Điều trị nên được lặp lại sau 7–10 ngày.
+- Nếu trường hợp kháng permethrin, hoặc không có permethrin, các [thuốc trừ sâu](https://dermnetnz.org/topics/insecticides-and-the-skin) thay thế bao gồm benzyl benzoate 10–25% hoặc lotion nước malathion 0,5%.
+- Spinosad là một loại thuốc trừ sâu làm vườn bôi ngoài da và có hiệu quả chống lại bệnh ghẻ khi có sẵn.
+
+#### Liệu pháp uống
+
+- [Ivermectin](https://dermnetnz.org/topics/ivermectin) uống được chỉ định trong các trường hợp thất bại với liệu pháp bôi ngoài da, không thể tuân thủ liệu pháp bôi ngoài da, không tuân thủ liệu pháp bôi ngoài da, bùng phát trong các cơ sở, điều trị hàng loạt cho dân số, và bệnh ghẻ có vảy.
+- Lặp lại liều sau 2 tuần.
+- Dữ liệu mới nhất cho thấy ivermectin uống có hiệu quả tương đương với kem hoặc lotion 5% permethrin bôi ngoài da, tuy nhiên có thể tác dụng chậm hơn.
+- Theo hướng dẫn da liễu của Pháp (2024), ivermectin có thể là một lựa chọn cho trẻ em trên 2 tháng tuổi. Nó cũng có thể được sử dụng cho phụ nữ đang cho con bú và trong thai kỳ từ tam cá nguyệt thứ hai trở đi, nếu liệu pháp bôi ngoài da không hiệu quả.
+- Moxidectin uống chưa được cấp phép, nhưng là một tác nhân hiệu quả có khả năng giữ lại trên da tốt — nó có thể hiệu quả như một liệu pháp đơn lẻ và ngăn ngừa tái nhiễm.
+
+#### Lời khuyên thực tế cho bệnh nhân
+
+- Cung cấp hướng dẫn bằng văn bản.
+- Giải thích sự cần thiết phải tuân thủ hoàn toàn và đồng thời với liệu pháp bôi ngoài da.
+- Các thành viên trong gia đình nên chọn một buổi tối sớm, thuận tiện để được điều trị, thu thập chăn ga gối đệm và quần áo để giặt, và bôi liệu pháp bôi ngoài da trước khi mặc quần áo và làm lại giường.
+- Ngứa có thể kéo dài trong vài tuần, và điều này không đại diện cho nhiễm trùng dai dẳng hoặc thất bại điều trị.
+
+#### Ngứa sau khi bị ghẻ
+
+- Có thể kéo dài trong vài tuần
+- [Steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) có độ mạnh trung bình có thể được sử dụng và cần thiết trong 3–4 tuần, đặc biệt nếu bệnh nhân có phản ứng chàm lan rộng
+- [Thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) có ích trong một số trường hợp
+- Nên khuyên dùng chất làm mềm da và tránh xà phòng
+- Các nốt dai dẳng có thể cần [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) mạnh hoặc [steroid tiêm trong tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection).
+
+#### Bệnh ghẻ và thai kỳ
+
+- Kem hoặc lotion 5% permethrin được coi là an toàn trong thai kỳ và khi cho con bú.
+- Các chế phẩm bôi ngoài da thay thế bao gồm kem, thuốc mỡ, hoặc lotion lưu huỳnh 5–10%.
+- Ivermectin uống không được khuyến cáo trong thai kỳ.

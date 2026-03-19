@@ -1,0 +1,17 @@
+## Nguyên nhân gây ra bệnh gai đen (acanthosis nigricans) là gì?
+
+Nguyên nhân chính xác của bệnh gai đen vẫn chưa rõ ràng. Tuy nhiên, nó chủ yếu liên quan đến tình trạng kháng insulin, trong đó béo phì, tiểu đường và/hoặc các rối loạn chuyển hóa khác (ví dụ, [hội chứng chuyển hóa](https://dermnetnz.org/topics/metabolic-syndrome), [hội chứng buồng trứng đa nang](https://dermnetnz.org/topics/polycystic-ovary-syndrome), và [loạn dưỡng mỡ toàn thân](https://dermnetnz.org/topics/lipodystrophy)) cùng tồn tại. Insulin ở nồng độ cao đã được chứng minh là có thể vượt qua ranh giới giữa lớp bì và lớp biểu bì, và ở nồng độ cao có tác dụng kích thích tăng trưởng thông qua việc gắn kết với thụ thể yếu tố tăng trưởng giống insulin loại 1 (IGFR) trên tế bào sừng. Chính sự kích hoạt IGFR này kích thích sự phát triển của tế bào sừng và dẫn đến bệnh gai đen.
+
+Các biểu hiện ít phổ biến hơn của bệnh gai đen bao gồm:
+
+- Bệnh gai đen liên quan đến thuốc, đã được liên kết với [kem dưỡng axit nicotinic](https://dermnetnz.org/topics/nicotinamide), [thuốc mỡ axit fusidic](https://dermnetnz.org/topics/topical-fusidic-acid), insulin dưới da, thuốc tránh thai uống, [corticosteroid uống](https://dermnetnz.org/topics/systemic-steroids), hormone (như diethylstilbestrol và testosterone), triazinate, và aripiprazole
+- Bệnh gai đen di truyền, một tình trạng hiếm gặp do gen trội tự phát xuất hiện từ khi sinh hoặc trong thời thơ ấu và tiến triển cho đến tuổi dậy thì sau đó hoặc ổn định hoặc thoái lui. Nó là do đột biến trong gen thụ thể yếu tố tăng trưởng nguyên bào sợi 3 (FGFR3)
+- Bệnh gai đen tự miễn, đã được liên kết với [lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus), [hội chứng Sjögren](https://dermnetnz.org/topics/sjoegren-syndrome), [xơ cứng bì](https://dermnetnz.org/topics/scleroderma), và [viêm tuyến giáp Hashimoto](https://dermnetnz.org/topics/hypothyroidism)
+- Dị thường gai đen ở chi, một biểu hiện thường xảy ra ở các kiểu da tối màu và giới hạn ở khuỷu tay, đầu gối, và mặt lưng của bàn tay và bàn chân
+- Bệnh gai đen một bên (còn gọi là gai đen bẩm sinh), một genodermatosis trội tự phát hiếm gặp với các tổn thương xảy ra một bên dọc theo [đường Blaschko](https://dermnetnz.org/topics/blaschko-lines); nó có thể xuất hiện ở bất kỳ độ tuổi nào.
+
+Một biểu hiện gần đây được mô tả của các tổn thương giống bệnh gai đen ở những người có làn da tối màu, liên quan đến trán, má, bao gồm cả vùng má, và ngón tay cũng được tìm thấy có liên quan mạnh mẽ với béo phì và rối loạn chuyển hóa.
+
+Bệnh gai đen ác tính là một hội chứng cận ung thư hiếm gặp có khả năng do sự giải phóng các yếu tố tăng trưởng kích thích bởi các tế bào khối u và thường liên quan đến các bệnh ung thư đường tiêu hóa, đặc biệt là ung thư tuyến dạ dày (60%); các bệnh ung thư liên quan khác bao gồm ung thư biểu mô gan mật, [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma), [u ác tính](https://dermnetnz.org/topics/melanoma), và u Wilms. Khoang miệng bị ảnh hưởng trong 25–50% các trường hợp.
+
+[Lòng bàn tay tripe](https://dermnetnz.org/topics/tripe-palms) là một biến thể của bệnh gai đen ác tính với 90% liên quan đến ung thư nội tạng.

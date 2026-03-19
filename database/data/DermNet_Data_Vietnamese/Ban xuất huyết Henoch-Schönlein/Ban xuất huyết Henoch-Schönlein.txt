@@ -1,0 +1,143 @@
+##### Ban xuất huyết Henoch–Schönlein — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Ban xuất huyết dạng phản vệ, Ban xuất huyết Henoch–Schönlein, Ban xuất huyết dị ứng, Viêm mạch Immunoglobulin-A, Ban xuất huyết Henoch-Schönlein, Ban xuất huyết Henoch Schönlein
+
+Danh mục:
+
+Vấn đề mạch máu
+
+ICD-10:
+
+D69.0
+
+ICD-11:
+
+A44.92
+
+SNOMED CT:
+
+191306005
+
+**[Vấn đề mạch máu](https://dermnetnz.org/topics?category=Blood%20vessel%20problems)**
+
+# **Ban xuất huyết Henoch–Schönlein**
+
+Tác giả: Bác sĩ Todd Gunson, Bác sĩ Da liễu, Khoa Da liễu, Bệnh viện Greenlane, Auckland, New Zealand, 2007.
+
+[Nhân khẩu học](https://dermnetnz.org/topics/henoch-schoenlein-purpura#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/henoch-schoenlein-purpura#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/henoch-schoenlein-purpura#Clinical%20features%3Cbr%20/%3E) [Xét nghiệm](https://dermnetnz.org/topics/henoch-schoenlein-purpura#Tests%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/henoch-schoenlein-purpura#Treatment)
+
+## Ban xuất huyết Henoch–Schönlein là gì?
+
+Ban xuất huyết Henoch–Schönlein (HSP) là một dạng viêm mạch máu nhỏ hoặc [viêm mạch máu nhỏ ở da](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis), thường gặp nhất ở trẻ em. Đôi khi nó được gọi là ban xuất huyết dạng phản vệ.
+
+HSP là kết quả của viêm các mạch máu nhỏ trong da và các mô khác nhau trong cơ thể.
+
+HSP thường ảnh hưởng đến trẻ em, nhưng cũng có thể xảy ra ở người lớn. Các triệu chứng phổ biến nhất bao gồm phát ban viêm mạch, đau khớp và đau bụng. Nó có thể ảnh hưởng đến thận và trong một số trường hợp, dẫn đến tổn thương thận không thể phục hồi. Tuy nhiên, hầu hết các trường hợp tự khỏi mà không cần điều trị hoặc hậu quả lâu dài.
+
+## Ai bị ban xuất huyết Henoch–Schönlein?
+
+75% các trường hợp xảy ra ở trẻ em dưới 10 tuổi. Hầu hết các nhà nghiên cứu cho rằng nó phổ biến hơn ở các bé gái, mặc dù một số đã tìm thấy sự ưu thế nam hoặc cả hai giới đều bị ảnh hưởng như nhau. HSP có thể xảy ra ở người lớn và khi nó xảy ra, thường nghiêm trọng hơn và tổn thương thận phổ biến hơn so với trẻ em. Không có sự thiên vị chủng tộc nào được ghi nhận. Tỷ lệ mắc bệnh ở Vương quốc Anh là khoảng 20/100000 trẻ em (dưới 17 tuổi) mỗi năm và tỷ lệ mắc HSP được cho là tương tự ở New Zealand.
+
+15 đến 40% trẻ em có ít nhất một lần tái phát.
+
+## Nguyên nhân gây ra ban xuất huyết Henoch–Schönlein là gì?
+
+Mặc dù nguyên nhân chính xác của HSP chưa được biết, bằng chứng lâm sàng chỉ ra một nguyên nhân nhiễm trùng. Tỷ lệ mắc HSP ở trẻ em đạt đỉnh vào mùa thu và mùa đông. Nó thường xảy ra sau một nhiễm trùng đường hô hấp trên và được tìm thấy tập trung trong các gia đình. Vi khuẩn [streptococci](https://dermnetnz.org/topics/streptococcal-skin-infections) beta-tan huyết thường được tìm thấy trong mẫu ngoáy họng hoặc có huyết thanh học streptococcal dương tính trong xét nghiệm máu.
+
+Nhiều mối liên hệ khác đã được báo cáo, bao gồm cả thuốc. Bao gồm các thuốc ức chế ACE, chất đối kháng thụ thể angiotensin II, clarithromycin và thuốc chống viêm không steroid.
+
+Cơ chế cơ bản của viêm mạch máu nhỏ là sự lắng đọng của IgA trong thành mạch máu. Điều này dẫn đến viêm mạch leukocytoclastic. Một khiếm khuyết nhỏ của IgA có thể khiến người ta dễ phát triển HSP.
+
+## Các đặc điểm lâm sàng của ban xuất huyết Henoch–Schönlein là gì?
+
+![Ban xuất huyết cổ điển](https://dermnetnz.org/assets/Uploads/vascular/hsp1.jpg)
+
+Ban xuất huyết cổ điển
+
+![Sưng mắt cá chân (viêm khớp)](https://dermnetnz.org/assets/Uploads/vascular/hsp3.jpg)
+
+Sưng mắt cá chân (viêm khớp)
+
+![Cận cảnh phát ban xuất huyết với sự hình thành mụn nước (bọng nước)](https://dermnetnz.org/assets/Uploads/vascular/hsp2.jpg)
+
+Cận cảnh phát ban xuất huyết với sự hình thành mụn nước (bọng nước)
+
+![Ban xuất huyết Henoch-Schönlein](https://dermnetnz.org/assets/Uploads/vascular/s/hsp4.jpg)
+
+Ban xuất huyết Henoch-Schönlein
+
+![Ban xuất huyết Henoch-Schönlein](https://dermnetnz.org/assets/Uploads/vascular/s/hsp5.jpg)
+
+Ban xuất huyết Henoch-Schönlein
+
+![Ban xuất huyết Henoch-Schönlein](https://dermnetnz.org/assets/Uploads/vascular/s/hsp6.jpg)
+
+Ban xuất huyết Henoch-Schönlein
+
+Biểu hiện cổ điển của HSP là với một bộ bốn triệu chứng và dấu hiệu:
+
+- Phát ban
+- Viêm khớp
+- Đau bụng
+- Suy giảm chức năng thận.
+
+Các triệu chứng thường xuất hiện sau 2–3 tuần sốt, đau đầu, đau cơ/khớp hoặc đau bụng.
+
+Phát ban có mặt trong hầu hết các trường hợp. Nó thường bắt đầu như các đốm đỏ hoặc nốt (có thể có vẻ ngoài giống như ‘mề đay’) nhanh chóng chuyển thành các nốt nhỏ màu tím đậm (ban xuất huyết có thể sờ thấy) trong vòng 24 giờ đầu tiên. Các vị trí phổ biến nhất bị ảnh hưởng là chân dưới, mông, khuỷu tay và đầu gối. Phát ban đối xứng và thậm chí có thể trở nên lan rộng. Mụn nước và/hoặc loét có thể phát triển ở các khu vực bị ảnh hưởng.
+
+Viêm khớp có mặt trong 75% các trường hợp và thường liên quan đến một đến bốn khớp, đặc biệt là mắt cá chân và đầu gối. Nó có thể thoáng qua và di chuyển giữa các khớp khác nhau.
+
+Đau bụng có mặt trong một nửa đến ba phần tư bệnh nhân và xuất hiện trước phát ban ở một phần ba. Đau bụng có thể liên quan đến tiêu chảy và chảy máu từ ruột. Viêm tinh hoàn và lồng ruột là các biến chứng có thể xảy ra.
+
+Tổn thương thận được thấy trong lên đến 50% các trường hợp. Nó thường nhẹ và tự giới hạn, tuy nhiên, điều quan trọng là phải chẩn đoán và theo dõi vì suy giảm kéo dài có thể xảy ra. Nó thường xảy ra trong vòng vài ngày đến một tháng sau khi các triệu chứng khác bắt đầu. Khoảng 10% có vấn đề thận nghiêm trọng khi xuất hiện, 15% còn lại có bất thường tinh vi trong xét nghiệm nước tiểu của họ, và 1–5% tiến triển đến suy thận giai đoạn cuối lâu dài.
+
+Hiếm khi các cơ quan khác, như phổi, não và tim, bị ảnh hưởng.
+
+## Những xét nghiệm nào nên được thực hiện trong ban xuất huyết Henoch–Schönlein?
+
+Chẩn đoán HSP thường rõ ràng nếu các triệu chứng cổ điển có mặt.
+
+- Xét nghiệm máu và nước tiểu nên được thực hiện để tìm bất kỳ dấu hiệu nào của tổn thương thận. Các xét nghiệm này nên được lặp lại định kỳ ban đầu để đảm bảo không phát triển hoặc xấu đi tổn thương thận.
+- Huyết áp nên được đo cùng lúc.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) thường không cần thiết, đặc biệt là ở trẻ em, nhưng có thể được thực hiện để xác nhận chẩn đoán.
+
+## Điều trị ban xuất huyết Henoch–Schönlein là gì?
+
+Trong phần lớn các trường hợp, không cần điều trị cụ thể cho HSP và phát ban mờ dần trong một tuần. Các đợt tổn thương tái phát xảy ra trong 6–16 tuần tiếp theo ở lên đến một phần ba các trường hợp. Năm đến mười phần trăm có thể có bệnh kéo dài.
+
+- Thuốc chống viêm không steroid (ví dụ, ibuprofen) có hiệu quả trong việc giảm đau khớp và đau bụng.
+- Trong các trường hợp nghiêm trọng hơn, [steroid uống](https://dermnetnz.org/topics/systemic-steroids) thường được sử dụng.
+- Các lựa chọn khác bao gồm [dapsone](https://dermnetnz.org/topics/dapsone) hoặc [colchicine](https://dermnetnz.org/topics/colchicine).
+- Nếu có tổn thương thận đáng kể, steroid thường được kết hợp với các [thuốc ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) mạnh hơn hoặc [immunoglobulin tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin).
+
+### Tài liệu tham khảo
+
+- Da liễu. J Bolognia, JL Jorizzo, RP Rapini làm biên tập viên. Mosby 2003.
+- [www.uptodate.com](http://www.uptodate.com/)
+
+### Trên DermNet
+
+- [Viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- [Viêm mạch máu nhỏ ở da](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis)
+- [Phù xuất huyết cấp tính ở trẻ sơ sinh](https://dermnetnz.org/topics/acute-haemorrhagic-oedema-of-infancy)
+- [Giải thích về dị ứng](https://dermnetnz.org/topics/allergies-explained)
+- [Miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence)
+- [Dấu hiệu da của bệnh thấp khớp](https://dermnetnz.org/topics/skin-signs-of-rheumatic-disease)
+
+### Các trang web khác
+
+- [HSP (Ban xuất huyết Henoch-Schönlein)](http://www.kidshealth.org.nz/hsp-henoch-schonlein-purpura) — Kidshealth.org.nz
+- [Biểu hiện da của ban xuất huyết Henoch-Schönlein](http://emedicine.medscape.com/article/1083588-overview)— Medscape Reference
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ hiểu_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

@@ -1,0 +1,166 @@
+## Các loại dung dịch làm sạch vết thương
+
+Dung dịch làm sạch vết thương bao gồm nước, dung dịch muối sinh lý và các chất kháng khuẩn. Các hợp chất màu và thủy ngân hữu cơ được coi là lỗi thời.
+
+### Nước uống
+
+#### Ưu điểm
+
+- Nước uống có hồ sơ an toàn tuyệt vời.
+- Hiệu quả, tiết kiệm chi phí và dễ dàng tiếp cận.
+- Nước uống là một lựa chọn thay thế chấp nhận được khi nước vô trùng và dung dịch muối sinh lý không có sẵn.
+- Tỷ lệ nhiễm trùng vết thương khi sử dụng nước máy tương tự như khi sử dụng dung dịch muối sinh lý.
+
+#### Nhược điểm
+
+- Nước máy có thể gây nguy cơ nhiễm trùng và nên tránh sử dụng trong vết thương sâu, đặc biệt khi có sự tiếp xúc của xương hoặc gân.
+- Dung dịch không phải là dung dịch đẳng trương.
+
+### Nước vô trùng
+
+#### Ưu điểm
+
+- Nước vô trùng là một lựa chọn khi dung dịch muối sinh lý bị chống chỉ định hoặc không có sẵn.
+
+#### Nhược điểm
+
+- Nước vô trùng không gây sốt và không có tính chất kháng khuẩn.
+- Phần dung dịch chưa sử dụng trong các chai đã mở nên được loại bỏ.
+- Đây là dung dịch nhược trương không đệm với độ thẩm thấu (nồng độ các hạt hòa tan trên mỗi lít trong dung dịch) là 0 osmol/L; điều này có thể dẫn đến phù tế bào và vỡ.
+- Ngâm lâu trong nước có thể dẫn đến tăng dịch tiết vết thương, cần thay băng thường xuyên.
+- Nước vô trùng không thúc đẩy quá trình lành vết thương khi có sự hiện diện của [màng sinh học gây bệnh](https://dermnetnz.org/topics/bacterial-biofilm).
+- Tưới rửa bằng nước vô trùng có thể gây đau; có thể cần dùng thuốc giảm đau.
+
+### Dung dịch muối sinh lý (0,9% NaCl)
+
+#### Ưu điểm
+
+- Dung dịch muối sinh lý là dung dịch đẳng trương không can thiệp vào quá trình sửa chữa vết thương bình thường.
+- Nó có độc tính thấp so với các dung dịch làm sạch vết thương khác.
+- Không gây [phản ứng dị ứng](https://dermnetnz.org/topics/allergies-explained) hoặc thay đổi [hệ vi sinh vật bình thường của da](https://dermnetnz.org/topics/microorganisms-found-on-the-skin).
+- Tỷ lệ nhiễm trùng vết thương của dung dịch muối sinh lý tương tự như nước máy uống được.
+
+#### Nhược điểm
+
+- Dung dịch muối sinh lý không làm sạch hiệu quả các vết thương bẩn hoặc hoại tử.
+- Không có tính chất kháng khuẩn.
+- Phần dung dịch chưa sử dụng trong các chai đã mở nên được loại bỏ.
+
+### Dung dịch làm sạch vết thương kháng khuẩn
+
+Các hướng dẫn cũ đã không khuyến khích sử dụng các [dung dịch sát khuẩn](https://dermnetnz.org/topics/antiseptic) thông thường vì chúng làm suy giảm quá trình lành vết thương, giảm sức mạnh vết thương và tăng tỷ lệ nhiễm trùng.
+
+Ngược lại, các sản phẩm làm sạch kháng khuẩn phổ rộng mới có thể giảm sự xâm nhập của vi sinh vật và tỷ lệ nhiễm trùng, và một số trong số chúng thúc đẩy quá trình lành vết thương. Chúng có thể được sử dụng trong các vết thương cấp tính và mãn tính, vết thương sâu hoặc vết thương nông.
+
+### Axit axetic
+
+#### Ưu điểm
+
+- Axit axetic (giấm) rẻ tiền và dễ dàng có sẵn.
+- Hiệu quả chống lại [_Staphylococcus aureus_](https://dermnetnz.org/topics/staphylococcal-skin-infection), [MRSA](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus), [_Pseudomonas aeruginosa_](https://dermnetnz.org/topics/pseudomonas-skin-infections), và các vi khuẩn Gram âm khác.
+- Thúc đẩy quá trình lành vết thương.
+
+#### Nhược điểm
+
+- Axit axetic có thể gây rát khi áp dụng nếu dung dịch có nồng độ > 2% axit axetic trong nước (giấm nguyên chất thường có 5-8% axit axetic).
+
+### Chlorhexidine (0,05%)
+
+#### Ưu điểm
+
+- Chlorhexidine là dung dịch kháng khuẩn phổ rộng.
+- Ngăn chặn sự xâm nhập và lan truyền hệ thống của vi khuẩn, bao gồm MRSA (trừ bất kỳ sự xâm nhập sâu nào vào cơ).
+
+#### Nhược điểm
+
+- Chlorhexidine có thể gây kích ứng da.
+- Khi sử dụng như [nước súc miệng](https://dermnetnz.org/topics/mouthwash), có thể gây đổi màu răng.
+- Hiếm khi, nó có thể là chất gây mẫn cảm, gây [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis).
+- Ứng dụng quanh mắt có thể gây [viêm kết mạc](https://dermnetnz.org/topics/conjunctivitis) và loét giác mạc.
+- Không ảnh hưởng đến mycobacteria, bào tử vi khuẩn và một số virus nhất định, bao gồm poliovirus và adenovirus.
+- Chlorhexidine phụ thuộc vào pH.
+- Dịch cơ thể và nước máy có thể làm mất hoạt tính kháng khuẩn của nó.
+
+### Povidone iodine
+
+#### Ưu điểm
+
+- Povidone [iodine](https://dermnetnz.org/topics/iodine) (PVP-I), một phức hợp hóa học ổn định của polyvinylpyrrolidone và iodine, hữu ích cho các vết thương mở cấp tính như [vết cắn của người](https://dermnetnz.org/topics/human-bite) hoặc [động vật](https://dermnetnz.org/topics/animal-bite), vết đâm/chọc, và vết thương do súng bắn.
+- Là dung dịch kháng khuẩn phổ rộng cung cấp sự bảo vệ hạn chế cho nhiều loại mầm bệnh (ví dụ, [_S. aureus_](https://dermnetnz.org/topics/staphylococcal-skin-infection), [nấm da](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections), [nấm men](https://dermnetnz.org/topics/yeasts-on-human-skin), và [virus](https://dermnetnz.org/topics/viral-skin-infections)).
+- Một số nghiên cứu đã chứng minh tỷ lệ nhiễm trùng giảm trong các vết thương phẫu thuật khi sử dụng PVP-I.
+- Có thể hữu ích trong việc điều trị mô hạt quá mức.
+
+#### Nhược điểm
+
+- Povidone iodine là chất gây độc tế bào có thể làm chậm quá trình lành vết thương.
+- Có thể gây kích ứng, khô và đổi màu.
+- Là chất gây mẫn cảm và có tác động xấu đến tuyến giáp.
+- Povidone không phù hợp cho các vết thương mãn tính. Không sử dụng quá 7 ngày.
+
+### Hydrogen peroxide
+
+[Hydrogen peroxide (H202)](https://dermnetnz.org/topics/hydrogen-peroxide) hiện nay hiếm khi được sử dụng làm dung dịch làm sạch vết thương.
+
+#### Ưu điểm
+
+Khi sử dụng ở nồng độ đầy đủ, hydrogen peroxide có thể hoạt động như một chất làm sạch hóa học hiệu quả loại bỏ mảnh vụn và mô hoại tử khỏi bề mặt vết thương.
+
+#### Nhược điểm
+
+- Khuyến cáo tưới rửa bằng dung dịch muối sinh lý sau khi sử dụng [hydrogen peroxide](https://dermnetnz.org/topics/hydrogen-peroxide) ở nồng độ đầy đủ.
+- Hydrogen peroxide là chất gây độc tế bào và có thể can thiệp vào cân bằng nội môi tế bào và làm chậm quá trình lành và đóng vết thương.
+- Nên tránh sử dụng trong các vết thương quanh các đường xoang.
+
+### Sodium hypochlorite 0,4–0,5% (Dung dịch Dakin)
+
+- [Chất tẩy trắng](https://dermnetnz.org/topics/bleach-baths-in-patients-with-skin-infections) pha loãng có tính chất diệt khuẩn bao gồm trên [màng sinh học](https://dermnetnz.org/topics/bacterial-biofilm).
+- Sodium hypochlorite 0,4–0,5% (Dung dịch Dakin) được chỉ định trong [loét do áp lực](https://dermnetnz.org/topics/pressure-ulcer) với các vết thương hoại tử để giúp giảm và kiểm soát nhiễm trùng.
+- Có thể được sử dụng để rửa sạch các vết thương sâu và khoang.
+- Đã được sử dụng trên các khối u ung thư để kiểm soát nhiễm trùng.
+- Giảm mùi hôi.
+
+### Dung dịch siêu oxy hóa
+
+[Dung dịch siêu oxy hóa](https://dermnetnz.org/topics/superoxidised-solution) còn được gọi là nước siêu oxy hóa, dung dịch anolyte, nước điện phân và nước có tiềm năng oxy hóa. Đây là dung dịch được xử lý điện hóa từ nước và natri clorua (muối), tạo thành một hỗn hợp trung tính pH của axit hypochlorous và sodium hypochlorite.
+
+- Dung dịch siêu oxy hóa có thể được sử dụng trong tất cả các loại vết thương.
+- Giảm \[sự xâm nhập của vi khuẩn\](\[sitetree\_link,id=Loading, please wait...\]>), [màng sinh học](https://dermnetnz.org/topics/bacterial-biofilm), và viêm.
+- Tăng cường quá trình lành vết thương.
+- Không độc hại, không gây mẫn cảm, và không gây kích ứng.
+
+### Octenidine
+
+Dung dịch Octenidine được sử dụng cho các vết thương da nông và nên tránh sử dụng trong các vết thương gần các đường xoang.
+
+- Octenidine hiệu quả chống lại [_P. aeruginosa_](https://dermnetnz.org/topics/pseudomonas-skin-infections) và [_S. aureus_](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) màng sinh học.
+- Có thể được sử dụng để loại bỏ các sinh vật kháng đa thuốc.
+- Thúc đẩy quá trình lành vết thương và không gây mẫn cảm.
+
+### Polyhexamethylene biguanide/polyhexanide
+
+- Polyhexethylene biguanide (PHMB), còn được gọi là polyhexanide, là chất sát khuẩn được lựa chọn cho các vết thương mãn tính và bỏng bị xâm nhập và nhiễm trùng.
+- Là chất kháng khuẩn phổ rộng hiệu quả chống lại nhiều loại mầm bệnh, bao gồm [MRSA](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus), [_P. aeruginosa_](https://dermnetnz.org/topics/pseudomonas-skin-infections) và các vi khuẩn khác.
+- Các nghiên cứu đã chỉ ra rằng nó tăng tốc quá trình lành vết thương và giảm số lượng vi khuẩn.
+- Không gây kháng kháng sinh.
+- PHMB có độ an toàn lâm sàng tốt và được dung nạp tốt với độc tính tối thiểu.
+- [Dị ứng tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis) và [phản vệ](https://dermnetnz.org/topics/anaphylaxis) từ PHMB hiếm khi được báo cáo.
+- PHMB không can thiệp vào cân bằng nội môi tế bào vì nó không được hấp thụ bởi tế bào.
+
+### PHMB kết hợp với undecylenamidopropyl betaine
+
+Undecylenamidopropyl betaine là một chất hoạt động bề mặt (chất tẩy rửa) hiệu quả loại bỏ màng sinh học và mảnh vụn và ngăn ngừa tái nhiễm.
+
+#### Ưu điểm
+
+- Sự kết hợp của PHMB và betaine tăng cường hiệu quả kháng khuẩn và giảm độc tính tế bào.
+- Sự kết hợp này đã được chứng minh lâm sàng là hiệu quả hơn trong việc loại bỏ màng sinh học, mảnh vụn, mô hoại tử và vi khuẩn trong vết thương so với dung dịch muối sinh lý.
+- Phù hợp cho sử dụng lâu dài trên [bỏng nhiệt](https://dermnetnz.org/topics/burns-from-ointments), vì nó không được hấp thụ bởi các tế bào.
+- Cung cấp môi trường tối ưu cho việc sửa chữa vết thương.
+- Không giống như các [chất sát khuẩn](https://dermnetnz.org/topics/antiseptic) khác, nó không ức chế sự hình thành mô hạt.
+- Đã được chứng minh giảm thời gian lành, nhiễm trùng và viêm.
+- Thúc đẩy quá trình lành trong [loét chân do tĩnh mạch](https://dermnetnz.org/topics/stasis-ulcer) và [loét do áp lực](https://dermnetnz.org/topics/pressure-ulcer).
+- Cung cấp kiểm soát mùi.
+
+#### Nhược điểm
+
+- PHMB và betaine có thể gây kích ứng khi sử dụng lâu dài.

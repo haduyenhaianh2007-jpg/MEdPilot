@@ -1,0 +1,311 @@
+##### Intertrigo — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Erythema intertrigo, Eczema intertrigo, Viêm da bề mặt trên các bề mặt da đối diện
+
+Danh mục:
+
+Phát ban, Thuật ngữ
+
+ICD-10:
+
+L30.4, B37.2, L08.1, L40.8
+
+ICD-11:
+
+EK02.20, 1F23.12, 1F23.13, 1C44, EA80.1, EA80.2, EA90.52
+
+SNOMED CT:
+
+58759008, 238418005, 238411004, 238410003, 23856001, 266158001, 23860000, 402183009
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes) [Thuật ngữ](https://dermnetnz.org/topics?category=Terminology)**
+
+# **Intertrigo**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1998. Sửa đổi và cập nhật tháng 8 năm 2015. Cập nhật bởi Janet Dennis, tháng 11 năm 2018. Biên tập kỹ thuật: Mary Elaine Luther, Sinh viên Y khoa, Đại học Ross, Barbados. Biên tập viên trưởng DermNet: Adjunct A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập sao chép bởi Gus Mitchell. Tháng 1 năm 2020.
+
+[Giới thiệu](https://dermnetnz.org/topics/intertrigo#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/intertrigo#Demographics) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/intertrigo#Clinical%20features) [Nguyên nhân](https://dermnetnz.org/topics/intertrigo#Causes) [Điều tra](https://dermnetnz.org/topics/intertrigo#Investigations) [Điều trị](https://dermnetnz.org/topics/intertrigo#Treatment)
+
+## Intertrigo là gì?
+
+Intertrigo mô tả một phát ban ở các nếp gấp, chẳng hạn như sau tai, trong các nếp gấp của cổ, dưới cánh tay, dưới bụng nhô ra, ở háng, giữa mông, trong các kẽ ngón tay, hoặc trong các khoảng ngón chân. Mặc dù intertrigo có thể chỉ ảnh hưởng đến một nếp gấp da, nhưng thường liên quan đến nhiều vị trí. Intertrigo là dấu hiệu của viêm hoặc nhiễm trùng.
+
+## Ai bị intertrigo?
+
+Intertrigo có thể ảnh hưởng đến nam hoặc nữ ở bất kỳ độ tuổi nào. Intertrigo đặc biệt phổ biến ở những người thừa cân hoặc béo phì (xem [hội chứng chuyển hóa](https://dermnetnz.org/topics/metabolic-syndrome)).
+
+Các yếu tố góp phần khác là:
+
+- Xu hướng di truyền đối với bệnh da
+- [Hyperhidrosis](https://dermnetnz.org/topics/hyperhidrosis) (đổ mồ hôi quá mức)
+- Tuổi tác
+- [Tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- [Rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol).
+
+Ở trẻ sơ sinh, [viêm da tã](https://dermnetnz.org/topics/napkin-dermatitis) là một loại intertrigo chủ yếu xảy ra do da tiếp xúc với mồ hôi, nước tiểu và phân trong vùng tã.
+
+Intertrigo ở kẽ ngón chân có liên quan đến giày mũi kín hoặc giày chật. [Lymphoedema](https://dermnetnz.org/topics/lymphoedema) cũng là nguyên nhân gây ra intertrigo ở kẽ ngón chân.
+
+## Các đặc điểm lâm sàng của intertrigo là gì?
+
+Intertrigo có thể là cấp tính (mới xuất hiện), tái phát (tái diễn), hoặc mãn tính (kéo dài hơn sáu tuần). Hình thức và hành vi chính xác phụ thuộc vào nguyên nhân cơ bản.
+
+Da bị ảnh hưởng bởi intertrigo bị viêm, đỏ và khó chịu. Da bị ảnh hưởng có thể trở nên ẩm ướt và bị mài mòn, dẫn đến nứt nẻ và bong tróc.
+
+Intertrigo với nhiễm trùng [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) thứ phát (ví dụ, [pseudomonas](https://dermnetnz.org/topics/pseudomonas-skin-infections)) có thể gây ra mùi hôi.
+
+## Nguyên nhân gây ra intertrigo là gì?
+
+Intertrigo là do các yếu tố di truyền và môi trường.
+
+- Da ở nếp gấp có nhiệt độ bề mặt tương đối cao.
+- Độ ẩm từ mất nước không cảm giác và đổ mồ hôi không thể bay hơi do bị che khuất.
+- Ma sát từ chuyển động của da liền kề dẫn đến trầy xước.
+- Intertrigo dễ xảy ra hơn trong môi trường nóng và ẩm ướt.
+- [Tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus), [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol), và [hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) làm tăng khả năng bị intertrigo, đặc biệt là dạng nhiễm trùng.
+
+[Vi sinh vật](https://dermnetnz.org/topics/microorganisms-found-on-the-skin) (vi sinh vật thường trú trên da) trên da nếp gấp bao gồm _Corynebacterium_, các [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) khác, và [nấm men](https://dermnetnz.org/topics/yeasts-on-human-skin). Sự phát triển quá mức của vi sinh vật trong môi trường ấm ẩm có thể gây ra intertrigo.
+
+Intertrigo được phân loại thành nguồn gốc nhiễm trùng và viêm, nhưng chúng thường chồng chéo.
+
+- Nhiễm trùng có xu hướng là một bên và không đối xứng.
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) thường là hai bên và đối xứng, ảnh hưởng đến các nếp gấp của cổ, đầu gối và khuỷu tay.
+- Các rối loạn viêm khác cũng có xu hướng đối xứng ảnh hưởng đến nách, háng, dưới ngực và các nếp gấp bụng.
+
+### Nhiễm trùng gây ra intertrigo
+
+[Nấm candida](https://dermnetnz.org/topics/candidiasis-of-skin-folds): _Candida albicans_
+
+- Đặc trưng bởi sự phát triển nhanh chóng
+- Ngứa, ẩm ướt, bong tróc, da đỏ và trắng
+- Các sẩn và mụn mủ nhỏ bề mặt
+
+![Intertrigo do nhiễm nấm candida](https://dermnetnz.org/assets/Uploads/dermatitis/w/candida-046.jpg)
+
+Intertrigo do nhiễm nấm candida
+
+[Erythrasma](https://dermnetnz.org/topics/erythrasma): _Corynebacterium minutissimum_
+
+- Các mảng nâu dai dẳng
+- Vảy tối thiểu
+- Không có triệu chứng (không đau và không ngứa)
+
+![Erythrasma ở nách](https://dermnetnz.org/assets/Uploads/bacterial/erythrasma2.jpg)
+
+Erythrasma ở nách
+
+[Tinea](https://dermnetnz.org/topics/tinea): _Trichophyton rubrum_ \+ _T. interdigitale_
+
+- [Tinea cruris](https://dermnetnz.org/topics/tinea-cruris) (háng) và [bệnh nấm chân](https://dermnetnz.org/topics/athletes-foot) (giữa các ngón chân)
+- Lan chậm trong vài tuần đến vài tháng
+- Các mảng không đều
+- Bong tróc, vảy
+
+![Tinea cruris](https://dermnetnz.org/assets/Uploads/fungal/tincrur4.jpg)
+
+Tinea cruris
+
+[Impetigo](https://dermnetnz.org/topics/impetigo): _Staphylococcus aureus_ và _Streptococcus pyogenes_
+
+- Phát triển nhanh chóng
+- Mụn nước ẩm ướt và vảy trên nền đỏ
+- Dễ lây, do đó các thành viên khác trong gia đình cũng có thể bị ảnh hưởng
+
+![Impetigo dạng bọng nước](https://dermnetnz.org/assets/Uploads/bacterial/bull-impet.jpg)
+
+Impetigo dạng bọng nước
+
+[Nhọt](https://dermnetnz.org/topics/boil): _Staphylococcus aureus_
+
+- Phát triển nhanh chóng
+- Các sẩn và nốt nang lông rất đau
+- Mụn mủ hoặc áp xe trung tâm
+
+![Nhọt](https://dermnetnz.org/assets/Uploads/bacterial/boil2.jpg)
+
+Nhọt
+
+[Viêm nang lông](https://dermnetnz.org/topics/folliculitis): _Staphylococcus aureus_
+
+- Cấp tính hoặc mãn tính
+- Các sẩn đỏ đau bề mặt
+- Mụn mủ tập trung vào nang lông
+- Có thể bị kích thích bởi [cạo râu](https://dermnetnz.org/topics/shaving), [tẩy lông](https://dermnetnz.org/topics/waxing), [nhổ lông](https://dermnetnz.org/topics/epilation).
+
+![Viêm nang lông ở nách](https://dermnetnz.org/assets/Uploads/acne/folliculitis4.jpg)
+
+Viêm nang lông ở nách
+
+### Viêm da gây ra intertrigo
+
+[Vảy nến nếp gấp](https://dermnetnz.org/topics/flexural-psoriasis)
+
+- Các mảng đỏ mịn hoặc bóng được xác định rõ
+- Rất dai dẳng
+- Phổ biến ở các nếp gấp dưới vú và háng
+- Ảnh hưởng đối xứng
+- Có thể nứt (nứt) trong nếp gấp
+- Các mảng đỏ ở các vị trí khác có vảy
+
+![Vảy nến nếp gấp](https://dermnetnz.org/assets/Uploads/psorkai2.jpg)
+
+Vảy nến nếp gấp
+
+[Viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis)
+
+- Các mảng mỏng màu hồng cá không rõ ràng
+- Phổ biến ở các nếp gấp nách và háng
+- Mức độ nghiêm trọng dao động
+- Có thể không đối xứng
+- Thường không được chú ý
+- Các mảng đỏ trên mặt và da đầu có xu hướng bong tróc.
+
+![Intertrigo do viêm da tiết bã](https://dermnetnz.org/assets/Uploads/dermatitis/w/sebderm10.jpg)
+
+Intertrigo do viêm da tiết bã
+
+[Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+
+- Xuất hiện lần đầu ở trẻ sơ sinh
+- Phổ biến ở các nếp gấp khuỷu tay và đầu gối
+- Đặc trưng bởi các đợt bùng phát
+- Rất ngứa
+- Eczema cấp tính đỏ, phồng rộp, sưng
+- Eczema mãn tính khô, dày, có đường nét (lichen hóa).
+
+![Eczema nếp gấp](https://dermnetnz.org/assets/Uploads/dermatitis/w/atopic45.jpg)
+
+Eczema nếp gấp
+
+[Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis)
+
+- Cấp tính, tái phát hoặc mãn tính
+
+Các chất kích ứng bao gồm:
+
+- Dịch cơ thể: mồ hôi, nước tiểu
+- Ma sát do chuyển động và quần áo
+- Khô do [chất chống mồ hôi](https://dermnetnz.org/topics/antiperspirant)
+- [Xà phòng](https://dermnetnz.org/topics/soaps-and-cleansers)
+- Rửa quá mức.
+
+![Viêm da tiếp xúc kích ứng do nước tiểu. Viêm da tã ở người lớn](https://dermnetnz.org/assets/Uploads/dermatitis/w/napkin-dermatitis37.jpg)
+
+Viêm da tiếp xúc kích ứng do nước tiểu. Viêm da tã ở người lớn
+
+[Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+
+- Cấp tính hoặc tái phát
+- Chất gây dị ứng có thể là:
+
+  - Hương liệu, chất bảo quản hoặc thuốc trong [chất khử mùi](https://dermnetnz.org/topics/antiperspirant), khăn ướt hoặc sản phẩm khác
+  - Thành phần của đồ lót ([cao su](https://dermnetnz.org/topics/allergy-to-rubber-accelerators) trong dây thun, [niken](https://dermnetnz.org/topics/nickel-allergy) trong dây áo ngực).
+
+![Intertrigo do dị ứng tiếp xúc với benzocaine](https://dermnetnz.org/assets/Uploads/dermatitis/s/2486.jpg)
+
+Intertrigo do dị ứng tiếp xúc với benzocaine
+
+[Hidradenitis suppurativa](https://dermnetnz.org/topics/hidradenitis-suppurativa)
+
+- Rối loạn mãn tính
+- Các sẩn và nốt nang lông giống nhọt
+- Các xoang chảy mủ và sẹo
+
+![Intertrigo do hidradenitis suppurativa ở nách](https://dermnetnz.org/assets/Uploads/acne/hidradenitis7.jpg)
+
+Intertrigo do hidradenitis suppurativa ở nách
+
+[Bệnh Hailey-Hailey](https://dermnetnz.org/topics/benign-familial-pemphigus)
+
+- Các mụn nước nông đau đớn không liên tục nhanh chóng bị phá vỡ
+- Tình trạng di truyền hiếm gặp
+- Thường bắt đầu ở độ tuổi 20–40
+- Gây phiền toái nhất trong những tháng mùa hè
+
+![Intertrigo do bệnh Hailey-Hailey](https://dermnetnz.org/assets/Uploads/systemic/w/hailey-hailey.jpg)
+
+Intertrigo do bệnh Hailey-Hailey
+
+[Granular parakeratosis](https://dermnetnz.org/topics/granular-parakeratosis)
+
+- Phát ban vảy đỏ-nâu
+- Có thể ngứa
+- Hiếm gặp
+- Sinh thiết là cần thiết để chẩn đoán.
+
+![Granular parakeratosis](https://dermnetnz.org/assets/Uploads/Granular-parakeratosis-02.jpg)
+
+Granular parakeratosis
+
+[Bệnh Fox-Fordyce](https://dermnetnz.org/topics/fox-fordyce-disease)
+
+- Các sẩn nang lông hình vòm ở nách
+- Thường dai dẳng
+- Không có triệu chứng hoặc ngứa
+- Giảm tiết mồ hôi
+- Các vết xước và lichen hóa cuối cùng xảy ra do gãi.
+
+![Bệnh Fox-Fordyce ở nách](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/fox-fordyce5.jpg)
+
+Bệnh Fox-Fordyce ở nách
+
+Intertrigo ở kẽ ngón chân
+
+- Phổ biến ở những người mang giày chật
+- _[Pseudomonas aeruginosa](https://dermnetnz.org/topics/pseudomonas-skin-infections)_ là vi sinh vật phổ biến nhất
+- Intertrigo nhẹ ở kẽ ngón chân biểu hiện với đỏ và bong tróc ([bệnh nấm chân](https://dermnetnz.org/topics/athletes-foot))
+- Intertrigo mãn tính (lâu hơn sáu tháng) gây đau rát, tiết dịch, mài mòn, và không thể di chuyển các ngón chân
+- Biến chứng nghiêm trọng là [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis), thường lan đến mắt cá chân và đầu gối.
+
+![Bệnh nấm chân](https://dermnetnz.org/assets/Uploads/maceration.jpg)
+
+Bệnh nấm chân
+
+## Những điều tra nào nên được thực hiện?
+
+Điều tra có thể cần thiết để xác định nguyên nhân của intertrigo.
+
+- Một mẫu để [soi và nuôi cấy vi khuẩn](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections) (vi sinh học)
+- Một mẫu để [soi và nuôi cấy nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) (nấm học)
+- Một [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể được thực hiện để [mô bệnh học](https://dermnetnz.org/topics/dermatopathology) nếu tình trạng da không bình thường hoặc không đáp ứng với điều trị.
+
+## Điều trị intertrigo là gì?
+
+- Điều trị phụ thuộc vào nguyên nhân cơ bản nếu được xác định, và vào các vi sinh vật có mặt trong phát ban. Các kết hợp là phổ biến.
+- Kem kẽm oxit có thể được sử dụng cho viêm da tã hoặc viêm da tiếp xúc kích ứng liên quan đến tiểu tiện không tự chủ.
+- Hoạt động thể chất nên được theo sau bằng việc tắm và làm khô hoàn toàn các nếp gấp da. Máy sấy tóc ở chế độ mát là một phương pháp hiệu quả để làm khô nách và ngực.
+- Đổ mồ hôi có thể được giảm bằng kem hoặc bột [chất chống mồ hôi](https://dermnetnz.org/topics/antiperspirant).
+- [Nhiễm trùng vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) có thể được điều trị bằng [kháng sinh](https://dermnetnz.org/topics/antibiotics) bôi ngoài da như kem [fusidic acid](https://dermnetnz.org/topics/topical-fusidic-acid), thuốc mỡ [mupirocin](https://dermnetnz.org/topics/mupirocin), hoặc [kháng sinh](https://dermnetnz.org/topics/antibiotics) uống như flucloxacillin và [erythromycin](https://dermnetnz.org/topics/erythromycin).
+- [Nấm men](https://dermnetnz.org/topics/yeasts-on-human-skin) và [nấm](https://dermnetnz.org/topics/fungal-skin-infections) có thể được điều trị bằng [thuốc chống nấm bôi ngoài](https://dermnetnz.org/topics/topical-antifungal-medication) như kem clotrimazole và terbinafine hoặc [thuốc chống nấm uống](https://dermnetnz.org/topics/oral-antifungal-medication) như [itraconazole](https://dermnetnz.org/topics/itraconazole) hoặc [terbinafine](https://dermnetnz.org/topics/terbinafine).
+- Các bệnh da viêm thường được điều trị bằng kem [steroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid) có độ mạnh thấp như hydrocortisone. Các steroid mạnh hơn nên tránh trong các nếp gấp vì chúng có thể gây mỏng da, dẫn đến vết rạn ( [striae atrophicae](https://dermnetnz.org/topics/stretch-marks-striae)) và hiếm khi, loét. [Chất ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) như [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus) hoặc [kem pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) cũng có hiệu quả trong các nếp gấp da.
+
+### Tài liệu tham khảo
+
+- Janniger CK, Schwartz RA, Szepietowski JC, Reich A. Intertrigo và các nhiễm trùng da thứ phát phổ biến. Am Fam Physician 2005; 1; 72: 833–8. [Tạp chí](http://www.aafp.org/link_out?pmid=16156342)
+- Tüzün Y, Wolf R, Baglam S, Engin B. Viêm da tã (napkin): một bệnh da nếp gấp (intertriginous). Clin Dermatol 2015; 33: 477–82. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26051065)
+- De Britto LJ, Yuvaraj J, Kamaraj P, Poopathy S, Vijayalakshmi G. Các yếu tố nguy cơ cho intertrigo mãn tính của chân phù bạch huyết ở miền nam Ấn Độ: một nghiên cứu trường hợp-đối chứng. Int J Low Extrem Wounds 2015; 14: 377–83. doi: 10.1177/1534734615604289. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26353823)
+- Martín EG, Sánchez RM, Herrera AE, Umbert MP. Tacrolimus bôi ngoài để điều trị vảy nến trên mặt, bộ phận sinh dục, các vùng nếp gấp và các mảng trên cơ thể. J Drugs Dermatol 2006; 5: 334–6. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/16673800)
+- Weidner T, Tittelbach J, Illing T, Elsner P. Nhiễm trùng kẽ ngón chân do vi khuẩn gram âm–một đánh giá hệ thống. J Eur Acad Dermatol Venereol 2018; 32: 39–47. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29055132)
+
+### Trên DermNet
+
+- [Các bệnh và tình trạng da ảnh hưởng đến các nếp gấp cơ thể](https://dermnetnz.org/topics/skin-diseases-and-conditions-affecting-body-folds)
+- [Rối loạn da nghề nghiệp ở người nội trợ](https://dermnetnz.org/topics/occupational-skin-disorders-in-homemakers)
+
+### Các trang web khác
+
+- [Intertrigo](http://emedicine.medscape.com/article/1087691-overview) — Tham khảo Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

@@ -1,0 +1,56 @@
+## Phân loại u hắc tố
+
+### Các loại phụ của u hắc tố
+
+Năm 2018, Tổ chức Y tế Thế giới (WHO) đã sửa đổi phân loại u hắc tố, phân biệt chúng theo tổn thương do ánh nắng tích lũy (CSD), vị trí giải phẫu, dịch tễ học và dấu hiệu đột biến. Hiện nay bao gồm u hắc tố CSD thấp và cao, [u hắc tố desmoplastic](https://dermnetnz.org/topics/desmoplastic-melanoma), [u hắc tố Spitz](https://dermnetnz.org/topics/spitz-naevus), [u hắc tố acral](https://dermnetnz.org/topics/acral-lentiginous-melanoma), [u hắc tố niêm mạc](https://dermnetnz.org/topics/mucosal-melanoma), u hắc tố trong [nốt ruồi bẩm sinh](https://dermnetnz.org/topics/congenital-naevi), u hắc tố trong [nốt ruồi xanh](https://dermnetnz.org/topics/blue-naevus), và [u hắc tố uveal](https://dermnetnz.org/topics/ocular-melanoma).
+
+### Phân loại thông thường
+
+Phân loại hình thái truyền thống hơn theo mô bệnh học của u hắc tố, bao gồm các loại phụ:
+
+- [U hắc tố lan rộng bề mặt](https://dermnetnz.org/topics/superficial-spreading-melanoma) (~55-60% của tất cả các u hắc tố)
+- [U hắc tố nốt](https://dermnetnz.org/topics/nodular-melanoma) (~10-15% của tất cả các u hắc tố)
+- [U hắc tố lentigo maligna và u hắc tố lentiginous](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma) (ở các vị trí bị tổn thương do ánh nắng) (~10-15% của tất cả các u hắc tố)
+- [U hắc tố acral lentiginous](https://dermnetnz.org/topics/acral-lentiginous-melanoma) (ở lòng bàn chân, lòng bàn tay hoặc móng tay; <5% của tất cả các u hắc tố).
+
+Các biến thể ít phổ biến hơn bao gồm:
+
+- [U hắc tố desmoplastic](https://dermnetnz.org/topics/desmoplastic-melanoma) (~1-2% của tất cả các u hắc tố)
+- [U hắc tố không sắc tố](https://dermnetnz.org/topics/amelanotic-melanoma) (~2-20% của tất cả các u hắc tố)
+- [U hắc tố Spitzoid](https://dermnetnz.org/topics/spitzoid-melanoma)
+- [U hắc tố niêm mạc](https://dermnetnz.org/topics/mucosal-melanoma)
+- [U hắc tố tế bào hình thoi](https://dermnetnz.org/topics/spindle-cell-melanoma)
+- [U hắc tố mắt](https://dermnetnz.org/topics/ocular-melanoma).
+
+Các kết hợp cũng có thể xảy ra, ví dụ, u hắc tố nốt phát sinh trong u hắc tố lan rộng bề mặt.
+
+U hắc tố thường có nguồn gốc biểu mô, tức là bắt đầu từ da hoặc, ít thường xuyên hơn, màng nhầy. Tuy nhiên, rất hiếm khi, u hắc tố có thể bắt đầu trong một mô nội tạng như não (u hắc tố CNS nguyên phát) hoặc phía sau mắt.
+
+### Phân loại theo độ tuổi
+
+U hắc tố cũng có thể được phân loại theo mối quan hệ với độ tuổi.
+
+#### U hắc tố trẻ em (< 10 tuổi)
+
+- Cực kỳ hiếm (<4%)
+- Các yếu tố nguy cơ là di truyền, môi trường và ức chế miễn dịch do iatrogenic hoặc mắc phải
+- Hiếm khi liên quan đến tiếp xúc quá mức với ánh nắng
+- So với u hắc tố ở người lớn, chúng thường không có sắc tố (màu da, hồng hoặc đỏ), dạng nốt, chảy máu và loét.
+- Có thể phát sinh trong nốt ruồi bẩm sinh khổng lồ > 40 cm đường kính
+- Thường là loại u hắc tố spitzoid thiếu các đặc điểm ABCD thông thường (xem bên dưới)
+
+#### U hắc tố khởi phát sớm
+
+- Phổ biến hơn ở phụ nữ so với nam giới
+- Loại phụ lâm sàng phổ biến nhất là [lan rộng bề mặt](https://dermnetnz.org/topics/superficial-spreading-melanoma)
+- Liên quan đến nhiều nốt ruồi sắc tố
+- Thường thấy ở chi dưới
+- Thường có đột biến gen BRAF V600E
+- Liên quan đến tiếp xúc với ánh nắng gián đoạn
+
+#### U hắc tố khởi phát muộn
+
+- Phổ biến hơn ở nam giới so với phụ nữ
+- Loại phụ lâm sàng phổ biến nhất là [lentigo maligna](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma)
+- Thường xảy ra ở đầu và cổ
+- Liên quan đến tiếp xúc với ánh nắng suốt đời tích lũy

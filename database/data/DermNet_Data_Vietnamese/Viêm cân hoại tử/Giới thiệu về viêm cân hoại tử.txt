@@ -1,0 +1,29 @@
+##### Viêm cân hoại tử — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Viêm cơ hoại tử, Viêm mô tế bào hoại tử, Bệnh ăn thịt người, Hoại thư liên cầu khuẩn tan huyết, Loét Meleney, Hoại thư da cấp tính, Hoại thư bệnh viện, Viêm cân mủ, Viêm mô tế bào hoại tử hiệp đồng
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+M72.6, I96, A48.0, N49.3
+
+ICD-11:
+
+1B71.Z, 1B71.0, 1B71.1, 1B71.2, 1B71.Y, 1C16
+
+SNOMED CT:
+
+52486002, 449900006, 402926000, 722893002, 238309000, 398318005, 4141000119104, 80466000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Viêm cân hoại tử**
+
+Tác giả: Vanessa Ngan, Nhà văn nhân viên, 2003. Cập nhật bởi Tiến sĩ Jannet Gomez, Sinh viên sau đại học về Da liễu Lâm sàng, Đại học Queen Mary London, Vương quốc Anh; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, Tháng 2 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/necrotising-fasciitis#Introduction%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/necrotising-fasciitis#Causes%3Cbr%20/%3E) [Sinh lý bệnh](https://dermnetnz.org/topics/necrotising-fasciitis#Pathophysiology%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/necrotising-fasciitis#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/necrotising-fasciitis#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/necrotising-fasciitis#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/necrotising-fasciitis#Outcome)

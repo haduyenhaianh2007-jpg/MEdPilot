@@ -1,0 +1,29 @@
+##### Viêm da tiết bã nhờn — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Gàu, Chàm tiết bã, Vảy gàu, Pityriasis capitis, Pityriasis simplex capilliti
+
+Danh mục:
+
+Phát ban
+
+ICD-10:
+
+L21, L21.0, L21.1, L21.8
+
+ICD-11:
+
+EA81.Z, 1C62.1, 9A06.71, EA81.1, EA81.0, EA81.Y, EA40.0, EA40.00, EA40.01, EA40.02, EA87.2, 1C62.1
+
+SNOMED CT:
+
+50563003, 156329007, 200776003, 25847004, 402206006, 62742006, 400201008, 231797007, 111188005, 238565002, 238566001, 40221009
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Viêm da tiết bã nhờn**
+
+Tác giả: Tiến sĩ Nusrat Gaffoor Bholah, Khoa Da liễu Bệnh viện Broadgreen, Liverpool, Vương quốc Anh, tháng 3 năm 2022; Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1997. Cập nhật bởi Tiến sĩ Jannet Gomez, tháng 10 năm 2017; cập nhật nhỏ thêm tháng 7 năm 2024.
+
+[Giới thiệu](https://dermnetnz.org/topics/seborrhoeic-dermatitis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/seborrhoeic-dermatitis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/seborrhoeic-dermatitis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/seborrhoeic-dermatitis#Clinical%20features%3Cbr%20/%3E) [Biến thể theo loại da](https://dermnetnz.org/topics/seborrhoeic-dermatitis#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/seborrhoeic-dermatitis#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/seborrhoeic-dermatitis#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/seborrhoeic-dermatitis#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/seborrhoeic-dermatitis#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/seborrhoeic-dermatitis#Outcome)

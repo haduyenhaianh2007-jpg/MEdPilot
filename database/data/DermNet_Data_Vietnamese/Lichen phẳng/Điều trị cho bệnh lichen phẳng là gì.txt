@@ -1,0 +1,35 @@
+## Điều trị lichen phẳng là gì?
+
+### Biện pháp chung
+
+- Tránh xà phòng và gel tắm có thể làm trầm trọng thêm tình trạng bong tróc.
+- Sử dụng [chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) thường xuyên.
+- [Thuốc kháng histamin gây buồn ngủ](https://dermnetnz.org/topics/antihistamines) có thể giúp giảm ngứa về đêm khó chịu.
+
+### Điều trị cụ thể
+
+Điều trị không phải lúc nào cũng cần thiết vì lichen phẳng trên da có thể tự giới hạn và mục tiêu điều trị là quản lý [ngứa](https://dermnetnz.org/topics/pruritus). Các phương pháp điều trị tại chỗ cho bệnh da hoặc niêm mạc có triệu chứng bao gồm:
+
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) mạnh (bao gồm [băng dán chứa steroid](https://dermnetnz.org/topics/steroid-impregnated-tape))
+- [Chất ức chế calcineurin tại chỗ](https://dermnetnz.org/topics/calcineurin-inhibitors), [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus), và [kem pimecrolimus](https://dermnetnz.org/topics/pimecrolimus)
+- [Retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids)
+- [Tiêm steroid trong tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection).
+
+Điều trị toàn thân cho lichen phẳng lan rộng hoặc bệnh cục bộ nghiêm trọng thường bao gồm một liệu trình 1 đến 3 tháng [steroid toàn thân (ví dụ, prednisone)](https://dermnetnz.org/topics/systemic-steroids), đồng thời bắt đầu một tác nhân khác từ danh sách sau:
+
+- [Acitretin](https://dermnetnz.org/topics/acitretin)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Quang trị liệu](https://dermnetnz.org/topics/phototherapy).
+
+Thành công theo kinh nghiệm được báo cáo từ các liệu trình dài của kháng sinh như [metronidazole](https://dermnetnz.org/topics/metronidazole), sulfasalazine, thuốc chống nấm (như [griseofulvin](https://dermnetnz.org/topics/griseofulvin)), và [chất ức chế JAK](https://dermnetnz.org/topics/janus-kinase-inhibitors). [Lichen planopilaris](https://dermnetnz.org/topics/lichen-planopilaris) được báo cáo cải thiện với pioglitazone và [tetracyclines](https://dermnetnz.org/topics/tetracycline).
+
+Trong lichen phẳng actinicus, nên tránh quang trị liệu vì các tổn thương thường được kích hoạt bởi ánh sáng mặt trời. [Bảo vệ khỏi ánh nắng,](https://dermnetnz.org/topics/sun-protection) bao gồm việc sử dụng [kem chống nắng,](https://dermnetnz.org/topics/topical-sunscreen-agents) là một phần thiết yếu của điều trị.
+
+Trong lichen phẳng miệng, có ít bằng chứng về việc sử dụng [apremilast](https://dermnetnz.org/topics/apremilast). Điều trị thành công lichen phẳng miệng và da với [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) đã được báo cáo trước đây. [Tildrakizumab](https://dermnetnz.org/topics/tildrakizumab) đã cho thấy kết quả tích cực trong lichen phẳng miệng ăn mòn trong một nghiên cứu trường hợp đơn lẻ.
+
+Trong các trường hợp lichen phẳng miệng ảnh hưởng đến nướu và niêm mạc má với dị ứng tiếp xúc với thủy ngân, lichen phẳng có thể biến mất khi thay thế các miếng trám bằng vật liệu composite. Nếu lichen phẳng không do dị ứng thủy ngân, việc loại bỏ miếng trám amalgam rất khó có khả năng dẫn đến chữa khỏi.
+
+Để biết thêm thông tin, xem [lichen phẳng miệng](https://dermnetnz.org/topics/oral-lichen-planus) và [lichen phẳng ăn mòn](https://dermnetnz.org/topics/erosive-lichen-planus).

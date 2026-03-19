@@ -1,0 +1,71 @@
+## Số E cho chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel
+
+### Bảng 5. Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel (chủ yếu là E400s)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Số E** | **Tên** | **Mô tả** | **Ví dụ sử dụng** |
+| E322 | Lecithin | \- Loại chất béo hoặc hợp chất lipid có trong tự nhiên ở tất cả các sinh vật sống, bảo vệ chống lại sự lắng đọng cholesterol<br>\- Lòng đỏ trứng là nguồn lecithin phong phú, nhưng thương mại, hầu hết được lấy từ đậu nành<br>\- Được sử dụng như chất chống oxy hóa và chất nhũ hóa | \- Có trong sô cô la và các sản phẩm sô cô la, sữa bột, bơ thực vật và đồ ăn nhẹ khoai tây |
+| E400 | Axit alginic | \- Chất nhũ hóa, chất ổn định, chất tạo gel và chất làm đặc được chiết xuất từ tảo nâu | \- Thường được thêm vào kem, món tráng miệng tức thì và bánh pudding |
+| E401 | Natri alginate | \- Muối của axit alginic với các chức năng tương tự (xem E400) | \- Xem E400 (axit alginic) |
+| E402 | Kali alginate | \- Muối của axit alginic với các chức năng tương tự (xem E400) | \- Xem E400 (axit alginic) |
+| E403 | Amoni alginate | \- Muối của axit alginic với các chức năng tương tự (xem E400) | \- Xem E400 (axit alginic) |
+| E404 | Canxi alginate | \- Muối của axit alginic với các chức năng tương tự (xem E400) | \- Xem E400 (axit alginic) |
+| E405 | Propane-1,2-diol alginate; propylene glycol alginate (PGA) | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel<br>\- Este được tạo từ axit alginic (E400) và \[propylene glycol\](/topics/contact-allergy-to-propylene-glycol) (E1520) |  |
+| E406 | Agar | \- Keo tự nhiên được chiết xuất từ tảo biển<br>\- Không tiêu hóa nên hoạt động như một nguồn chất xơ thực phẩm<br>\- Cũng hoạt động như chất ổn định và chất tạo gel | \- Được sử dụng trong thịt hộp, men thịt và trong kem |
+| E407 | Carrageenan (rêu Ireland) | \- Keo tự nhiên có trong tảo đỏ<br>\- Được sử dụng như chất nhũ hóa, chất ổn định và chất tạo gel | \- Có trong kem<br>\- Thay thế cho gelatin |
+| E407a | Tảo eucheuma đã qua chế biến | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E410 | Keo đậu châu chấu; keo carob | \- Chiết xuất tự nhiên từ hạt cây Carob<br>\- Tương tự như E407 | \- Thêm vào kem và súp<br>\- Carob là chất thay thế không chứa caffeine cho ca cao và sô cô la<br>\- Được sử dụng trong đồ uống, kẹo và sản phẩm nướng |
+| E412 | Keo guar (keo đậu cụm) | \- Keo hạt tự nhiên từ một cây thuộc họ đậu<br>\- Được sử dụng như chất làm đặc và chất ổn định | \- Thêm vào nước sốt đóng chai, súp, kem và món tráng miệng đông lạnh |
+| E413 | Tragacanth | \- Keo tự nhiên thu được từ một cây thuộc họ đậu<br>\- Được sử dụng như chất ổn định, chất nhũ hóa và chất làm đặc<br>\- Được sử dụng để ngăn chặn sự kết tinh của đường | \- Tương tự như E412 và trong kẹo |
+| E414 | Keo acacia; keo arabic | \- Tương tự như E413 | \- Tương tự như E413 |
+| E415 | Keo xanthan | \- Được tạo ra từ quá trình lên men carbohydrate bởi vi khuẩn<br>\- Được sử dụng như chất nhũ hóa, chất ổn định và chất làm đặc | \- Thêm vào kem và nước sốt đóng chai |
+| E416 | Keo karaya | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E417 | Keo tara | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E418 | Keo gellan | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E425 | Konjac | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E426 | Hemicellulose đậu nành | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E427 | Keo cassia | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E432 | Polyoxyethylene sorbitan monolaurate; Polysorbate 20 | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E433 | Polyoxyethylene sorbitan mono-oleate; Polysorbate 80 | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E434 | Polyoxyethylene sorbitan monopalmitate; Polysorbate 40 | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E435 | Polyoxyethylene sorbitan monostearate; Polysorbate 60 | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel<br>\- Được chuẩn bị từ sorbitol (E420) | \- Bánh mì và sản phẩm nướng |
+| E436 | Polyoxyethylene sorbitan tristearate; Polysorbate 65 | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E440a | Pectin | \- Tự nhiên có trong trái cây, rễ và thân cây | \- Được sử dụng như chất ổn định và chất tạo gel<br>\- Thêm vào mứt, thạch và sốt bạc hà |
+| E440b | Pectin amid hóa | \- Pectin được xử lý hóa học sử dụng như chất nhũ hóa và chất tạo gel | \- Mứt và thạch |
+| E442 | Amoni phosphatide | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E444 | Sucrose acetate isobutyrate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E445 | Este glycerol của nhựa gỗ | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E460 | Cellulose | \- Phần xơ của thành tế bào thực vật được sử dụng như chất làm đầy | \- Được sử dụng trong bánh mì giàu chất xơ và sản phẩm ít calo |
+| E461 | Methyl cellulose | \- Được chiết xuất từ cellulose với các tính chất tương tự | \- Được sử dụng trong thực phẩm giảm cân |
+| E462 | Ethyl cellulose | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E463 | Hydroxypropyl cellulose | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E464 | Hydroxypropyl methyl cellulose | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E465 | Ethyl methyl cellulose | \- Được chiết xuất từ cellulose với các tính chất tương tự | \- Thêm vào bánh trái cây và nước sốt đóng chai |
+| E466 | Carboxymethyl cellulose | \- Được chiết xuất từ cellulose với các tính chất tương tự | \- Được sử dụng trong kem, sản phẩm kem và hỗn hợp bánh phô mai |
+| E468 | Carboxymethyl cellulose natri liên kết chéo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E469 | Carboxymethyl cellulose thủy phân bằng enzyme | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E470a | Muối natri, kali và canxi của axit béo | \- Chất nhũ hóa, chất ổn định và chất chống vón cục được sản xuất tổng hợp | \- Khoai tây chiên và đồ ăn nhẹ khoai tây |
+| E470b | Muối magiê của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E471 | Mono- và diglyceride của axit béo | \- Sản phẩm bình thường của quá trình tiêu hóa chất béo nhưng được chuẩn bị tổng hợp | \- Thường được thêm vào sữa bột, súp gói, bánh, khoai tây chiên, đồ ăn nhẹ khoai tây, bánh mì, sản phẩm nướng và bơ thực vật |
+| E472a | Este axit acetic của mono- và diglyceride của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E472b | Este axit lactic của mono- và diglyceride của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E472c | Este axit citric của mono- và diglyceride của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E472d | Este axit tartaric của mono- và diglyceride của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E472e | Este axit mono- và diacetyltartaric của mono- và diglyceride của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E472f | Este axit acetic và tartaric hỗn hợp của mono- và diglyceride của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E473 | Este sucrose của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E474 | Sucroglyceride | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E475 | Este polyglycerol của axit béo | \- Sản phẩm tổng hợp của E471 được sử dụng như chất nhũ hóa và chất ổn định | \- Bánh pudding và bánh phô mai gói |
+| E476 | Polyglycerol polyricinoleate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E477 | Este propane-1,2-diol của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E479b | Dầu đậu nành oxy hóa nhiệt tương tác với mono- và diglyceride của axit béo | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E481 | Natri stearoyl-2-lactylate | \- Được chuẩn bị tổng hợp từ axit lactic<br>\- Được sử dụng như chất ổn định và chất nhũ hóa | \- Đồ ăn nhẹ khoai tây |
+| E482 | Canxi stearoyl-2-lactylate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E483 | Stearyl tartrate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E491 | Sorbitan monostearate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E492 | Sorbitan tristearate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E493 | Sorbitan monolaurate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E494 | Sorbitan monooleate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E495 | Sorbitan monopalmitate | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |
+| E1103 | Invertase | \- Chất nhũ hóa, chất ổn định, chất làm đặc và chất tạo gel |  |

@@ -1,0 +1,190 @@
+##### U máu trẻ em: Định nghĩa và sinh bệnh học — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Định nghĩa và sinh bệnh học của u máu tăng sinh trẻ em, U máu trẻ sơ sinh: Nó là gì?, Nốt dâu tây: Định nghĩa và sinh bệnh học, Nốt mạch máu trên da: Nó là gì?
+
+Danh mục:
+
+Vấn đề mạch máu, Chẩn đoán và kiểm tra
+
+ICD-10:
+
+Q82.5, D18.0, D18.00, D18.01
+
+ICD-11:
+
+2E81.2Y, 2E81.20, 2E81.21
+
+SNOMED CT:
+
+83343001, 56975005
+
+**[Vấn đề mạch máu](https://dermnetnz.org/topics?category=Blood%20vessel%20problems) [Chẩn đoán và kiểm tra](https://dermnetnz.org/topics?category=Diagnosis%20and%20testing)**
+
+# **U máu trẻ em: Định nghĩa và sinh bệnh học**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1997. Cập nhật 2012. Sửa đổi và cập nhật bởi Bác sĩ Arun Gangakhedkar, Chuyên gia Nhi khoa, Waitemata DHB, Auckland, New Zealand. Biên tập bởi Gus Mitchell. Tháng 1 năm 2021.
+
+[Giới thiệu](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis#Clinical%20features) [Chẩn đoán](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis#Differential%20diagnoses)
+
+## U máu trẻ em là gì?
+
+U máu trẻ em, còn được gọi là nốt dâu tây, là khối u da mạch máu lành tính phổ biến nhất ở trẻ em. Nó được phát hiện trong vài tuần đầu đời.
+
+![U máu trẻ em, mặt](https://dermnetnz.org/assets/Uploads/vascular/cap-haem4-s.jpg)
+
+U máu trẻ em, mặt
+
+![U máu trẻ em](https://dermnetnz.org/assets/Uploads/site-age-specific/ear/proliferative-haemangioma.jpg)
+
+U máu trẻ em
+
+![](https://dermnetnz.org/assets/Uploads/vascular/s/haeman5.jpg)
+
+## Ai mắc u máu trẻ em?
+
+U máu trẻ em được tìm thấy ở 1–2% trẻ sơ sinh, và lên đến 10–12% ở trẻ 1 tuổi trong các trẻ em da trắng. Nó ít phổ biến hơn ở các dân tộc không phải da trắng. Các bé gái thường bị ảnh hưởng nhiều hơn các bé trai (3:1).
+
+Các yếu tố nguy cơ phát triển u máu trẻ em bao gồm:
+
+- Cân nặng khi sinh thấp làm tăng nguy cơ 40% cho mỗi 500g giảm cân nặng khi sinh. U máu trẻ em ảnh hưởng đến 1 trong 4 trẻ sinh non nặng dưới 1000g.
+- Các yếu tố từ mẹ mang lại nguy cơ tăng bao gồm: tuổi mẹ cao, điều trị vô sinh, mang thai nhiều (ví dụ, sinh đôi, sinh ba), tiền sản giật, và nhau tiền đạo.
+
+## Nguyên nhân gây ra u máu trẻ em là gì?
+
+Nguồn gốc từ nhau thai cho u máu trẻ em được đề xuất do biểu hiện protein GLUT1. Nguồn gốc mạch máu bào thai được đề xuất do sự hiện diện của dấu ấn nguyên thủy CD133 từ tĩnh mạch chủ bào thai.
+
+Sự điều hòa tế bào gốc mạch máu bị lỗi liên quan đến các tế bào tiền thân nội mô (EPC), hoặc các yếu tố ngoại sinh như thiếu oxy và rối loạn trường mạch máu phát triển có thể ảnh hưởng đến sự phát triển của các dị tật mạch máu.
+
+## Đặc điểm lâm sàng của u máu trẻ em là gì?
+
+U máu trẻ em thường là đơn độc và phần lớn nằm ở vùng đầu và cổ (60%). Sự tham gia của các cơ quan nội tạng thường được chỉ định bởi nhiều tổn thương da. Các đặc điểm lâm sàng được xác định bởi độ sâu của tổn thương, kiểu phân bố và giai đoạn phát triển.
+
+### Độ sâu
+
+- Tổn thương **nông** trong lớp bì trên có màu đỏ tươi, không mạch đập, không đau, là các nốt sần và mảng, và ấm khi chạm vào.
+- Tổn thương **sâu** trong lớp bì sâu hơn và mô dưới da trước đây được gọi là u máu hang. Chúng có màu da hoặc xanh, không mạch đập, không đau, và ấm khi chạm vào. So với tổn thương nông, những tổn thương này có xu hướng xuất hiện muộn hơn và có giai đoạn phát triển muộn.
+- **Hỗn hợp**: có đặc điểm của cả hai dạng nông và sâu.
+
+![U máu trẻ em nông](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/capillary.jpg)
+
+U máu trẻ em nông
+
+![U máu trẻ em sâu](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/cavernous.jpg)
+
+U máu trẻ em sâu
+
+![U máu trẻ em hỗn hợp](https://dermnetnz.org/assets/manualthumbnails/vascular/img/cav-haem.jpg)
+
+U máu trẻ em hỗn hợp
+
+### Kiểu phân bố
+
+- **Tập trung** (77%) — tổn thương đơn độc, riêng biệt, hình tròn hoặc dạng mảng.
+- **Phân đoạn** (18%) — các mảng trong phân bố giải phẫu hoặc phát triển thường liên quan đến các biến chứng cục bộ hoặc dị tật cấu trúc và tiếp tục phát triển vượt quá 6 và đôi khi 9 tháng tuổi (3%).
+- **Đa tiêu điểm** (3%) — nhiều tổn thương riêng biệt phân bố trên hơn một vị trí giải phẫu.
+- **Không xác định** — các tổn thương không rõ ràng là tập trung hay phân đoạn.
+
+![U máu trẻ em tập trung](https://dermnetnz.org/assets/Uploads/vascular/haeman1.jpg)
+
+U máu trẻ em tập trung
+
+![U máu trẻ em phân đoạn](https://dermnetnz.org/assets/Uploads/phaces-2.jpg)
+
+U máu trẻ em phân đoạn
+
+### Giai đoạn phát triển
+
+Hầu hết các u máu trẻ em cho thấy sự phát triển nhanh chóng trong 3 tháng đầu với sự ngừng phát triển vào khoảng 5 tháng tuổi, sau đó giảm dần trong vài năm. Sự tiến triển có thể được mô tả trong các giai đoạn hình thái khác nhau.
+
+- **Giai đoạn tiền triệu, sơ khai, hoặc báo trước**: Tổn thương tiền thân có thể là một mảng đỏ giới hạn hoặc mảng thiếu máu cục bộ nghịch lý (mảng báo hiệu); có giãn mao mạch với quầng thiếu máu cục bộ, đổi màu giống vết bầm xanh hoặc thiếu máu; hoặc có thể là sưng mờ.
+- **Giai đoạn ban đầu** (1–3 tuần tuổi): Mất kết cấu da điển hình với độ dày tăng lên và xuất hiện cứng lại vào 2–4 tuần tuổi.
+- **Giai đoạn tăng sinh** (1–3 tháng tuổi): Cứng, không nén được, đỏ tươi với sự thâm nhập và phát triển bề mặt chủ yếu là ngoại sinh.
+- **Giai đoạn trưởng thành (giai đoạn ổn định)**: Các tổn thương đỏ thẫm, gồ ghề, đạt kích thước tối đa vào sinh nhật đầu tiên. Sự thoái hóa và tăng sinh có thể thấy trong cùng một tổn thương.
+- **Giai đoạn thoái hóa hoặc thoái triển (nhiều năm)**: Màu đỏ tươi chuyển sang bề mặt xám xỉn liên quan đến sự phẳng, mềm và co lại từ trung tâm ra ngoại vi. Trong khi giai đoạn xám là dấu hiệu của sự thay đổi thoái triển, u máu trẻ em màu trắng có thể là dấu hiệu của loét sắp xảy ra. Giai đoạn thoái triển nhanh nhất được thấy từ 1–4 năm và khoảng 50% tổn thương thoái triển vào 5 tuổi, 70% vào 7 tuổi, và 90% vào 9 tuổi.
+
+![U máu trẻ em nông trên da đầu](https://dermnetnz.org/assets/Uploads/vascular/cap-haem1-s.jpg)
+
+U máu trẻ em nông trên da đầu
+
+![U máu trẻ em nông bắt đầu thoái triển](https://dermnetnz.org/assets/Uploads/vascular/cap-haem2-s.jpg)
+
+U máu trẻ em nông bắt đầu thoái triển
+
+![U máu trẻ em nông, thoái triển thêm](https://dermnetnz.org/assets/Uploads/vascular/cap-haem3-s.jpg)
+
+U máu trẻ em nông, thoái triển thêm
+
+U máu trẻ em với sự phát triển tối thiểu hoặc bị ngừng (IH-MAG) có sự phát triển tối thiểu hoặc không đáng kể trên 25% diện tích tổn thương, xuất hiện dưới dạng các mảng giãn mao mạch có hoặc không có nốt sần, thiếu giai đoạn tăng sinh đáng kể. Điều này có thể bị nhầm lẫn với vết bớt rượu vang \[xem [Dị dạng mạch máu mao mạch](https://dermnetnz.org/topics/capillary-vascular-malformation)\]. Đôi khi những tổn thương này có thể là phân đoạn với các liên kết hội chứng. Hai phần ba số tổn thương này được thấy trên các chi dưới.
+
+## U máu trẻ em được chẩn đoán như thế nào?
+
+U máu trẻ em thường là chẩn đoán lâm sàng và các xét nghiệm không được chỉ định thường xuyên. Các xét nghiệm có thể được xem xét nếu chẩn đoán không chắc chắn, để xác định phạm vi và liên kết, hoặc theo dõi phản ứng với liệu pháp.
+
+Các xét nghiệm có thể bao gồm:
+
+- Siêu âm Doppler
+- MRI cho các liên kết giải phẫu nghi ngờ như [PHACE](https://dermnetnz.org/topics/phace-syndrome), SACRAL, [Hội chứng LUMBAR và PELVIS](https://dermnetnz.org/topics/pelvis-and-lumbar-syndromes)
+- Nội soi thanh quản để điều tra tiếng thở rít có hoặc không có tổn thương râu
+- Đối với sự tham gia nội tạng — xét nghiệm chức năng tuyến giáp và gan, siêu âm bụng, MRI hoặc siêu âm đầu, hoặc siêu âm tim
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) cho thấy hình thái mạch đồng nhất với một lớp ngoài của tế bào cơ trơn và lớp lót bên trong của tế bào nội mô chứa các thể Weibel-Palade vi ống điển hình
+- Nhuộm hóa mô miễn dịch cho GLUT1 xác nhận chẩn đoán u máu trẻ em, mặc dù GLUT1 cũng dương tính trong u mạch máu ác tính, u nội mô biểu mô, u mạch máu và u máu dạng mụn cóc. Nhuộm âm tính trong u máu bẩm sinh và các dị dạng mạch máu khác.
+
+## Chẩn đoán phân biệt cho u máu trẻ em là gì?
+
+- Dị dạng mạch máu — có mặt từ khi sinh và tồn tại mà không có giai đoạn tăng sinh hoặc thoái triển.
+- Khối u mạch máu — bao gồm u máu bẩm sinh, [u hạt sinh mủ](https://dermnetnz.org/topics/pyogenic-granuloma), u mạch búi.
+- Khối u xâm lấn cục bộ — u nội mô mạch máu dạng Kaposi, [sarcoma Kaposi](https://dermnetnz.org/topics/kaposi-sarcoma).
+- Khối u ác tính — [u mạch máu ác tính](https://dermnetnz.org/topics/angiosarcoma).
+
+![Sarcoma Kaposi](https://dermnetnz.org/assets/Uploads/vascular/w/vascular-lesions-02.jpg)
+
+Sarcoma Kaposi
+
+![Dị dạng mạch máu](https://dermnetnz.org/assets/Uploads/vascular/vascular-malformation13.jpg)
+
+Dị dạng mạch máu
+
+![U mạch máu ác tính](https://dermnetnz.org/assets/Uploads/vascular/w/vascular-lesions-03.jpg)
+
+U mạch máu ác tính
+
+\[xem thêm [U máu trẻ em: Biến chứng và điều trị](https://dermnetnz.org/topics/infantile-haemangioma-complications-and-treatment)\]
+
+### Thư mục
+
+- Darrow DH, Greene AK, Mancini AJ, Nopper AJ. Chẩn đoán và quản lý u máu trẻ em. Pediatrics. 2015;136(4):e1060-104. doi:10.1542/peds.2015-2485. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26416931/)
+- Gelmetti C. Vết bớt mạch máu: Một thế giới ẩn sau một từ. Indian J Paediatr Dermatol. 2018;19:1–8. doi:10.4103/ijpd.IJPD\_124\_17. [Journal](https://www.ijpd.in/article.asp?issn=2319-7250;year=2018;volume=19;issue=1;spage=1;epage=8;aulast=Gelmetti)
+- Greenberger S, Bischoff J. Sinh bệnh học của u máu trẻ em. Br J Dermatol. 2013;169(1):12–9. doi:10.1111/bjd.12435. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23668474/)
+- Harter N, Mancini AJ. Chẩn đoán và quản lý u máu trẻ em ở trẻ sơ sinh. Pediatr Clin North Am. 2019;66(2):437–59. doi:10.1016/j.pcl.2018.12.011. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30819347/)
+- Higgins EM, Glover MT. Các bệnh da và u máu ở trẻ sơ sinh. Trong: Griffiths C, Barker J, Bleiker T, Chalmers R, Creamer D (eds). Rook’s Textbook of Dermatology, 9th edn. Wiley Blackwell, 2016: 117.16-23.
+- Soliman YS, Khachemoune A. U máu trẻ em: hiểu biết hiện tại và các lựa chọn điều trị. Dermatol Online J. 2018;24(9):13030/qt5jt8q9km. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30677824/)
+
+### Trên DermNet
+
+- [Dị dạng mạch máu mao mạch](https://dermnetnz.org/topics/capillary-vascular-malformation)
+- [U máu trẻ em: Biến chứng và điều trị](https://dermnetnz.org/topics/infantile-haemangioma-complications-and-treatment)
+- [Hội chứng PELVIS và LUMBAR](https://dermnetnz.org/topics/pelvis-and-lumbar-syndromes)
+- [Hội chứng PHACE](https://dermnetnz.org/topics/phace-syndrome)
+- [Sự tăng sinh mạch máu và bất thường của mạch máu](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels)
+
+### Các trang web khác
+
+- [U máu trẻ em](https://www.starship.org.nz/guidelines/infantile-haemangioma-ih/) — Starship.org.nz
+- [Quỹ U máu và Vết bớt mạch máu](https://birthmark.org/)
+- [Tổ chức Quốc gia về Dị tật Mạch máu](https://emedicine.medscape.com/article/1083849-overview)
+- [U máu trẻ em](https://emedicine.medscape.com/article/1083849-overview) — Tham khảo Medscape
+- [U máu trẻ sơ sinh](https://www.bad.org.uk/pils/haemangioma-of-infancy/) — Hiệp hội Da liễu Anh
+- [U máu: Tài liệu hướng dẫn cho bệnh nhân](https://pedsderm.net/for-patients-families/patient-handouts/) — Hiệp hội Da liễu Nhi khoa
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết khác được đề xuất
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

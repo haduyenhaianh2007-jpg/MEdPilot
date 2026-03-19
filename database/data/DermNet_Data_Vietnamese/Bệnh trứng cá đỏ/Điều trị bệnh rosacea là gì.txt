@@ -1,0 +1,93 @@
+## Điều trị bệnh rosacea là gì?
+
+Mặc dù không có cách chữa khỏi bệnh rosacea, các triệu chứng có thể được kiểm soát bằng các biện pháp lối sống, can thiệp y tế và thủ thuật sau đây.
+
+### Biện pháp chung
+
+Tất cả bệnh nhân mắc bệnh rosacea nên được giáo dục về chăm sóc da và các biện pháp lối sống chung.
+
+#### Lời khuyên về lối sống
+
+- Khuyến khích bệnh nhân ghi lại nhật ký triệu chứng để hỗ trợ xác định các yếu tố kích thích:
+
+  - Các yếu tố kích thích phổ biến bao gồm thức ăn cay, nhiệt độ nóng/lạnh (tắm nước nóng), tập thể dục, tiếp xúc với ánh nắng mặt trời, sản phẩm mỹ phẩm, thuốc (những loại gây giãn mạch), rượu, trái cây và rau quả, sữa, sản phẩm thịt ướp
+- Tránh các yếu tố kích thích đã được xác định.
+
+#### Lời khuyên về chăm sóc da chung
+
+- [Dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) thường xuyên
+- Sử dụng [sữa rửa mặt](https://dermnetnz.org/topics/soaps-and-cleansers) nhẹ nhàng không cần kê đơn
+  - Sữa rửa mặt dựa trên chất tẩy rửa tổng hợp nhẹ thay vì xà phòng truyền thống do nguy cơ kích ứng
+- Sử dụng [kem chống nắng vật lý](https://dermnetnz.org/topics/topical-sunscreen-agents) (tức là, oxit kẽm/oxit titan) với SPF ≥ 30
+
+  - Cung cấp bảo vệ phổ rộng chống lại tia UV và ánh sáng nhìn thấy
+  - Có thể được dung nạp tốt hơn so với kem chống nắng hóa học
+- Tránh tẩy tế bào chết
+- Tránh các sản phẩm bôi ngoài da có cồn
+- Tránh sử dụng steroid bôi ngoài da vì chúng có thể làm trầm trọng thêm tình trạng
+- Mỹ phẩm có màu xanh lá cây hữu ích để giảm thiểu sự xuất hiện của đỏ da.
+
+#### Cân nhắc tâm lý xã hội
+
+- Đánh giá gánh nặng tâm lý xã hội của bệnh nhân và cân nhắc giới thiệu hỗ trợ tâm lý khi cần thiết.
+
+### Biện pháp cụ thể
+
+Các phương pháp điều trị hiện có cho bệnh rosacea có thể rất hiệu quả — tuy nhiên, chúng thường chỉ nhắm vào một đặc điểm. Điều này có nghĩa là cần kết hợp các liệu pháp khi bệnh nhân có nhiều đặc điểm và trong trường hợp rosacea nặng.
+
+Nhiều phương pháp điều trị sau đây là liệu pháp hàng đầu được khuyến nghị bởi hội đồng ROSCO năm 2019:
+
+#### Ban đỏ thoáng qua (đỏ mặt)
+
+- Chất chủ vận alpha-adrenergic (bôi ngoài da [brimonidine](https://dermnetnz.org/topics/brimonidine), oxymetazoline bôi ngoài da) — chúng thường chỉ được sử dụng không thường xuyên cho các dịp đặc biệt, vì sử dụng liên tục có thể dẫn đến đỏ mặt hồi phục khi ngừng
+- [Thuốc chẹn beta đường uống (carvedilol)](https://dermnetnz.org/topics/beta-blockers)
+- Clonidine đường uống có thể giảm đỏ mặt
+- Chất đối kháng CGRP (erenumab)
+- [Gabapentin](https://dermnetnz.org/topics/gabapentin)
+
+#### Ban đỏ dai dẳng
+
+- Chất chủ vận alpha-adrenergic (bôi ngoài da brimonidine, oxymetazoline bôi ngoài da, như trên)
+- [Liệu pháp ánh sáng xung cường độ cao](https://dermnetnz.org/topics/intense-pulsed-light-therapy)
+- [Laser mạch máu](https://dermnetnz.org/topics/lasers-in-dermatology)
+
+#### Sẩn/mụn mủ viêm
+
+- [Axit azelaic bôi ngoài da](https://dermnetnz.org/topics/azelaic-acid) (chỉ dành cho nhẹ/vừa)
+- [Ivermectin bôi ngoài da](https://dermnetnz.org/topics/ivermectin)
+- [Metronidazole bôi ngoài da](https://dermnetnz.org/topics/metronidazole) (chỉ dành cho nhẹ/vừa)
+- [Erythromycin bôi ngoài da](https://dermnetnz.org/topics/erythromycin)
+- [Tetracycline đường uống](https://dermnetnz.org/topics/tetracycline) (oxytetracycline, lymecycline, doxycycline)
+- Macrolide đường uống ([erythromycin](https://dermnetnz.org/topics/erythromycin), azithromycin)
+- [Metronidazole đường uống](https://dermnetnz.org/topics/metronidazole)
+- [Isotretinoin đường uống](https://dermnetnz.org/topics/isotretinoin) thường ở liều thấp (chỉ dành cho bệnh khó chữa)
+
+#### [Giãn mao mạch](https://dermnetnz.org/topics/telangiectasia)
+
+- [Điện phân](https://dermnetnz.org/topics/electrosurgery)
+- Liệu pháp ánh sáng xung cường độ cao
+- Laser mạch máu
+
+#### **Rosacea thần kinh**
+
+- Gabapentin
+- Amitriptyline
+- Thuốc chẹn beta-adrenergic đường uống
+- Cân nhắc phẫu thuật nội soi cắt giao cảm
+
+#### Phyma
+
+- Nếu viêm lâm sàng: doxycycline, isotretinoin
+- Nếu không viêm lâm sàng: các phương pháp vật lý để loại bỏ mô dư thừa và định hình lại cấu trúc (ví dụ, [laser CO2 ablative](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment), [laser erbium](https://dermnetnz.org/topics/eryag-laser-treatment), tần số vô tuyến, phẫu thuật giảm bớt).
+
+#### [Rosacea mắt](https://dermnetnz.org/topics/ocular-rosacea)
+
+- Quản lý chung
+  - Tăng cường tiêu thụ axit béo omega-3 trong chế độ ăn uống
+  - Chườm ấm
+  - Làm sạch nhẹ nhàng lông mi/mí mắt để giải phóng bã nhờn bị kẹt trong tuyến meibomian
+- Quản lý y tế hàng đầu
+  - Nếu nhẹ-vừa: azithromycin bôi ngoài da/ [chất ức chế calcineurin bôi ngoài da](https://dermnetnz.org/topics/calcineurin-inhibitors)
+  - Nếu nặng: azithromycin, doxycycline.
+
+Để biết thêm thông tin, xem [Rosacea mắt](https://dermnetnz.org/topics/ocular-rosacea).

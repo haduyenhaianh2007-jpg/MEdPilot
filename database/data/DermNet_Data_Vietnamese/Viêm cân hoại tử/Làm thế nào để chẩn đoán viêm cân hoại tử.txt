@@ -1,0 +1,60 @@
+## Chẩn đoán viêm cân hoại tử như thế nào?
+
+Một lịch sử bệnh lý và khám lâm sàng kỹ lưỡng là rất quan trọng để chẩn đoán viêm cân hoại tử. Cần đặc biệt chú ý khi khám cho bệnh nhân suy giảm miễn dịch, vì biểu hiện triệu chứng/dấu hiệu có thể không điển hình.
+
+- Nhiễm trùng do Clostridial và Streptococcal do vết thương chấn thương hoặc phẫu thuật thường biểu hiện nhanh chóng hơn so với viêm cân hoại tử do các vi sinh vật khác.
+- Thử nghiệm ngón tay dương tính là dấu hiệu đặc trưng cao cho viêm cân hoại tử. Một vết rạch dọc 2 cm được thực hiện trên da bị ảnh hưởng và ngón tay trỏ được đẩy vào mô. Thử nghiệm dương tính nếu ngón tay đi qua mô dưới da mà không có sự kháng cự.
+- Mô không bám chặt vào cân khi rạch vị trí.
+- Mô hoại tử/mủ chảy ra từ các mặt phẳng cân.
+- Dịch màu nước rửa bát rỉ ra từ da.
+- Thông thường, viêm cân hoại tử không chảy máu.
+
+### Khám sàng lọc trong phòng thí nghiệm
+
+- Số lượng bạch cầu (WBC) > 15.4 x 10^9/L
+- Natri huyết thanh < 135 mmol/L
+- Protein C phản ứng (CRP) tăng (> 16 mg/dL)
+- Mức độ creatinine kinase (CK) tăng (> 600 U/L)
+- Urea > 18 mg/dL.
+
+Cấy máu, sinh thiết mô sâu \[xem [Bệnh lý viêm cân hoại tử](https://dermnetnz.org/topics/necrotising-fasciitis-pathology)\], và nhuộm Gram giúp xác định vi sinh vật gây bệnh và hướng dẫn lựa chọn kháng sinh. Nếu phát hiện _Staphylococcus aureus_, cần thực hiện kiểm tra độ nhạy cảm với MRSA. Cấy máu thường âm tính với các loài Clostridial.
+
+Cấy nấm nên được thực hiện ở bệnh nhân suy giảm miễn dịch và chấn thương.
+
+### Hình ảnh
+
+X-quang, CT scan và MRI xác định các khu vực có sự tích tụ dịch, viêm và khí trong các mô mềm.
+
+### Chỉ số nguy cơ trong phòng thí nghiệm cho viêm cân hoại tử
+
+Chỉ số Nguy cơ trong Phòng thí nghiệm cho Viêm Cân Hoại Tử (LRINEC) là công cụ hỗ trợ phân biệt viêm cân hoại tử với các nhiễm trùng mô khác dựa trên sáu thông số. Điểm số ≥ 6 ủng hộ viêm cân hoại tử. Thử nghiệm này không phù hợp cho tất cả các trường hợp và không hoàn toàn đáng tin cậy.
+
+#### Thông số LRINEC
+
+CRP (mg/dL) ≥15:
+
+- 4 điểm
+
+Số lượng WBC (10^9/L)
+
+- <15: 0 điểm
+- 15–25: 1 điểm
+- >25: 2 điểm
+
+Hemoglobin (g/L):
+
+- >135: 0 điểm
+- 110–135: 1 điểm
+- <110: 2 điểm
+
+Natri huyết thanh (mmol/L) <135:
+
+- 2 điểm
+
+Creatinine (umol/L) >141:
+
+- 2 điểm
+
+Glucose (mmol/L) >10:
+
+- 1 điểm

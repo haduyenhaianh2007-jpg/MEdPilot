@@ -1,0 +1,33 @@
+## Ai mắc SJS/TEN?
+
+SJS/TEN là một biến chứng rất hiếm gặp do sử dụng thuốc (ước tính 1–2/triệu mỗi năm đối với SJS, và 0.4–1.2/triệu mỗi năm đối với TEN).
+
+- Bất kỳ ai đang dùng thuốc đều có thể phát triển SJS/TEN một cách không thể đoán trước.
+- Nó có thể ảnh hưởng đến mọi nhóm tuổi và mọi chủng tộc.
+- Nó phổ biến hơn một chút ở nữ giới so với nam giới.
+- Nó phổ biến hơn 100 lần khi liên quan đến nhiễm [virus suy giảm miễn dịch ở người](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) (HIV).
+
+Yếu tố di truyền là quan trọng.
+
+- Có sự liên kết HLA ở một số chủng tộc với thuốc chống co giật và allopurinol.
+- Đã phát hiện các đa hình gen cụ thể (ví dụ, CYP2C mã hóa cho cytochrome P450 ở bệnh nhân phản ứng với thuốc chống co giật).
+
+Hơn 200 loại thuốc đã được báo cáo có liên quan đến SJS/TEN.
+
+- Nó thường được thấy với các loại thuốc có thời gian bán hủy dài so với ngay cả một loại thuốc liên quan tương tự về mặt hóa học có thời gian bán hủy ngắn. Thời gian bán hủy của một loại thuốc là thời gian mà một nửa liều đã được đưa vào vẫn còn lưu thông trong cơ thể.
+- Các loại thuốc thường là toàn thân (uống hoặc tiêm), nhưng TEN đã được báo cáo sau khi sử dụng tại chỗ.
+- Không có loại thuốc nào được xác định trong khoảng 20% trường hợp.
+- SJS/TEN hiếm khi liên quan đến [tiêm chủng](https://dermnetnz.org/topics/adverse-cutaneous-reactions-to-vaccines) và nhiễm trùng như [mycoplasma](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection) và cytomegalovirus. Nhiễm trùng thường liên quan đến sự tham gia của niêm mạc và bệnh da ít nghiêm trọng hơn so với khi thuốc là nguyên nhân.
+
+Các loại thuốc thường gây SJS/TEN nhất là kháng sinh trong 40%. Các loại thuốc khác bao gồm:
+
+- [Sulfonamides](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin): cotrimoxazole
+- Beta-lactam: penicillins, cephalosporins
+- Thuốc chống co giật: lamotrigine, carbamazepine, phenytoin, phenobarbitone
+- Allopurinol
+- Paracetamol/acetaminophen
+- Nevirapine (chất ức chế men sao chép ngược không nucleoside)
+- Thuốc chống viêm không steroid (NSAIDs) (chủ yếu loại oxicam)
+- Thuốc chống ung thư, chất ức chế PD-1.
+
+[Các tác nhân khác gây SJS/TEN](https://dermnetnz.org/topics/sjsten-triggers).

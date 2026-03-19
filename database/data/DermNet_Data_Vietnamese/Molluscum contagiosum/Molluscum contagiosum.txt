@@ -1,0 +1,189 @@
+##### Molluscum contagiosum — thông tin thêm
+
+Từ đồng nghĩa:
+
+MC, Nhiễm virus Molluscum contagiosum
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B08.1
+
+ICD-11:
+
+1E76
+
+SNOMED CT:
+
+40070004, 721589000, 765783008, 721590009, 68855006, 240467006
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Molluscum contagiosum**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1997. Cập nhật bởi Dr Oakley và Dr Daniela Vanousova, Bác sĩ Da liễu, Cộng hòa Séc, vào tháng 9 năm 2015. DermNet Sửa đổi tháng 8 năm 2021
+
+[Giới thiệu](https://dermnetnz.org/topics/molluscum-contagiosum#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/molluscum-contagiosum#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/molluscum-contagiosum#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/molluscum-contagiosum#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/molluscum-contagiosum#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/molluscum-contagiosum#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/molluscum-contagiosum#Treatment%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/molluscum-contagiosum#Outlook)
+
+## Molluscum contagiosum là gì?
+
+Molluscum contagiosum là một nhiễm trùng da do virus phổ biến ở trẻ em, gây ra các cụm sẩn biểu bì có rốn.
+
+![Pseudo-koebnerisation trong một vết xước](https://dermnetnz.org/assets/collection/Molluscum-contagiosum/molluscum-contagiosum-0016.jpg)
+
+Pseudo-koebnerisation trong một vết xước (MC-bệnh nhân3)
+
+## Ai bị molluscum contagiosum?
+
+Molluscum contagiosum chủ yếu ảnh hưởng đến trẻ sơ sinh và trẻ nhỏ dưới 10 tuổi. Nó phổ biến hơn ở các vùng khí hậu ấm áp so với các vùng lạnh, và trong môi trường đông đúc. Thanh thiếu niên và người lớn ít bị nhiễm hơn.
+
+Molluscum contagiosum có xu hướng nhiều hơn và kéo dài lâu hơn ở trẻ em cũng bị [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis), do thiếu hụt trong [hàng rào da](https://dermnetnz.org/topics/barrier-function-in-atopic-dermatitis). Nó có thể rất rộng và gây phiền toái ở bệnh nhân bị nhiễm [virus suy giảm miễn dịch ở người](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) (HIV) hoặc có các lý do khác cho chức năng miễn dịch kém.
+
+## Nguyên nhân gây ra molluscum contagiosum là gì?
+
+Molluscum contagiosum do một loại virus pox, virus molluscum contagiosum gây ra. Có ít nhất 4 kiểu phụ của virus.
+
+Có nhiều cách mà virus có thể lây lan:
+
+- Tiếp xúc da kề da trực tiếp
+- Tiếp xúc gián tiếp qua khăn tắm hoặc các vật dụng khác được chia sẻ
+- Tự tiêm vào vị trí khác bằng cách gãi hoặc cạo
+- Lây truyền qua đường tình dục ở người lớn.
+
+Lây truyền molluscum contagiosum dường như có khả năng cao hơn trong điều kiện ẩm ướt, chẳng hạn như khi trẻ em tắm hoặc bơi cùng nhau. Thời gian ủ bệnh thường khoảng 2 tuần nhưng có thể kéo dài đến 6 tháng.
+
+## Đặc điểm lâm sàng của molluscum contagiosum là gì?
+
+Molluscum contagiosum xuất hiện dưới dạng các cụm sẩn tròn nhỏ. Các sẩn có kích thước từ 1 đến 6 mm và có thể có màu trắng, hồng hoặc nâu. Chúng thường có vẻ ngoài bóng, sáng với một hố nhỏ ở trung tâm (hình dạng này đôi khi được mô tả là có rốn). Mỗi sẩn chứa chất trắng như phô mai.
+
+Có thể có vài hoặc hàng trăm sẩn trên một cá nhân. Chúng chủ yếu xuất hiện ở những nơi ấm áp và ẩm ướt, chẳng hạn như nách, sau đầu gối, vùng bẹn hoặc vùng sinh dục. Chúng có thể xuất hiện trên môi hoặc hiếm khi bên trong miệng. Chúng không xuất hiện trên lòng bàn tay hoặc lòng bàn chân.
+
+Khi molluscum contagiosum được tự tiêm do gãi, các sẩn thường tạo thành một hàng.
+
+Molluscum contagiosum thường gây ra [viêm da](https://dermnetnz.org/topics/dermatitis) xung quanh chúng và da bị ảnh hưởng trở nên hồng, khô và ngứa. Khi các sẩn biến mất, chúng có thể trở nên viêm, đóng vảy, hoặc có vảy trong một hoặc hai tuần.
+
+![Sẩn có rốn bóng](https://dermnetnz.org/assets/Uploads/viral/w/molluscum-contagiosum-eyelid.jpg)
+
+Sẩn có rốn bóng
+
+![Sẩn có rốn điển hình](https://dermnetnz.org/assets/Uploads/viral/s/molluscum5.jpg)
+
+Sẩn có rốn điển hình
+
+![Liên quan đến chàm](https://dermnetnz.org/assets/Uploads/viral/moll-ecz.jpg)
+
+Liên quan đến chàm
+
+[Xem thêm hình ảnh về molluscum contagiosum ...](https://dermnetnz.org/topics/molluscum-contagiosum-images)
+
+## Biến chứng của molluscum contagiosum
+
+- Nhiễm trùng vi khuẩn thứ cấp do gãi ([chốc lở](https://dermnetnz.org/topics/impetigo))
+- Viêm kết mạc khi mí mắt bị nhiễm
+- [Chàm thứ cấp lan tỏa](https://dermnetnz.org/topics/disseminated-secondary-eczema); đây là phản ứng miễn dịch hoặc 'id' với virus
+- Molluscum contagiosum nhiều và lan rộng hơn bình thường có thể xảy ra ở bệnh nhân suy giảm miễn dịch (chẳng hạn như nhiễm [HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) không kiểm soát hoặc ở bệnh nhân dùng [thuốc ức chế miễn dịch)](https://dermnetnz.org/topics/drug-induced-immunosuppression), và thường ảnh hưởng đến khuôn mặt
+- Sẹo lõm tự phát
+- Sẹo có thể tự phát hoặc do điều trị phẫu thuật
+
+### Sẹo tự phát do molluscum contagiosum
+
+![](https://dermnetnz.org/assets/Uploads/viral/moll-scar.jpg)
+
+## Molluscum contagiosum được chẩn đoán như thế nào?
+
+Molluscum contagiosum thường được nhận biết qua đặc điểm lâm sàng đặc trưng của nó hoặc qua [soi da](https://dermnetnz.org/topics/dermoscopy). Các thể molluscum trắng thường có thể được ép ra từ trung tâm của các sẩn.
+
+Đôi khi, chẩn đoán được thực hiện qua [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy). [Mô học](https://dermnetnz.org/topics/molluscum-contagiosum-pathology) cho thấy các thể vùi nội bào đặc trưng.
+
+### Soi da của molluscum contagiosum
+
+![Molluscum contagiosum](https://dermnetnz.org/assets/Uploads/Molluscum-dermatoscopy.jpg)
+
+Molluscum contagiosum
+
+![Molluscum contagiosum](https://dermnetnz.org/assets/Uploads/viral/molluscum57.jpg)
+
+Molluscum contagiosum
+
+![Rosettes điển hình](https://dermnetnz.org/assets/Uploads/rosettes-in-molluscum-contagiosum.jpg)
+
+Rosettes điển hình
+
+## Điều trị molluscum contagiosum là gì?
+
+Không có phương pháp điều trị hoàn hảo nào cho molluscum contagiosum vì hiện tại chúng ta không thể tiêu diệt virus. Trong nhiều trường hợp, không cần điều trị cụ thể.
+
+### Điều trị vật lý
+
+- Lấy lõi trắng mềm ra (lưu ý, điều này có thể dẫn đến tự tiêm)
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) (có thể để lại dấu trắng)
+- [Nạo nhẹ](https://dermnetnz.org/topics/curettage-and-cautery) hoặc điện đông (có thể để lại sẹo)
+- [Laser](https://dermnetnz.org/topics/lasers-in-dermatology) (có thể để lại sẹo).
+
+### Điều trị y tế
+
+- [Chất khử trùng](https://dermnetnz.org/topics/antiseptic) như [kem hydrogen peroxide](https://dermnetnz.org/topics/hydrogen-peroxide) hoặc dung dịch povidone [iodine](https://dermnetnz.org/topics/iodine)
+- Kem [Podophyllotoxin](https://dermnetnz.org/topics/podophyllotoxin)
+- Sơn mụn cóc chứa [axit salicylic](https://dermnetnz.org/topics/salicylic-acid)
+- Dung dịch [Cantharidine](https://dermnetnz.org/topics/cantharidin)
+- [Gel Berdazimer](https://dermnetnz.org/topics/berdazimer) (một chất cho nitric oxide)
+
+[Viêm da](https://dermnetnz.org/topics/dermatitis) thứ cấp có thể được điều trị triệu chứng bằng một loại [corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) nhẹ như kem hydrocortisone. Viêm da khó có thể hoàn toàn khỏi cho đến khi nhiễm molluscum đã được loại bỏ.
+
+### Phòng ngừa nhiễm molluscum contagiosum
+
+Molluscum contagiosum có khả năng lây nhiễm khi còn hoạt động. Tuy nhiên, trẻ em và người lớn bị ảnh hưởng nên tiếp tục đi học, đi làm.
+
+Để giảm lây lan:
+
+- Giữ tay sạch sẽ
+- Tránh gãi hoặc cạo
+- Che tất cả các tổn thương nhìn thấy bằng quần áo hoặc băng không thấm nước
+- Vứt bỏ băng đã sử dụng
+- Không chia sẻ khăn tắm, quần áo hoặc các vật dụng cá nhân khác
+- Người lớn nên thực hành quan hệ tình dục an toàn hoặc kiêng cữ.
+
+## Triển vọng cho molluscum contagiosum là gì?
+
+Ở những người có hệ miễn dịch bình thường, molluscum contagiosum là một bệnh tương đối vô hại. Các sẩn có thể tồn tại đến 2 năm hoặc lâu hơn. Ở trẻ em, khoảng một nửa số trường hợp đã khỏi sau 12 tháng, và hai phần ba sau 18 tháng, có hoặc không có điều trị. Tiếp xúc với một người khác bị nhiễm sau đó có thể dẫn đến một đợt mới.
+
+Nhiễm trùng có thể rất dai dẳng trong trường hợp [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) đáng kể.
+
+### Thư mục
+
+- Basdag H, Rainer BM, Cohen BA. Molluscum contagiosum: điều trị hay không điều trị? Kinh nghiệm với 170 trẻ em trong một phòng khám ngoại trú ở đông bắc Hoa Kỳ. Pediatr Dermatol. 2015;32(3):353-7. doi:10.1111/pde.12504. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25641168/)
+- Meza-Romero R, Navarrete-Dechent C, Downey C. Molluscum contagiosum: cập nhật và đánh giá các quan điểm mới về nguyên nhân, chẩn đoán và điều trị. Clin Cosmet Investig Dermatol. 2019;12:373-81. doi:10.2147/CCID.S187224. [Journal](https://www.dovepress.com/molluscum-contagiosum-an-update-and-review-of-new-perspectives-in-etio-peer-reviewed-fulltext-article-CCID)
+- Olsen JR, Gallacher J, Finlay AY, Piguet V, Francis NA. Thời gian giải quyết và ảnh hưởng đến chất lượng cuộc sống của molluscum contagiosum ở trẻ em tại Vương quốc Anh: một nghiên cứu cộng đồng theo dõi. Lancet Infect Dis. 2015;15(2):190-5. doi:10.1016/S1473-3099(14)71053-9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25541478/)
+- Olsen JR, Piguet V, Gallacher J, Francis NA. Molluscum contagiosum và mối liên hệ với chàm dị ứng ở trẻ em: một nghiên cứu hồi cứu theo dõi trong chăm sóc ban đầu. Br J Gen Pract. 2016;66(642):e53-8. doi:10.3399/bjgp15X688093. [Journal](https://bjgp.org/content/66/642/e53.long)
+- van der Wouden JC, van der Sande R, Kruithof EJ, Sollie A, van Suijlekom-Smit LW, Koning S. Các can thiệp cho molluscum contagiosum trên da. Cochrane Database Syst Rev. 2017;5(5):CD004767. doi:10.1002/14651858.CD004767.pub4. [Journal](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD004767.pub4/full)
+
+### Trên DermNet
+
+- [Molluscum contagiosum pathology](https://dermnetnz.org/topics/molluscum-contagiosum-pathology)
+- [Hình ảnh molluscum contagiosum](https://dermnetnz.org/topics/molluscum-contagiosum-images)
+- [Nhiễm trùng da do virus](https://dermnetnz.org/topics/viral-skin-infections)
+- [Nhiễm trùng lây truyền qua đường tình dục](https://dermnetnz.org/topics/sexually-transmitted-infections)
+
+### Các trang web khác
+
+- [Molluscum Contagiosum](http://emedicine.medscape.com/article/910570-overview)— Tham khảo Medscape
+- [Poxviruses](http://emedicine.medscape.com/article/226239-overview) — Tham khảo Medscape
+- [Nhiễm Molluscum Contagiosum](http://www.emedicinehealth.com/molluscum_contagiosum/article_em.htm) — EmedicineHealth
+- [Molluscum Contagiosum](https://www.bad.org.uk/pils/molluscum-contagiosum/) — Hiệp hội Da liễu Anh
+- [Molluscum Contagiosum](https://www.cdc.gov/ncidod/dvrd/molluscum/) — CDDC
+- [Sử dụng Imiquimod có vấn đề cho Molluscum Contagiosum ở trẻ em](http://www.practiceupdate.com/c/21206/3/0/?elsca1=emc_enews_top-10&elsca2=email&elsca3=practiceupdate_derma&elsca4=dermatology&elsca5=newsletter&rid=OTA3NTM2MTgxNDkS1&lid=10332481) Đánh giá cập nhật thực hành
+- [Molluscum contagiosum: Tài liệu cho bệnh nhân](https://pedsderm.net/site/assets/files/1028/6_molluscum_color_final.pdf) — Hiệp hội Da liễu Nhi khoa
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

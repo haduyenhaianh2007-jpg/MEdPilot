@@ -1,0 +1,17 @@
+## Nguyên nhân gây viêm da cơ ở người lớn là gì?
+
+Viêm da cơ được cho là do viêm vi mạch ảnh hưởng đến da và cơ. Có sự di truyền dễ mắc bệnh viêm da cơ như gen PTPN22 và các liên kết HLA được xác định bao gồm:
+
+- Dân số da trắng: HLA DRB1\*0301 và DQA1\*0501
+- Dân số châu Á: HLA-B7
+- Kháng thể Anti-Jo-1: HLA DRB1\*0301 và DQA1\*501
+- Kháng thể Anti-Mi-2: HLA DRB1\*07 và DQA\*0201.
+
+Các yếu tố kích hoạt và liên kết được báo cáo bao gồm:
+
+- Thuốc — xem [Viêm da cơ do thuốc](https://dermnetnz.org/topics/drug-induced-dermatomyositis)
+- Ung thư
+- Nhiễm virus — enterovirus, parvovirus B19, cúm
+- Tiếp xúc với silica — trong các ngành nghề.
+
+Hầu hết bệnh nhân có kháng thể tự miễn liên quan đến bệnh, cho thấy viêm da cơ là một tình trạng tự miễn.

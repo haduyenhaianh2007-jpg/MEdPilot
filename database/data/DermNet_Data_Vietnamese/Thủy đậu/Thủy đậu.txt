@@ -1,0 +1,237 @@
+##### Thủy đậu — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Varicella, Varicella zoster, Herpes varicella zoster, Herpes virus type 3, Thủy đậu
+
+Danh mục:
+
+Nhiễm trùng, Phát ban
+
+ICD-10:
+
+B01, B01.9, B01.89, B01.2, B02
+
+ICD-11:
+
+1E90.0, 1E90.Y, 1E91.0
+
+SNOMED CT:
+
+38907003, 19551004, 195911009, 23737006, 402899000, 108729007, 4740000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections) [Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Thủy đậu**
+
+Tác giả: Vanessa Ngan, Nhà văn, 2002. Cập nhật bởi Dr Jannet Gomez, Tháng 10 năm 2016; Dr Adam Dedat, SHO và Dr Ian Coulson, Bác sĩ Da liễu, Vương quốc Anh, Tháng 7 năm 2022.
+
+[Giới thiệu](https://dermnetnz.org/topics/chickenpox#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/chickenpox#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/chickenpox#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/chickenpox#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/chickenpox#Diagnosis%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/chickenpox#Complications%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/chickenpox#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/chickenpox#Prevention%3Cbr%20/%3E) [Tiêm phòng chống thủy đậu](https://dermnetnz.org/topics/chickenpox#Vaccination%20against%20chickenpox)
+
+## Thủy đậu là gì?
+
+Thủy đậu là một bệnh nhiễm virus rất dễ lây lan gây sốt cấp tính và phát ban mụn nước, chủ yếu ở trẻ em. Thủy đậu còn được gọi là varicella.
+
+Tên gọi có thể bắt nguồn từ thuật ngữ tiếng Pháp cho hạt đậu, chiche pois. Một lý thuyết khác cho rằng từ 'chicken' xuất phát từ một thuật ngữ lóng cho 'trẻ em'.
+
+### Phát ban da của thủy đậu
+
+![Thủy đậu ở lưng](https://dermnetnz.org/assets/collection-O/Chickenpox/chickenpox-00044.jpg)
+
+Thủy đậu ở lưng
+
+![Thủy đậu](https://dermnetnz.org/assets/Uploads/viral/w/varicella120.jpg)
+
+Thủy đậu
+
+![Thủy đậu](https://dermnetnz.org/assets/Uploads/viral/w/varicella106.jpg)
+
+Thủy đậu
+
+## Ai có nguy cơ mắc thủy đậu?
+
+Thủy đậu xảy ra trên toàn thế giới, ảnh hưởng đến người thuộc mọi chủng tộc, giới tính và độ tuổi. Hầu hết các trường hợp xảy ra ở trẻ em trước khi chúng mười tuổi.
+
+Một khi một người đã bị nhiễm thủy đậu, khả năng họ bị lại là rất thấp, vì nó mang lại miễn dịch suốt đời.
+
+Những người [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) dễ bị nhiễm virus mọi lúc và nên thực hiện các biện pháp để ngăn ngừa hoặc điều chỉnh quá trình bệnh nếu đã tiếp xúc với virus.
+
+## Nguyên nhân gây ra thủy đậu là gì?
+
+Thủy đậu do nhiễm trùng nguyên phát với virus varicella-zoster, thuộc họ _Herpesviridae_. Virus này đôi khi được gọi là herpesvirus type 3.
+
+Thủy đậu rất dễ lây lan và dễ dàng lây từ người này sang người khác qua việc hít phải các giọt hô hấp trong không khí từ người bị nhiễm khi ho hoặc hắt hơi hoặc qua tiếp xúc trực tiếp với dịch từ các vết loét mở.
+
+Một người không có miễn dịch với virus có 70–80% khả năng bị nhiễm virus nếu tiếp xúc với ai đó trong giai đoạn đầu của bệnh.
+
+## Đặc điểm lâm sàng của thủy đậu là gì?
+
+Ở trẻ em, thủy đậu thường bắt đầu bằng các nốt đỏ ngứa tiến triển thành mụn nước trên bụng, lưng và mặt, sau đó lan ra các phần khác của cơ thể. Mụn nước cũng có thể xuất hiện bên trong miệng.
+
+Mô hình lan truyền có thể khác nhau giữa các trẻ. Có thể chỉ có một vài mụn nước, hoặc toàn bộ cơ thể có thể bị phủ kín với lên đến 500 mụn nước. Các mụn nước thường rất ngứa và khó chịu.
+
+Một số trẻ cũng có thể trải qua các triệu chứng bổ sung như sốt cao, đau đầu, triệu chứng giống cảm lạnh, nôn mửa và tiêu chảy.
+
+Thủy đậu thường nghiêm trọng hơn ở người lớn và có thể đe dọa tính mạng trong các trường hợp phức tạp. Hầu hết người lớn bị thủy đậu trải qua các triệu chứng tiền triệu trong vòng 48 giờ trước khi phát ban. Những triệu chứng này bao gồm sốt, mệt mỏi, đau đầu, mất cảm giác thèm ăn và đau bụng. Thủy đậu thường nghiêm trọng hơn ở người lớn và có thể đe dọa tính mạng trong các trường hợp phức tạp.
+
+Các mụn nước sẽ biến mất trong vòng một đến ba tuần nhưng có thể để lại một vài vết sẹo. Những vết sẹo này thường bị lõm ( [anetoderma](https://dermnetnz.org/topics/anetoderma/)), nhưng chúng có thể dày lên ( [sẹo phì đại](https://dermnetnz.org/topics/keloids-and-hypertrophic-scars/)). Sẹo nổi bật khi các tổn thương bị nhiễm vi khuẩn.
+
+### Đặc điểm da của thủy đậu
+
+![Thủy đậu trên mặt](https://dermnetnz.org/assets/collection-O/Chickenpox/chickenpox-00045.jpg)
+
+Thủy đậu trên mặt
+
+![Thủy đậu](https://dermnetnz.org/assets/Uploads/viral/w/varicella123.jpg)
+
+Thủy đậu
+
+![Thủy đậu](https://dermnetnz.org/assets/Uploads/viral/s/varicella2.jpg)
+
+Thủy đậu
+
+### Tổn thương niêm mạc miệng của thủy đậu
+
+![Thủy đậu](https://dermnetnz.org/assets/Uploads/viral/w/varicella111.jpg)
+
+Thủy đậu
+
+![Thủy đậu](https://dermnetnz.org/assets/Uploads/viral/w/varicella126.jpg)
+
+Thủy đậu
+
+[Xem thêm hình ảnh về varicella](https://dermnetnz.org/topics/varicella-images) ...
+
+## Thủy đậu được chẩn đoán như thế nào?
+
+Chẩn đoán thủy đậu thường được thực hiện dựa trên sự hiện diện của phát ban đặc trưng và sự hiện diện của các giai đoạn tổn thương khác nhau đồng thời. Một manh mối để chẩn đoán là biết rằng bệnh nhân đã tiếp xúc với người bị nhiễm trong khoảng thời gian ủ bệnh từ 10–21 ngày. Bệnh nhân cũng có thể có các dấu hiệu và triệu chứng tiền triệu. Xem thêm [bệnh lý thủy đậu](https://dermnetnz.org/topics/chickenpox-pathology).
+
+Các xét nghiệm trong phòng thí nghiệm thường được thực hiện để xác nhận chẩn đoán.
+
+- PCR phát hiện virus varicella trong các tổn thương da và là phương pháp chính xác nhất để chẩn đoán.
+- Nuôi cấy dịch mụn nước tốn thời gian và ít được thực hiện hơn.
+- Huyết thanh học (IgM và IgG) hữu ích nhất ở phụ nữ mang thai, hoặc trước khi kê đơn thuốc ức chế miễn dịch để xác định nhu cầu tiêm chủng trước điều trị.
+
+## Các biến chứng từ thủy đậu là gì?
+
+Ở trẻ em khỏe mạnh, nhiễm thủy đậu thường là một bệnh tự giới hạn, không phức tạp. Các biến chứng có thể bao gồm:
+
+- Nhiễm trùng vi khuẩn thứ cấp của các tổn thương da do gãi
+
+  - Nhiễm trùng có thể dẫn đến áp xe, viêm mô tế bào, viêm cân hoại tử và hoại thư
+- Mất nước do nôn mửa và tiêu chảy
+- Làm trầm trọng thêm bệnh hen suyễn
+- Viêm phổi do virus
+- Các tổn thương thủy đậu có thể lành với sẹo.
+
+Một số biến chứng thường thấy hơn ở bệnh nhân suy giảm miễn dịch và người lớn bị thủy đậu.
+
+- Nhiễm trùng varicella nguyên phát lan tỏa; điều này mang lại tỷ lệ mắc bệnh cao
+- Biến chứng hệ thần kinh trung ương như hội chứng Reye, hội chứng Guillain-Barré và viêm não
+- Giảm tiểu cầu và [ban xuất huyết](https://dermnetnz.org/topics/purpura)
+
+Varicella trong thai kỳ
+
+- Phụ nữ mang thai không miễn dịch nên cẩn thận tránh tiếp xúc với người bị thủy đậu và rửa tay thường xuyên khi xử lý thực phẩm, động vật và trẻ em. Tiếp xúc với virus varicella trong thai kỳ có thể gây viêm phổi do virus, chuyển dạ và sinh non và hiếm khi tử vong mẹ.
+- Khoảng 25% thai nhi của các bà mẹ bị thủy đậu bị nhiễm. Điều này vô hại đối với hầu hết chúng. Con cái có thể không có triệu chứng, hoặc phát triển herpes zoster ở độ tuổi trẻ mà không có tiền sử nhiễm thủy đậu nguyên phát trước đó. Chúng cũng có thể phát triển hội chứng varicella bẩm sinh, một trong những nhiễm trùng [TORCH](https://dermnetnz.org/topics/torch-infections).
+- Hội chứng varicella bẩm sinh xảy ra ở tới 2% thai nhi tiếp xúc với varicella trong 20 tuần đầu của thai kỳ. Nó có thể dẫn đến sẩy thai tự nhiên, viêm màng mạch võng mạc thai nhi, đục thủy tinh thể, teo chi, teo vỏ não và đầu nhỏ, sẹo da và khuyết tật thần kinh.
+- Tỷ lệ tử vong ở trẻ sơ sinh bị nhiễm varicella lên tới 30%.
+
+Varicella chu sinh
+
+- Nếu một người mẹ phát triển thủy đậu ngay trước khi sinh hoặc trong vòng 28 ngày sau khi sinh, con của bà có nguy cơ bị nhiễm trùng nặng.
+
+Zona (herpes zoster)
+
+- Virus varicella-zoster vẫn tồn tại ở hạch cảm giác sau khi nhiễm trùng.
+- Nó có thể tái hoạt động sau nhiều năm dưới dạng zona. Zona xuất hiện với các tổn thương mụn nước nhóm, thường ảnh hưởng đến một vùng da nhất định.
+- Các nhiễm trùng khác xảy ra do tái hoạt động của virus bao gồm đau thần kinh sau zona, bệnh mạch máu, bệnh tủy, hoại tử võng mạc, viêm tiểu não và zona không có mụn nước.
+
+### Biến chứng của thủy đậu
+
+![Sẹo từ thủy đậu](https://dermnetnz.org/assets/manualthumbnails/dermal-infiltrative/img/s/chickenpox-scars-s.jpg)
+
+Sẹo từ thủy đậu
+
+![Herpes zoster](https://dermnetnz.org/assets/Uploads/doctors/viral-infections/images/hvz2.jpg)
+
+Herpes zoster
+
+## Điều trị thủy đậu là gì?
+
+Đối với hầu hết bệnh nhân khỏe mạnh bị thủy đậu, liệu pháp triệu chứng thường là tất cả những gì cần thiết.
+
+- Cắt móng tay trẻ em để giảm thiểu việc gãi.
+- Tắm nước ấm và thoa kem dưỡng ẩm.
+- Paracetamol có thể giảm sốt và đau
+  - Tránh sử dụng NSAID ngoài môi trường bệnh viện do tăng nguy cơ biến chứng da nghiêm trọng như [nhiễm trùng nhóm A liên cầu khuẩn xâm nhập](https://dermnetnz.org/topics/streptococcal-skin-infections).
+  - Không sử dụng aspirin ở trẻ em vì điều này liên quan đến hội chứng Reye.
+- Kem calamine và thuốc kháng histamine đường uống có thể giảm ngứa.
+- Cân nhắc sử dụng [aciclovir](https://dermnetnz.org/topics/aciclovir) đường uống (tác nhân kháng virus) ở người trên 12 tuổi, giúp giảm số ngày bị sốt.
+
+Bệnh nhân suy giảm miễn dịch bị thủy đậu cần điều trị bằng aciclovir đường tĩnh mạch.
+
+Trong trường hợp tiếp xúc vô tình với virus, globulin miễn dịch varicella-zoster nếu được tiêm trong vòng 96 giờ sau khi tiếp xúc ban đầu có thể giảm mức độ nghiêm trọng của bệnh mặc dù không ngăn ngừa được. Điều này được sử dụng khi không có tiền sử thủy đậu trước đó (hoặc bệnh nhân không có kháng thể với virus varicella-zoster khi xét nghiệm máu) trong thai kỳ, trong 28 ngày đầu sau khi sinh, và ở bệnh nhân [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) hoặc [ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression).
+
+## Cách ngăn ngừa sự lây lan của thủy đậu
+
+Một người bị thủy đậu có khả năng lây nhiễm 1–2 ngày trước khi phát ban xuất hiện và cho đến khi tất cả các mụn nước đã hình thành vảy. Điều này có thể mất 5–10 ngày. Trẻ em nên tránh xa trường học hoặc cơ sở chăm sóc trẻ em trong suốt thời gian lây nhiễm này. Người lớn bị thủy đậu làm việc với trẻ em cũng nên ở nhà.
+
+Có thể mất 10–21 ngày sau khi tiếp xúc với người bị nhiễm để ai đó phát triển thủy đậu. Đây là thời gian cần thiết để virus nhân lên và xuất hiện dưới dạng phát ban đặc trưng ở vật chủ mới.
+
+Vì thủy đậu có thể gây biến chứng ở người suy giảm miễn dịch và phụ nữ mang thai, những người này nên tránh thăm bạn bè hoặc gia đình khi có trường hợp thủy đậu đã biết. Trong trường hợp tiếp xúc vô tình, hãy gặp bác sĩ của bạn, người có thể kê đơn điều trị phòng ngừa đặc biệt.
+
+## Tiêm phòng chống thủy đậu
+
+Tiêm phòng có sẵn cho thủy đậu và được khuyến nghị cao.
+
+Thủy đậu có thể được ngăn ngừa cao bằng cách tiêm phòng với vắc-xin varicella sống giảm độc lực. Vắc-xin được trợ cấp ("lên lịch") cho trẻ sơ sinh 15 tháng tuổi ở New Zealand cũng như những người không miễn dịch bị [ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) hoặc thuộc các nhóm đặc biệt khác. Nếu ở New Zealand, tham khảo [Trung tâm Tư vấn Tiêm chủng](http://www.immune.org.nz/) để có thông tin cập nhật.
+
+### Tài liệu tham khảo
+
+- Leung, Jessica, et al. Đánh giá các phương pháp phòng thí nghiệm để chẩn đoán varicella. Clinical Infectious Diseases 51.1 (2010): 23-32. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20504232)
+- Mueller, Niklaus H., et al. Nhiễm virus varicella zoster: đặc điểm lâm sàng, cơ chế bệnh sinh phân tử của bệnh, và tiềm ẩn. Neurologic clinics 26.3 (2008): 675-697. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18657721)
+- Fan, Feinan, et al. Chẩn đoán phòng thí nghiệm của nhiễm HSV và virus varicella zoster. Future Virology 9.8 (2014): 721-731.
+- Nagel, Maria A., và Don Gilden. Biến chứng thần kinh của tái hoạt động VZV. Current opinion in neurology 27.3 (2014): 356. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24792344)
+- Thủy đậu (varicella zoster) ở trẻ sơ sinh. Health.vic. Neonatal eHandbook. Truy cập ngày 16 tháng 12 năm 2018 tại [https://www2.health.vic.gov.au/hospitals-and-health-services/patient-care/perinatal-reproductive/neonatal-ehandbook/infections/chickenpox-varicella](https://www2.health.vic.gov.au/hospitals-and-health-services/patient-care/perinatal-reproductive/neonatal-ehandbook/infections/chickenpox-varicella)
+- Lamont RF, Sobel JD, Carrington D, et al. Nhiễm virus varicella-zoster (thủy đậu) trong thai kỳ. BJOG. 2011;118(10):1155-62. [PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3155623/).
+- Cobelli Kett J. Varicella chu sinh. Pediatrics in Review Jan 2013, 34 (1) 49-51; DOI: 10.1542/pir.34-1-49. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23281363). [Journal](http://pedsinreview.aappublications.org/content/34/1/49.info).
+- Mikaeloff Y, Kezouh A, Suissa S. Sử dụng thuốc chống viêm không steroid và nguy cơ biến chứng da và mô mềm nghiêm trọng ở bệnh nhân mắc bệnh varicella hoặc zoster \[sửa chữa xuất bản trong Br J Clin Pharmacol. 2010 Jun;69(6):722\]. Br J Clin Pharmacol. 2008;65(2):203-209. doi:10.1111/j.1365-2125.2007.02997.x [Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2291221/pdf/bcp0065-0203.pdf)
+
+### Trên DermNet
+
+- [Zona](https://dermnetnz.org/topics/herpes-zoster)
+- [Bệnh lý herpesvirus](https://dermnetnz.org/topics/herpes-virus-infection-pathology)
+- [Hội chứng Ramsay Hunt](https://dermnetnz.org/topics/ramsay-hunt-syndrome)
+- [Nhiễm trùng TORCH](https://dermnetnz.org/topics/torch-infections)
+- [Các tình trạng da phồng rộp](https://dermnetnz.org/topics/blistering-skin-conditions)
+- [Vết đốt sứa hộp Úc](https://dermnetnz.org/topics/australian-box-jellyfish-stings)
+- [Bệnh lý thủy đậu](https://dermnetnz.org/topics/chickenpox-pathology)
+
+### Các trang web khác
+
+- [Rối loạn phồng rộp](https://www.youtube.com/watch?v=xvBTdPl0uao&t=1s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Thủy đậu](http://www.kidshealth.org.nz/chickenpox) — Kidshealth.org.nz
+- [Thủy đậu](http://www.nlm.nih.gov/medlineplus/chickenpox.html) — Medline Plus
+- [Thủy đậu](http://www.who.int/topics/chickenpox/en/) — Tổ chức Y tế Thế giới (WHO)
+- [Thủy đậu](http://emedicine.medscape.com/article/1131785-overview) — Medscape Reference
+- [Varicella](http://www.health.govt.nz/system/files/documents/publications/imm-handbook-21-varicella-may17_1.pdf) — Sổ tay Tiêm chủng 2017, Bộ Y tế, NZ
+- [Thủy đậu (Varicella)](http://www.immune.org.nz/?T=852#ck11) — Trung tâm Tư vấn Tiêm chủng, Đại học Auckland
+- [Thủy đậu](http://www.emedicinehealth.com/articles/15528-1.asp) — emedicinehealth
+- [Thủy đậu](http://www.nhs.uk/conditions/chickenpox/Pages/Introduction.aspx) — NHS Choices
+- [Thông tin bệnh nhân: Thủy đậu (Cơ bản)](http://www.uptodate.com/contents/chickenpox-the-basics) — UpToDate
+- [Thông tin bệnh nhân: Thủy đậu (Ngoài cơ bản)](http://www.uptodate.com/contents/chickenpox-prevention-and-treatment-beyond-the-basics) — UpToDate (dành cho người đăng ký)
+- [Nhiễm virus trong thai kỳ](http://www.therapeutique-dermatologique.org/spip.php?article1910) — Điều trị trong Da liễu
+- [Thông tin về bệnh thủy đậu và vắc-xin](https://vimeo.com/user34513968/chickenpox) — video từ Trung tâm Tư vấn Tiêm chủng, New Zealand
+- Video chăm sóc thủy đậu — [Học viện Da liễu Hoa Kỳ](https://www.aad.org/public/diseases/contagious-skin-diseases/chickenpox)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

@@ -1,0 +1,229 @@
+##### Pemphigoid bóng nước — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+BP
+
+Danh mục:
+
+Tự miễn/dị ứng viêm
+
+ICD-10:
+
+L12.0
+
+ICD-11:
+
+EB41.0
+
+SNOMED CT:
+
+77090002
+
+**[Tự miễn/dị ứng viêm](https://dermnetnz.org/topics?category=Autoimmune/autoinflammatory)**
+
+# **Pemphigoid bóng nước**
+
+Tác giả: Phó Giáo sư Danh dự Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1997. Cập nhật vào tháng 1 năm 2016; cập nhật nhỏ bởi Ian Coulson, Bác sĩ Da liễu, tháng 2 năm 2025.
+
+[Giới thiệu](https://dermnetnz.org/topics/bullous-pemphigoid#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/bullous-pemphigoid#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/bullous-pemphigoid#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/bullous-pemphigoid#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/bullous-pemphigoid#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/bullous-pemphigoid#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/bullous-pemphigoid#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/bullous-pemphigoid#Prevention%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/bullous-pemphigoid#Outlook)
+
+## Pemphigoid bóng nước là gì?
+
+Pemphigoid bóng nước là dạng phổ biến nhất của bệnh bóng nước dưới biểu bì tự miễn.
+
+## Ai mắc pemphigoid bóng nước?
+
+Pemphigoid bóng nước thường xuất hiện ở người trên 80 tuổi, và chủ yếu ảnh hưởng đến người trên 50 tuổi. Nó có thể xảy ra ở người lớn trẻ tuổi, nhưng [pemphigoid bóng nước ở trẻ sơ sinh và trẻ em](https://dermnetnz.org/topics/childhood-bullous-pemphigoid) là hiếm.
+
+- Pemphigoid bóng nước xảy ra đồng đều ở nam và nữ.
+- Có sự liên kết với kháng nguyên bạch cầu người (HLA) cho thấy một khuynh hướng di truyền đối với bệnh.
+- Nó phổ biến hơn ở bệnh nhân lớn tuổi có bệnh lý thần kinh, đặc biệt là đột quỵ, mất trí nhớ và bệnh Parkinson.
+- Nguy cơ phát triển pemphigoid bóng nước cao hơn ở người mắc [vảy nến](https://dermnetnz.org/topics/psoriasis), và có thể được kích hoạt bởi điều trị vảy nến bằng [quang trị liệu](https://dermnetnz.org/topics/phototherapy).
+- Có thể có sự liên kết với ung thư nội tạng ở một số bệnh nhân.
+- Một loại thuốc, chấn thương, hoặc [nhiễm trùng](https://dermnetnz.org/topics/skin-infections) da có thể kích hoạt sự khởi phát của bệnh.
+- Hiếm khi, pemphigoid bóng nước có thể liên quan đến bệnh máu khó đông mắc phải do hình thành kháng thể chống yếu tố VIII.
+
+### Thuốc liên quan đến pemphigoid bóng nước
+
+Các loại thuốc phổ biến nhất liên quan đến pemphigoid bóng nước là liệu pháp ức chế PD1 (như [pembrolizumab](https://dermnetnz.org/topics/pembrolizumab), [nivolumab](https://dermnetnz.org/topics/nivolumab)) được sử dụng để điều trị [u ác tính di căn](https://dermnetnz.org/topics/metastatic-melanoma) và các loại ung thư khác.
+
+Pemphigoid xảy ra ở 0,3% bệnh nhân ung thư được điều trị bằng chất ức chế điểm kiểm soát, và có thể phát triển sau 12 tháng điều trị, hoặc thậm chí sau khi ngừng điều trị. Ngứa tiền triệu trước khi nổi bóng nước và bóng nước niêm mạc là phổ biến. Thường cần ngừng thuốc.
+
+Các chất ức chế dipeptidyl peptidase-4 (thường gọi là 'gliptins'), được sử dụng để điều trị bệnh tiểu đường (như sitagliptin, saxagliptin, linagliptin và đặc biệt là vildagliptin), cũng đã được báo cáo gây ra pemphigoid bóng nước. Thời gian trung bình để khởi phát pemphigoid bóng nước là 11 tháng sau khi bắt đầu điều trị. Không thường xuyên, có sự tham gia của niêm mạc.
+
+Các trường hợp khác của pemphigoid bóng nước đã được liên kết với [kháng sinh](https://dermnetnz.org/topics/antibiotics), penicillamine, [iodua kali](https://dermnetnz.org/topics/potassium-iodide), frusemide, captopril, [vàng](https://dermnetnz.org/topics/chrysiasis), [penicillin](https://dermnetnz.org/topics/penicillin), [sulfasalazine](https://dermnetnz.org/topics/sulfasalazine), [fluorouracil bôi](https://dermnetnz.org/topics/5-fluorouracil-cream), và thuốc chống loạn thần thế hệ thứ hai (ví dụ, risperidone, olanzapine).
+
+## Nguyên nhân gây ra pemphigoid bóng nước là gì?
+
+Pemphigoid bóng nước là kết quả của một cuộc tấn công vào màng đáy của biểu bì bởi các immunoglobulin IgG \+/\- IgE (kháng thể) và các tế bào lympho T hoạt hóa (bạch cầu). Mục tiêu là protein BP180 (còn gọi là collagen Type XVII), hoặc ít thường xuyên hơn là BP230 (một plakin). Các protein này nằm trong miền NC16A của collagen XVII. Chúng liên kết với các hemidesmosome, các cấu trúc đảm bảo các tế bào keratinocyte biểu bì dính vào lớp hạ bì để tạo thành một lớp chống thấm nước.
+
+Sự liên kết của các tự kháng thể với các protein và sự giải phóng cytokine từ các tế bào T dẫn đến kích hoạt [bổ thể](https://dermnetnz.org/topics/the-complement-system), tuyển dụng các tế bào viêm cấp tính neutrophil và giải phóng các enzyme phân giải protein. Những điều này phá hủy các hemidesmosome và gây ra sự hình thành các bóng nước dưới biểu bì.
+
+Sự liên kết của các bệnh lý thần kinh với pemphigoid bóng nước được cho là liên quan đến sự hiện diện của collagen XVII trong hệ thần kinh trung ương và các hemidesmosome da.
+
+Một biến thể hiếm của pemphigoid với các kháng thể IgG hướng tới một protein DEJ 200 kDa đã được mô tả - có sự liên kết mạnh với vảy nến (laminin gamma 1).
+
+## Các đặc điểm lâm sàng của pemphigoid bóng nước là gì?
+
+Pemphigoid bóng nước gây ngứa dữ dội và (thường) các bóng nước lớn, căng (bóng nước chứa đầy dịch), vỡ ra tạo thành các vết xói mòn có vảy.
+
+Các đặc điểm biến đổi khác bao gồm:
+
+- Phát ban không đặc hiệu trong vài tuần trước khi xuất hiện bóng nước
+- Các vùng [eczema](https://dermnetnz.org/topics/eczema-dermatitis-and-allergies) giống [viêm da đồng xu](https://dermnetnz.org/topics/discoid-eczema)
+- Da đỏ giống [mề đay](https://dermnetnz.org/topics/urticaria-an-overview)
+- Tổn thương hình vòng (hình nhẫn)
+- Bóng nước nhỏ hơn (mụn nước)
+- Nốt [prurigo](https://dermnetnz.org/topics/nodular-prurigo) ( [pemphigoid nodularis](https://dermnetnz.org/topics/pemphigoid))
+- Dịch bóng nước trong hoặc đục, vàng hoặc có máu
+- [Sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- [Milia](https://dermnetnz.org/topics/milium) ở các vùng đã lành
+
+Pemphigoid bóng nước thường ảnh hưởng đến các mặt gấp của chi. Nó có thể khu trú ở một khu vực, hoặc lan rộng trên thân và chi gần.
+
+- Thường xuyên ảnh hưởng đến da xung quanh các nếp gấp da.
+- [Bóng nước trong miệng](https://dermnetnz.org/topics/oral-blistering-diseases) và ở các vị trí sinh dục là không phổ biến.
+
+Một số bệnh nhân được chẩn đoán pemphigoid bóng nước mặc dù không có bóng nước nào (pemphigoid không bóng nước). Điều này có thể ảnh hưởng đến bất kỳ vị trí nào trên cơ thể.
+
+![](https://dermnetnz.org/assets/Uploads/immune/bulpem4.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/immune/s/bulpem6.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/immune/s/bulpem5.jpg)
+
+![Bóng nước của pemphigoid bóng nước trên chân, da màu](https://dermnetnz.org/assets/collection-O/Bullous-pemphigoid/bullous-pemphigoid-00095.jpg)
+
+Bóng nước của pemphigoid bóng nước trên chân, da màu
+
+![](https://dermnetnz.org/assets/Uploads/immune/bulpem1.jpg)
+
+![](https://dermnetnz.org/assets/Uploads/immune/bulpem2.jpg)
+
+[Xem thêm hình ảnh về pemphigoid bóng nước](https://dermnetnz.org/topics/bullous-pemphigoid-images).
+
+## Các biến chứng của pemphigoid bóng nước là gì?
+
+Pemphigoid bóng nước có thể là một bệnh nghiêm trọng, đặc biệt khi lan rộng hoặc kháng điều trị. Bệnh tật và tử vong do:
+
+- [Nhiễm trùng da](https://dermnetnz.org/topics/staphylococcal-skin-infection) do vi khuẩn tụ cầu và liên cầu, và nhiễm trùng huyết
+- [Nhiễm trùng virus](https://dermnetnz.org/topics/viral-skin-infections) với [herpes simplex](https://dermnetnz.org/topics/herpes-simplex), [varicella](https://dermnetnz.org/topics/chickenpox) hoặc [herpes zoster](https://dermnetnz.org/topics/herpes-zoster)
+- Biến chứng của điều trị
+- Các bệnh lý nền và liên quan.
+
+## Pemphigoid bóng nước được chẩn đoán như thế nào?
+
+Khi có các bóng nước điển hình, chẩn đoán được nghi ngờ lâm sàng. Trong hầu hết các trường hợp, chẩn đoán sẽ được xác nhận bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) của một bóng nước sớm. Chẩn đoán cũng có thể được thực hiện từ da viêm không có bóng nước.
+
+[Khám nghiệm bệnh lý của pemphigoid bóng nước](https://dermnetnz.org/topics/bullous-pemphigoid-pathology) cho thấy một vết nứt dưới biểu bì. Thâm nhiễm neutrophil hạ bì là thường xuyên nhưng không phải lúc nào cũng có. Eosinophil có thể nổi bật.
+
+[Nhuộm miễn dịch trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) của một [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) lấy gần một bóng nước làm nổi bật các kháng thể dọc theo màng đáy nằm giữa biểu bì và hạ bì.
+
+Xét nghiệm máu bao gồm một xét nghiệm [miễn dịch gián tiếp](https://dermnetnz.org/topics/indirect-immunofluorescence) cho các kháng thể BP180 lưu hành.
+
+Immunoblotting.
+
+Các xét nghiệm khác sẽ liên quan đến việc lập kế hoạch và giám sát điều trị.
+
+## Điều trị pemphigoid bóng nước là gì?
+
+Nếu pemphigoid rất lan rộng, có thể sắp xếp nhập viện để băng bó các bóng nước và vết xói mòn.
+
+Điều trị y tế bao gồm:
+
+- [Steroid bôi](https://dermnetnz.org/topics/topical-steroid) cực mạnh để điều trị bệnh giới hạn < 10% diện tích cơ thể (ví dụ, kem clobetasol propionate)
+- [Steroid bôi](https://dermnetnz.org/topics/topical-steroid) có độ mạnh trung bình và [chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) để giảm ngứa và khô
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) (ví dụ, prednisone) - tuy nhiên chúng có liên quan đến nguy cơ tăng tác dụng phụ bất lợi và có thể gây tử vong.
+- Kháng sinh [tetracycline](https://dermnetnz.org/topics/tetracycline), thường là doxycycline 200 mg/ngày; doxycycline có ít tác dụng phụ hơn corticosteroid uống và hiệu quả riêng cho bệnh nhẹ
+- Các thuốc khác không chứa steroid riêng lẻ hoặc kết hợp với steroid
+- [Kháng sinh](https://dermnetnz.org/topics/antibiotics) cho [nhiễm trùng vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) thứ phát
+- Giảm đau.
+
+Hầu hết bệnh nhân bị pemphigoid bóng nước được điều trị bằng viên steroid, hoặc prednisone hoặc prednisolone với liều ban đầu 0,5 mg/kg/ngày. Liều được điều chỉnh cho đến khi các bóng nước ngừng xuất hiện, thường mất vài tuần. Liều prednisone sau đó được giảm dần khi có ít hơn 3 bóng nước đáng kể, trong nhiều tháng hoặc năm. Vì steroid toàn thân có nhiều [tác dụng phụ](https://dermnetnz.org/topics/prophylaxis-systemic-steroid) không mong muốn, các thuốc khác được thêm vào để đảm bảo liều thấp nhất có thể (nhắm đến 5–10 mg prednisone hàng ngày). Các thuốc khác này có thể bao gồm doxycycline hoặc:
+
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Nicotinamide](https://dermnetnz.org/topics/nicotinamide)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Immunoglobulin truyền tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin)
+- [Rituximab](https://dermnetnz.org/topics/rituximab)
+- [Dupilumab](https://dermnetnz.org/topics/dupilumab)
+- [Omalizumab](https://dermnetnz.org/topics/omalizumab-for-urticaria).
+
+Người dùng steroid toàn thân cũng có thể nhận thêm thuốc để giảm bớt tác dụng phụ tiềm năng của chúng (như viêm dạ dày, tăng huyết áp, tiểu đường, và loãng xương).
+
+Các kháng thể đơn dòng nhắm vào IgE (như [omalizumab](https://dermnetnz.org/topics/omalizumab-for-urticaria)), IL-17 (như [secukinumab](https://dermnetnz.org/topics/secukinumab)), IL-4, IL-13, IL-5 (mepolixumab), eotaxin-1 (bertilumumab), protease serine bổ thể C1 (sutimlimab), [chất ức chế JAK](https://dermnetnz.org/topics/janus-kinase-inhibitors), và các chất trung gian khác đang được nghiên cứu để điều trị pemphigoid bóng nước.
+
+### Đánh giá và giám sát
+
+Vì điều trị toàn thân có thể cần thiết cho pemphigoid bóng nước trong thời gian dài, mức độ và mức độ nghiêm trọng của bệnh nên được ghi lại cẩn thận tại các cuộc hẹn ban đầu và theo dõi. Các khía cạnh sau có thể được xem xét.
+
+- Các vị trí cơ thể bị ảnh hưởng (da và màng nhầy)
+- Loại tổn thương: thoáng qua và không thoáng qua
+- Số lượng tổn thương: bóng nước, mề đay, mảng eczema
+- Mức độ nghiêm trọng của ngứa
+- Điểm quan sát: giai đoạn ban đầu, điều trị tích cực, giảm điều trị, giai đoạn duy trì trên điều trị tối thiểu, hoặc thuyên giảm hoàn toàn khi ngừng điều trị
+- Điều trị hiện tại
+
+Chỉ số Diện tích Bệnh Pemphigoid Bóng nước (BPDAI) có điểm số riêng cho hoạt động da và màng nhầy.
+
+Huyết áp, cân nặng cơ thể, quét xương DEXA, và xét nghiệm máu được yêu cầu để giám sát liệu pháp, vì các thuốc được sử dụng cho pemphigoid bóng nước có thể có tác dụng phụ nghiêm trọng ở một số bệnh nhân.
+
+## Làm thế nào để ngăn ngừa pemphigoid bóng nước?
+
+Không biết cách nào để ngăn ngừa pemphigoid bóng nước.
+
+## Triển vọng cho pemphigoid bóng nước là gì?
+
+Điều trị cho pemphigoid bóng nước thường cần thiết trong vài năm. Trong nhiều trường hợp, pemphigoid cuối cùng hoàn toàn biến mất, và điều trị có thể được ngừng. Nếu bóng nước tái phát, điều trị có thể được bắt đầu lại.
+
+### Tài liệu tham khảo
+
+- Abdul-Halim NA, Ng HJ. Pemphigoid bóng nước là một rối loạn liên quan phổ biến với bệnh máu khó đông mắc phải. Int J Hematol. 2021;113(1):58-62. doi:10.1007/s12185-020-03002-9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32949372/)
+- Amber KT, Feldman RJ. Sự an toàn của steroid bôi so với steroid uống trong pemphigoid bóng nước: cân nhắc cho các phân tích hồi cứu. Br J Dermatol. 2024;191(4):479–480. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38912800/)
+- Asdourian MS, Shah N, Jacoby TV, Reynolds KL, Chen ST. Liên kết của Pemphigoid Bóng nước với Liệu pháp Ức chế Điểm Kiểm soát Miễn dịch ở Bệnh nhân Ung thư: Một Đánh giá Hệ thống. JAMA Dermatol. 2022;158(8):933-941. doi:10.1001/jamadermatol.2022.1624 [Journal](https://jamanetwork.com/journals/jamadermatology/article-abstract/2792449)
+- [Hướng dẫn của Hiệp hội Da liễu Anh về đánh giá và quản lý pemphigoid bóng nước](https://www.bad.org.uk/guidelines-and-standards/clinical-guidelines/). VA Venning, K Taghipour, MF Mohd Mustapa, AS Highet và G Kirtschig, BJD, Vol. 167, No. 6, December 2012 (p1200-1214)
+- Chen YJ, Wu CY, Lin MW, Chen TJ, et al. Hồ sơ bệnh đi kèm trong số bệnh nhân bị pemphigoid bóng nước: một nghiên cứu dựa trên dân số toàn quốc. Br J Dermatol. 2011 Sep;165(3):593–9. doi: 10.1111/j.1365-2133.2011.10386.x. Epub 2011 Jul 28. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21517800)
+- Goletz S, Probst C, Komorowski L, et al. Xét nghiệm nhạy cảm và đặc hiệu cho chẩn đoán huyết thanh của pemphigoid anti-p200 dựa trên tiểu đơn vị laminin β4 tái tổ hợp. Br J Dermatol. 2024;191(1):140-141. [Journal](https://academic.oup.com/bjd/article-abstract/191/1/140/7636526?redirectedFrom=fulltext&login=true)
+- Granados-Betancort E, Sánchez-Díaz M, Muñoz-Barba D, Arias-Santiago S. Omalizumab và Dupilumab cho Điều trị Pemphigoid Bóng nước: Một Đánh giá Hệ thống. J Clin Med. 2024;13(16):484. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39200987/)
+- Kawsar A, Edwards C, Patel P, et al. Các sự kiện bất lợi liên quan đến miễn dịch da bóng nước liên quan đến chất ức chế điểm kiểm soát: một nghiên cứu quan sát đa trung tâm. Br J Dermatol. 2022;187(6):981-987. doi:10.1111/bjd.21836 [Journal](https://onlinelibrary.wiley.com/doi/10.1111/bjd.21836)
+- Murrell DF, Daniel BS, Joly P, Borradori L, A et al. Định nghĩa và các biện pháp kết quả cho pemphigoid bóng nước: khuyến nghị của một nhóm chuyên gia quốc tế. J Am Acad Dermatol. 2012 Mar;66(3):479–85. doi: 10.1016/j.jaad.2011.06.032. Epub 2011 Nov 5. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22056920). [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3883429/)
+- Planella-Fontanillas N, Bosch-Amate X, Jiménez Antón A, et al. Đánh giá thực tế về hiệu quả và an toàn của dupilumab trong pemphigoid bóng nước: một loạt trường hợp đa trung tâm. Br J Dermatol. 2025;192(3):501–509. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39418120/)
+- Singh S, Kirtschig G, Anchan VN, et al. Can thiệp cho pemphigoid bóng nước. Cochrane Database Syst Rev. 2023;8(8):CD002292. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37572360/)
+- Williams HC, Wojnarowska F, Kirtschig G, Mason J, et al. Nhóm Nghiên cứu BLISTER của Mạng lưới Thử nghiệm Lâm sàng Da liễu Vương quốc Anh. Doxycycline so với prednisolone như một chiến lược điều trị ban đầu cho pemphigoid bóng nước: một thử nghiệm ngẫu nhiên không thua kém thực tế. Lancet. 2017 Apr 22;389(10079):1630–8. [Journal](https://doi.org/10.1016/S0140-6736(17)30560-3)
+
+### Trên DermNet
+
+- [Pemphigoid bóng nước – bệnh lý](https://dermnetnz.org/topics/bullous-pemphigoid-pathology)
+- [Pemphigoid bóng nước ở trẻ em](https://dermnetnz.org/topics/childhood-bullous-pemphigoid)
+- [Pemphigoid thai kỳ](https://dermnetnz.org/topics/pemphigoid-gestationis)
+- [Pemphigoid nodularis](https://dermnetnz.org/topics/pemphigoid)
+- [Bệnh da bóng nước](https://dermnetnz.org/topics/immunological-disorders)
+- [Pemphigoid sẹo](https://dermnetnz.org/topics/mucous-membrane-pemphigoid)
+- [Epidermolysis bullosa mắc phải](https://dermnetnz.org/topics/epidermolysis-bullosa-acquisita)
+- [Bệnh bóng nước miệng](https://dermnetnz.org/topics/oral-blistering-diseases)
+- [Giải thích về dị ứng](https://dermnetnz.org/topics/allergies-explained)
+- [Miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence)
+- [Tình trạng da bóng nước](https://dermnetnz.org/topics/blistering-skin-conditions)
+- [Miễn dịch huỳnh quang gián tiếp](https://dermnetnz.org/topics/indirect-immunofluorescence)
+
+### Các trang web khác
+
+- [Tổ chức Pemphigus và Pemphigoid Quốc tế](http://www.pemphigus.org/)
+- [Pemphigoid bóng nước](http://emedicine.medscape.com/article/1062391-overview) — Tham khảo Medscape
+- [Pemphigoid](https://www.bad.org.uk/pils/pemphigoid/) — Hiệp hội Da liễu Anh
+- [Quỹ Bệnh Bóng nước Úc](http://www.blisters.org.au/)
+- [Pem Friends](https://www.pemfriends.org.uk/)— một nhóm hỗ trợ tại Vương quốc Anh cho pemphigoid và pemphigus
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ hiểu_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

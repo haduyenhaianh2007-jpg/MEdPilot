@@ -1,0 +1,3 @@
+## Giới thiệu
+
+Nếu bạn không tìm thấy những gì bạn đang tìm kiếm trên trang này, hãy thử [Thuật ngữ Da liễu của DermNet](https://dermnetnz.org/glossary) hoặc các chẩn đoán da liễu thường có nhiều hơn một tên gọi. DermNet tham khảo nhiều nguồn khác nhau khi đặt tên cho các tình trạng, bao gồm Phân loại Bệnh tật Quốc tế của Tổ chức Y tế Thế giới (WHO) (xem [công cụ mã hóa ICD11](https://icd.who.int/ct11_2018/icd11_mms/en/release)), và Danh pháp Hệ thống Y học Lâm sàng ( [SNOMED CT](http://browser.ihtsdotools.org/)).

@@ -1,0 +1,21 @@
+## Kiểm tra miếng dán là gì?
+
+Kiểm tra miếng dán được thực hiện để điều tra và xác nhận các chất gây ra [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis). Quá trình này bao gồm việc áp dụng các [chất gây dị ứng đã được pha loãng](https://dermnetnz.org/topics/baseline-series-of-patch-test-allergens) lên da, thường là trên lưng để thuận tiện, trong 48 giờ. Các miếng dán sau đó được đọc kết quả sau 96 giờ vì các phản ứng thường mất từ 48 đến 96 giờ để phát triển. Phản ứng dương tính sẽ tạo ra một vùng viêm da tại vị trí áp dụng chất gây dị ứng, xuất hiện dưới dạng một vùng đỏ và có thể nổi lên, có mụn nước và thậm chí là phồng rộp.
+
+![Dãy kiểm tra miếng dán trước khi áp dụng kiểm tra miếng dán](https://dermnetnz.org/assets/Uploads/dermatitis/standard1.jpg)
+
+Dãy kiểm tra miếng dán trước khi áp dụng kiểm tra miếng dán
+
+![Dải kiểm tra miếng dán tại chỗ sau khi áp dụng](https://dermnetnz.org/assets/Uploads/procedures/ptest1.jpg)
+
+Dải kiểm tra miếng dán tại chỗ sau khi áp dụng
+
+![Gỡ bỏ miếng dán sau 48 giờ với phản ứng dương tính với chất tăng tốc cao su](https://dermnetnz.org/assets/Uploads/dermatitis/pt-rubber.jpg)
+
+Gỡ bỏ miếng dán sau 48 giờ với phản ứng dương tính với chất tăng tốc cao su
+
+[Viêm da](https://dermnetnz.org/topics/dermatitis) có thể được coi là ngoại sinh (ví dụ, chất kích thích, chất gây dị ứng và đôi khi là ánh sáng) hoặc nội sinh. Trong thực tế, viêm da có thể do nguyên nhân hỗn hợp. Kiểm tra miếng dán chủ yếu có giá trị trong việc xác định nguyên nhân của viêm da tiếp xúc dị ứng và không hữu ích trong việc điều tra viêm da kích thích. Kiểm tra miếng dán có một số giá trị hạn chế trong việc điều tra một số loại dị ứng thuốc, và một loại kiểm tra miếng dán chuyên biệt được sử dụng để điều tra dị ứng tiếp xúc ánh sáng ([kiểm tra miếng dán ánh sáng](https://dermnetnz.org/topics/phototesting)).
+
+Kiểm tra [áp dụng mở lặp lại](https://dermnetnz.org/topics/open-application-test) đôi khi có thể giúp xác định một vật phẩm nghi ngờ (thường là sản phẩm chăm sóc cá nhân) nếu có sự chậm trễ trong kiểm tra miếng dán chính thức — sản phẩm được áp dụng hai lần một ngày lên một vùng da cánh tay có đường kính 5 cm trong 5–10 ngày. Không có đỏ hoặc sưng rõ rệt có nghĩa là dị ứng tiếp xúc với sản phẩm đó không có khả năng xảy ra. Một số sản phẩm có tính kích thích cao không thể được kiểm tra mở hoặc kiểm tra miếng dán bịt kín lặp lại một cách an toàn, vì chúng có thể cần được pha loãng thích hợp.
+
+Kiểm tra miếng dán không giống như [kiểm tra chích da](https://dermnetnz.org/topics/skin-prick-testing), được sử dụng để chẩn đoán dị ứng sốt cỏ khô.

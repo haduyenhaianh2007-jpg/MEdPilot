@@ -1,0 +1,186 @@
+##### Viêm mạch da — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Viêm mạch của da
+
+Danh mục:
+
+Vấn đề mạch máu
+
+ICD-10:
+
+L95, I78.8, I77.6
+
+ICD-11:
+
+EF40.Z, 4A44.BO, EF40.2Y, EF40.1Y, EF40.0
+
+SNOMED CT:
+
+238785001, 238787009, 402664001, 718217000, 85461008
+
+**[Vấn đề mạch máu](https://dermnetnz.org/topics?category=Blood%20vessel%20problems)**
+
+# **Viêm mạch da**
+
+Tác giả: Bác sĩ Amy Stanway, Bác sĩ Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2003. Cập nhật bởi Phó Giáo sư Amanda Oakley, tháng 1 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/cutaneous-vasculitis#Introduction%3Cbr%20/%3E) [Phân loại](https://dermnetnz.org/topics/cutaneous-vasculitis#Classification%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/cutaneous-vasculitis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/cutaneous-vasculitis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/cutaneous-vasculitis#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/cutaneous-vasculitis#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/cutaneous-vasculitis#Treatment%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/cutaneous-vasculitis#Outlook)
+
+## Viêm mạch da là gì?
+
+Viêm mạch da là một nhóm các rối loạn trong đó có các mạch máu bị viêm trong da. Những mạch này có thể bao gồm mao mạch, tiểu tĩnh mạch, tiểu động mạch và mạch bạch huyết.
+
+- Viêm mạch da có nhiều nguyên nhân khác nhau
+- Có nhiều biểu hiện lâm sàng đa dạng.
+- Nó liên quan đến viêm mạch hệ thống ở một số ít bệnh nhân
+
+Trong hầu hết các trường hợp, không tìm thấy nguyên nhân cơ bản và bệnh tự giới hạn.
+
+## Phân loại viêm mạch da
+
+### Viêm mao mạch
+
+- Ban xuất huyết sắc tố tiến triển: dạng phổ biến nhất của [viêm mao mạch](https://dermnetnz.org/topics/capillaritis)
+- Ban xuất huyết ngứa
+- Viêm da lichenoid sắc tố
+- Ban xuất huyết vòng telangiectodes
+- Viêm mao mạch liên quan đến dị ứng tiếp xúc
+- [Lichen aureus](https://dermnetnz.org/topics/capillaritis)
+
+### Viêm mạch mạch máu nhỏ
+
+- Viêm mạch mạch máu nhỏ do da [không rõ nguyên nhân, do thuốc hoặc nhiễm trùng](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis) (viêm mạch quá mẫn)
+- [Ban xuất huyết Henoch-Schönlein](https://dermnetnz.org/topics/henoch-schoenlein-purpura)
+- [Phù xuất huyết cấp tính ở trẻ sơ sinh](https://dermnetnz.org/topics/acute-haemorrhagic-oedema-of-infancy)
+- [Viêm mạch mề đay](https://dermnetnz.org/topics/urticarial-vasculitis)
+- [Viêm mạch do tập thể dục](https://dermnetnz.org/topics/exercise-induced-vasculitis)
+- [Ban đỏ nổi cao diutinum](https://dermnetnz.org/topics/erythema-elevatum-diutinum)
+- [Viêm động mạch huyết khối lympho](https://dermnetnz.org/topics/lymphocytic-thrombophilic-arteritis)
+- [Bệnh papulosis teo ác tính](https://dermnetnz.org/topics/malignant-atrophic-papulosis) (Degos)
+- [Cryoglobulinaemia](https://dermnetnz.org/topics/cryoglobulinaemia)
+- [Viêm mạch hoại tử tái phát do bạch cầu ái toan](https://dermnetnz.org/topics/recurrent-cutaneous-necrotising-eosinophilic-vasculitis)
+- Viêm mạch liên quan đến ANCA
+
+  - Viêm đa mạch vi thể
+  - [Viêm mạch bạch cầu ái toan với viêm đa mạch / Churg-Strauss](https://dermnetnz.org/topics/eosinophilic-granulomatosis-with-polyangiitis)
+  - [Viêm mạch bạch cầu ái toan với viêm đa mạch](https://dermnetnz.org/topics/granulomatosis-with-polyangiitis)
+  - [Viêm mạch lymphomatoid](https://dermnetnz.org/topics/lymphomatoid-granulomatosis)
+
+### Viêm mạch mạch máu trung bình
+
+- [Viêm đa động mạch nút da](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa)
+- [Bệnh Kawasaki](https://dermnetnz.org/topics/kawasaki-disease)
+- [Viêm mạch nốt](https://dermnetnz.org/topics/nodular-vasculitis)
+
+### Viêm mạch mạch máu lớn
+
+- Bệnh Takayasu
+- [Viêm động mạch tế bào khổng lồ](https://dermnetnz.org/topics/giant-cell-arteritis)
+
+## Ai bị viêm mạch da?
+
+Viêm mạch da có thể ảnh hưởng đến người ở mọi lứa tuổi và chủng tộc. Một số loại viêm mạch có xu hướng xảy ra ở các nhóm tuổi nhất định.
+
+- [Phù xuất huyết cấp tính](https://dermnetnz.org/topics/acute-haemorrhagic-oedema-of-infancy) ảnh hưởng đến trẻ sơ sinh
+- [Ban xuất huyết Henoch–Schönlein](https://dermnetnz.org/topics/henoch-schoenlein-purpura) ảnh hưởng đến trẻ em
+- [Viêm mạch quá mẫn](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis) ảnh hưởng đến người lớn
+- Người lớn tuổi có khả năng mắc các bệnh và dùng thuốc có thể gây viêm mạch mạch máu nhỏ
+
+## Nguyên nhân gây viêm mạch là gì?
+
+Nhiều tác nhân khác nhau có thể gây ra phản ứng viêm giống nhau trong thành mạch máu. Ba cơ chế chính được đề xuất.
+
+- Tổn thương trực tiếp thành mạch do [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) hoặc [virus](https://dermnetnz.org/topics/viral-skin-infections)
+- Tổn thương gián tiếp do kích hoạt kháng thể
+- Tổn thương gián tiếp thông qua kích hoạt [bổ thể](https://dermnetnz.org/topics/the-complement-system), một nhóm protein trong máu và dịch mô tấn công nhiễm trùng và vật thể lạ.
+
+## Đặc điểm lâm sàng của viêm mạch là gì?
+
+Biểu hiện lâm sàng của viêm mạch da chủ yếu phụ thuộc vào kích thước của mạch máu bị viêm.
+
+- [Viêm mao mạch](https://dermnetnz.org/topics/capillaritis) biểu hiện dưới dạng ban xuất huyết sắc tố, đặc trưng bởi các chấm xuất huyết giải quyết với lắng đọng hemosiderin.
+- Viêm mạch mạch máu nhỏ đặc trưng bởi ban xuất huyết [sờ thấy được](https://dermnetnz.org/topics/purpura).
+- Viêm mạch mạch máu trung bình liên quan đến các nốt và [livedo reticularis](https://dermnetnz.org/topics/livedo-reticularis).
+- Viêm mạch mạch máu lớn hiếm khi dẫn đến các đặc điểm trên da.
+
+![Viêm mạch da](https://dermnetnz.org/assets/Uploads/vascular/vasc7.jpg)
+
+Viêm mạch da
+
+![Viêm mạch da](https://dermnetnz.org/assets/Uploads/vascular/vasc2.jpg)
+
+Viêm mạch da
+
+![Viêm mạch da](https://dermnetnz.org/assets/Uploads/vascular/vasc3.jpg)
+
+Viêm mạch da
+
+![Viêm mạch da](https://dermnetnz.org/assets/Uploads/vascular/vasc4.jpg)
+
+Viêm mạch da
+
+![Viêm mạch da](https://dermnetnz.org/assets/Uploads/vascular/vasc5.jpg)
+
+Viêm mạch da
+
+![Viêm mạch da](https://dermnetnz.org/assets/Uploads/vascular/vasc6.jpg)
+
+Viêm mạch da
+
+[Xem thêm hình ảnh về viêm mạch da](https://dermnetnz.org/topics/vasculitis-images) ...
+
+## Viêm mạch da được chẩn đoán như thế nào?
+
+Chẩn đoán viêm mạch thường có thể được thực hiện dựa trên hình thức của nó mà không cần bất kỳ xét nghiệm nào khác. Đôi khi một [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) được thực hiện để xác nhận chẩn đoán nhưng điều này hiếm khi giải thích nguyên nhân gây ra nó, vì viêm mạch là điểm cuối chung của nhiều sự kiện khác nhau.
+
+Các xét nghiệm sàng lọc được yêu cầu trong hầu hết các trường hợp viêm mạch để xác định bất kỳ nguyên nhân cơ bản nào và để xác định mức độ liên quan của các cơ quan nội tạng.
+
+## Điều trị viêm mạch là gì?
+
+Điều trị phụ thuộc vào mức độ nghiêm trọng của bệnh và có thể bao gồm các biện pháp chung, corticosteroid hệ thống và các tác nhân điều chỉnh miễn dịch.
+
+Nếu viêm mạch da là biểu hiện của viêm mạch hệ thống thì cần điều trị rối loạn hệ thống.
+
+## Triển vọng cho viêm mạch da là gì?
+
+Viêm mạch giới hạn ở da có tiên lượng tốt với hầu hết các trường hợp tự khỏi trong vòng vài tuần đến vài tháng. Viêm mạch có thể tái phát ở các khoảng thời gian khác nhau sau đợt đầu tiên.
+
+Tiên lượng của viêm mạch hệ thống phụ thuộc vào mức độ nghiêm trọng của sự liên quan của các cơ quan khác. Nếu viêm mạch ảnh hưởng đến thận, phổi hoặc não, nó có thể đe dọa tính mạng.
+
+### Thư mục
+
+- Chen KR, Carlson JA. Cách tiếp cận lâm sàng đối với viêm mạch da. Am J Clin Dermatol. 2008;9(2):71–92. doi:10.2165/00128071-200809020-00001 [PubMed](https://pubmed.ncbi.nlm.nih.gov/18284262/)
+- Martins-Martinho J, Dourado E, Khmelinskii N, Espinosa P, Ponte C. Các dạng viêm mạch khu trú. Curr Rheumatol Rep. 2021;23(7):49. doi:10.1007/s11926-021-01012-y [Journal](https://link.springer.com/article/10.1007%2Fs11926-021-01012-y)
+- Micheletti RG, Pagnoux C. Quản lý viêm mạch da. Presse Med. 2020;49(3):104033. doi:10.1016/j.lpm.2020.104033 [PubMed](https://pubmed.ncbi.nlm.nih.gov/32645416/)
+- Sunderkötter CH, Zelger B, Chen KR, et al. Danh pháp của viêm mạch da: phụ lục da liễu cho Hội nghị Đồng thuận Quốc tế Chapel Hill 2012 về Danh pháp của Viêm mạch. Arthritis Rheumatol. 2018;70(2):171–84. doi:10.1002/art.40375 [PubMed](https://pubmed.ncbi.nlm.nih.gov/29136340/)
+
+### Trên DermNet
+
+- [Vấn đề da mạch máu](https://dermnetnz.org/topics/vascular-skin-problems)
+- [Viêm mao mạch](https://dermnetnz.org/topics/capillaritis)
+- [Viêm mạch mạch máu nhỏ da](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis)
+- [Ban xuất huyết](https://dermnetnz.org/topics/purpura)
+- [Giải thích về dị ứng](https://dermnetnz.org/topics/allergies-explained)
+- [Miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence)
+- [Dấu hiệu da của bệnh thấp khớp](https://dermnetnz.org/topics/skin-signs-of-rheumatic-disease)
+
+### Các trang web khác
+
+- [Cấp cứu da liễu](https://www.youtube.com/watch?v=FLulWftTPBk&t=1s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Viêm mạch quá mẫn](http://emedicine.medscape.com/article/1083719-overview) — Medscape Drugs & Diseases
+- [Biểu hiện da của viêm mạch mề đay](http://emedicine.medscape.com/article/1085087-overview) — Medscape Drugs & Diseases
+- [Viêm mạch da](https://www.bad.org.uk/pils/cutaneous-vasculitis/) — Hiệp hội Da liễu Anh
+- [Quỹ Viêm mạch](http://www.vasculitisfoundation.org/)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

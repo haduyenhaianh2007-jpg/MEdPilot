@@ -1,0 +1,175 @@
+##### Tinea pedis — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Bệnh nấm chân, Nấm da chân, Nấm da chân do dermatophyte
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B35.3
+
+ICD-11:
+
+1F28.2, 1F28.Y
+
+SNOMED CT:
+
+6020002, 25956006, 43581009, 403055000, 75996005, 403054001
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Tinea pedis**
+
+Trang gốc được tạo vào năm 2003. Cập nhật bởi Bác sĩ Thomas Stewart, Bác sĩ Đa khoa, Sydney, Úc. Biên tập viên trưởng của DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập sao chép bởi Gus Mitchell. Tháng 4 năm 2018.
+
+[Giới thiệu](https://dermnetnz.org/topics/tinea-pedis#Introduction%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/tinea-pedis#Causes%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/tinea-pedis#Demographics%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/tinea-pedis#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/tinea-pedis#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/tinea-pedis#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/tinea-pedis#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/tinea-pedis#Prevention)
+
+## Tinea pedis là gì?
+
+Tinea pedis là một nhiễm trùng chân do nấm [dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) gây ra. Đây là nhiễm trùng dermatophyte phổ biến nhất và đặc biệt phổ biến ở môi trường đô thị nóng, nhiệt đới.
+
+- Sự tham gia giữa các ngón chân thường thấy nhất (biểu hiện này cũng được gọi là [bệnh nấm chân vận động viên](https://dermnetnz.org/topics/athletes-foot), mặc dù một số người sử dụng thuật ngữ này cho bất kỳ loại tinea pedis nào).
+- Tinea pedis có thể đi kèm với [tinea cruris](https://dermnetnz.org/topics/tinea-cruris), [tinea manuum](https://dermnetnz.org/topics/tinea-manuum) hoặc [tinea unguium](https://dermnetnz.org/topics/fungal-nail-infections).
+
+## Nguyên nhân gây ra tinea pedis là gì?
+
+Ba loại nấm [dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) phổ biến nhất gây ra tinea pedis là:
+
+- _Trichophyton (T.) rubrum_
+- _T. interdigitale_, trước đây gọi là _T. mentagrophytes_ var. _interdigitale_
+- _Epidermophyton floccosum_
+
+![Moccasin tinea pedis](https://dermnetnz.org/assets/Uploads/fungal/s/tinped1.jpg)
+
+Moccasin tinea pedis
+
+![Tinea pedis](https://dermnetnz.org/assets/Uploads/fungal/tpsev.jpg)
+
+Tinea pedis
+
+![Tinea pedis](https://dermnetnz.org/assets/Uploads/fungal/tpto.jpg)
+
+Tinea pedis
+
+![Tinea pedis](https://dermnetnz.org/assets/Uploads/fungal/s/tinped4.jpg)
+
+Tinea pedis
+
+![Tinea pedis](https://dermnetnz.org/assets/Uploads/fungal/s/tinped2.jpg)
+
+Tinea pedis
+
+![Tinea pedis](https://dermnetnz.org/assets/Uploads/fungal/s/tinped3.jpg)
+
+Tinea pedis
+
+[Xem thêm hình ảnh về tinea pedis](https://dermnetnz.org/topics/tinea-pedis-images) ...
+
+## Ai có thể bị tinea pedis?
+
+Tinea pedis thường xảy ra ở nam giới và thanh thiếu niên/người trưởng thành trẻ tuổi, nhưng cũng có thể ảnh hưởng đến phụ nữ, trẻ em và người lớn tuổi. Nhiễm trùng thường được lây nhiễm qua tiếp xúc trực tiếp với tác nhân gây bệnh, ví dụ như sử dụng khăn chung, hoặc đi chân trần trong phòng thay đồ công cộng.
+
+Các yếu tố nguy cơ khác bao gồm:
+
+- Giày dép kín (ví dụ, giày công nghiệp nặng)
+- Đổ mồ hôi quá nhiều ([hyperhidrosis](https://dermnetnz.org/topics/hyperhidrosis))
+- Suy giảm miễn dịch hoặc [đái tháo đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- [Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) hoặc [thuốc ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression)
+- Tuần hoàn ngoại vi kém hoặc [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema).
+
+## Các đặc điểm lâm sàng của tinea pedis là gì?
+
+Tinea pedis có xu hướng không đối xứng và có thể chỉ ảnh hưởng một bên. Nó thường xuất hiện theo ba cách:
+
+- Ngứa, xói mòn và/hoặc vảy giữa các ngón chân, đặc biệt là giữa ngón thứ 4 và thứ 5
+- Vảy bao phủ lòng bàn chân và hai bên chân (loại hyperkeratotic/moccasin, thường do T. rubrum gây ra)
+- Mụn nước nhỏ đến trung bình, thường ảnh hưởng đến mặt trong của bàn chân (loại vesiculobullous).
+
+Nó cũng có thể hiếm khi gây ra chảy dịch và loét giữa các ngón chân (loại loét), hoặc mụn mủ (những điều này phổ biến hơn trong tinea pedis do _T. interdigitale_ hơn là do _T. rubrum_).
+
+## Chẩn đoán tinea pedis như thế nào?
+
+Chẩn đoán tinea pedis có thể được thực hiện lâm sàng trong hầu hết các trường hợp, dựa trên các đặc điểm lâm sàng đặc trưng. Các vị trí điển hình khác, chẳng hạn như móng chân, háng và lòng bàn tay, nên được kiểm tra nhiễm nấm, điều này có thể hỗ trợ chẩn đoán tinea pedis.
+
+Chẩn đoán được xác nhận bằng cách cạo da, gửi để soi kính hiển vi trong kali hydroxide (khi có thể quan sát thấy sợi nấm phân đoạn) và nuôi cấy ([mycology](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections)). Nuôi cấy có thể không cần thiết nếu các yếu tố nấm điển hình được quan sát thấy trên kính hiển vi.
+
+## Chẩn đoán phân biệt của tinea pedis là gì?
+
+Chẩn đoán phân biệt của tinea pedis bao gồm:
+
+- Chàm chân — đặc biệt là [pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema) (pedopompholyx), hoặc [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) do độ ẩm liên tục giữa các ngón chân sát nhau
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/contact-dermatitis) với một thành phần của giày dép (chẳng hạn như [chất xúc tác cao su](https://dermnetnz.org/topics/allergy-to-rubber-accelerators), [keo giày](https://dermnetnz.org/topics/allergy-to-para-tertiary-butylphenol-formaldehyde-resin), [kali dichromate](https://dermnetnz.org/topics/chrome-allergy) được sử dụng làm chất thuộc da, hoặc [thuốc nhuộm vải](https://dermnetnz.org/topics/textile-dye-allergy))
+- [Vảy nến](https://dermnetnz.org/topics/psoriasis) ([vảy nến lòng bàn chân](https://dermnetnz.org/topics/psoriasis-of-the-palms-and-soles))
+- [Pustulosis lòng bàn chân](https://dermnetnz.org/topics/palmoplantar-pustulosis)
+- [Keratoderma lòng bàn chân](https://dermnetnz.org/topics/palmoplantar-keratoderma).
+
+Những rối loạn viêm này có khả năng đối xứng và hai bên. [Mycology](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) là âm tính.
+
+## Điều trị tinea pedis như thế nào?
+
+Các biện pháp chung nên là hàng đầu, bao gồm làm khô chân cẩn thận, đặc biệt là giữa các ngón chân, tránh giày dép kín, và sử dụng bảo vệ (dép) trong các cơ sở công cộng. Tất ngón có thể giúp tách các ngón chân, giảm độ ẩm và giúp làm sạch nhiễm trùng.
+
+[Liệu pháp chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) một hoặc hai lần mỗi ngày thường đủ. Bao gồm azoles, allylamines, butenafine, ciclopirox, và tolnaftate. Một liệu trình điển hình là 2 đến 4 tuần, nhưng các chế độ liều đơn có thể thành công cho nhiễm trùng nhẹ \[1,2\].
+
+Đối với những người không đáp ứng với liệu pháp tại chỗ, có thể cần một [tác nhân chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) trong vài tuần. Bao gồm:
+
+- [Terbinafine](https://dermnetnz.org/topics/terbinafine)
+- [Itraconazole](https://dermnetnz.org/topics/itraconazole)
+- [Fluconazole](https://dermnetnz.org/topics/fluconazole)
+- [Griseofulvin](https://dermnetnz.org/topics/griseofulvin) (có thể kém hơn so với các tác nhân đường uống khác và có thể không có sẵn ở một số quốc gia) \[3,4\].
+
+Bệnh nhân với biến thể hyperkeratotic của tinea pedis có thể hưởng lợi từ việc bổ sung một loại kem keratolytic tại chỗ chứa [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) hoặc [urea](https://dermnetnz.org/topics/urea) \[5\].
+
+## Làm thế nào để ngăn ngừa tái phát tinea pedis?
+
+Để giảm thiểu tái phát tinea pedis:
+
+- Làm khô chân và ngón chân cẩn thận sau khi tắm
+- Sử dụng bột khô chân một hoặc hai lần mỗi ngày
+- Tránh mang giày dép kín trong thời gian dài
+- Làm khô giày và ủng kỹ lưỡng
+- Làm sạch sàn nhà tắm và phòng tắm bằng sản phẩm chứa chất tẩy
+- Xử lý giày với bột chống nấm.
+
+Nếu điều trị tinea pedis không thành công, hãy xem xét tái nhiễm, nhiễm trùng móng chưa được điều trị, tái nhiễm do thành viên gia đình chưa được điều trị, hoặc chẩn đoán khác.
+
+### Tài liệu tham khảo
+
+- Crawford F, Hollis S. Các phương pháp điều trị tại chỗ cho nhiễm trùng nấm da và móng chân. Cochrane Database Syst Rev. 2007; 18(3): CD001434. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/17636672)
+- Korting HC, Tietz HJ, Bräutigam M, Mayser P, Rapatz G, Paul C. Một tuần kem terbinafine 1% (Lamisil) một lần mỗi ngày có hiệu quả trong điều trị tinea pedis giữa các ngón chân: một nghiên cứu kiểm soát phương tiện. Nhóm nghiên cứu LAS-INT-06. Med Mycol. 2001; 39(4): 335–40. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Korting+HC%2C+Tietz+HJ%2C+Br%C3%A4utigam+M%2C+Mayser+P%2C+Rapatz+G%2C+Paul+C.+One+week+terbinafine+1%25+cream+(Lamisil)+once+daily+is+effective+in+the+treatment+of+interdigital+tinea+pedis%3A+a+vehicle+controlled+study.)
+- Gupta AK, Cooper EA. Cập nhật trong liệu pháp chống nấm của dermatophytosis. Mycopathologia. 2008; 166 (5-6): 353. DOI: 10.1007/s11046-008-9109-0. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18478357)
+- Bell-Syer SE, Khan SM, Torgerson DJ. Điều trị đường uống cho nhiễm trùng nấm da chân. Cochrane Database Syst Rev. 2012; 10: CD003584. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23076898)
+- Kircik LH, Onumah N. Sử dụng kem naftifine hydrochloride 2% và kem urea 39% trong điều trị tinea pedis phức tạp bởi hyperkeratosis. J Drugs Dermatol. 2014 Feb. 13(2): 162–5. [Journal](http://jddonline.com/articles/dermatology/S1545961614P0162X)
+
+### Trên DermNet
+
+- [Tinea](https://dermnetnz.org/topics/tinea)
+- [Giới thiệu về nhiễm trùng nấm](https://dermnetnz.org/topics/introduction-to-fungal-infections)
+- [Xét nghiệm phòng thí nghiệm cho nhiễm trùng nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection)
+- [Điều trị nhiễm trùng nấm](https://dermnetnz.org/topics/treatment-of-fungal-infection)
+- [Thêm hình ảnh về tinea pedis](https://dermnetnz.org/topics/tinea-pedis-images)
+- [Mycology của nhiễm trùng dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections)
+- [Các tình trạng ảnh hưởng đến chân](https://dermnetnz.org/quizzes/blistering-conditions-affecting-the-feet-12-cases/case/1)
+
+### Các trang web khác
+
+- [Nhiễm trùng nấm da](https://www.youtube.com/watch?v=usvkbJATeo0&t=2s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Tinea pedis](http://emedicine.medscape.com/article/1091684-overview) — Tham khảo Medscape
+- [Thông tin bệnh nhân: Nấm da, nấm chân vận động viên, và nấm bẹn (Cơ bản)](http://www.uptodate.com/contents/ringworm-athletes-foot-and-jock-itch-the-basics) – UpToDate (dành cho người đăng ký)
+- [Thông tin bệnh nhân: Nấm da (bao gồm nấm chân vận động viên và nấm bẹn) (Ngoài cơ bản)](http://www.uptodate.com/contents/ringworm-including-athletes-foot-and-jock-itch-beyond-the-basics) — UpToDate (dành cho người đăng ký)
+- [Quản lý Tinea Pedis](http://www.ifd.org/protocols/tinea-pedis) — Quỹ Quốc tế về Da liễu
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

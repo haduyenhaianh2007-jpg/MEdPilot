@@ -1,0 +1,232 @@
+##### Phát ban cố định do thuốc — thông tin thêm
+
+Từ đồng nghĩa:
+
+FDE
+
+Danh mục:
+
+Phản ứng, Thuật ngữ
+
+ICD-10:
+
+L27.1
+
+ICD-11:
+
+EH66
+
+SNOMED CT:
+
+73692007, 400072006
+
+**[Phản ứng](https://dermnetnz.org/topics?category=Reactions) [Thuật ngữ](https://dermnetnz.org/topics?category=Terminology)**
+
+# **Phát ban cố định do thuốc**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 2001; Cập nhật: Bác sĩ Christine Condon, Bác sĩ Nội trú, Bệnh viện St Vincent’s Melbourne, Úc; Phó Giáo sư Rosemary Nixon AM, Chuyên gia Da liễu, Viện Sức khỏe Da, Carlton, Úc. Biên tập bởi Gus Mitchell. Tháng 3 năm 2021
+
+[Giới thiệu](https://dermnetnz.org/topics/fixed-drug-eruption#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/fixed-drug-eruption#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/fixed-drug-eruption#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/fixed-drug-eruption#Clinical%20features%3Cbr%20/%3E) [Biến thể trong các loại da](https://dermnetnz.org/topics/fixed-drug-eruption#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/fixed-drug-eruption#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/fixed-drug-eruption#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/fixed-drug-eruption#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/fixed-drug-eruption#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/fixed-drug-eruption#Outcome%3Cbr%20/%3E) [Phụ lục: danh sách nguyên nhân](https://dermnetnz.org/topics/fixed-drug-eruption#Appendix:%20list%20of%20causes)
+
+## Phát ban cố định do thuốc là gì?
+
+Phát ban cố định do thuốc là một phản ứng dị ứng da đặc trưng tái phát tại cùng vị trí khi tiếp xúc lại với thuốc hoặc chất hóa học khác.
+
+![Phát ban cố định do thuốc](https://dermnetnz.org/assets/Uploads/doctors/emergencies/images/drug3.jpg)
+
+Phát ban cố định do thuốc
+
+![Phát ban cố định do thuốc dạng mục tiêu](https://dermnetnz.org/assets/Uploads/reactions/w/targetoid-08.jpg)
+
+Phát ban cố định do thuốc dạng mục tiêu
+
+![Phát ban cố định do thuốc có mụn nước](https://dermnetnz.org/assets/Uploads/reactions/s/fde1.jpg)
+
+Phát ban cố định do thuốc có mụn nước
+
+\## Ai bị phát ban cố định do thuốc?
+
+Phát ban cố định do thuốc ảnh hưởng đến cả hai giới, và ảnh hưởng đến người lớn nhiều hơn trẻ em. Có một số ví dụ về mối liên hệ HLA với phát ban cố định do thuốc do các loại thuốc cụ thể, ví dụ, HLA-A30 với phát ban cố định do cotrimoxazole.
+
+## Nguyên nhân gây ra phát ban cố định do thuốc?
+
+Phát ban cố định do thuốc là một phản ứng quá mẫn loại IV chậm. Trong giai đoạn đầu, các tế bào T CD8+ nhớ tại giao điểm bì-thượng bì giải phóng interferon-gamma khi được kích hoạt bởi kháng nguyên thuốc gây tổn thương lớp đáy thượng bì. Các tế bào T và bạch cầu trung tính được tuyển mộ gây tổn thương tế bào hắc tố và tế bào sừng. Trong giai đoạn giải quyết, các đại thực bào bì thu thập melanin dẫn đến tăng sắc tố sau viêm điển hình. Các tế bào sừng đáy tái tạo giải phóng interleukin-15 dẫn đến hình thành các tế bào T CD8+ nhớ cư trú, vẫn ở trạng thái yên tĩnh nhưng sẵn sàng phản ứng với kháng nguyên hóa học một lần nữa.
+
+Phát ban cố định do thuốc thường do thuốc uống, với các thuốc kháng khuẩn và [thuốc chống viêm không steroid (NSAID)](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) là thủ phạm phổ biến nhất. Các phơi nhiễm thuốc ít phổ biến hơn có thể là tại chỗ hoặc trong âm đạo. Phát ban cố định do thực phẩm có thể do kháng sinh, chất tạo hương hoặc chất tạo màu, hoặc chất bảo quản trong [thực phẩm](https://dermnetnz.org/topics/food-additives). Các chất bổ sung thảo dược và caffeine cũng đã được đề cập. Để biết danh sách chi tiết hơn, xem Phụ lục ở cuối.
+
+## Đặc điểm lâm sàng của phát ban cố định do thuốc là gì?
+
+Phát ban cố định do thuốc có thể được phân loại theo hình thái lâm sàng. Dạng phổ biến nhất là dạng sắc tố cục bộ; các biểu hiện khác bao gồm dạng bọng nước (cục bộ hoặc toàn thân), niêm mạc, không sắc tố, hoặc toàn thân.
+
+Phát ban cố định do thuốc thường xuất hiện dưới dạng một (hoặc một số ít) mảng hoặc mảng đỏ hoặc tím hình tròn hoặc bầu dục rõ ràng có thể phồng rộp hoặc loét. Thường không có triệu chứng nhưng có thể ngứa hoặc đau. Trong vài ngày và tuần tiếp theo, bề mặt có thể trở nên có vảy hoặc đóng vảy trước khi bong tróc, và màu sắc mờ dần để lại tăng sắc tố sau viêm màu nâu. Tăng sắc tố sau viêm có xu hướng nổi bật hơn ở da màu.
+
+Trái ngược với nhiều phát ban do thuốc khác, bệnh nhân vẫn khỏe mạnh toàn thân.
+
+Tay và chân, mí mắt, và vùng hậu môn-sinh dục là những vị trí phổ biến. Các tổn thương ở niêm mạc miệng thường được tìm thấy trên môi, lưỡi và vòm miệng cứng. Phát ban cố định do thuốc có thể xảy ra tại cùng vị trí với tổn thương da trước đó như bỏng, vết cắn côn trùng, hoặc chọc tĩnh mạch.
+
+Trong lần đầu tiên, phát ban có thể phát triển sau nhiều tuần đến nhiều năm sử dụng thuốc thường xuyên, nhưng các đợt sau phát triển trong vòng vài phút đến vài giờ sau khi bắt đầu lại thuốc bị nghi ngờ. Một mảng phát ban cố định do thuốc cho thấy một giai đoạn kháng cự trong đó nó sẽ không bùng phát ngay cả khi tiếp xúc lại. Với các đợt sau, mảng ban đầu có thể mở rộng và nhiều mảng khác có thể xuất hiện. Tăng sắc tố sau viêm tối màu hơn với mỗi lần tái phát.
+
+### Phát ban cố định do thuốc
+
+![Phát ban cố định do thuốc](https://dermnetnz.org/assets/Uploads/reactions/fde-nsaid.jpg)
+
+Phát ban cố định do thuốc
+
+![ ](https://dermnetnz.org/assets/Uploads/fixed-drug-eruption-016.jpg)
+
+![Tổn thương dạng mục tiêu trong phát ban cố định do thuốc](https://dermnetnz.org/assets/Uploads/reactions/targetoid-07.jpg)
+
+Tổn thương dạng mục tiêu trong phát ban cố định do thuốc
+
+## Biến thể lâm sàng của phát ban cố định do thuốc
+
+### Phát ban cố định do thuốc ở niêm mạc
+
+- Liên quan đến môi, lưỡi, vòm miệng cứng, niêm mạc sinh dục
+- Mụn nước và xói mòn là phổ biến
+- Có thể cô lập/cục bộ hoặc có thể xảy ra với tổn thương da
+- Tổn thương niêm mạc miệng thường do cotrimoxazole và naproxen
+- Tổn thương niêm mạc sinh dục: quy đầu – cotrimoxazole; âm hộ – NSAIDs.
+
+### Phát ban cố định do thuốc ở niêm mạc
+
+![Phát ban cố định do thuốc có sắc tố trên môi](https://dermnetnz.org/assets/Uploads/reactions/fde-lips.jpg)
+
+Phát ban cố định do thuốc có sắc tố trên môi
+
+![Phát ban cố định do thuốc loét, niêm mạc miệng](https://dermnetnz.org/assets/Uploads/doctors/emergencies/images/fde2.jpg)
+
+Phát ban cố định do thuốc loét, niêm mạc miệng
+
+![Phát ban cố định do thuốc: quy đầu](https://dermnetnz.org/assets/collection/Fixed-drug-eruption/fixed-drug-eruption-0001.jpg)
+
+Phát ban cố định do thuốc: quy đầu
+
+### Phát ban cố định do thuốc không sắc tố
+
+- Thường là tổn thương đối xứng
+- Giải quyết mà không có tăng sắc tố sau viêm
+- Liên quan đến piroxicam và pseudoephedrine.
+
+### Phát ban cố định do thuốc toàn thân
+
+- Xuất hiện với nhiều tổn thương
+- Tổn thương có thể là dạng mục tiêu giống như hồng ban đa dạng.
+
+### Phát ban cố định do thuốc bọng nước toàn thân
+
+- Biến thể hiếm
+- Các đợt tái phát với khởi phát trong vòng 24 giờ sau khi tiếp xúc với thuốc
+- Nhiều mụn nước lớn và xói mòn với da bình thường giữa các tổn thương thường ảnh hưởng đến <10% bề mặt da
+- Tương đối ít ảnh hưởng đến bề mặt niêm mạc
+- Tổn thương không phải dạng mục tiêu
+- Sốt, mệt mỏi và đau khớp có thể liên quan
+- Giải quyết với tăng sắc tố sau viêm.
+
+## Biến chứng của phát ban cố định do thuốc là gì?
+
+- Mụn nước và xói mòn
+- Tăng sắc tố sau viêm
+- Tái phát
+- Phản ứng chéo với các loại thuốc khác
+- Phát ban cố định do thuốc bọng nước toàn thân có thể bị biến chứng bởi mất dịch, mất cân bằng điện giải, và nhiễm trùng thứ cấp.
+
+## Phát ban cố định do thuốc được chẩn đoán như thế nào?
+
+Phát ban cố định do thuốc nên được xem xét dựa trên lịch sử và khám xét nhưng có thể khó khăn trong lần đầu tiên. Trong các đợt sau, một lịch sử chi tiết về việc uống thuốc trong 24 giờ trước đó có thể xác định thủ phạm.
+
+Các xét nghiệm có thể bao gồm:
+
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) — cho thấy viêm da giao diện trong tổn thương sớm với các tế bào sừng chết rải rác, thoái hóa không bào, phù bì, và thâm nhiễm lympho-eosinophilic quanh mạch nông. Mụn nước là dưới thượng bì nếu có. Một tổn thương muộn cho thấy các tế bào hắc tố bì trên.
+- Thử nghiệm thách thức uống — với liều thấp của thuốc bị nghi ngờ mặc dù thường có giai đoạn kháng cự trong đó mảng sẽ không bùng phát. Điều này bị chống chỉ định ở bệnh nhân có phát ban cố định do thuốc bọng nước toàn thân.
+- [Thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) — sử dụng thuốc bị nghi ngờ trong paraffin mềm áp dụng lên vị trí tổn thương là dương tính trong 50% trường hợp. Thử nghiệm chích và thử nghiệm miếng dán trên da bình thường thường âm tính.
+
+## Chẩn đoán phân biệt cho phát ban cố định do thuốc là gì?
+
+- Đợt đầu tiên của một hoặc vài tổn thương — phản ứng mụn nước [vết cắn côn trùng](https://dermnetnz.org/topics/arthropod-bites-and-stings), [pemphigoid bọng nước](https://dermnetnz.org/topics/bullous-pemphigoid) và các rối loạn bọng nước tự miễn khác
+- Tổn thương dạng mục tiêu — [hồng ban đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+- Nhiều tổn thương bọng nước — [hội chứng Stevens-Johnson/hoại tử biểu bì độc hại](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis)
+- Tổn thương miệng — [herpes simplex](https://dermnetnz.org/topics/herpes-simplex), [loét aphthous](https://dermnetnz.org/topics/aphthous-ulcer), [bệnh bọng nước tự miễn miệng](https://dermnetnz.org/topics/oral-blistering-diseases)
+
+## Điều trị phát ban cố định do thuốc là gì?
+
+- Ngừng sử dụng thuốc bị nghi ngờ
+- Tránh sử dụng thuốc bị nghi ngờ vô thời hạn
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)/ [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+- Phát ban cố định do thuốc bọng nước toàn thân cần chăm sóc tích cực hoặc đơn vị bỏng
+
+## Kết quả của phát ban cố định do thuốc là gì?
+
+Phát ban cố định do thuốc thường là một phát ban lành tính tự giải quyết tái phát khi tiếp xúc lại, để lại tăng sắc tố sau viêm. Các đợt tái phát có thể nghiêm trọng hơn.
+
+Phát ban cố định do thuốc bọng nước toàn thân có thể đe dọa tính mạng, và đã được báo cáo có tỷ lệ tử vong 20%.
+
+## Phụ lục: danh sách một số nguyên nhân gây phát ban cố định do thuốc
+
+### Kháng khuẩn
+
+- Kháng sinh — co-trimoxazole, [tetracyclines](https://dermnetnz.org/topics/tetracycline), [penicillins](https://dermnetnz.org/topics/penicillin), [metronidazole](https://dermnetnz.org/topics/metronidazole), [rifampicin](https://dermnetnz.org/topics/rifampicin), [erythromycin](https://dermnetnz.org/topics/erythromycin), quinolones, [dapsone](https://dermnetnz.org/topics/dapsone)
+- Thuốc chống sốt rét — quinine
+- Thuốc chống nấm — azoles toàn thân ví dụ, fluconazole \[xem [Thuốc chống nấm uống](https://dermnetnz.org/topics/oral-antifungal-medication)\]
+
+### Thuốc giảm đau/chống viêm
+
+- Paracetamol (acetaminophen)
+- [Thuốc chống viêm không steroid (NSAID)](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) — aspirin, ibuprofen, naproxen, piroxicam, mefenamic acid
+
+### Thuốc an thần và chống co giật
+
+Carbamazepine, barbiturates, và benzodiazepines
+
+### Thuốc chống tăng huyết áp
+
+- Thuốc chẹn kênh canxi
+- Thuốc ức chế men chuyển angiotensin
+
+### Các loại thuốc khác
+
+Cetirizine, omeprazole, pseudoephedrine, sulphasalazine, tiêm chủng
+
+### Thuốc bổ sung
+
+Bao gồm thuốc thảo dược truyền thống và chất bổ sung
+
+### Thực phẩm
+
+Măng tây, hạt điều, kiwi, đậu lăng, rượu cọ, đậu phộng, propolis, quinine (nước tonic), hải sản, dâu tây, tartrazine (gạo vàng, phô mai giòn)
+
+### Thư mục
+
+- Adern-Jones MR, Lee HY. Phản ứng bất lợi lành tính trên da đối với thuốc. Trong: Griffiths C, Barker J, Bleiker T, Chalmers R, Creamer D (eds). Sách giáo khoa Da liễu của Rook, ấn bản thứ 9. Wiley Blackwell, 2016: trang 118.11–14.
+- Byrd RC, Mournighan KJ, Baca-Atlas M, Helton MR, Sun NZ, Siegel MB. Phát ban cố định do thuốc bọng nước toàn thân thứ phát do vắc-xin cúm. JAAD Case Rep. 2018;4(9):953–5. doi:10.1016/j.jdcr.2018.07.013. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6197945/)
+- Fukushima S, Kidou M, Ihn H. Phát ban cố định do thực phẩm gây ra bởi hạt điều. Allergol Int. 2008;57(3):285–7. doi:10.2332/allergolint.C-07-58. [Journal](https://www.sciencedirect.com/science/article/pii/S1323893015307851)
+- Mitre V, Applebaum DS, Albahrani Y, Hsu S. Phát ban cố định do thuốc bọng nước toàn thân bắt chước hoại tử biểu bì độc hại: một báo cáo trường hợp và đánh giá tài liệu. Dermatol Online J. 2017;23(7):13030/qt25v009gs. [Journal](https://escholarship.org/uc/item/25v009gs)
+- Mizukawa Y, Shiohara T. Phát ban cố định do thuốc tại vị trí chấn thương: liên quan đến sẹo bỏng, vết cắn côn trùng và vị trí chọc tĩnh mạch. Dermatology. 2002;205(2):159–61. doi:10.1159/000063892. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12218232/)
+- Mizukawa Y, Yamazaki Y, Teraki Y, et al. Bằng chứng trực tiếp về sản xuất interferon-gamma bởi các tế bào T loại nhớ hiệu quả cư trú trong biểu bì tại một vị trí hiệu quả của bệnh lý miễn dịch trong phát ban cố định do thuốc. Am J Pathol. 2002;161(4):1337–47. doi:10.1016/s0002-9440(10)64410-0. [Journal](https://ajp.amjpathol.org/action/showPdf?pii=S0002-9440%2810%2964410-0)
+- Özkaya E. Phát ban cố định do thuốc ở niêm mạc miệng: đặc điểm và chẩn đoán phân biệt. J Am Acad Dermatol. 2013;69(2):e51–8. doi:10.1016/j.jaad.2012.08.019. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23044075/)
+- Patel S, John AM, Handler MZ, Schwartz RA. Phát ban cố định do thuốc: cập nhật, nhấn mạnh phát ban cố định do thuốc bọng nước toàn thân có thể gây tử vong. Am J Clin Dermatol. 2020;21(3):393-9. doi:10.1007/s40257-020-00505-3. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32002848/)
+- Tan C, Zhu WY. Thuốc thảo dược Trung Quốc: một thủ phạm bị bỏ qua cho phát ban cố định do thuốc. Eur J Dermatol. 2010;20(3):397–9. doi:10.1684/ejd.2010.0947. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20299315/)
+
+### Trên DermNet
+
+- [Các tình trạng da có mụn nước](https://dermnetnz.org/topics/blistering-skin-conditions)
+- [Phát ban do thuốc bọng nước](https://dermnetnz.org/topics/bullous-drug-eruptions)
+- [Phản ứng bất lợi trên da đối với kháng sinh](https://dermnetnz.org/topics/cutaneous-adverse-reactions-to-antibiotics)
+- [Tổn thương dạng mục tiêu và dạng mục tiêu](https://dermnetnz.org/topics/target-and-targetoid-lesions)
+
+### Các trang web khác
+
+- [Rối loạn có mụn nước](https://www.youtube.com/watch?v=xvBTdPl0uao&t=1s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Hiểu về phát ban do thuốc](https://www.youtube.com/watch?v=qVaP9skHsh0&t=1s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Phát ban cố định do thuốc](https://emedicine.medscape.com/article/1336702-overview) — Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

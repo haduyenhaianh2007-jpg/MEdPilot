@@ -1,0 +1,11 @@
+## Phản ứng quá mẫn type I là gì?
+
+Sau khi tiếp xúc và tái tiếp xúc với một kháng nguyên (dị nguyên) ở những người dễ bị ảnh hưởng, phản ứng dị ứng type I, hay phản ứng dị ứng tức thì, liên quan đến các tế bào trình diện kháng nguyên, sự kích hoạt của các tế bào T-helper (Th), sự kích thích của các tế bào B giải phóng IgE đặc hiệu, và sự giải phóng các chất trung gian dược lý khác nhau (như histamine, cytokine, leukotriene và các chất khác) từ các tế bào mast và basophil. Sự giải phóng các chất trung gian này gây ra các triệu chứng như hắt hơi, thở khò khè và nổi mề đay.
+
+![Phản ứng quá mẫn type 1](https://dermnetnz.org/assets/Uploads/type1-hypersensitivity.jpg)
+
+Phản ứng quá mẫn type 1
+
+APC, tế bào trình diện kháng nguyên; IgE, immunoglobulin E; Th, tế bào T-helper.
+
+Nguồn: [Gaurab Karki, Nhà vi sinh học Kathmandu, qua Online Biology Notes](https://www.onlinebiologynotes.com/type-i-hypersensitivity-reaction-mechanism-and-clinical-manifestation/).

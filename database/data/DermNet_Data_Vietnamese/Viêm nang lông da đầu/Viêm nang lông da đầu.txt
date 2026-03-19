@@ -1,0 +1,118 @@
+##### Viêm nang lông da đầu — thông tin bổ sung
+
+Danh mục:
+
+Rối loạn nang lông
+
+ICD-10:
+
+L73.9, L70.2, L66.3, B88.0
+
+ICD-11:
+
+EG30.0, ED70.51, ED81.Y, 1B74.0, 1G07.0, 1F2D.1
+
+SNOMED CT:
+
+238378003, 45072005, 77333008, 402922003, 402923008, 23894009, 404175004, 201182003, 238379006, 240894003, 428172002
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics?category=Follicular%20disorder)**
+
+# **Viêm nang lông da đầu**
+
+Tác giả: Được xem xét và cập nhật bởi Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand; Vanessa Ngan, Nhà văn; Clare Morrison, Biên tập viên, tháng 6 năm 2014.
+
+[Giới thiệu](https://dermnetnz.org/topics/scalp-folliculitis#Introduction%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/scalp-folliculitis#Causes%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/scalp-folliculitis#Treatment%3Cbr%20/%3E) [Mụn trứng cá hoại tử](https://dermnetnz.org/topics/scalp-folliculitis#Acne%20necrotica%3Cbr%20/%3E) [Viêm quanh nang lông da đầu có mủ và thâm nhập](https://dermnetnz.org/topics/scalp-folliculitis#Perifolliculitis%20capitis%20abscedens%20et%20suffodiens)
+
+## Viêm nang lông da đầu là gì?
+
+Viêm nang lông da đầu là một rối loạn viêm của các nang lông trên da đầu. Tình trạng này còn được gọi là "mụn trứng cá hoại tử miliaris" hoặc "viêm nang lông do Proprionibacterium".
+
+Viêm nang lông da đầu được đặc trưng bởi các mụn mủ nhỏ, rất ngứa trên da đầu, thường gây khó chịu nhất ở đường chân tóc phía trước. Có thể chỉ có một số ít tổn thương, hoặc chúng có thể rất nhiều. Chúng khó để không động vào vì ngứa. Chúng thường trở nên đau và có vảy.
+
+![Viêm nang lông da đầu](https://dermnetnz.org/assets/Uploads/acne/scalpfo2.jpg)
+
+Viêm nang lông da đầu
+
+![Viêm nang lông da đầu](https://dermnetnz.org/assets/Uploads/acne/scalpfo1.jpg)
+
+Viêm nang lông da đầu
+
+![Viêm nang lông da đầu](https://dermnetnz.org/assets/Uploads/acne/s/scalp-foll.jpg)
+
+Viêm nang lông da đầu
+
+[Xem thêm hình ảnh về viêm nang lông da đầu](https://dermnetnz.org/topics/scalp-folliculitis-images).
+
+## Nguyên nhân của viêm nang lông da đầu là gì?
+
+Nguyên nhân của viêm nang lông da đầu chưa được hiểu rõ. Nó thường được coi là một phản ứng viêm đối với các thành phần của nang lông, đặc biệt là các vi sinh vật. Bao gồm:
+
+- Vi khuẩn (đặc biệt là Cutibacterium acnes, nhưng trong các trường hợp nặng, cũng có [_Staphylococcus_ aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection))
+- Nấm men (loài _[Malassezia](https://dermnetnz.org/topics/malassezia-infections)_)
+- Mạt (loài _[Demodex folliculorum](https://dermnetnz.org/topics/demodex)_)
+
+## Điều trị viêm nang lông da đầu là gì?
+
+Da đầu bị viêm nang lông nên được rửa bằng [dầu gội](https://dermnetnz.org/topics/shampoo) nhẹ thường xuyên như mong muốn. Dầu gội chống gàu chứa [chất chống nấm](https://dermnetnz.org/topics/topical-antifungal-medication) như ketoconazole hoặc ciclopirox đôi khi có ích. Có thể sử dụng dầu xả nếu muốn.
+
+Các loại thuốc sau có thể hữu ích cho viêm nang lông da đầu:
+
+- [Kháng sinh bôi ngoài](https://dermnetnz.org/topics/antibiotics-for-acne#topical) (ví dụ, gel [fusidic acid](https://dermnetnz.org/topics/topical-fusidic-acid)), dung dịch [clindamycin](https://dermnetnz.org/topics/clindamycin), dung dịch [erythromycin](https://dermnetnz.org/topics/erythromycin)
+- [Steroid bôi ngoài nhẹ](https://dermnetnz.org/topics/topical-steroid) dạng lotion hoặc kem
+- [Thuốc kháng histamine uống](https://dermnetnz.org/topics/antihistamines)
+- [Kháng sinh uống](https://dermnetnz.org/topics/antibiotics-for-acne), đặc biệt là [tetracycline](https://dermnetnz.org/topics/tetracycline) dài hạn
+- [Isotretinoin uống](https://dermnetnz.org/topics/isotretinoin) – có thể cần điều trị liều thấp dài hạn
+
+## Mụn trứng cá hoại tử là gì?
+
+Mụn trứng cá hoại tử là một dạng nặng hơn của viêm nang lông da đầu còn được gọi là mụn trứng cá varioliformis hoặc mụn trứng cá frontalis. Các đốm nang lông lớn hơn (sẩn) trở nên viêm rồi phát triển thành vảy đen, cuối cùng để lại sẹo vĩnh viễn giống như đậu mùa. Mụn trứng cá hoại tử có thể ảnh hưởng đến mặt, da đầu hoặc các khu vực khác.
+
+## Viêm quanh nang lông da đầu có mủ và thâm nhập là gì?
+
+[Viêm quanh nang lông da đầu có mủ và thâm nhập](https://dermnetnz.org/topics/perifolliculitis-capitis-abscedens-et-suffodiens) còn được gọi là viêm mô tế bào/nang lông phân tách, hoặc viêm quanh nang lông da đầu.
+
+Viêm quanh nang lông da đầu có mủ và thâm nhập là một dạng hiếm và nặng của viêm nang lông da đầu đôi khi liên quan đến [mụn trứng cá conglobata](https://dermnetnz.org/topics/nodulocystic-acne), [viêm tuyến mồ hôi mủ](https://dermnetnz.org/topics/hidradenitis-suppurativa) và viêm khớp cột sống (spondyloarthropathy). Nó thường ảnh hưởng đến nam giới da đen trưởng thành nhưng có thể hiếm khi xảy ra ở người da trắng, nữ giới và trẻ em.
+
+Các nốt lớn và u nang đi kèm với các sẩn và mụn mủ nhỏ hơn, từ đó có thể tiết ra chất mủ. Rụng tóc tạm thời trên các tổn thương cuối cùng dẫn đến sẹo vĩnh viễn và các mảng hói.
+
+Viêm quanh nang lông da đầu có mủ và thâm nhập rất khó điều trị. Mức độ nghiêm trọng có thể giảm bớt với [isotretinoin uống](https://dermnetnz.org/topics/isotretinoin), [kháng sinh](https://dermnetnz.org/topics/antibiotics), [dapsone](https://dermnetnz.org/topics/dapsone) và steroid tiêm hoặc [toàn thân](https://dermnetnz.org/topics/systemic-steroids). Nén các nốt dao động cũng đã được báo cáo là có lợi.
+
+![Viêm quanh nang lông da đầu có mủ và thâm nhập](https://dermnetnz.org/assets/Uploads/acne/perifolliculitis1.jpg)
+
+Viêm quanh nang lông da đầu có mủ và thâm nhập
+
+![Viêm quanh nang lông da đầu có mủ và thâm nhập](https://dermnetnz.org/assets/Uploads/acne/perifolliculitis2.jpg)
+
+Viêm quanh nang lông da đầu có mủ và thâm nhập
+
+![Viêm mô tế bào phân tách](https://dermnetnz.org/assets/Uploads/acne/perifolliculitis3.jpg)
+
+Viêm mô tế bào phân tách
+
+### Trên DermNet
+
+- [Hội chứng tắc nghẽn nang lông](https://dermnetnz.org/topics/follicular-occlusion-syndrome)
+- [Viêm nang lông keloidalis](https://dermnetnz.org/topics/folliculitis-keloidalis)
+- [Viêm nang lông decalvans](https://dermnetnz.org/topics/folliculitis-decalvans)
+- [Chẩn đoán phát ban da đầu](https://dermnetnz.org/topics/diagnosis-of-scalp-rashes)
+- [Tóc và da đầu](https://dermnetnz.org/topics/hair-and-scalp)
+- [U ác tính trên da màu](https://dermnetnz.org/topics/melanoma-in-skin-of-colour)
+- [Hình ảnh mụn trứng cá trên mặt](https://dermnetnz.org/topics/acne-face-images)
+- [Viêm quanh nang lông da đầu có mủ và thâm nhập](https://dermnetnz.org/topics/perifolliculitis-capitis-abscedens-et-suffodiens)
+
+### Trên các trang web khác
+
+- [Viêm quanh nang lông da đầu có mủ và thâm nhập](http://emedicine.medscape.com/article/1072603-overview) — Tham khảo Medscape
+- [Viêm mô tế bào phân tách của da đầu](https://www.bad.org.uk/pils/dissecting-cellulitis-of-the-scalp/) — Hiệp hội Da liễu Anh
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ hiểu_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

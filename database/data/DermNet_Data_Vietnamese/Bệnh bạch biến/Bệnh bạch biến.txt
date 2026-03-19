@@ -1,0 +1,486 @@
+##### Bạch biến — thông tin bổ sung
+
+Danh mục:
+
+Tự miễn/dị ứng, Rối loạn sắc tố
+
+ICD-10:
+
+L80, H02.73, L81.5, D23.9, L67.1
+
+ICD-11:
+
+ED63.0, 9A06.1, ED63.Y, ED73.11, 9A04.Y, 2F20.Y
+
+SNOMED CT:
+
+56727007, 403371008, 403270009, 87666009, 403267005, 403268000, 403269008, 721539008, 402621008, 23006000, 398028009, 450772009, 14240001, 201175002, 50305006
+
+**[Tự miễn/dị ứng](https://dermnetnz.org/topics?category=Autoimmune/autoinflammatory) [Rối loạn sắc tố](https://dermnetnz.org/topics?category=Pigmentary%20disorders)**
+
+# **Bạch biến**
+
+Tác giả: Bác sĩ Bushra Alsayaydeh, Chuyên gia Da liễu, Amman, Jordan, tháng 8 năm 2022. Trước đây: A/Prof Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1999.
+
+[Giới thiệu](https://dermnetnz.org/topics/vitiligo#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/vitiligo#Demographic%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/vitiligo#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/vitiligo#Clinical%20features%3Cbr%20/%3E) [Phân loại](https://dermnetnz.org/topics/vitiligo#Classification%3Cbr%20/%3E) [Đánh giá mức độ nghiêm trọng](https://dermnetnz.org/topics/vitiligo#Severity%20assessment%3Cbr%20/%3E) [Biến đổi theo loại da](https://dermnetnz.org/topics/vitiligo#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/vitiligo#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/vitiligo#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/vitiligo#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/vitiligo#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/vitiligo#Prevention%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/vitiligo#Outcome)
+
+## Bạch biến là gì?
+
+Bạch biến là một rối loạn mất sắc tố da mãn tính, trong đó các tế bào sản xuất sắc tố (melanocytes) quyết định màu sắc của da, tóc và mắt bị mất dần. Nó xuất hiện dưới dạng các mảng da trắng sữa ( [leukoderma](https://dermnetnz.org/topics/leukoderma)) và có thể gây khó chịu về mặt thẩm mỹ, đặc biệt ở những người có làn da tối màu.
+
+Hiện nay, bạch biến được chấp nhận rộng rãi là kết quả của sự phá hủy tự miễn dịch của các tế bào melanocytes.
+
+![Bạch biến trên khớp ngón tay - keobnerisation do chấn thương thường định vị bạch biến](https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0034.jpg)
+
+Bạch biến trên khớp ngón tay - keobnerisation do chấn thương thường định vị bạch biến
+
+![Bạch biến đối xứng trên cổ tay - một vị trí phổ biến](https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0008.jpg)
+
+Bạch biến đối xứng trên cổ tay - một vị trí phổ biến (V-bệnh nhân1)
+
+![Bạch biến trên lưng và khuỷu tay](https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0003.jpg)
+
+Bạch biến trên lưng và khuỷu tay
+
+![Bạch biến trên mí mắt với poliosis của lông mi](https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0001.jpg)
+
+Bạch biến trên mí mắt với poliosis của lông mi
+
+![Bạch biến trên môi](https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0019.jpg)
+
+Bạch biến trên môi
+
+![Tái tạo sắc tố nang lông trong một mảng bạch biến](https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0002.jpg)
+
+Tái tạo sắc tố nang lông trong một mảng bạch biến
+
+![Bạch biến đối xứng trên mặt rộng](https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0029.jpg)
+
+Bạch biến đối xứng trên mặt rộng
+
+![Bạch biến quanh đường chân tóc của một phụ nữ Samoa](https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0015.jpg)
+
+Bạch biến quanh đường chân tóc của một phụ nữ Samoa (V-bệnh nhân3)
+
+[Bấm vào đây để xem thêm hình ảnh về bạch biến](https://dermnetnz.org/images/vitiligo-images)
+
+## Ai bị bạch biến?
+
+Bạch biến ảnh hưởng đến 0,5–2% dân số.
+
+- Chủng tộc: tỷ lệ mắc bệnh tương đối đồng đều ở tất cả các chủng tộc, nhưng có vẻ như:
+
+  - Ít phổ biến hơn ở dân số người Hán Trung Quốc
+  - Phổ biến hơn ở Ấn Độ (lên đến 8,8% dân số).
+- Giới tính: cả nam và nữ đều bị ảnh hưởng như nhau
+
+  - Phụ nữ thường chiếm tỷ lệ cao hơn trong các lần khám ngoại trú, do lo ngại nhiều hơn về ngoại hình thẩm mỹ.
+- Khởi phát: độ tuổi trung bình khi khởi phát là từ 20–24 tuổi, nhưng có thể xảy ra ở bất kỳ độ tuổi nào. Thông thường, có hai đỉnh khởi phát, sớm (<10 tuổi) hoặc muộn (khoảng 30 tuổi).
+  - 41% các trường hợp bạch biến đoạn bắt đầu trước 10 tuổi.
+  - 50% các trường hợp bạch biến không đoạn bắt đầu trước 20 tuổi.
+  - 80% tất cả các trường hợp xuất hiện trước 30 tuổi.
+- Di truyền: theo mô hình đa gen, với sự đồng thuận 23% ở cặp song sinh đơn hợp tử, hỗ trợ nguyên nhân của bạch biến là đa yếu tố (yếu tố di truyền và môi trường không di truyền).
+
+  - Hơn 20–30% những người bị ảnh hưởng báo cáo có bạch biến ở người thân cấp một hoặc cấp hai.
+
+Sự phát triển của bệnh tự miễn đã được liên kết với bạch biến tổng quát, loại bạch biến phổ biến nhất, đặc biệt nếu có tiền sử gia đình mắc bạch biến và các rối loạn tự miễn khác.
+
+- Mối liên kết mạnh nhất là với [bệnh tuyến giáp](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease), có thể ảnh hưởng đến 15% người lớn và 5–10% trẻ em bị bạch biến.
+- Các rối loạn tự miễn khác ít thường xuyên hơn liên quan đến bạch biến là:
+  - [Viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin)
+  - [Đái tháo đường phụ thuộc insulin](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) (chủ yếu khởi phát ở người lớn)
+  - Thiếu máu ác tính (thiếu B12)
+  - [Bệnh Addison](https://dermnetnz.org/topics/addison-disease)
+  - [Lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+  - [Rụng tóc từng mảng](https://dermnetnz.org/topics/alopecia-areata)
+  - Các tình trạng da tự miễn khác, ví dụ, [vảy nến](https://dermnetnz.org/topics/psoriasis) và [lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus).
+
+Bạch biến cũng phổ biến gấp ba lần ở những người nhận ghép tủy xương và tế bào gốc dị sinh so với dân số khỏe mạnh.
+
+## Nguyên nhân gây ra bạch biến là gì?
+
+Bạch biến là do mất hoặc phá hủy các tế bào melanocytes (tế bào sản xuất melanin).
+
+Các yếu tố di truyền dường như đóng góp vào 80% nguy cơ bạch biến, trong khi các yếu tố môi trường chiếm 20%. Nhiều vị trí gen đã được xác định, tất cả đều liên quan đến hệ thống miễn dịch, ngoại trừ TYR mã hóa tyrosinase, một enzyme quan trọng trong sản xuất melanin và là một kháng nguyên tự miễn chính trong bạch biến.
+
+Lý thuyết hội tụ hoặc tích hợp kết hợp các cơ chế miễn dịch, sinh hóa, oxy hóa và môi trường hoạt động cùng nhau ở những người có khả năng di truyền được chấp nhận rộng rãi.
+
+Điều này có thể được giải thích qua ba giai đoạn:
+
+- Giai đoạn ban đầu: các tế bào melanocytes ít bám dính hơn dễ bị căng thẳng oxy hóa nội và ngoại, dẫn đến sản xuất nhiều loại oxy phản ứng độc hại hơn (ROS).
+- Giai đoạn tiến triển: sự mất cân bằng giữa ROS và chất chống oxy hóa sẽ kích hoạt hệ thống miễn dịch thích ứng được cầu nối bởi hệ thống miễn dịch bẩm sinh.
+
+  - Các tế bào CD8+ gây độc tế bào giải phóng cytokine, chủ yếu là interferon-γ (INF-γ) kích hoạt con đường JAK-STAT thông qua các thụ thể của nó trên keratinocytes. Điều này sẽ dẫn đến sản xuất chemokine (CXC), chủ yếu bởi keratinocytes, nhưng cũng bởi chính các tế bào melanocytes, dẫn đến phản hồi trục IFN-γ–CXCR3- CXCL9/10.
+  - Hoạt động cùng nhau trên thụ thể CXCR3 chung của chúng, CXCL9 thúc đẩy sự di chuyển chính của các tế bào CD8+, trong khi CXCL10 thúc đẩy sự định vị của chúng đến các tổn thương da bị ảnh hưởng và gây ra apoptosis của tế bào melanocytes thông qua kích hoạt CXC3B. Lưu ý rằng, nơi cả phản ứng thể dịch (kháng thể) và T-cell dường như có liên quan, các chỉ số kháng thể không tương quan với hoạt động của bệnh cũng như vị trí của các tổn thương bạch biến riêng biệt.
+- Giai đoạn duy trì: các tổn thương đã được thiết lập được duy trì bởi các tế bào T phản ứng với melanocytes cư trú (các tế bào TRM), thông qua con đường phụ thuộc IL15. Các tế bào TRM này có thể chịu trách nhiệm cho cái gọi là 'trí nhớ tự miễn', trong đó các đợt tái phát xảy ra chủ yếu tại cùng một vị trí của các tổn thương trước đó.
+
+Hiểu biết về cơ chế bệnh sinh phân tử của bạch biến là một nguồn hứa hẹn cho sự phát triển của các liệu pháp nhắm mục tiêu hơn.
+
+### Bạch biến và các tình trạng khác
+
+Bạch biến cũng là một thành phần của một số hội chứng đa cơ quan hiếm gặp, chẳng hạn như:
+
+- [Hội chứng Vogt-Koyanagi-Harada](https://dermnetnz.org/topics/vogt-koyanagi-harada-syndrome)
+- [Hội chứng Alezzandrini](https://dermnetnz.org/topics/alezzandrini-syndrome).
+
+Các hội chứng này ảnh hưởng đến các cơ quan thường chứa các tế bào melanocytes, và hiện nay được cho là tạo thành một thực thể bệnh với biểu hiện lâm sàng biến đổi.
+
+Các hội chứng da liễu hiếm gặp khác xuất hiện với các tổn thương không thể phân biệt với bạch biến là:
+
+- [Hội chứng APECED (APS1)](https://dermnetnz.org/topics/autoimmune-polyglandular-syndrome-type-1)
+- [Hội chứng Schmidt’s (APS2)](https://dermnetnz.org/topics/autoimmune-polyglandular-syndrome-type-2).
+
+Một dạng leukoderma giống bạch biến có thể xảy ra ở bệnh nhân bị [u ác tính di căn](https://dermnetnz.org/topics/metastatic-melanoma).
+
+Bạch biến cũng có thể được gây ra bởi thuốc, chẳng hạn như các chất ức chế điểm kiểm soát miễn dịch ( [pembrolizumab](https://dermnetnz.org/topics/pembrolizumab), [nivolumab](https://dermnetnz.org/topics/nivolumab)) và các chất ức chế BRAF ( [vemurafenib](https://dermnetnz.org/topics/vemurafenib), [dabrafenib](https://dermnetnz.org/topics/dabrafenib)) được sử dụng để điều trị [u ác tính di căn](https://dermnetnz.org/topics/metastatic-melanoma).
+
+## Các đặc điểm lâm sàng của bạch biến là gì?
+
+Khởi phát bạch biến thường âm thầm.
+
+Biểu hiện phổ biến nhất là mất hoàn toàn sắc tố ở một hoặc nhiều mảng hoặc đốm da, với màu trắng phấn hoặc trắng sữa đặc trưng.
+
+### Đặc điểm tổn thương
+
+- Thường không có triệu chứng, nhưng hiếm khi ngứa ở các tổn thương đang hoạt động.
+- Nhiều đốm đôi khi được mô tả như những mảnh vụn.
+- Ranh giới rõ ràng với các đường viền lồi; các đường viền đôi khi có thể là:
+
+  - Màu của da không bị ảnh hưởng
+  - Tăng sắc tố hoặc giảm sắc tố
+  - Viêm và đỏ.
+- Đôi khi các mảng nhỏ hơn hợp nhất, tạo thành các hình dạng phức tạp hơn.
+
+### Vị trí
+
+- Có thể được tìm thấy trên bất kỳ phần nào của cơ thể, mặc dù phổ biến hơn ở các khu vực tiếp xúc với ánh nắng mặt trời hoặc các khu vực dễ bị chấn thương lặp đi lặp lại (ví dụ, mí mắt, môi, lỗ mũi, đầu ngón tay và ngón chân), nếp gấp cơ thể (nách, háng, rốn) và núm vú. Thú vị là, những khu vực này tự nhiên có sắc tố nhiều hơn.
+- Bạch biến cũng ưa thích các vị trí bị thương; điều này được gọi là hiện tượng [Koebner isomorphic](https://dermnetnz.org/topics/the-koebner-phenomenon). Chấn thương có thể được gây ra bởi:
+
+  - Vật lý (vết cắt, trầy xước, gãi)
+  - Cơ học (ma sát, áp lực mãn tính, ví dụ, chà xát mắt, liếm môi, đồng hồ, quần áo chật)
+  - Bỏng (hóa chất, cháy nắng)
+  - Viêm (vảy nến, herpes zoster, viêm da)
+  - Điều trị (quang trị liệu, xạ trị).
+- Bạch biến có thể xảy ra ở các khu vực da ít sắc tố hơn mà thường bị bỏ qua đặc biệt ở bệnh nhân da sáng, ví dụ, lòng bàn tay và lòng bàn chân, và niêm mạc miệng.
+
+### Yếu tố kích thích và các đặc điểm khác
+
+- Căng thẳng cảm xúc, mang thai, thuốc tránh thai, thiếu vitamin và nhiều yếu tố khác đã được mô tả là yếu tố kích thích bạch biến; tuy nhiên, mối liên hệ vẫn chưa được chứng minh.
+- Bạch biến đôi khi có thể bắt đầu như nhiều nốt ruồi halo.
+  - Được tìm thấy trong lên đến 31% các trường hợp.
+  - Nốt ruồi halo có thể xuất hiện trước hoặc đồng thời với bạch biến.
+- Mất màu tóc, (leukotrichia hoặc poliosis), có thể ảnh hưởng đến da đầu, lông mày, lông mi và lông cơ thể ở 10–60% bệnh nhân. Nó không tương quan với hoạt động của bệnh, nhưng có thể là một chỉ báo cho phản ứng kém hơn với liệu pháp do sự phá hủy của nguồn dự trữ melanocyte trong nang lông.
+- Tóc bạc sớm đã được mô tả nhưng mối liên hệ vẫn chưa chắc chắn.
+- Võng mạc có thể bị ảnh hưởng, tuy nhiên, màu sắc của mống mắt không thay đổi.
+- Suy giảm thính giác cảm giác đã được mô tả ở một số bệnh nhân bị bạch biến, có thể do mất melanocyte trong ốc tai, nhưng bằng chứng rõ ràng còn thiếu.
+- Cháy nắng trong các tổn thương bạch biến có thể là một vấn đề
+- Một số bằng chứng cho thấy rằng những người bị bạch biến có thể có nguy cơ thấp hơn đối với các bệnh ung thư nội tạng và ung thư da.
+  - Hai nghiên cứu hồi cứu toàn quốc từ Hàn Quốc và Đài Loan đã chỉ ra rằng bệnh nhân bạch biến có nguy cơ thấp hơn đối với các bệnh ung thư nội tạng, ngoài ra còn có nguy cơ BCC và SCC thấp hơn trong nghiên cứu Đài Loan.
+  - Một nghiên cứu hồi cứu khác trên 1307 bệnh nhân bạch biến đã phát hiện ra rằng những người bị bạch biến có nguy cơ thấp hơn đối với cả u ác tính và NMSC. Tuy nhiên, một số nghiên cứu này đã tìm thấy nguy cơ cao hơn có thể đối với ung thư tuyến giáp.
+  - Các nhóm nghiên cứu lớn khác ở châu Âu đã tìm thấy sự giảm tương đối nguy cơ ung thư da không phải u ác tính.
+
+### Mức độ nghiêm trọng
+
+Mức độ nghiêm trọng là biến đổi và không có cách nào để dự đoán mức độ hoặc tốc độ mất sắc tố.
+
+- Bạch biến xuất hiện rõ ràng hơn ở những bệnh nhân có làn da tự nhiên tối màu.
+- Sự mở rộng của bạch biến có thể xảy ra trong vài tháng, sau đó nó ổn định.
+- Một số tái tạo sắc tố tự phát có thể xảy ra từ các nang lông, và kích thước tổng thể của mảng trắng có thể giảm.
+- Tại một thời điểm nào đó trong tương lai, bạch biến có khả năng mở rộng lại.
+- Các chu kỳ mất sắc tố tiếp theo là các giai đoạn ổn định có thể tiếp tục vô thời hạn.
+- Những người có làn da sáng thường nhận thấy mất sắc tố trong mùa hè khi sự tương phản giữa da bị ảnh hưởng và da rám nắng trở nên rõ ràng hơn.
+- Đôi khi sắc tố đã được báo cáo là bị mất từ toàn bộ bề mặt da.
+- Các chỉ số dự đoán bệnh đang hoạt động là giảm sắc tố ngoại vi, giảm sắc tố giống như mảnh vụn, ranh giới không rõ ràng thay vì rõ ràng, và hiện tượng Koebner.
+
+Để biết thêm thông tin, hãy xem phần đánh giá mức độ nghiêm trọng dưới đây.
+
+## Bạch biến được phân loại như thế nào?
+
+Nhóm Công tác Bạch biến Châu Âu (VETF) đã đạt được sự đồng thuận về phân loại bạch biến vào năm 2007. Họ đã quyết định bốn danh mục chính với các phân loại phụ.
+
+|     |     |     |
+| --- | --- | --- |
+| Phân loại | Phân loại phụ | Bình luận |
+| Bạch biến không đoạn | - Tập trung<br>  <br>- Niêm mạc<br>  <br>- Mặt và đầu chi<br>  <br>- Môi-đầu<br>  <br>- Tổng quát<br>  <br>- Toàn bộ | - Có xu hướng phân bố đối xứng và hai bên.<br>  <br>- Ổn định hoặc không ổn định. |
+| Bạch biến đoạn | - Tập trung<br>  <br>- Niêm mạc<br>  <br>- Đơn đoạn, hai hoặc nhiều đoạn | - Ảnh hưởng đến trẻ em<br>  <br>- Một mảng trắng duy nhất trong 90%<br>  <br>- Theo phân bố da (phổ biến nhất: thần kinh sinh ba), không vượt qua đường giữa, đầu liên quan trong > 50% các trường hợp<br>  <br>- Ranh giới thường không đều + leukotrichia<br>  <br>- Khởi phát nhanh, ổn định sau sáu tháng đến hai năm đầu tiên<br>  <br>- Quá trình kéo dài<br>  <br>- [Khảm da](https://dermnetnz.org/topics/cutaneous-mosaicism) ( [Blaschkoid](https://dermnetnz.org/topics/acquired-blaschkoid-dermatitis), da, phylloid, mô hình bàn cờ) |
+| Bạch biến hỗn hợp | - Bạch biến không đoạn kết hợp với bạch biến đoạn | - Hiếm<br>  <br>- Đoạn hai bên theo sau bạch biến không đoạn (tháng-năm)<br>  <br>- Dự đoán để chuyển thành biến thể hỗn hợp: [leukotrichia](https://dermnetnz.org/topics/poliosis), [nốt ruồi halo](https://dermnetnz.org/topics/halo-naevus) |
+| Bạch biến không phân loại | - Tập trung khi khởi phát<br>  <br>- Không đối xứng không đoạn đa tiêu điểm<br>  <br>- Niêm mạc đơn tiêu điểm<br>  <br>- Chấm (giống mảnh vụn hoặc bạch biến- ponctué)<br>  <br>- Bạch biến giảm sắc tố (nhẹ)<br>  <br>- Bạch biến nang lông | - Chấm: các đốm nhỏ (1–2 mm). Gọi là leukoderma punctata, nếu không có các mảng bạch biến cổ điển khác<br>  <br>- Giảm sắc tố (nhẹ): trong da loại V/ VI, chủ yếu phân bố tiết bã<br>  <br>- Nang lông: leukotrichia nổi bật với sự tham gia da hạn chế/ không có |
+
+Hơn 90% các trường hợp bạch biến ở người lớn là loại vulgaris tổng quát hoặc mặt và đầu chi, trong khi ở trẻ em, bạch biến đoạn chiếm 15–30% các trường hợp.
+
+Các phân loại lâm sàng hiếm gặp của bạch biến bao gồm:
+
+- Bạch biến ba màu: mô tả ba sắc thái màu da, nơi có một sắc thái giảm sắc tố trung gian giữa mảng trắng và da bình thường.
+- Bạch biến bốn màu và năm màu: bốn và năm sắc thái màu đã được mô tả hiếm hoi với nhiều sắc thái nâu rám nắng, ngoài màu trắng và màu da bình thường.
+- Bạch biến đỏ: các mảng trắng có ranh giới đỏ, viêm.
+- Bạch biến xanh: các mảng sau viêm với sắc thái xanh xám tương quan về mặt mô học với sự không dung nạp sắc tố trong các tế bào melanophages ở da.
+
+[Bấm vào đây để xem hình ảnh về bạch biến](https://dermnetnz.org/images/vitiligo-images)
+
+## Mức độ nghiêm trọng của bạch biến được đánh giá như thế nào?
+
+Trong hầu hết các trường hợp, mức độ nghiêm trọng của bạch biến không được đánh giá chính thức. Tuy nhiên, các bức ảnh lâm sàng có thể được chụp để theo dõi tình trạng.
+
+Ít nhất hai hệ thống chấm điểm đã được phát triển cho bạch biến và được sử dụng trong các thử nghiệm lâm sàng.
+
+- Chỉ số chấm điểm diện tích bạch biến (VASI)
+- Hệ thống Nhóm Công tác Bạch biến Châu Âu (VETF)
+
+### VASI
+
+VASI dựa trên [hệ thống chấm điểm PASI](https://dermnetnz.org/topics/pasi-score) cho bệnh vảy nến. Nó đo lường mức độ và mức độ mất sắc tố ở 6 vị trí: tay, chi trên, thân, chi dưới/bàn chân, và đầu và cổ.
+
+### VETF
+
+VETF dựa trên [hệ thống chấm điểm SCORAD](https://dermnetnz.org/topics/scorad) cho viêm da dị ứng. VETF đánh giá mức độ, giai đoạn và sự lan rộng/tiến triển ở 5 vị trí: đầu/cổ, thân, cánh tay, chân và tay/chân. Nó chấm điểm từ 0 (sắc tố bình thường) đến 4 (tóc trắng hoàn toàn). Sự lan rộng được đánh giá bằng các điểm số sau: 0 (bệnh ổn định), -1 (bệnh thoái lui) và +1 (bệnh tiến triển).
+
+VETF bao gồm một mẫu đánh giá lâm sàng để ghi lại giới tính, tuổi, thời gian mắc bệnh, tuổi khởi phát, các đợt tái tạo sắc tố, tác động của bạch biến đến chất lượng cuộc sống, tiền sử gia đình, các tình trạng y tế bổ sung, và [loại da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) của bệnh nhân.
+
+## Các đặc điểm lâm sàng thay đổi như thế nào ở các loại da khác nhau?
+
+Sự phân bố và đặc điểm của các mảng bạch biến tương tự nhau ở các loại da khác nhau; tuy nhiên, trong khi bạch biến có thể khó nhận thấy ở một số người có làn da sáng hơn, nó thường rõ ràng hơn ở các loại da tối màu. Điều này có thể gây ra khuyết tật thẩm mỹ đáng kể, cùng với các hậu quả tâm lý của nó.
+
+## Các biến chứng của bạch biến là gì?
+
+- Gây khó chịu về mặt thẩm mỹ
+  - Căng thẳng tâm lý xã hội và kỳ thị xã hội đối với những người bị ảnh hưởng, đặc biệt là ở những người có làn da tối màu.
+- Nguy cơ cao hơn mắc một tình trạng tự miễn liên quan ở những người bị bạch biến so với dân số chung.
+
+Bạch biến có bản chất lành tính khác, với hầu hết những người bị ảnh hưởng đều có sức khỏe tốt.
+
+## Bạch biến được chẩn đoán như thế nào?
+
+Bạch biến thường được chẩn đoán lâm sàng, dựa trên đặc điểm đặc trưng của nó, và không cần các xét nghiệm cụ thể để đưa ra chẩn đoán.
+
+Các công cụ có thể hỗ trợ trong chẩn đoán bao gồm:
+
+- [Đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination)
+  - Tăng cường các mảng trắng, giúp dễ dàng nhìn thấy các tổn thương ít rõ ràng hơn.
+  - Đặc biệt hữu ích ở những người có làn da sáng, các mảng có mất sắc tố một phần, hoặc để theo dõi phản ứng với liệu pháp.
+  - Tia UVA được hấp thụ bởi các sợi collagen trong lớp hạ bì, và phát sáng trở lại dưới dạng màu trắng sáng khi không có melanin biểu bì (thường hấp thụ UVA).
+- [Dermoscopy](https://dermnetnz.org/topics/dermoscopy)
+  - Đặc trưng cho thấy ánh sáng trắng, với một số manh mối có thể giúp phân biệt giữa bệnh ổn định và hoạt động \[xem [Dermoscopy của bạch biến](https://dermnetnz.org/topics/vitiligo-dermoscopy)\].
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy)
+  - Đôi khi được khuyến nghị, đặc biệt là trong bạch biến sớm hoặc viêm, khi có thể quan sát thấy sự xâm nhập lympho.
+  - Nơi các tế bào melanocytes thường vắng mặt trong biểu bì của các mảng bạch biến đã được thiết lập, một số người cho rằng sự mất hoàn toàn của các tế bào melanocytes không bao giờ xảy ra, cho thấy khả năng phục hồi chức năng với điều trị.
+- Xét nghiệm máu
+  - Để đánh giá các bệnh tự miễn tiềm năng khác hoặc [hội chứng đa tuyến tự miễn](https://dermnetnz.org/topics/autoimmune-polyglandular-syndrome-type-1) có thể được sắp xếp, đặc biệt nếu kết hợp với tiền sử gia đình dương tính
+  - Các ví dụ bao gồm xét nghiệm chức năng tuyến giáp, ANA và mức độ B12.
+
+## Chẩn đoán phân biệt cho bạch biến là gì?
+
+### Đối với các tổn thương bạch biến cục bộ
+
+- [Nốt ruồi halo](https://dermnetnz.org/topics/halo-naevus)
+- [Nốt ruồi anemicus](https://dermnetnz.org/topics/naevus-anaemicus)
+- [Nốt ruồi depigmentosus](https://dermnetnz.org/topics/achromic-naevus).
+
+### Đối với bạch biến tổng quát
+
+#### Giảm sắc tố di truyền
+
+- [Piebaldism](https://dermnetnz.org/topics/piebaldism).
+- [Hội chứng Waardenburg](https://dermnetnz.org/topics/waardenburg-syndrome).
+- [Xơ cứng củ](https://dermnetnz.org/topics/tuberous-sclerosis).
+- [Giảm sắc tố của Ito](https://dermnetnz.org/topics/hypomelanosis-of-ito) (khảm sắc tố).
+
+#### Giảm sắc tố thứ phát
+
+- Nhiễm trùng: [pityriasis versicolor](https://dermnetnz.org/topics/pityriasis-versicolor), [phong (tuberculoid/lepromatous)](https://dermnetnz.org/topics/leprosy), [giang mai thứ phát](https://dermnetnz.org/topics/syphilis), [treponematosis](https://dermnetnz.org/topics/yaws) và [onchocerciasis](https://dermnetnz.org/topics/onchocerciasis) (giai đoạn muộn).
+- Sau viêm: [lichen sclerosus et atrophicus](https://dermnetnz.org/topics/lichen-sclerosus), [morphoea](https://dermnetnz.org/topics/morphoea)/ [xơ cứng bì](https://dermnetnz.org/topics/scleroderma), [lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus), [vảy nến](https://dermnetnz.org/topics/psoriasis), và [sau bỏng](https://dermnetnz.org/topics/thermal-burn).
+- Paraneoplastic: lymphoma da ( [mycosis fungoides](https://dermnetnz.org/topics/mycosis-fungoides)), [melanoma](https://dermnetnz.org/topics/melanoma) da (phản ứng tự miễn cục bộ/ xa)
+- Do thuốc/ độc tố:
+
+  - _Hệ thống_: [imatinib](https://dermnetnz.org/topics/imatinib), [chloroquine](https://dermnetnz.org/topics/chloroquine), fluphenazine, physostigmine, [liệu pháp miễn dịch nhắm mục tiêu melanoma](https://dermnetnz.org/topics/immunotherapy-for-melanoma).
+  - _Tại chỗ_: [imiquimod](https://dermnetnz.org/topics/imiquimod), [corticosteroids](https://dermnetnz.org/topics/topical-steroid).
+  - _Tiếp xúc nghề nghiệp_: các hợp chất phenolic; chủ yếu trên da tiếp xúc (tay, mặt).
+
+#### Vô căn
+
+- [Giảm sắc tố đốm tiến triển](https://dermnetnz.org/topics/progressive-macular-hypomelanosis).
+- [Giảm sắc tố đốm vô căn](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis).
+
+## Điều trị bạch biến là gì?
+
+Không có cách chữa trị bạch biến và điều trị thường không thỏa mãn. Mục tiêu là ngăn chặn sự tiến triển của bệnh (ổn định), và đạt được tái tạo sắc tố thỏa đáng.
+
+Điều trị thành công nhất trên mặt và thân; trong khi tay, chân và các khu vực có tóc trắng phản ứng kém. So với các mảng lâu năm, các mảng mới có khả năng phản ứng với liệu pháp y tế hơn.
+
+Trong khi nang lông là nguồn chính của tái tạo sắc tố, một nguồn tiềm năng khác có thể nằm ở ranh giới của các mảng trắng. Khi tái tạo sắc tố thành công xảy ra, các tế bào gốc melanocyte (DOPA-negative) ở giữa và lớp vỏ ngoài dưới (ORS), hoặc phình ở đáy của nang lông được kích hoạt (trở nên lớn hơn, với hoạt động DOPA oxidase mạnh mẽ). Chúng di chuyển lên bề mặt da để tạo thành các đảo sắc tố, xuất hiện dưới dạng các đốm nâu quanh nang lông. Nếu không, tái tạo sắc tố có thể xảy ra theo các mô hình ít phổ biến hơn như rìa, lan tỏa, hoặc kết hợp.
+
+Phản ứng điều trị được đánh giá theo tỷ lệ phần trăm da đã giữ lại sắc tố. Trong các nghiên cứu, một phản ứng tốt thường được dịch là > 50% hoặc 75%, tùy thuộc vào thiết kế của nghiên cứu.
+
+### Biện pháp chung
+
+Một vết cắt, trầy xước hoặc gãi có thể dẫn đến một mảng bạch biến mới
+
+- Giảm thiểu chấn thương da bằng cách mặc quần áo bảo vệ rộng rãi.
+
+[Ngụy trang thẩm mỹ](https://dermnetnz.org/topics/cosmetic-camouflage) có thể che giấu bạch biến. Các lựa chọn bao gồm:
+
+- Trang điểm, thuốc nhuộm và vết bẩn
+- Sản phẩm chống nước
+- Sản phẩm chứa [dihydroxyacetone](https://dermnetnz.org/topics/dihydroxyacetone) — "tắm nắng mà không cần ánh nắng."
+- Vi sắc tố hoặc xăm cho bạch biến ổn định.
+
+[Bảo vệ khỏi ánh nắng](https://dermnetnz.org/topics/sun-protection) với [quần áo](https://dermnetnz.org/topics/sun-protective-clothing), sử dụng [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) và thay đổi lối sống.
+
+- Da mất sắc tố chỉ có thể bị cháy nắng khi tiếp xúc với bức xạ tia cực tím (UVR); nó không thể rám nắng.
+- [Cháy nắng](https://dermnetnz.org/topics/sunburn) có thể khiến bạch biến lan rộng.
+- Rám nắng của da bình thường làm cho các mảng bạch biến trở nên rõ ràng hơn.
+
+### Biện pháp cụ thể
+
+Có một số phương thức đã được chứng minh là hữu ích trong bạch biến. Phản ứng điều trị tối ưu thường được thấy với các liệu pháp kết hợp.
+
+#### Điều trị tại chỗ
+
+- [Corticosteroids tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+  - Có thể được sử dụng trên thân và chi trong tối đa 3 tháng.
+- [Chất ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) ( [kem pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) và [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus))
+  - Ưu tiên cho bạch biến ảnh hưởng đến mí mắt, mặt, cổ, nách và háng, vì không giống như corticosteroids tại chỗ, chúng không gây teo da.
+- Dẫn xuất vitamin D tại chỗ ( [calcipotriol](https://dermnetnz.org/topics/calcipotriol), tacalcitol)
+  - Hàng thứ hai; chỉ hiệu quả như liệu pháp kết hợp.
+- Kem [Ruxolitinib](https://dermnetnz.org/topics/ruxolitinib)
+  - Một [chất ức chế Janus kinase 1 và 2](https://dermnetnz.org/topics/janus-kinase-inhibitors) đã được FDA chấp thuận cho điều trị bạch biến không đoạn ở bệnh nhân người lớn và trẻ em từ 12 tuổi trở lên.
+  - Cải thiện lâm sàng đáng kể cho bạch biến trên mặt, ở những người từ 12 tuổi trở lên với bạch biến không đoạn với 10% hoặc ít hơn BSA bị ảnh hưởng, với sự an toàn bền vững sau 52 tuần đã được thấy trong hai thử nghiệm lâm sàng mù đôi giai đoạn 3. Bạch biến trên cơ thể cho thấy phản ứng ít ấn tượng hơn.
+- Các liệu pháp gây tranh cãi khác bao gồm pseudocatalase và chất ức chế prostaglandin tại chỗ
+  - Cần có thêm các nghiên cứu để xác nhận hiệu quả.
+
+#### Quang trị liệu
+
+[Quang trị liệu](https://dermnetnz.org/topics/phototherapy) đề cập đến điều trị bằng bức xạ tia cực tím (UV). Các lựa chọn bao gồm:
+
+- Quang trị liệu UVB toàn thân hoặc cục bộ [UVB phototherapy](https://dermnetnz.org/topics/uvb-phototherapy)
+- [Laser excimer UVB](https://dermnetnz.org/topics/excimer-308-nm-light-treatment) (308 nm) hoặc [UVB nhắm mục tiêu](https://dermnetnz.org/topics/uvb-phototherapy) cho các khu vực nhỏ của bạch biến
+- Quang hóa trị liệu bằng đường uống, tại chỗ hoặc nước tắm [photochemotherapy (PUVA)](https://dermnetnz.org/topics/puva-photochemotherapy)
+- Quang trị liệu tại văn phòng hoặc tại nhà.
+
+Quang trị liệu có thể hoạt động trong bạch biến bằng hai cơ chế.
+
+- Ức chế miễn dịch — ngăn chặn sự phá hủy của các tế bào melanocytes
+- Kích thích cytokine (yếu tố tăng trưởng).
+
+Điều trị thường được thực hiện hai lần mỗi tuần trong một khoảng thời gian thử nghiệm từ 3–4 tháng. Nếu tái tạo sắc tố được quan sát thấy, điều trị được tiếp tục cho đến khi tái tạo sắc tố hoàn toàn hoặc tối đa trong 1–2 năm.
+
+- Quang trị liệu không phù hợp cho những người có làn da rất sáng.
+- Cường độ điều trị nhằm mục đích làm cho da bạch biến có màu hồng "carnation" nhẹ.
+- Nếu tái tạo sắc tố được quan sát thấy, điều trị được tiếp tục cho đến khi tái tạo sắc tố hoàn toàn hoặc tối đa trong 1–2 năm.
+- Điều quan trọng là tránh bị cháy nắng (da đỏ, phồng rộp, bong tróc, ngứa hoặc đau), vì điều này có thể khiến bạch biến trở nên tồi tệ hơn.
+
+Một phân tích tổng hợp của 35 nghiên cứu khác nhau báo cáo kết quả sau quang trị liệu cho bạch biến tổng quát. Một phản ứng rõ rệt hoặc hữu ích về mặt lâm sàng đã đạt được ở 36% sau 12 tháng UVB hẹp và ở 62% sau 12 tháng PUVA. Mặt và cổ phản ứng tốt hơn thân, phản ứng tốt hơn chi. Nó không hiệu quả lắm trên tay và chân.
+
+#### Liệu pháp toàn thân
+
+- [Steroids toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+  - Liệu pháp xung ngắn để làm chậm sự tiến triển nhanh chóng, hoặc như steroid uống xung nhỏ để ổn định bệnh hoạt động, ví dụ, dexamethasone 2,5–4 mg, trong hai ngày liên tiếp mỗi tuần, trong 3–6 tháng.
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+
+- [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil)
+
+- Minocycline uống 100 mg/ngày, một kháng sinh [tetracycline](https://dermnetnz.org/topics/tetracycline) với các đặc tính chống viêm
+
+- [Afamelanotide](https://dermnetnz.org/topics/afamelanotide) dưới da
+  - Một chất tương tự hormone kích thích melanocyte α (α-MSH). Cho thấy tái tạo sắc tố vượt trội khi kết hợp với NB-UVB, nhưng rám nắng quá mức ở da xung quanh không bị ảnh hưởng khiến kết quả thẩm mỹ cuối cùng kém hài lòng.
+
+Không có liệu pháp nào trong số này dựa trên dữ liệu thử nghiệm ngẫu nhiên có kiểm soát.
+
+#### Điều trị phẫu thuật bạch biến ổn định
+
+[Điều trị phẫu thuật cho bạch biến ổn định và đoạn](https://dermnetnz.org/topics/surgical-treatment-of-stable-vitiligo) yêu cầu loại bỏ lớp trên cùng của da bạch biến (bằng [cạo](https://dermnetnz.org/topics/shaving), [mài da](https://dermnetnz.org/topics/dermabrasion), giấy nhám, hoặc [laser](https://dermnetnz.org/topics/lasers-in-dermatology)) và thay thế bằng da có sắc tố được loại bỏ từ một vị trí khác.
+
+Các kỹ thuật bao gồm:
+
+- Cấy ghép huyền phù tế bào melanocyte-keratinocyte không nuôi cấy
+- Ghép đục lỗ (ghép mini)
+- Ghép bọng nước, được hình thành bằng hút hoặc [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- Ghép da tách
+- Ghép tự thân nuôi cấy của các tế bào melanocytes được nuôi cấy trong môi trường nuôi cấy mô.
+
+#### Liệu pháp giảm sắc tố
+
+[Liệu pháp giảm sắc tố](https://dermnetnz.org/topics/depigmentation-therapy-for-vitiligo), sử dụng 20% monobenzyl ether của hydroquinone (MBEH), có thể được xem xét ở những người bị ảnh hưởng nặng, có làn da tối màu với bạch biến không tái tạo sắc tố tự phát hoặc với liệu pháp.
+
+[Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) và điều trị [laser](https://dermnetnz.org/topics/lasers-in-dermatology) (ví dụ, 755-nm Q-switched [alexandrite](https://dermnetnz.org/topics/alexandrite-laser-treatment) hoặc 694 nm Q-switched [ruby](https://dermnetnz.org/topics/ruby-laser-treatment)) cũng đã được sử dụng thành công để giảm sắc tố các khu vực nhỏ của bạch biến.
+
+#### Liệu pháp tương lai
+
+Các liệu pháp tiềm năng mới khác vẫn đang được nghiên cứu bao gồm những liệu pháp nhắm mục tiêu vào con đường IFN-γ–JAK–STAT1 (nhắm mục tiêu CXCL9/10), chống IL15 và chống CD122 (nhắm mục tiêu TRM), các chất đối kháng tín hiệu Wnt, và các liệu pháp khác.
+
+#### Hỗ trợ tâm lý xã hội
+
+Bạch biến dẫn đến giảm chất lượng cuộc sống và khó khăn tâm lý ở nhiều bệnh nhân, với các vấn đề như trầm cảm và tự ti, đặc biệt ở thanh thiếu niên và phụ nữ. Bệnh nhân nên được đảm bảo rằng luôn có điều gì đó trên bàn để giúp quản lý tình trạng của họ, từ việc sử dụng ngụy trang đến các liệu pháp có sẵn với khả năng cải thiện có thể đo lường được. Tác động tâm lý xã hội của bạch biến có xu hướng nghiêm trọng hơn ở một số quốc gia, văn hóa và tôn giáo so với những nơi khác.
+
+Hỗ trợ gia đình, tư vấn và điều trị hành vi nhận thức có thể có lợi.
+
+## Làm thế nào để ngăn ngừa bạch biến?
+
+Thật không may, không có biện pháp hiệu quả nào được chứng minh để ngăn ngừa bạch biến. Mặc dù các lý thuyết, ayurvedics, bổ sung vitamin và y học thay thế đã được nhiều nhóm hỗ trợ bạch biến ủng hộ, nhưng chúng không dựa trên bằng chứng khoa học. Điều trị tích cực có thể giúp ngăn chặn sự tiến triển của bệnh tiến triển nhanh chóng.
+
+## Kết quả của bạch biến là gì?
+
+Quá trình lâm sàng của bạch biến tổng quát rất khó dự đoán.
+
+Nói chung, bạch biến tiến triển chậm và dần dần trong vài tháng, sau đó vẫn yên tĩnh trong nhiều năm, và thường khó kiểm soát.
+
+- Tái tạo sắc tố tự phát có thể xảy ra sau khi tiếp xúc với ánh nắng, chủ yếu ở những người trẻ tuổi, nhưng điều này không thể đoán trước và thường không hoàn chỉnh. Điều này thường bắt đầu dưới dạng các đốm nâu xuất hiện xung quanh các nang lông (quanh nang lông), thường tối hơn màu da bình thường, nơi kích thước tổng thể của mảng trắng có thể nhỏ hơn.
+- Bạch biến có thể mở rộng hơn nữa, hoặc bằng cách xuất hiện các đốm mới, hoặc bằng cách mở rộng ngoại vi của các đốm hiện có.
+- Các chu kỳ mất sắc tố tiếp theo là các giai đoạn ổn định có thể tiếp tục vô thời hạn.
+- Các chỉ số tiên lượng kém bao gồm bệnh lâu năm, leukotrichia, liên quan đến niêm mạc, và [hiện tượng Koebner](https://dermnetnz.org/topics/the-koebner-phenomenon).
+
+[Bấm vào đây để xem hình ảnh về bạch biến](https://dermnetnz.org/images/vitiligo-images)
+
+### Thư mục
+
+- Abdel-Malek ZA, Jordan C, Ho T, Upadhyay PR, Fleischer A, Hamzavi I. The enigma and challenges of vitiligo pathophysiology and treatment. Pigment Cell Melanoma Res. 2020;33(6):778–87. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/pcmr.12878)
+- Bergqvist C, Ezzedine K. Vitiligo: A focus on pathogenesis and its therapeutic implications. J Dermatol. 2021;48(3):252-270. doi:10.1111/1346-8138.15743. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/1346-8138.15743)
+- Eleftheriadou V, Atkar R, Batchelor J, et al. British Association of Dermatologists guidelines for the management of people with vitiligo 2021. Br J Dermatol. 2022;186(1):18–29. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20596)
+- El-Domyati M, El-Din WH, Rezk AF, et al. Systemic CXCL10 is a predictive biomarker of vitiligo lesional skin infiltration, PUVA, NB-UVB and corticosteroid treatment response and outcome. Arch Dermatol Res. 2022;314(3):275–84. doi:10.1007/s00403-021-02228-9. [Tạp chí](https://link.springer.com/article/10.1007/s00403-021-02228-9)
+- Picardo M, Dell'Anna ML, Ezzedine K, et al. Vitiligo. Nat Rev Dis Primers. 2015;1:15011. Published 2015 Jun 4. doi:10.1038/nrdp.2015.11. [Tạp chí](https://www.nature.com/articles/nrdp201511)
+- Teulings HE, Overkamp M, Ceylan E, et al. Decreased risk of melanoma and nonmelanoma skin cancer in patients with vitiligo: a survey among 1307 patients and their partners. Br J Dermatol. 2013;168(1):162–71. [Tạp chí](doi:10.1111/bjd.12111https://onlinelibrary.wiley.com/doi/10.1111/bjd.12111)
+- van Geel N, Passeron T, Wolkerstorfer A, Speeckaert R, Ezzedine K. Reliability and validity of the Vitiligo Signs of Activity Score (VSAS). Br J Dermatol. 2020;183(5):883–90. doi:10.1111/bjd.18950. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/bjd.18950)
+- Weng YC, Ho HJ, Chang YL, Chang YT, Wu CY, Chen YJ. Reduced risk of skin cancer and internal malignancies in vitiligo patients: a retrospective population-based cohort study in Taiwan. Sci Rep. 2021;11(1):20195. Published 2021 Oct 12. doi:10.1038/s41598-021-99786-9. [Tạp chí](https://www.nature.com/articles/s41598-021-99786-9)
+
+### Trên DermNet
+
+- [Hình ảnh bạch biến](https://dermnetnz.org/images/vitiligo-images)
+- [Dermoscopy bạch biến](https://dermnetnz.org/topics/vitiligo-dermoscopy)
+- [Phẫu thuật bạch biến](https://dermnetnz.org/topics/surgical-treatment-of-stable-vitiligo)
+- [Liệu pháp giảm sắc tố cho bạch biến](https://dermnetnz.org/topics/depigmentation-therapy-for-vitiligo)
+- [Màu tóc và da](https://dermnetnz.org/topics/hair-and-skin-colour)
+- [Rối loạn sắc tố](https://dermnetnz.org/topics/pigmentation-disorders)
+- [Leukoderma](https://dermnetnz.org/topics/leukoderma)
+- [Hội chứng Alezzandrini](https://dermnetnz.org/topics/alezzandrini-syndrome)
+- [Hội chứng đa tuyến tự miễn loại 1](https://dermnetnz.org/topics/autoimmune-polyglandular-syndrome-type-1)
+- [Bạch biến do thuốc](https://dermnetnz.org/topics/drug-induced-vitiligo)
+- [Dấu hiệu da của bệnh thấp khớp](https://dermnetnz.org/topics/skin-signs-of-rheumatic-disease)
+
+### Các trang web khác
+
+- [Quỹ Bạch biến Toàn cầu](https://globalvitiligofoundation.org/)
+- [Hiệp hội Bạch biến Úc](https://vitiligo.org.au/)
+- [Quỹ Nghiên cứu Bạch biến Mỹ](http://www.avrf.org/)
+- [Hiệp hội Bạch biến](https://vitiligosociety.org/)
+- [Ngụy trang cho bệnh nhân bạch biến](http://www.ijdvl.com/article.asp?issn=0378-6323;year=2012;volume=78;issue=1;spage=8;epage=15;aulast=Kaliyadan;type=3) — Bài báo đánh giá trong Tạp chí Da liễu, Venereology và Leprology Ấn Độ, tháng 1 năm 2012
+- [Quỹ Bạch biến Quốc gia Inc.](http://www.nvfi.org/)
+- [Hỗ trợ Bạch biến Quốc tế](http://www.vitiligosupport.org/)
+- [Hiệp hội Bạch biến Pháp](http://www.afvitiligo.com/)
+- [Hiệp hội Bạch biến và Vảy nến Thụy Sĩ](http://www.spvg.ch/)
+- [Hiệp hội Bạch biến](http://www.vitiligosociety.org.uk/) Vương quốc Anh
+- [Tài liệu hướng dẫn cho bệnh nhân bạch biến](http://pedsderm.net/for-patients-families/patient-handouts/) — Hiệp hội Da liễu Nhi khoa
+- [Bạch biến](https://www.aad.org/public/diseases/color-problems/vitiligo) — Học viện Da liễu Mỹ
+- [Bạch biến](https://www.bad.org.uk/pils/vitiligo/) — Hiệp hội Da liễu Anh
+- [Ủy ban Tổ chức Bệnh nhân Quốc tế Bạch biến (VIPOC)](https://www.vipoc.org/) \- Tìm kiếm các nhóm hỗ trợ bệnh nhân
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết khác được đề xuất
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

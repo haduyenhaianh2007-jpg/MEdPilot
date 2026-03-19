@@ -1,0 +1,29 @@
+##### Viêm da tay — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Chàm tay
+
+Danh mục:
+
+Phát ban
+
+ICD-10:
+
+L30.9, L25.9, L24.9, L23.9
+
+ICD-11:
+
+EA85, EA85.0, EA85.1, EA85.20, EA85.2Y, EK02.12, EK00.Y
+
+SNOMED CT:
+
+238539001, 238553001, 402224008, 238555008, 238556009, 402567004, 402587003, 402232000, 402225009, 402233005, 402226005, 402227001, 402572008, 238541000, 402291009, 402290005, 402254003
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Viêm da tay**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1997. Cập nhật bởi Bác sĩ Karen Koch, Chuyên gia Da liễu Tư vấn, Phòng khám Y tế Donald Gordon, Đại học Witwatersrand, Johannesburg, Nam Phi. Tháng 3 năm 2018. Cập nhật nhỏ bởi Ian Coulson, Chuyên gia Da liễu. Biên tập bởi Gus Mitchell. Tháng 7 năm 2024.
+
+[Giới thiệu](https://dermnetnz.org/topics/hand-dermatitis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/hand-dermatitis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/hand-dermatitis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/hand-dermatitis#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/hand-dermatitis#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/hand-dermatitis#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/hand-dermatitis#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/hand-dermatitis#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/hand-dermatitis#Prevention%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/hand-dermatitis#Outlook)

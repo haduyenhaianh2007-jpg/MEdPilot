@@ -1,0 +1,20 @@
+## Mục tiêu của việc đóng vết thương
+
+Vết thương phẫu thuật có thể được để tự lành (lành thứ phát), hoặc có thể được đóng lại bằng phẫu thuật. Lành thứ phát có thể mất vài tuần đến vài tháng tùy thuộc vào kích thước và vị trí. Cuối cùng, một vết sẹo co rút tương đối rộng được hình thành. Tuy nhiên, lành thứ phát có thể được ưu tiên hơn so với đóng phẫu thuật trong các tình huống sau:
+
+- Vết thương bị nhiễm bẩn, vì nguy cơ nhiễm trùng cao hơn khi những vết thương này được khâu lại
+- Vết thương ở các vị trí lõm như một phần của tai hoặc góc trong mắt
+- Nếu tái tạo phẫu thuật đòi hỏi một sự tái tạo lớn hơn mong muốn hoặc nếu bệnh nhân không đủ sức khỏe cho phẫu thuật như vậy
+
+Lý do để chọn loại đóng vết thương phẫu thuật thay thế có thể là để:
+
+- Tăng tốc độ đóng vết thương
+- Bảo vệ các mô bên dưới (ví dụ, xương, sụn, dây thần kinh)
+- Cải thiện chức năng bằng cách chọn hướng của [đường căng da](https://dermnetnz.org/topics/skin-tension-lines) trên mép vết thương (ví dụ, tránh ectropion)
+- Cải thiện thẩm mỹ bằng cách giấu sẹo ở các đường viền của các đơn vị thẩm mỹ (phụ) càng nhiều càng tốt
+
+Các kỹ thuật phẫu thuật để đóng vết thương bao gồm:
+
+- [Đóng chính](https://dermnetnz.org/topics/wound-closure#primary)
+- [Vạt da](https://dermnetnz.org/topics/wound-closure#skinflap)
+- [Ghép da](https://dermnetnz.org/topics/wound-closure#skingraft)

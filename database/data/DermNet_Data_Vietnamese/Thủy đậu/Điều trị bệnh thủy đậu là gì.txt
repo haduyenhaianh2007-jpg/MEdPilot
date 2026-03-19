@@ -1,0 +1,15 @@
+## Điều trị bệnh thủy đậu là gì?
+
+Đối với hầu hết các bệnh nhân khỏe mạnh mắc bệnh thủy đậu, liệu pháp điều trị triệu chứng thường là tất cả những gì cần thiết.
+
+- Cắt móng tay cho trẻ để giảm thiểu việc gãi.
+- Tắm nước ấm và thoa kem dưỡng ẩm.
+- Paracetamol có thể giảm sốt và đau
+  - Tránh sử dụng NSAID ngoài môi trường bệnh viện do nguy cơ tăng biến chứng da nghiêm trọng như nhiễm trùng siêu vi khuẩn nhóm A xâm lấn.
+  - Không sử dụng aspirin ở trẻ em vì có liên quan đến hội chứng Reye.
+- Kem calamine và thuốc kháng histamine đường uống có thể giảm ngứa.
+- Cân nhắc sử dụng [aciclovir](https://dermnetnz.org/topics/aciclovir) đường uống (tác nhân kháng virus) ở người trên 12 tuổi, giúp giảm số ngày bị sốt.
+
+Bệnh nhân suy giảm miễn dịch mắc bệnh thủy đậu cần điều trị bằng aciclovir kháng virus qua đường tĩnh mạch.
+
+Trong trường hợp tiếp xúc không mong muốn với virus, globulin miễn dịch varicella-zoster nếu được tiêm trong vòng 96 giờ sau khi tiếp xúc ban đầu có thể giảm mức độ nghiêm trọng của bệnh mặc dù không ngăn ngừa được. Điều này được sử dụng khi không có tiền sử mắc bệnh thủy đậu trước đó (hoặc bệnh nhân không có kháng thể với virus varicella-zoster khi xét nghiệm máu) trong thai kỳ, trong 28 ngày đầu sau khi sinh, và ở bệnh nhân [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) hoặc [ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression).

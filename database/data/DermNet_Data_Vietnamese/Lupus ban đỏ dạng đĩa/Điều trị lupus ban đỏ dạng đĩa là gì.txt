@@ -1,0 +1,22 @@
+## Điều trị lupus ban đỏ dạng đĩa
+
+### Biện pháp chung
+
+- Bảo vệ và tránh nắng: Kem chống nắng phổ rộng SPF 50+, quần áo chống nắng UPF 50+
+- Ngừng hút thuốc
+- Bổ sung vitamin D
+
+### Biện pháp cụ thể
+
+#### Liệu pháp tại chỗ
+
+- Steroid bôi ngoài da
+- Steroid tiêm trong tổn thương
+
+#### Liệu pháp toàn thân
+
+- Thuốc chống sốt rét, thường là hydroxychloroquine; cũng có một số bằng chứng cho thấy hydroxychloroquine có thể giảm nguy cơ tiến triển thành SLE.
+- Các chất điều hòa miễn dịch như methotrexate, mycophenolate, dapsone, ciclosporin; có bằng chứng về điều trị thành công với anifrolumab
+- Corticosteroid toàn thân
+- Anifrolumab là một chất ức chế thụ thể interferon loại 1 đã cho thấy hiệu quả trong điều trị lupus hệ thống cũng như lupus ban đỏ dạng đĩa nặng
+- Belimumab là một chất ức chế đặc hiệu kích thích tế bào lympho B và được cấp phép cho cả SLE và viêm thận lupus, và có thể có lợi cho lupus ban đỏ dạng đĩa khó điều trị.

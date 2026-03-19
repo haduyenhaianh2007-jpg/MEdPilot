@@ -1,0 +1,373 @@
+##### Rosacea — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Mụn trứng cá đỏ, Mụn trứng cá đỏ viêm
+
+Danh mục:
+
+Viêm
+
+ICD-10:
+
+L71, L71.9, B88.0
+
+ICD-11:
+
+ED90, ED90.0, ED90.01, ED90.02, ED90.0Y, 9A02.1, BD93.1Y
+
+SNOMED CT:
+
+398909004, 200933006, 95244005, 238750001, 724848006, 403366003, 231800009, 19877001, 257006, 75867005, 397845003, 10128002, 371097007
+
+**[Viêm](https://dermnetnz.org/topics?category=Inflammation)**
+
+# **Rosacea**
+
+Tác giả: Tiến sĩ Olivia Kuo, Bệnh viện Addenbrookes, Cambridge, Vương quốc Anh, tháng 3 năm 2022; cập nhật nhỏ tháng 9 năm 2024.
+
+Những người đóng góp trước đây: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu; Vanessa Ngan, Nhà văn, New Zealand, 2014. Biên tập bởi Gus Mitchell.
+
+[Giới thiệu](https://dermnetnz.org/topics/rosacea#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/rosacea#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/rosacea#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/rosacea#Clinical%20features%3Cbr%20/%3E) [Biến thể trong các loại da](https://dermnetnz.org/topics/rosacea#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/rosacea#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/rosacea#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/rosacea#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/rosacea#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/rosacea#Outcome)
+
+## Rosacea là gì?
+
+Rosacea là một tình trạng viêm da mãn tính chủ yếu ảnh hưởng đến vùng trung tâm của khuôn mặt và thường bắt đầu từ độ tuổi 30–60.
+
+Rosacea phổ biến và được đặc trưng bởi sự đỏ mặt kéo dài. Nó thường có quá trình tái phát và thuyên giảm, với các triệu chứng được kiểm soát bằng các biện pháp lối sống, chăm sóc da tổng quát, thuốc và can thiệp thủ thuật.
+
+![Rosacea dạng sẩn mủ trên má](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0004.jpg)
+
+Rosacea dạng sẩn mủ trên má
+
+![Rosacea dạng hồng ban giãn mạch và sẩn mủ trên má](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0022.jpg)
+
+Rosacea dạng hồng ban giãn mạch và sẩn mủ trên má
+
+![Rosacea dạng sẩn trên má](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0003.jpg)
+
+Rosacea dạng sẩn trên má
+
+![Mạch giãn trong rinophyma được hiển thị qua soi da](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0018.jpg)
+
+Mạch giãn trong rinophyma được hiển thị qua soi da (RO-bệnh nhân4)
+
+![Rinophyma và rosacea dạng sẩn trên cằm](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0010.jpg)
+
+Rinophyma và rosacea dạng sẩn trên cằm (RO-bệnh nhân2)
+
+![Rosacea dạng sẩn mủ và mắt](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0001.jpg)
+
+Rosacea dạng sẩn mủ và mắt
+
+[Bấm vào đây để xem thêm hình ảnh về rosacea](https://dermnetnz.org/images/rosacea-images)
+
+## Ai bị rosacea?
+
+Ước tính rosacea ảnh hưởng đến khoảng 5% người lớn trên toàn thế giới. Mặc dù rosacea thường được cho là ảnh hưởng đến phụ nữ nhiều hơn nam giới, các nghiên cứu đã tiết lộ sự phân bố giới tính gần như bằng nhau.
+
+Rosacea thường xuất hiện sau tuổi 30 và trở nên phổ biến hơn theo tuổi tác. Tuy nhiên, nó có thể xảy ra ở bất kỳ độ tuổi nào và đôi khi xuất hiện ở trẻ em. Mặc dù rosacea có thể ảnh hưởng đến bất kỳ ai, nhưng nó phổ biến hơn ở những người có làn da sáng, mắt xanh và có nguồn gốc Celtic hoặc Bắc Âu. Nó có thể khó nhận biết và ít được công nhận hơn ở bệnh nhân có màu da tối.
+
+Rosacea đã được liên kết với trầm cảm, tăng huyết áp, bệnh tim mạch, rối loạn lo âu, rối loạn lipid máu, tiểu đường, đau nửa đầu, viêm khớp dạng thấp, nhiễm _Helicobacter pylori_, viêm loét đại tràng và sa sút trí tuệ.
+
+## Nguyên nhân gây ra rosacea là gì?
+
+Sinh bệnh học của rosacea được cho là đa yếu tố và bao gồm:
+
+- Tính nhạy cảm di truyền
+  - Liên kết với các đa hình nucleotide đơn liên quan đến phức hợp tương thích mô chính lớp II.
+- Thay đổi hệ vi sinh vật của da và ruột
+
+  - Sự phát triển quá mức của vi khuẩn trong ruột non, nhiễm _Helicobacter pylori_ và mật độ tăng của _Demodex folliculorum_ và _Staphylococcus epidermidis_ trên da có thể đóng vai trò trong viêm da.
+  - Sự điều hòa sai của phản ứng miễn dịch có thể dẫn đến viêm quá mức, giãn mạch, giãn bạch huyết và tạo mạch.
+- Cơ chế thần kinh da
+
+  - Các yếu tố kích thích bao gồm bức xạ tia cực tím (UV), thay đổi nhiệt độ, tập thể dục, thức ăn cay, rượu, căng thẳng tâm lý, ô nhiễm không khí và hút thuốc lá. Peptide liên quan đến gen calcitonin (CGRP) có thể đóng vai trò trong đỏ mặt và hồng ban.
+- Suy giảm hàng rào da
+  - Da bị ảnh hưởng hiển thị các đặc điểm cho thấy suy giảm hàng rào da, cho phép vi khuẩn xâm nhập và viêm.
+
+[Miễn dịch bẩm sinh](https://dermnetnz.org/topics/skin-immune-system)
+
+- Trong da của bệnh nhân bị rosacea, có sự biểu hiện và hoạt động tăng của thụ thể toll-like 2, cathelicidins, kallikrein 5 và tế bào mast.
+- Hơn nữa, cathelicidin LL-37 tăng độ nhạy của da với ánh nắng mặt trời.
+- Kết quả là một phản ứng miễn dịch bẩm sinh phóng đại đối với yếu tố kích thích ban đầu.
+
+[Miễn dịch thích ứng](https://dermnetnz.org/topics/skin-immune-system)
+
+- Biểu hiện gen T-helper (Th)1/Th17 chiếm ưu thế trong tất cả các đặc điểm của rosacea.
+- Biểu hiện Th17 tăng có thể làm tăng mức cathelicidin LL-37 trong keratinocytes và thúc đẩy viêm thêm.
+
+Yếu tố kích thích môi trường quan trọng nhất là bức xạ UV; da bị ảnh hưởng nhạy cảm hơn với phơi nhiễm. Bức xạ UV có thể làm hỏng lớp hạ bì và tăng viêm da.
+
+## Các đặc điểm lâm sàng của rosacea là gì?
+
+Các đặc điểm trên da bao gồm:
+
+- Hồng ban tái phát thoáng qua, tức là [đỏ mặt](https://dermnetnz.org/topics/flushing)
+
+- [Hồng ban mặt kéo dài](https://dermnetnz.org/topics/facial-skin-problems)
+
+- [Giãn mạch](https://dermnetnz.org/topics/telangiectasia)
+  - Da mặt ngoài vùng cánh mũi
+  - Giãn mạch bờ mi
+  - Thường được gọi chung là rosacea dạng hồng ban giãn mạch
+- Sẩn viêm và mụn mủ (sẩn mủ)
+
+- Thay đổi phymatous
+  - Dày da do [tăng sản/xơ hóa tuyến bã nhờn](https://dermnetnz.org/topics/sebaceous-hyperplasia) trên mặt
+  - Khu vực bị ảnh hưởng phổ biến nhất là mũi (gọi là [rinophyma](https://dermnetnz.org/topics/rhinophyma))
+  - Thường gặp hơn ở nam giới.
+
+![Rinophyma](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0002.jpg)
+
+Rinophyma
+
+![Rinophyma cho thấy sưng và lỗ mở tuyến bã nhờn](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0009.jpg)
+
+Rinophyma cho thấy sưng và lỗ mở tuyến bã nhờn (RO-bệnh nhân1)
+
+![Rosacea dạng sẩn mủ do steroid gây ra](https://dermnetnz.org/assets/collection/Steroid-rosacea/steroid-rosacea-0001.jpg)
+
+Rosacea dạng sẩn mủ do steroid gây ra
+
+![Rosacea do steroid gây ra trên trán](https://dermnetnz.org/assets/collection/Steroid-rosacea/steroid-rosacea-0002.jpg)
+
+Rosacea do steroid gây ra trên trán
+
+![Rosacea mặt do steroid gây ra](https://dermnetnz.org/assets/collection/Steroid-rosacea/steroid-rosacea-0016.jpg)
+
+Rosacea mặt do steroid gây ra
+
+![Rosacea dạng sẩn do steroid gây ra](https://dermnetnz.org/assets/collection/Steroid-rosacea/steroid-rosacea-0014.jpg)
+
+Rosacea dạng sẩn do steroid gây ra
+
+![Sưng và sẩn mủ trong rosacea do steroid gây ra](https://dermnetnz.org/assets/collection/Steroid-rosacea/steroid-rosacea-0013.jpg)
+
+Sưng và sẩn mủ trong rosacea do steroid gây ra (SR-bệnh nhân4)
+
+Đôi khi rosacea gây ra phù bạch huyết mặt (bệnh Morbihan), gây đỏ và sưng mặt và mí mắt.
+
+Đau rát và đau bỏng mặt kèm theo đỏ và đỏ mặt (rosacea thần kinh) là một biến thể hiếm của rosacea.
+
+![Phù bạch huyết mí mắt và sưng glabellar trong bệnh Morbihan](https://dermnetnz.org/assets/collection/Morbihan-disease/morbihan-disease-0006.jpg)
+
+Phù bạch huyết mí mắt và sưng glabellar trong bệnh Morbihan
+
+![Sưng tím của mí mắt dưới trong bệnh Morbihan](https://dermnetnz.org/assets/collection/Morbihan-disease/morbihan-disease-0007.jpg)
+
+Sưng tím của mí mắt dưới trong bệnh Morbihan
+
+Các đặc điểm mắt không phải trên da (ảnh hưởng đến hơn 50% bệnh nhân bị rosacea):
+
+- Khô
+- Cảm giác có dị vật
+- Sợ ánh sáng
+- Viêm kết mạc
+- Viêm bờ mi
+- Viêm giác mạc — có thể dẫn đến suy giảm thị lực lâu dài.
+
+[Bấm vào đây để xem hình ảnh về rosacea](https://dermnetnz.org/images/rosacea-images)
+
+## Các đặc điểm lâm sàng thay đổi như thế nào trong các loại da khác nhau?
+
+Rosacea được chẩn đoán thường xuyên hơn ở bệnh nhân có làn da sáng của nguồn gốc Celtic và Bắc Âu.
+
+Có thể khó xác định các đặc điểm chính của rosacea ở bệnh nhân có màu da tối. Những đặc điểm này có thể ít được nhận biết và rosacea có thể bị chẩn đoán thiếu ở những bệnh nhân này.
+
+## Các biến chứng của rosacea là gì?
+
+Các biến chứng của rosacea bao gồm:
+
+- Rosacea dạng phymatous
+- Biến chứng mắt viêm, ví dụ, viêm bờ mi giác mạc, viêm giác mạc xơ
+- Khó chịu về thể chất, ví dụ, từ các triệu chứng mắt
+- Tác động tâm lý xã hội tiêu cực như lo lắng tăng, trầm cảm, tự ti và cô lập xã hội
+- Tránh các yếu tố kích thích dẫn đến hạn chế lối sống.
+
+## Rosacea được chẩn đoán như thế nào?
+
+Rosacea được chẩn đoán lâm sàng trong phần lớn các trường hợp. Chẩn đoán được thực hiện theo tiêu chí chẩn đoán và tiêu chí chính được khuyến nghị bởi hội đồng đồng thuận ROSacea toàn cầu năm 2017 (ROSCO). Điều này yêu cầu một tiêu chí chẩn đoán hoặc hai tiêu chí chính được đáp ứng.
+
+Ở bệnh nhân có loại da tối hơn, nơi hồng ban và giãn mạch (mạch máu nhìn thấy) khó quan sát hơn, có thể đặt trọng tâm lớn hơn vào các đặc điểm chính và phụ khác.
+
+### Tiêu chí chẩn đoán
+
+- Hồng ban trung tâm mặt kéo dài liên quan đến sự tăng cường định kỳ bởi các yếu tố kích thích tiềm năng
+- Thay đổi phymatous.
+
+### Tiêu chí chính (phải xảy ra trong phân bố trung tâm mặt)
+
+- Đỏ mặt/hồng ban trung tâm mặt thoáng qua
+- Sẩn viêm và mụn mủ
+- Giãn mạch — mạch máu nhìn thấy (trừ giãn mạch cánh mũi, phổ biến ở người lớn)
+- [Rosacea mắt](https://dermnetnz.org/topics/ocular-rosacea) (giãn mạch bờ mi, viêm bờ mi, viêm giác mạc/viêm kết mạc/viêm giác mạc xơ/viêm màng bồ đào trước).
+
+### Đặc điểm phụ
+
+- Cảm giác bỏng rát của da
+- Cảm giác châm chích của da
+- Phù
+- Cảm giác khô của da.
+
+Trong các trường hợp có sự không chắc chắn về chẩn đoán, [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể được xem xét.
+
+## Chẩn đoán phân biệt cho rosacea là gì?
+
+Các tình trạng khác có thể xuất hiện với các đặc điểm trên da tương tự bao gồm:
+
+- [Mụn trứng cá thông thường](https://dermnetnz.org/topics/acne-vulgaris)
+- [Carcinoid](https://dermnetnz.org/topics/carcinoid-syndrome)
+- [Demodicosis (viêm nang lông demodex)](https://dermnetnz.org/topics/demodex)
+- [Viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis)
+- [Phản ứng thuốc](https://dermnetnz.org/topics/drug-eruptions)
+- [Eczema](https://dermnetnz.org/topics/dermatitis)
+- [U hạt vô trùng mặt vô căn](https://dermnetnz.org/topics/idiopathic-facial-aseptic-granuloma)
+- [Viêm da quanh miệng](https://dermnetnz.org/topics/periorificial-dermatitis) hoặc [viêm da quanh mắt](https://dermnetnz.org/topics/periocular-dermatitis)
+- [Da bị tổn thương do ánh sáng](https://dermnetnz.org/topics/photosensitivity)
+- [Pyoderma faciale](https://dermnetnz.org/topics/pyoderma-faciale)
+- [Viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis)
+- [Mụn trứng cá do steroid](https://dermnetnz.org/topics/steroid-acne)
+- [Rosacea do steroid](https://dermnetnz.org/topics/steroid-rosacea)
+- [Lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus).
+
+## Điều trị rosacea là gì?
+
+Mặc dù không có cách chữa trị cho rosacea, các triệu chứng có thể được quản lý bằng các biện pháp lối sống, y tế và can thiệp thủ thuật sau đây.
+
+### Biện pháp chung
+
+Tất cả bệnh nhân bị rosacea nên được giáo dục về chăm sóc da tổng quát và các biện pháp lối sống.
+
+#### Lời khuyên về lối sống
+
+- Khuyến khích bệnh nhân ghi nhật ký triệu chứng để hỗ trợ xác định các yếu tố kích thích:
+
+  - Các yếu tố kích thích phổ biến bao gồm thức ăn cay, nhiệt độ nóng/lạnh (tắm nóng), tập thể dục, phơi nắng, sản phẩm mỹ phẩm, thuốc (những loại gây giãn mạch), rượu, trái cây và rau quả, sữa, sản phẩm thịt ướp
+- Tránh các yếu tố kích thích đã xác định.
+
+#### Lời khuyên về chăm sóc da tổng quát
+
+- [Dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) thường xuyên
+- Sử dụng [sữa rửa mặt](https://dermnetnz.org/topics/soaps-and-cleansers) nhẹ nhàng không kê đơn
+  - Sữa rửa mặt dựa trên chất tẩy rửa tổng hợp nhẹ thay vì xà phòng truyền thống do nguy cơ kích ứng
+- Sử dụng [kem chống nắng vật lý](https://dermnetnz.org/topics/topical-sunscreen-agents) (tức là oxit kẽm/oxit titan) với SPF ≥ 30
+
+  - Cung cấp bảo vệ phổ rộng chống lại bức xạ UV và ánh sáng nhìn thấy
+  - Có thể được dung nạp tốt hơn so với kem chống nắng hóa học
+- Tránh tẩy tế bào chết
+- Tránh sản phẩm bôi ngoài da có cồn
+- Tránh sử dụng steroid bôi ngoài da vì chúng có thể làm trầm trọng thêm tình trạng
+- Mỹ phẩm có màu xanh lá cây hữu ích để giảm thiểu sự xuất hiện của đỏ.
+
+#### Cân nhắc tâm lý xã hội
+
+- Đánh giá gánh nặng tâm lý xã hội của bệnh nhân và xem xét giới thiệu hỗ trợ tâm lý khi cần thiết.
+
+### Biện pháp cụ thể
+
+Các phương pháp điều trị hiện có cho rosacea có thể rất hiệu quả — tuy nhiên, chúng thường chỉ nhắm mục tiêu một đặc điểm. Điều này có nghĩa là cần kết hợp các liệu pháp khi bệnh nhân có nhiều đặc điểm và trong trường hợp rosacea nặng.
+
+Nhiều phương pháp điều trị sau đây là liệu pháp hàng đầu được khuyến nghị bởi hội đồng ROSCO năm 2019:
+
+#### Hồng ban thoáng qua (đỏ mặt)
+
+- Chất chủ vận alpha-adrenergic (bôi ngoài da [brimonidine](https://dermnetnz.org/topics/brimonidine), bôi ngoài da oxymetazoline) — chúng thường được sử dụng không thường xuyên chỉ cho các dịp đặc biệt, vì sử dụng liên tục có thể dẫn đến đỏ mặt hồi phục khi ngừng
+- [Thuốc chẹn beta đường uống (carvedilol)](https://dermnetnz.org/topics/beta-blockers)
+- Clonidine đường uống có thể giảm đỏ mặt
+- Chất đối kháng CGRP (erenumab)
+- [Gabapentin](https://dermnetnz.org/topics/gabapentin)
+
+#### Hồng ban kéo dài
+
+- Chất chủ vận alpha-adrenergic (bôi ngoài da brimonidine, bôi ngoài da oxymetazoline, như trên)
+- [Liệu pháp ánh sáng xung cường độ cao](https://dermnetnz.org/topics/intense-pulsed-light-therapy)
+- [Laser mạch máu](https://dermnetnz.org/topics/lasers-in-dermatology)
+
+#### Sẩn viêm/mụn mủ
+
+- Bôi ngoài da [axit azelaic](https://dermnetnz.org/topics/azelaic-acid) (chỉ dành cho nhẹ/vừa)
+- Bôi ngoài da [ivermectin](https://dermnetnz.org/topics/ivermectin)
+- Bôi ngoài da [metronidazole](https://dermnetnz.org/topics/metronidazole) (chỉ dành cho nhẹ/vừa)
+- Bôi ngoài da [erythromycin](https://dermnetnz.org/topics/erythromycin)
+- [Tetracyclines đường uống](https://dermnetnz.org/topics/tetracycline) (oxytetracycline, lymecycline, doxycycline)
+- Macrolides đường uống ( [erythromycin](https://dermnetnz.org/topics/erythromycin), azithromycin)
+- Metronidazole đường uống
+- [Isotretinoin đường uống](https://dermnetnz.org/topics/isotretinoin) thường ở liều thấp (chỉ dành cho bệnh kháng trị)
+
+#### [Giãn mạch](https://dermnetnz.org/topics/telangiectasia)
+
+- [Điện phân](https://dermnetnz.org/topics/electrosurgery)
+- Liệu pháp ánh sáng xung cường độ cao
+- Laser mạch máu
+
+#### **Rosacea thần kinh**
+
+- Gabapentin
+- Amitriptyline
+- Thuốc chẹn beta-adrenergic đường uống
+- Xem xét phẫu thuật nội soi cắt giao cảm
+
+#### Phyma
+
+- Nếu viêm lâm sàng: doxycycline, isotretinoin
+- Nếu không viêm lâm sàng: các phương thức vật lý để loại bỏ mô dư thừa và định hình lại cấu trúc (ví dụ, [laser CO2 ablative](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment), [laser erbium](https://dermnetnz.org/topics/eryag-laser-treatment), tần số radio, phẫu thuật giảm bớt).
+
+#### [Rosacea mắt](https://dermnetnz.org/topics/ocular-rosacea)
+
+- Quản lý chung
+  - Tăng cường tiêu thụ omega-3 trong chế độ ăn uống
+  - Nén ấm
+  - Làm sạch nhẹ nhàng lông mi/mí mắt để giải phóng bã nhờn bị mắc kẹt trong tuyến meibomian
+- Quản lý y tế hàng đầu
+  - Nếu nhẹ-vừa: bôi ngoài da azithromycin/ [chất ức chế calcineurin bôi ngoài da](https://dermnetnz.org/topics/calcineurin-inhibitors)
+  - Nếu nặng: azithromycin, doxycycline.
+
+Để biết thêm thông tin, xem [Rosacea mắt](https://dermnetnz.org/topics/ocular-rosacea).
+
+## Kết quả cho rosacea là gì?
+
+Mặc dù rosacea không phải là một tình trạng đe dọa tính mạng, nó là một bệnh mãn tính cần quản lý lâu dài các triệu chứng tái phát và thuyên giảm. Giải quyết hoàn toàn các đặc điểm lâm sàng đã được chứng minh là kéo dài thời gian tái phát triệu chứng và có tác động tích cực lớn hơn đến chất lượng cuộc sống so với giải quyết không hoàn toàn.
+
+[Bấm vào đây để xem hình ảnh về rosacea](https://dermnetnz.org/images/rosacea-images)
+
+### Thư mục
+
+- Alexis AF, Callender VD, Baldwin HE, Desai SR, Rendon MI, Taylor SC. Dịch tễ học toàn cầu và phổ lâm sàng của rosacea, nhấn mạnh da màu: Đánh giá và kinh nghiệm thực hành lâm sàng. J Am Acad Dermatol. 2019;80(6):1722–9.e7. doi:10.1016/j.jaad.2018.08.049. [Tạp chí](https://www.jaad.org/article/S0190-9622(18)32576-3/fulltext)
+- Gether L, Overgaard LK, Egeberg A, Thyssen JP. Tỷ lệ mắc và phổ biến của rosacea: một đánh giá hệ thống và phân tích tổng hợp. Tạp chí Da liễu Anh. 2018;179:282–9. doi 10.1111/bjd.16481. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/bjd.16481)
+- Haber R, El Gemayel M. Các bệnh đồng mắc trong rosacea: Một đánh giá hệ thống và cập nhật. J Am Acad Dermatol. 2018;78(4):786-792.e8. doi:10.1016/j.jaad.2017.09.016. [Tạp chí](https://www.jaad.org/article/S0190-9622(17)32342-3/fulltext)
+- Hampton PJ, Berth-Jones J, Duarte Williamson CE, Hay R, Leslie TA, Porter I, et al. Hướng dẫn của Hiệp hội Da liễu Anh về quản lý người bị rosacea 2021. 2021;185:725–35. doi 10.1111/bjd.20485. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/bjd.20485)
+- Marson J, Baldwin H. Rosacea: một đánh giá toàn diện và cập nhật từ sinh bệnh học đến chẩn đoán và điều trị. Tạp chí Da liễu Quốc tế. 2020.59(6):e175–e182. doi 10.1111/ijd.14757. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/ijd.14757)
+- Parkins GJ, Maan A, Dawn G. Rosacea thần kinh: một thực thể hiếm gặp và ít được công nhận?. Clin Exp Dermatol. 2015;40(8):930-931. doi:10.1111/ced.12630 [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/ced.12630)
+- Schaller M, Almeida LMC, Bewley A, Cribier B, Del Rosso J, Dlova NC, et al. Khuyến nghị về chẩn đoán, phân loại và quản lý rosacea: cập nhật từ hội đồng đồng thuận ROSacea toàn cầu 2019. 2020;182:1269–76. doi 10.1111/bjd.18420. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/bjd.18420)
+- Scharschmidt TC, Yost JM, Truong SV, Steinhoff M, Wang KC, Berger TG. Rosacea thần kinh: một phân nhóm lâm sàng riêng biệt cần một cách tiếp cận điều trị sửa đổi. Arch Dermatol. 2011;147(1):123–6. doi:10.1001/archdermatol.2010.413. [Tạp chí](https://jamanetwork.com/journals/jamadermatology/fullarticle/426431)
+- Van Zuuren EJ, Arents BWM, van der Linden, MMD, Vermeulen S, Fedorowicz Z, Tan J, et al. Rosacea: Khái niệm mới trong phân loại và điều trị. Tạp chí Da liễu Lâm sàng Hoa Kỳ. 2021;22:457–65. doi 10.1007/s40257-021-00595-7. [Tạp chí](https://link.springer.com/article/10.1007/s40257-021-00595-7)
+- Webster G, Schaller M, Tan J, Jackson JM, Kerrouche N, Schäfer G. Định nghĩa thành công điều trị trong rosacea là 'rõ ràng' có thể mang lại nhiều lợi ích cho bệnh nhân: kết quả của một phân tích tổng hợp. Tạp chí Điều trị Da liễu. 2017;28(5):469–74. doi 10.1080/09546634.2017.1343435. [Tạp chí](https://www.tandfonline.com/doi/full/10.1080/09546634.2017.1343435)
+
+### Trên DermNet
+
+- [Phát ban mặt](https://dermnetnz.org/topics/facial-rashes)
+- [Metronidazole](https://dermnetnz.org/topics/metronidazole)
+- [Rosacea mắt](https://dermnetnz.org/topics/ocular-rosacea)
+- [Pyoderma faciale (rosacea fulminans)](https://dermnetnz.org/topics/pyoderma-faciale)
+- [Rinophyma](https://dermnetnz.org/topics/rhinophyma)
+- [Hình ảnh Rosacea](https://dermnetnz.org/images/rosacea-images)
+- [Rosacea do steroid](https://dermnetnz.org/topics/steroid-rosacea)
+
+### Các trang web khác
+
+- [Mụn trứng cá, Rosacea và Viêm da quanh miệng](https://www.youtube.com/watch?v=BGmJJzZekzU&t=289s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Hiệp hội Rosacea Quốc gia](https://www.rosacea.org/)
+- [Quỹ Da liễu Anh](https://knowyourskin.britishskinfoundation.org.uk/condition/rosacea/) — Rosacea
+- [Bệnh nhân](https://patient.info/doctor/rosacea-and-rhinophyma) — Rosacea và Rinophyma
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

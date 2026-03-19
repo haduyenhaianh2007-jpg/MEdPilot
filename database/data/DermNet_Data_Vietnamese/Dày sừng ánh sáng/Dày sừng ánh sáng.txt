@@ -1,0 +1,213 @@
+##### Dày sừng ánh sáng — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Dày sừng do ánh sáng mặt trời
+
+Danh mục:
+
+Tổn thương (ung thư), Tổn thương (lành tính)
+
+ICD-10:
+
+L57.0
+
+ICD-11:
+
+EK90.0
+
+SNOMED CT:
+
+201101007
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics?category=Lesions%20(cancerous)) [Tổn thương (lành tính)](https://dermnetnz.org/topics?category=Lesions%20(benign))**
+
+# **Dày sừng ánh sáng**
+
+**Được xem xét lần cuối: Tháng 6, 2024**
+
+Tác giả: Bác sĩ Ian Coulson, Chuyên gia Da liễu, Vương quốc Anh; Tổng biên tập DermNet (2024).
+
+Người đóng góp trước đây: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, (1997); cập nhật thêm tháng 12 năm 2015.
+
+Chỉnh sửa bởi bộ phận nội dung DermNet.
+
+[Giới thiệu](https://dermnetnz.org/topics/actinic-keratosis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/actinic-keratosis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/actinic-keratosis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/actinic-keratosis#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/actinic-keratosis#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/actinic-keratosis#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/actinic-keratosis#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/actinic-keratosis#Prevention%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/actinic-keratosis#Outlook)
+
+## Dày sừng ánh sáng là gì?
+
+Dày sừng ánh sáng là một đốm vảy tiền ung thư xuất hiện trên da bị tổn thương do ánh nắng, còn được gọi là dày sừng do ánh sáng mặt trời. Nó có thể được coi là một dạng sớm của [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) (một loại [ung thư tế bào sừng](https://dermnetnz.org/topics/keratinocyte-cancer)).
+
+![Một nền hồng với phần trên dày sừng trên cầu mũi - một vị trí phổ biến cho dày sừng ánh sáng](https://dermnetnz.org/assets/Uploads/lesions/ak-face/235.jpg)
+
+Một nền hồng với phần trên dày sừng trên cầu mũi - một vị trí phổ biến cho dày sừng ánh sáng
+
+![Một dày sừng ánh sáng trên mũi](https://dermnetnz.org/assets/collection/Actinic-keratosis/actinic-keratosis-00002.jpg)
+
+Một dày sừng ánh sáng trên mũi
+
+![Một tổn thương vảy thô trên mu bàn tay - một vị trí phổ biến cho dày sừng ánh sáng](https://dermnetnz.org/assets/Uploads/lesions/bcc-limbs/502.jpg)
+
+Một tổn thương vảy thô trên mu bàn tay - một vị trí phổ biến cho dày sừng ánh sáng
+
+## Ai bị dày sừng ánh sáng?
+
+Dày sừng ánh sáng ảnh hưởng đến những người thường sống ở vùng nhiệt đới hoặc cận nhiệt đới và có các yếu tố tiền đề như:
+
+- Các dấu hiệu khác của [da lão hóa do ánh sáng](https://dermnetnz.org/topics/ageing-skin)
+- Da sáng màu với tiền sử [cháy nắng](https://dermnetnz.org/topics/sunburn)
+- Tiền sử làm việc hoặc giải trí ngoài trời trong thời gian dài
+- Hệ miễn dịch bị suy giảm.
+
+Tuy nhiên, ngay cả ở các vùng khí hậu ôn đới, chúng cũng có thể phổ biến - ở miền nam Ireland và tây bắc Anh, có tới 25% người trên 60 tuổi có ít nhất một dày sừng ánh sáng.
+
+## Nguyên nhân gây ra dày sừng ánh sáng?
+
+Dày sừng ánh sáng là kết quả của sự phát triển bất thường của tế bào da do tổn thương DNA bởi tia UVB có bước sóng ngắn.
+
+Chúng có nhiều khả năng xuất hiện nếu chức năng miễn dịch kém, do lão hóa, tiếp xúc với ánh nắng gần đây, [bệnh tiền đề,](https://dermnetnz.org/topics/immunodeficiency) hoặc một số [thuốc](https://dermnetnz.org/topics/drug-induced-immunosuppression).
+
+## Đặc điểm lâm sàng của dày sừng ánh sáng là gì?
+
+Dày sừng ánh sáng có thể là đơn độc nhưng thường có nhiều dày sừng. Hình dạng của chúng thay đổi.
+
+- Một nốt sần phẳng hoặc dày, hoặc mảng
+- Màu trắng hoặc vàng; bề mặt vảy, sần sùi, hoặc sừng
+- Màu da, đỏ, hoặc sắc tố
+- Đau hoặc không có triệu chứng
+
+Chúng đôi khi được phân loại theo hình dạng:
+
+Cấp độ 1: Dấu hồng hoặc xám nhẹ với vảy nhẹ và cảm giác sần sùi khi chạm vào
+
+Cấp độ 2: Dày sừng vừa phải và dễ phát hiện
+
+Cấp độ 3: Dày sừng nghiêm trọng
+
+Cấp độ 4: Khu vực hợp nhất vài centimet với một loạt các cấp độ AK trên
+
+Dày sừng ánh sáng rất phổ biến ở các vị trí thường xuyên tiếp xúc với ánh nắng, đặc biệt là mu bàn tay và mặt, thường ảnh hưởng đến tai, mũi, má, môi trên, viền môi dưới, thái dương, trán, và da đầu hói. Ở những người bị tổn thương da do ánh nắng nghiêm trọng, chúng cũng có thể được tìm thấy trên thân trên, chi trên và dưới, và mu bàn chân.
+
+![Thay đổi trường trên trán với nhiều dày sừng ánh sáng bề mặt](https://dermnetnz.org/assets/Uploads/lesions/sk6.jpg)
+
+Thay đổi trường trên trán với nhiều dày sừng ánh sáng bề mặt
+
+![Dày sừng ánh sáng dày hơn trên mu bàn tay](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/sk2.jpg)
+
+Dày sừng ánh sáng dày hơn trên mu bàn tay
+
+![Dày sừng ánh sáng dày sừng trên trán](https://dermnetnz.org/assets/Uploads/lesions/ak-face/282.jpg)
+
+Dày sừng ánh sáng dày sừng trên trán
+
+Nhiều hình ảnh hơn về dày sừng ánh sáng ...
+
+- [Dày sừng trên mũi](https://dermnetnz.org/topics/actinic-keratosis-on-the-nose-images)
+- [Dày sừng trên mặt](https://dermnetnz.org/topics/actinic-keratosis-face-images)
+- [Dày sừng trên da đầu](https://dermnetnz.org/topics/actinic-keratosis-scalp-images)
+- [Dày sừng trên tay](https://dermnetnz.org/topics/actinic-keratosis-affecting-the-hand-images)
+- [Dày sừng trên chân](https://dermnetnz.org/topics/actinic-keratosis-leg-and-foot-images)
+- [Dày sừng được điều trị bằng imiquimod](https://dermnetnz.org/topics/actinic-keratosis-imiquimod-images)
+
+## Biến chứng của dày sừng ánh sáng
+
+Mối quan tâm chính là dày sừng ánh sáng chỉ ra nguy cơ tăng phát triển [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma). Rất hiếm khi một dày sừng ánh sáng đơn độc tiến triển thành ung thư biểu mô tế bào vảy (SCC), nhưng nguy cơ SCC xảy ra ở một giai đoạn nào đó ở bệnh nhân có hơn 10 dày sừng ánh sáng được cho là khoảng 10 đến 15%. Một dày sừng ánh sáng đau, dày, loét, hoặc mở rộng là nghi ngờ tiến triển thành SCC.
+
+[Sừng da](https://dermnetnz.org/topics/cutaneous-horn) có thể phát sinh từ một dày sừng ánh sáng hoặc SCC.
+
+Vì chúng bị tổn thương do ánh nắng, những người có dày sừng ánh sáng cũng có nguy cơ phát triển [viêm môi do ánh sáng](https://dermnetnz.org/topics/actinic-cheilitis), [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) (BCC, phổ biến hơn SCC), [u hắc tố,](https://dermnetnz.org/topics/melanoma) và các dạng ung thư da hiếm gặp như [ung thư tế bào Merkel](https://dermnetnz.org/topics/merkel-cell-carcinoma).
+
+## Dày sừng ánh sáng được chẩn đoán như thế nào?
+
+Dày sừng ánh sáng thường dễ dàng chẩn đoán lâm sàng hoặc bằng [kính soi da](https://dermnetnz.org/topics/dermoscopy) (xem [kính soi da dày sừng ánh sáng](https://dermnetnz.org/topics/actinic-keratosis-dermoscopy)). Đôi khi, cần phải [sinh thiết](https://dermnetnz.org/topics/skin-biopsy), ví dụ, để loại trừ [SCC](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma), hoặc nếu điều trị thất bại.
+
+## Điều trị dày sừng ánh sáng là gì?
+
+Dày sừng ánh sáng thường được loại bỏ vì chúng không đẹp mắt hoặc gây khó chịu, hoặc vì nguy cơ ung thư da có thể phát triển trong chúng. Điểm này là một vấn đề tranh luận đáng kể, và các nghiên cứu mạnh mẽ nhất (đánh giá Cochrane) không tìm thấy bằng chứng thuyết phục rằng điều trị AK dẫn đến ngăn ngừa ung thư biểu mô tế bào vảy xâm lấn.
+
+Điều trị dày sừng ánh sáng yêu cầu loại bỏ các tế bào da bị lỗi. Biểu bì tái tạo từ các tế bào sừng xung quanh hoặc nang lông đã thoát khỏi tổn thương do ánh nắng.
+
+Một số AK sẽ tự khỏi với việc sử dụng kem chống nắng thường xuyên và thích hợp.
+
+Dày sừng ánh sáng đau, dày, loét, hoặc mở rộng nên được điều trị tích cực. Dày sừng phẳng không có triệu chứng có thể không cần điều trị tích cực nhưng nên được theo dõi.
+
+### Điều trị vật lý
+
+Điều trị vật lý được sử dụng để phá hủy các dày sừng riêng lẻ thường có triệu chứng hoặc có bề mặt vảy cứng dày. Các tổn thương có thể tái phát theo thời gian, trong trường hợp đó chúng có thể được điều trị lại bằng phương pháp tương tự hoặc khác.
+
+#### Liệu pháp lạnh bằng nitơ lỏng
+
+Xịt [nitơ lỏng](https://dermnetnz.org/topics/cryotherapy) là cần thiết để đạt được độ sâu và thời gian đông lạnh thích hợp. Điều này thay đổi tùy theo vị trí, chiều rộng và độ dày của tổn thương. Thời gian lành bệnh thay đổi từ 5–10 ngày trên mặt, 3–4 tuần trên tay, và 6 tuần hoặc lâu hơn trên chân. Một lần đông lạnh nhẹ cho dày sừng ánh sáng bề mặt thường không để lại dấu vết, nhưng thời gian đông lạnh lâu hơn dẫn đến giảm sắc tố hoặc sẹo.
+
+#### Cạo, nạo và đốt điện
+
+Cạo, [nạo](https://dermnetnz.org/topics/curettage-and-cautery) (cạo bằng dụng cụ sắc) và [đốt điện](https://dermnetnz.org/topics/electrosurgery) (đốt cháy) có thể cần thiết để loại bỏ một [sừng da](https://dermnetnz.org/topics/cutaneous-horn) hoặc dày sừng ánh sáng phì đại. Thời gian lành vết thương mất vài tuần hoặc lâu hơn, tùy thuộc vào vị trí trên cơ thể. Mẫu vật được gửi để kiểm tra mô học.
+
+#### Cắt bỏ
+
+[Cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) đảm bảo dày sừng ánh sáng đã được loại bỏ hoàn toàn, điều này nên được xác nhận bằng mô học. Vết thương phẫu thuật được khâu lại. Các mũi khâu được tháo ra sau vài ngày, thời gian tùy thuộc vào kích thước và vị trí của tổn thương. Thủ tục để lại một vết sẹo vĩnh viễn.
+
+### Điều trị trường
+
+Kem được sử dụng để điều trị các khu vực bị tổn thương do ánh nắng và dày sừng ánh sáng phẳng, đôi khi sau khi đã thực hiện các điều trị vật lý. Điều trị trường hiệu quả nhất trên da mặt. Tiền điều trị với chất làm mềm sừng (như kem [urea](https://dermnetnz.org/topics/urea), thuốc mỡ [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) hoặc [retinoid bôi](https://dermnetnz.org/topics/topical-retinoids)), và làm sạch da kỹ lưỡng cải thiện tỷ lệ đáp ứng. Kết quả thay đổi và quá trình điều trị có thể cần lặp lại theo thời gian. Ngoại trừ gel diclofenac, tất cả các điều trị trường đều dẫn đến phản ứng viêm cục bộ như đỏ, phồng rộp và khó chịu trong một khoảng thời gian khác nhau.
+
+- [Diclofenac](https://dermnetnz.org/topics/diclofenac-gel-for-actinic-keratoses) thường được sử dụng như một loại thuốc chống viêm. Một dạng gel đặc biệt (3%) trong một cơ sở chứa natri hyaluronate) được bôi hai lần mỗi ngày trong 3 tháng, nó khá được dung nạp trong điều trị dày sừng ánh sáng, nhưng kém hiệu quả hơn so với các lựa chọn khác được liệt kê ở đây.
+- Piroxicam - tương tự như diclofenac.
+- [5-Fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream) là một tác nhân gây độc tế bào. Dạng kem được bôi một hoặc hai lần mỗi ngày trong 2 đến 8 tuần. Hiệu quả của nó có thể được tăng cường bởi thuốc mỡ [calcipotriol](https://dermnetnz.org/topics/calcipotriol). 5-fluorouracil có thể có sẵn dưới dạng sản phẩm kết hợp cùng với [axit salicylic](https://dermnetnz.org/topics/salicylic-acid).
+- Lột da bằng axit trichloroacetic hoặc dung dịch Jessner.
+- Kem [Imiquimod](https://dermnetnz.org/topics/imiquimod) là một chất điều chỉnh phản ứng miễn dịch. Nó được bôi 2 hoặc 3 lần mỗi tuần trong 4 đến 16 tuần.
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) (PDT) liên quan đến việc bôi một chất nhạy cảm ánh sáng (một hóa chất porphyrin như [axit methyl aminolevulinic](https://dermnetnz.org/topics/methyl-aminolevulinate-photodynamic-therapy)) lên khu vực bị ảnh hưởng trước khi tiếp xúc với nguồn ánh sáng nhìn thấy. Sử dụng ánh sáng ban ngày làm nguồn sáng là miễn phí, và gần như không đau. Các nguồn nhân tạo có thể dự đoán được hơn, thời gian tiếp xúc ngắn hơn nhưng có thể đau.
+- [Tirbanibulin](https://dermnetnz.org/topics/tirbanibulin-ointment) là một chất ức chế tổng hợp của polymer hóa tubulin và tín hiệu kinase protein. Điều trị bôi 5 ngày này đã nhận được giấy phép sản phẩm ở các quốc gia như Mỹ, Anh, và Đức vào năm 2021.
+- Retinoid uống đã được sử dụng ở những người nhận ghép tạng và được chứng minh là giảm nguy cơ phát triển SCC ở những người có nhiều AK.
+
+## Phòng ngừa dày sừng ánh sáng
+
+Dày sừng ánh sáng được ngăn ngừa bằng cách bảo vệ [ánh nắng nghiêm ngặt](https://dermnetnz.org/topics/sun-protection). Nếu đã có, dày sừng ánh sáng có thể cải thiện với kem chống nắng có chỉ số bảo vệ rất cao (50+) phổ rộng [bôi](https://dermnetnz.org/topics/topical-sunscreen-agents) ít nhất hàng ngày lên các khu vực bị ảnh hưởng, quanh năm.
+
+Số lượng và mức độ nghiêm trọng của dày sừng ánh sáng cũng có thể giảm bằng cách uống [nicotinamide](https://dermnetnz.org/topics/nicotinamide) (vitamin B3) 500 mg hai lần mỗi ngày.
+
+Tiêm phòng Alpha- [HPV](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus) có thể giảm số lượng AK ở những người có hệ miễn dịch bình thường với nhiều AK.
+
+## Triển vọng cho dày sừng ánh sáng là gì?
+
+Dày sừng ánh sáng có thể tái phát sau vài tháng hoặc vài năm sau khi điều trị. Cùng một phương pháp điều trị có thể được lặp lại hoặc sử dụng phương pháp khác. Bệnh nhân đã được điều trị dày sừng ánh sáng có nguy cơ phát triển dày sừng mới. Họ cũng có nguy cơ tăng các [ung thư da](https://dermnetnz.org/topics/skin-cancer) khác, đặc biệt là [ung thư biểu mô tế bào vảy trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma), ung thư biểu mô tế bào vảy xâm lấn [trên da](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma), [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) và [u hắc tố](https://dermnetnz.org/topics/melanoma).
+
+### Tài liệu tham khảo
+
+- Cunningham TJ, Tabacchi M, Eliane JP, Tuchayi SM, Manivasagam S, Mirzaalian H, Turkoz A, Kopan R, Schaffer A, Saavedra AP, Wallendorf M, Cornelius LA, Demehri S. Thử nghiệm ngẫu nhiên của calcipotriol kết hợp với 5-fluorouracil cho liệu pháp miễn dịch tiền ung thư da. J Clin Invest. 2017 Jan 3;127(1):106–16. doi: 10.1172/JCI89820. PubMed PMID: 27869649; PubMed Central PMCID: PMC5199703. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27869649)
+- de Berker D, McGregor JM, Hughes BR. Hướng dẫn quản lý dày sừng ánh sáng. Tạp chí Da liễu Anh. 2007;156(2):222-230. doi:10.1111/j.1365-2133.2006.07692.x [Tạp chí](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2133.2006.07692.x)
+- de Berker D, McGregor JM, Mohd Mustapa MF, Exton LS, Hughes BR. Hướng dẫn của Hiệp hội Da liễu Anh cho việc chăm sóc bệnh nhân bị dày sừng ánh sáng 2017. Br J Dermatol. 2017;176(1):20-43. doi:10.1111/bjd.15107 [Tạp chí](https://pubmed.ncbi.nlm.nih.gov/28098380/)
+- Del Regno L, Catapano S, Di Stefani A, Cappilli S, Peris K. Đánh giá các liệu pháp hiện có cho dày sừng ánh sáng: Tình trạng hiện tại và hướng đi trong tương lai \[sửa chữa đã xuất hiện trong Am J Clin Dermatol. 2022 Apr 22\]. Am J Clin Dermatol. 2022;23(3):339-352. doi:10.1007/s40257-022-00674-3 [Tạp chí](https://pubmed.ncbi.nlm.nih.gov/35182332/)
+- Dirschka T, Gupta G, Micali G, et al. Cách tiếp cận thực tế đối với quản lý dày sừng ánh sáng: thuật toán điều trị thực tế cho da liễu văn phòng. J Dermatolog Treat. 2017;28(5):431-442. [Tạp chí](https://www.tandfonline.com/doi/full/10.1080/09546634.2016.1254328)
+- Eisen DB, Asgari MM, Bennett DD, et al. Hướng dẫn chăm sóc quản lý dày sừng ánh sáng. J Am Acad Dermatol. 2021;85(4):e209-e233. [Tạp chí](https://www.jaad.org/article/S0190-9622(21)00502-8/fulltext)
+- Wenande E, Hastrup A, Wiegell S, et al. Tiêm phòng virus Papillomavirus ở người và gánh nặng dày sừng ánh sáng: Thử nghiệm lâm sàng ngẫu nhiên VAXAK. JAMA Dermatol. Được xuất bản trực tuyến ngày 6 tháng 3 năm 2025. doi:10.1001/jamadermatol.2025.0531 [Tạp chí](https://jamanetwork.com/journals/jamadermatology/article-abstract/2831192)
+
+### Trên DermNet
+
+- [Viêm môi do ánh sáng](https://dermnetnz.org/topics/actinic-cheilitis)
+- [Kính soi da dày sừng ánh sáng](https://dermnetnz.org/topics/actinic-keratosis-dermoscopy)
+- [Ung thư da](https://dermnetnz.org/topics/skin-cancer)
+- [Ung thư biểu mô tế bào vảy trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) (Bệnh Bowen)
+- [Ung thư biểu mô tế bào vảy trên da](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- [Bức xạ tia cực tím](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health)
+- [Bảo vệ ánh nắng](https://dermnetnz.org/topics/sun-protection)
+- [Kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents)
+
+### Các trang web khác
+
+- [Ung thư da và tiền ung thư](https://www.youtube.com/watch?v=kogMVDIr04I&t=1s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Dày sừng ánh sáng](http://emedicine.medscape.com/article/1099775-overview) — Tham khảo Medscape
+- [Tờ thông tin bệnh nhân (PILs): Dày sừng ánh sáng](https://www.bad.org.uk/pils/actinic-keratoses/) — Hiệp hội Da liễu Anh
+- [Dày sừng ánh sáng](https://www.aad.org/public/diseases/scaly-skin/actinic-keratosis) — Học viện Da liễu Hoa Kỳ
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

@@ -1,0 +1,172 @@
+##### Viêm da quanh mắt — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Viêm da quanh hốc mắt
+
+Danh mục:
+
+Phát ban
+
+ICD-11:
+
+ED90.1
+
+SNOMED CT:
+
+425267003
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Viêm da quanh mắt**
+
+Tác giả: Harini Rajgopal Bala, Nghiên cứu viên và Giáo dục; Jennifer Cahill, Bác sĩ Da liễu; Rosemary L Nixon, Bác sĩ Da liễu, Bác sĩ Nghề nghiệp và Giám đốc; Trung tâm Nghiên cứu và Giáo dục Da liễu Nghề nghiệp (ODREC), Quỹ Da và Ung thư Inc. Melbourne, Úc. Tháng 11 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/periocular-dermatitis#Introduction%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/periocular-dermatitis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/periocular-dermatitis#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/periocular-dermatitis#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/periocular-dermatitis#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/periocular-dermatitis#Outcome)
+
+## Viêm da quanh mắt là gì?
+
+Viêm da quanh mắt là một dạng viêm da quanh lỗ tự nhiên. Nó được đặc trưng bởi các sẩn đỏ nhỏ có vảy và mụn mủ nằm quanh mắt \[1\].
+
+[Viêm da quanh lỗ tự nhiên](https://dermnetnz.org/topics/periorificial-dermatitis) bao gồm viêm da quanh miệng hoặc viêm da quanh mắt riêng lẻ, hoặc kết hợp.
+
+- Viêm da quanh miệng mô tả sự bùng phát quanh miệng và mũi.
+- Viêm da quanh mắt chỉ giới hạn ở da quanh mắt \[2\].
+
+### Ai bị viêm da quanh mắt?
+
+- Viêm da quanh mắt không phải là hiếm. Nó thường xuất hiện ở phụ nữ trong độ tuổi từ 16 đến 45 \[2,3\].
+- Nó cũng có thể ảnh hưởng đến trẻ em \[4\].
+- Nó thường xảy ra ở những người sử dụng [corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid).
+
+## Nguyên nhân gây viêm da quanh mắt là gì?
+
+Nguyên nhân gây viêm da quanh mắt chưa được hiểu rõ. Người ta cho rằng nó do sự kết hợp của các yếu tố môi trường và di truyền \[3\].
+
+Viêm da quanh mắt có thể liên quan đến \[3,5\]:
+
+- Hàng rào da bị suy yếu – có sự liên quan giữa [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) và viêm da quanh mắt
+- Rối loạn vi khuẩn [vi sinh](https://dermnetnz.org/topics/microorganisms-found-on-the-skin)
+- Thay đổi đơn vị nang lông.
+
+### Tác nhân kích thích viêm da quanh mắt
+
+#### Thuốc \[4,5\]
+
+- [Corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid), đặc biệt là những loại có độ mạnh cao hoặc có chứa fluor
+- Corticosteroid hít và [toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+
+#### [Mỹ phẩm](https://dermnetnz.org/topics/contact-reactions-to-cosmetics)
+
+- Trang điểm
+- [Kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents)
+- [Kem dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers)\[4\]
+
+#### Chế phẩm nha khoa \[3\]
+
+- [Kem đánh răng](https://dermnetnz.org/topics/contact-reactions-to-toothpaste-and-other-oral-hygiene-products) có chứa fluoride
+- Trám răng amalgam
+
+#### Vi sinh vật \[4,5\]
+
+- _[Candida](https://dermnetnz.org/topics/candida) albicans_
+- _[Demodex](https://dermnetnz.org/topics/demodex) folliculorum_
+- Vi khuẩn Fusiform
+
+#### Tác nhân khác \[4,5\]
+
+- Bổ sung hormone, bao gồm [thuốc tránh thai](https://dermnetnz.org/topics/oral-contraceptive)
+- Yếu tố môi trường, như ánh sáng cực tím, nhiệt, lạnh và gió
+- Căng thẳng cảm xúc
+
+## Đặc điểm lâm sàng của viêm da quanh mắt là gì?
+
+Đặc điểm lâm sàng của viêm da quanh mắt bao gồm:
+
+- Ảnh hưởng đến các khu vực xung quanh mắt, bao gồm mí mắt trên và dưới \[1,3,5\]
+- Các sẩn đỏ nhỏ và, ít phổ biến hơn, sẩn mủ và/hoặc sẩn mụn nước
+- Bong vảy \[3\]
+- Ngứa \[3\] hoặc cảm giác nóng rát \[5\]
+- Da nền khô đỏ \[1,4\].
+
+![Viêm da quanh mắt](https://dermnetnz.org/assets/Uploads/acne/periocular-dermatitis.jpg)
+
+Viêm da quanh mắt
+
+![Viêm da quanh mắt](https://dermnetnz.org/assets/Uploads/acne/pod4.jpg)
+
+Viêm da quanh mắt
+
+![Viêm da quanh mắt](https://dermnetnz.org/assets/Uploads/acne/pod3.jpg)
+
+Viêm da quanh mắt
+
+## Viêm da quanh mắt được chẩn đoán như thế nào?
+
+Biểu hiện lâm sàng của viêm da quanh mắt thường điển hình, do đó nó thường được chẩn đoán qua khám lâm sàng \[4\].
+
+Trong trường hợp không chắc chắn mà cần [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy), mô học cho thấy viêm không đặc hiệu, với sự xâm nhập lymphohistiocytic quanh nang lông hoặc quanh mạch máu \[3,4\].
+
+## Điều trị viêm da quanh mắt là gì?
+
+### Biện pháp chung
+
+- Ngừng bôi tất cả các loại kem lên vùng da, bao gồm [corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid), [kem dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers), [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents), và trang điểm \[5\].
+- Nếu bệnh nhân đang sử dụng corticosteroid bôi ngoài da, có nguy cơ bùng phát nghiêm trọng sau khi ngừng. Cân nhắc giảm dần corticosteroid bôi ngoài da bằng cách giảm độ mạnh hoặc giảm tần suất bôi \[3,4\].
+
+### Liệu pháp bôi ngoài da
+
+Liệu pháp bôi ngoài da có thể hiệu quả cho bệnh nhẹ \[3\]. Các lựa chọn bao gồm \[6\]:
+
+- [Metronidazole](https://dermnetnz.org/topics/metronidazole)
+- [Erythromycin](https://dermnetnz.org/topics/erythromycin)
+- [Clindamycin](https://dermnetnz.org/topics/clindamycin)
+- [Axit azelaic](https://dermnetnz.org/topics/azelaic-acid)
+- [Pimecrolimus](https://dermnetnz.org/topics/pimecrolimus)
+- [Tacrolimus](https://dermnetnz.org/topics/tacrolimus).
+
+### Liệu pháp uống \[4,6\]
+
+Liệu pháp uống có thể được sử dụng đơn lẻ hoặc kết hợp với điều trị bôi ngoài da cho bệnh trung bình và nặng. Điều trị có thể cần kéo dài đến 3 tháng.
+
+- Kháng sinh tetracycline như doxycycline hoặc minocycline là lựa chọn điều trị chính.
+- Macrolides, bao gồm [erythromycin](https://dermnetnz.org/topics/erythromycin), được sử dụng cho trẻ em dưới 11 tuổi.
+- [Isotretinoin](https://dermnetnz.org/topics/isotretinoin) thường được dành cho viêm da quanh mắt kháng điều trị.
+
+## Kết quả của viêm da quanh mắt là gì?
+
+Viêm da quanh mắt thường khỏi với quản lý thích hợp, mặc dù có thể mất vài tuần hoặc thậm chí vài tháng để khỏi hoàn toàn.
+
+Nó có thể được ngăn ngừa bằng cách tránh bôi corticosteroid bôi ngoài da mạnh và kem mặt dày quanh mắt.
+
+### Tài liệu tham khảo
+
+1. Rapini RP, Bolognia JL, Jorizzo JL. Da liễu. Bộ 2 tập. St. Louis: Mosby, 2007: 87.
+2. Feser A, Mahler V. Viêm da quanh hốc mắt: nguyên nhân, chẩn đoán phân biệt và liệu pháp. J Dtsch Dermatol Ges 2010; 8: 159–66. DOI: 10.1111/j.1610-0387.2009.07216.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19751221/)
+3. Tempark T, Shwayder TA. Viêm da quanh miệng: đánh giá tình trạng với sự chú ý đặc biệt đến các lựa chọn điều trị. Am J Clin Dermatol 2014; 15: 101–13. DOI: 10.1007/s40257-014-0067-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24623018/)
+4. Lipozenčić J, Ljubojević Hadžavdić S. Viêm da quanh miệng. Clin Dermatol 2014; 32: 125–30. DOI: 10.1016/j.clindermatol.2013.05.034. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21396555/)
+5. Lee GL, Zirwas MJ. Rosacea hạt và viêm da quanh lỗ tự nhiên: tranh cãi và đánh giá quản lý và điều trị. Dermatol Clin 2015; 33: 447–55. DOI: 10.1016/j.det.2015.03.009. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26143424/)
+6. Oakley A, Ngan V. Viêm da quanh lỗ tự nhiên. DermNet New Zealand. Cập nhật tháng 1 năm 2016. Có sẵn tại: [www.dermnetnz.org/topics/periorificial-dermatitis](https://dermnetnz.org/topics/periorificial-dermatitis) (truy cập tháng 7 năm 2016).
+
+### Trên DermNet
+
+- [Dị ứng mỹ phẩm](https://dermnetnz.org/topics/contact-reactions-to-cosmetics)
+- [Phát ban trên mặt](https://dermnetnz.org/topics/facial-rashes)
+- [Viêm da quanh lỗ tự nhiên](https://dermnetnz.org/topics/periorificial-dermatitis)
+- [Rosacea](https://dermnetnz.org/topics/rosacea)
+- [Trường hợp viêm da quanh mắt 1](https://dermnetnz.org/cases/red-spots-around-eyes-with-rhinitis-history)
+
+### Các trang web khác
+
+- [Mụn trứng cá, Rosacea, và Viêm da quanh miệng](https://www.youtube.com/watch?v=BGmJJzZekzU&t=289s) — Bài giảng điện tử DermNet \[Youtube\]
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

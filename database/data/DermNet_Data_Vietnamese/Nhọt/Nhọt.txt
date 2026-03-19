@@ -1,0 +1,134 @@
+##### Nhọt — thông tin thêm
+
+Từ đồng nghĩa:
+
+Nhọt, Áp xe
+
+Danh mục:
+
+Nhiễm trùng, Rối loạn nang lông
+
+ICD-10:
+
+L02.9, L02
+
+ICD-11:
+
+1B75.0, 1B75.4
+
+SNOMED CT:
+
+416675009, 416893007, 399008001, 3092008
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections) [Rối loạn nang lông](https://dermnetnz.org/topics?category=Follicular%20disorder)**
+
+# **Nhọt**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand. Cập nhật bởi Bác sĩ Amanda Oakley; Vanessa Ngan, Nhà văn; Tháng 6 năm 2014. Cập nhật mới nhất bởi Bác sĩ Jannet Gomez, Sinh viên Sau đại học về Da liễu Lâm sàng, Đại học Queen Mary, London, Vương quốc Anh, Tháng 1 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/boil#Introduction) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/boil#Clinical%20features) [Sự xuất hiện](https://dermnetnz.org/topics/boil#Occurrence) [Điều trị](https://dermnetnz.org/topics/boil#Treatment)
+
+## Nhọt là gì?
+
+Nhọt (còn gọi là nhọt) là một dạng sâu của [viêm nang lông do vi khuẩn](https://dermnetnz.org/topics/bacterial-folliculitis) (nhiễm trùng nang lông).
+
+## Đặc điểm lâm sàng của nhọt là gì?
+
+Nhọt xuất hiện dưới dạng một hoặc nhiều đốm đỏ đau, cục hoặc mụn mủ. Kiểm tra kỹ lưỡng cho thấy nhọt tập trung vào một nang lông. Nhọt là một dạng sâu của [viêm nang lông](https://dermnetnz.org/topics/folliculitis) do vi khuẩn; viêm nang lông nông đôi khi cũng xuất hiện cùng lúc. _[Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection)_ có thể được nuôi cấy từ các tổn thương trên da.
+
+Nếu có nhiều đầu, tổn thương được gọi là áp xe. Nhọt lớn hình thành [áp xe](https://dermnetnz.org/topics/cutaneous-abscess), được định nghĩa là sự tích tụ mủ trong một khoang. [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) cũng có thể xảy ra, tức là nhiễm trùng các mô xung quanh, và điều này có thể gây sốt và bệnh tật.
+
+![](https://dermnetnz.org/assets/Uploads/bacterial/boil1.jpg)
+
+![Nhọt](https://dermnetnz.org/assets/Uploads/bacterial/boil2.jpg)
+
+Nhọt
+
+![Nhọt ở nách](https://dermnetnz.org/assets/Uploads/bacterial/boil5.jpg)
+
+Nhọt ở nách
+
+![Viêm mô tế bào xung quanh](https://dermnetnz.org/assets/Uploads/bacterial/s/boil6.jpg)
+
+Viêm mô tế bào xung quanh
+
+![Áp xe](https://dermnetnz.org/assets/Uploads/bacterial/carbuncle01.jpg)
+
+Áp xe
+
+![](https://dermnetnz.org/assets/Uploads/carbuncle-02.jpg)
+
+## Tại sao nhọt xảy ra?
+
+Hầu hết những người bị nhọt đều khỏe mạnh và có vệ sinh cá nhân tốt. Tuy nhiên, họ mang _Staphylococcus aureus_ trên bề mặt da của họ (trạng thái mang tụ cầu khuẩn). Tại sao điều này xảy ra thường không được biết, nhưng ước tính rằng 10–20% dân số là người mang tụ cầu khuẩn.
+
+_Staphylococcus aureus_ thường được mang trong lỗ mũi, nách, giữa hai chân và trong khe giữa mông. Nó có thể được chuyển đến các vị trí khác từ lỗ mũi qua móng tay.
+
+Những vết xước nhỏ hoặc thứ gì đó cọ xát vào da có thể đưa vi khuẩn vào thành của một nang lông, là một điểm yếu trong hệ thống phòng thủ của da. Một khi đã được đưa vào, vi khuẩn gây ra nhọt và tiếp tục theo quá trình thông thường của nó trong khoảng 10 ngày.
+
+Mặc dù hầu hết những người bị nhọt đều khỏe mạnh, nhọt đôi khi liên quan đến suy giảm miễn dịch, thiếu máu, tiểu đường, hút thuốc hoặc [thiếu sắt](https://dermnetnz.org/topics/iron-deficiency).
+
+## Điều trị nhọt là gì?
+
+### Điều trị y tế cho nhọt
+
+Điều trị nhọt phụ thuộc vào mức độ nghiêm trọng của chúng. Bác sĩ của bạn có thể đưa ra lời khuyên cụ thể và điều trị y tế, một số được liệt kê dưới đây:
+
+- [Chất khử trùng](https://dermnetnz.org/topics/antiseptic) hoặc [xà phòng kháng khuẩn](https://dermnetnz.org/topics/antibacterial-soap) trong bồn tắm hoặc vòi hoa sen hàng ngày của bạn trong một tuần sau đó hai lần mỗi tuần trong vài tuần. Chất tẩy rửa có thể gây khô da một chút.
+- Sử dụng chất khử trùng tay thường xuyên để giảm khả năng tái nhiễm cho bản thân hoặc người khác bằng tay bị nhiễm bẩn.
+- Thuốc mỡ hoặc gel kháng khuẩn hoặc kháng sinh để bôi vào bên trong lỗ mũi.
+- Lau toàn bộ bề mặt da hàng ngày trong một tuần với 70% cồn isopropyl trong nước (điều này sẽ làm khô da).
+- Bôi chất khử trùng tại chỗ như povidone [iodine](https://dermnetnz.org/topics/iodine) hoặc kem chlorhexidine lên nhọt và che phủ bằng một miếng gạc.
+- Bác sĩ của bạn có thể kê đơn kháng sinh uống (thường là kháng sinh [penicillin](https://dermnetnz.org/topics/penicillin) flucloxacillin), đôi khi trong vài tuần.
+- Các thành viên khác trong gia đình có nhọt cũng nên tuân theo chế độ làm sạch da. Bác sĩ của bạn cũng có thể khuyên gia đình bôi kháng sinh tại chỗ vào lỗ mũi của họ trong trường hợp họ cũng là người mang _Staphylococcus aureus_.
+- Nếu nhọt không khỏi, nên lấy mẫu để nuôi cấy vi sinh, trong trường hợp có [tụ cầu kháng methicillin (meticillin)](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus).
+- Đôi khi, các kháng sinh đặc biệt có thể được kê đơn theo khuyến nghị của chuyên gia, bao gồm [fusidic acid](https://dermnetnz.org/topics/topical-fusidic-acid), [clindamycin](https://dermnetnz.org/topics/clindamycin), [rifampicin](https://dermnetnz.org/topics/rifampicin) và cephalosporins.
+
+### Biện pháp chung để ngăn ngừa nhọt
+
+- Tham khảo ý kiến bác sĩ về sức khỏe tổng quát của bạn.
+- Nếu bạn thừa cân, hãy cố gắng giảm cân; tập thể dục thường xuyên.
+- Tuân theo chế độ ăn uống lành mạnh cân bằng với thịt, nhiều trái cây và rau.
+- Tránh hút thuốc.
+- Rửa toàn bộ cơ thể của bạn một lần mỗi ngày với [xà phòng hoặc chất tẩy rửa](https://dermnetnz.org/topics/soaps-and-cleansers) và nước. Rửa tay nhiều lần trong ngày hoặc sử dụng [chất khử trùng tay](https://dermnetnz.org/topics/hand-rub).
+- Không chia sẻ khăn mặt hoặc khăn tắm của bạn với các thành viên khác trong gia đình.
+- Giữ khăn tay sạch và không ngoáy mũi!
+- Thay quần áo lót và đồ ngủ thường xuyên.
+- Cân nhắc thay đổi các hoạt động giải trí gây đổ mồ hôi và ma sát từ quần áo, chẳng hạn như chơi squash và chạy bộ.
+- Nếu bạn bị [thiếu sắt](https://dermnetnz.org/topics/iron-deficiency), một liệu trình viên sắt có thể giúp giảm nhiễm trùng.
+- 1000 mg vitamin C mỗi ngày cũng đã được khuyến nghị để cải thiện chức năng bạch cầu trung tính bị thiếu hụt.
+
+### Tài liệu tham khảo
+
+- Shallcross LJ, Hayward AC, Johnson AM, Petersen I. Tỷ lệ mắc và tái phát của nhọt và áp xe trong năm đầu tiên: một nghiên cứu đoàn hệ trong chăm sóc ban đầu tại Vương quốc Anh. Br J Gen Pract. Tháng 10 năm 2015;65(639):e668–76. doi: 10.3399/bjgp15X686929. PubMed PMID: 26412844; [PubMed Central](http://www.ncbi.nlm.nih.gov/pubmed/26412844) PMCID: PMC4582880.
+
+### Trên DermNet
+
+- [Viêm nang lông do vi khuẩn](https://dermnetnz.org/topics/bacterial-folliculitis)
+- [Nhiễm trùng tụ cầu khuẩn](https://dermnetnz.org/topics/staphylococcal-skin-infection)
+- [Chốc lở](https://dermnetnz.org/topics/impetigo) — emedicinehealth
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis)
+- [Áp xe](https://dermnetnz.org/topics/cutaneous-abscess)
+- [Nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections)
+- [Khóa học trực tuyến về nhiễm trùng do vi khuẩn cho các chuyên gia y tế](https://dermnetnz.org/cme/bacterial-infections)
+
+### Các trang web khác
+
+- [Nhọt](http://www.kidshealth.org.nz/boils) — Kidshealth.org.nz
+- [Nhọt](http://www.webmd.com/skin-problems-and-treatments/guide/boils?page=2) — WebMD
+- [Nhọt](http://www.emedicinehealth.com/boils/article_em.htm) — emedicinehealth
+- [Viêm nang lông](http://emedicine.medscape.com/article/1070456-overview) — Medscape Reference
+- [Nhọt](https://www.bad.org.uk/pils/boils/) — Hiệp hội Da liễu Anh
+- [Thông tin bệnh nhân: Nhọt (Cơ bản)](http://www.uptodate.com/contents/boil-the-basics) — UpToDate (dành cho người đăng ký)
+- [Quản lý Nhiễm trùng do Vi khuẩn của Nang lông](http://www.ifd.org/protocols/bacterial-infections-of-the-hair-follicles) — Quỹ Da liễu Quốc tế
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

@@ -1,0 +1,174 @@
+##### Thử nghiệm miếng dán — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Thử nghiệm dị ứng tiếp xúc, Thử nghiệm miếng dán, Thử nghiệm miếng dán kín
+
+Danh mục:
+
+Phản ứng, Chẩn đoán và thử nghiệm
+
+SNOMED CT:
+
+41778007, 411127004, 252525002
+
+**[Phản ứng](https://dermnetnz.org/topics?category=Reactions) [Chẩn đoán và thử nghiệm](https://dermnetnz.org/topics?category=Diagnosis%20and%20testing)**
+
+# **Thử nghiệm miếng dán**
+
+Tác giả: Bác sĩ Ian Coulson, Chuyên gia Da liễu, East Lancashire NHS Trust, Vương quốc Anh. Biên tập bởi Gus Mitchell. Cập nhật tháng 12 năm 2021
+
+[Giới thiệu](https://dermnetnz.org/topics/patch-tests#Introduction%3Cbr%20/%3E) [Cách hoạt động](https://dermnetnz.org/topics/patch-tests#How%20it%20works%3Cbr%20/%3E) [Lựa chọn chất gây dị ứng](https://dermnetnz.org/topics/patch-tests#Allergen%20selection%3Cbr%20/%3E) [Diễn giải](https://dermnetnz.org/topics/patch-tests#Interpretation%3Cbr%20/%3E) [Thử nghiệm quang miếng dán](https://dermnetnz.org/topics/patch-tests#Photopatch%20tests%3Cbr%20/%3E) [Phản ứng bất lợi](https://dermnetnz.org/topics/patch-tests#Adverse%20reactions)
+
+## Thử nghiệm miếng dán là gì?
+
+Thử nghiệm miếng dán được thực hiện để điều tra và xác nhận các chất gây [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis). Nó bao gồm việc áp dụng các [chất gây dị ứng pha loãng](https://dermnetnz.org/topics/baseline-series-of-patch-test-allergens) lên da, thường là trên lưng để thuận tiện, trong 48 giờ. Các thử nghiệm miếng dán sau đó được đọc sau 96 giờ vì phản ứng thường mất 48–96 giờ để phát triển. Phản ứng dương tính tạo ra một mảng viêm da tại vị trí áp dụng chất gây dị ứng, sẽ xuất hiện dưới dạng một vùng đỏ và có thể nổi, có mụn nước và thậm chí phồng rộp.
+
+![Chuỗi thử nghiệm miếng dán trước khi áp dụng thử nghiệm miếng dán](https://dermnetnz.org/assets/Uploads/dermatitis/standard1.jpg)
+
+Chuỗi thử nghiệm miếng dán trước khi áp dụng thử nghiệm miếng dán
+
+![Dải thử nghiệm miếng dán tại chỗ sau khi áp dụng](https://dermnetnz.org/assets/Uploads/procedures/ptest1.jpg)
+
+Dải thử nghiệm miếng dán tại chỗ sau khi áp dụng
+
+![Loại bỏ thử nghiệm miếng dán sau 48 giờ với phản ứng dương tính với chất tăng tốc cao su](https://dermnetnz.org/assets/Uploads/dermatitis/pt-rubber.jpg)
+
+Loại bỏ thử nghiệm miếng dán sau 48 giờ với phản ứng dương tính với chất tăng tốc cao su
+
+[Viêm da](https://dermnetnz.org/topics/dermatitis) có thể được coi là ngoại sinh (ví dụ, chất kích thích, chất gây dị ứng, và đôi khi ánh sáng) hoặc nội sinh. Trong thực tế, viêm da có thể do nguyên nhân hỗn hợp. Thử nghiệm miếng dán chủ yếu có giá trị trong việc xác định nguyên nhân của viêm da tiếp xúc dị ứng, và không hữu ích trong việc điều tra viêm da kích thích. Thử nghiệm miếng dán có một số giá trị hạn chế trong việc điều tra một số loại dị ứng thuốc, và một loại thử nghiệm miếng dán chuyên biệt được sử dụng để điều tra dị ứng tiếp xúc ánh sáng ([thử nghiệm quang miếng dán](https://dermnetnz.org/topics/phototesting)).
+
+Thử nghiệm [áp dụng mở lặp lại](https://dermnetnz.org/topics/open-application-test) đôi khi có thể giúp xác định một sản phẩm nghi ngờ (thường là sản phẩm chăm sóc cá nhân) nếu có sự chậm trễ trong thử nghiệm miếng dán chính thức — sản phẩm được áp dụng hai lần một ngày lên một vùng da cánh tay có đường kính 5 cm trong 5–10 ngày. Không có đỏ hoặc sưng có nghĩa là dị ứng tiếp xúc với sản phẩm đó không có khả năng xảy ra. Một số sản phẩm kích thích mạnh không thể an toàn để thử nghiệm miếng dán mở hoặc kín lặp lại, vì chúng có thể cần pha loãng thích hợp.
+
+Thử nghiệm miếng dán không giống như [thử nghiệm chích da](https://dermnetnz.org/topics/skin-prick-testing), được sử dụng để chẩn đoán dị ứng sốt cỏ khô.
+
+## Thử nghiệm miếng dán được thực hiện như thế nào?
+
+Một loạt các chất gây dị ứng được áp dụng, thường là trên lưng, trên các băng đặc biệt được trang bị các đĩa nhôm nhỏ (buồng Finn) giữ các chất gây dị ứng riêng lẻ (từ 10 đến 12). Có thể áp dụng từ 30 đến hơn một trăm chất gây dị ứng cùng một lúc. Lý tưởng nhất là các thử nghiệm miếng dán được áp dụng khi viêm da không hoạt động, nhưng nếu da lưng bị viêm, da cánh tay hoặc bụng có thể được sử dụng để áp dụng. Sau khi đánh dấu cẩn thận vị trí của các bảng thử nghiệm miếng dán, chúng được loại bỏ sau 48 giờ, và da được kiểm tra 48 giờ sau đó.
+
+Trong quá trình thử nghiệm miếng dán, tốt nhất là:
+
+- Dùng ít hơn 10 mg prednisolone uống mỗi ngày
+- Không dùng thuốc ức chế miễn dịch sẽ giảm phản ứng
+- Tránh sử dụng steroid bôi mạnh lên vị trí áp dụng trong ba ngày trước khi bắt đầu thử nghiệm miếng dán
+- Tránh tắm hoặc tắm vòi sen vùng thử nghiệm sẽ rửa trôi các bảng hoặc dấu nhận dạng
+- Tránh tập thể dục quá mức có thể làm lệch băng chất gây dị ứng.
+
+Thuốc kháng histamine có thể được dùng như bình thường vì chúng không can thiệp vào phản ứng quá mẫn loại IV.
+
+## Các chất gây dị ứng được chọn như thế nào?
+
+Có hàng ngàn chất gây dị ứng tiếp xúc tiềm năng, nhưng một số phổ biến hơn nhiều so với những chất khác. Ít nhất một [chuỗi cơ bản của các chất gây dị ứng](https://dermnetnz.org/topics/baseline-series-of-patch-test-allergens) thường sẽ được áp dụng. Thành phần của chuỗi thay đổi theo thời gian và từ quốc gia này sang quốc gia khác, vì các chất gây dị ứng khác nhau có thể trở nên quan trọng hơn hoặc ít quan trọng hơn. Chuỗi cơ bản sẽ phát hiện khoảng 70% viêm da tiếp xúc.
+
+Các chuỗi bổ sung của các chất gây dị ứng có thể được áp dụng, tùy theo:
+
+- Nghề nghiệp ví dụ, thợ làm tóc, thợ làm bánh, nha sĩ
+- Vị trí viêm da ví dụ, mặt, chân dưới, âm hộ, quanh hậu môn, chân
+- Tiếp xúc với chất gây dị ứng nghi ngờ ví dụ, acrylates, nhựa epoxy, nhựa và keo, thuốc nhuộm và nhựa dệt, thuốc, steroid bôi
+- Sản phẩm của bệnh nhân ví dụ, mỹ phẩm, kem dưỡng ẩm, sơn móng tay, thuốc bôi, găng tay; những thứ này có thể cần được pha loãng đến độ mạnh thử nghiệm miếng dán thích hợp.
+
+Tại cuộc tư vấn trước thử nghiệm miếng dán, chuỗi các chất gây dị ứng cần thiết được chọn. Điều này quan trọng để không bỏ lỡ các chất gây dị ứng tiềm năng, và bất kỳ sự pha loãng sản phẩm nào được sắp xếp.
+
+Rất hữu ích khi mang theo các tờ dữ liệu an toàn sức khỏe và bao bì sản phẩm (có thể liệt kê các thành phần chất gây dị ứng cá nhân). Nếu có một sản phẩm nghi ngờ có thể là nguyên nhân gây viêm da, điều quan trọng là mang theo sản phẩm này đến cuộc hẹn với bác sĩ. Thử nghiệm miếng dán có thể cần thiết và bao bì của nó sẽ chứa thông tin quý giá về các thành phần của nó.
+
+## Thử nghiệm miếng dán được diễn giải như thế nào?
+
+Phản ứng được phân loại cho mỗi chất gây dị ứng trên một phổ như:
+
+- Âm tính
+- Kích thích
+- \+/- nghi ngờ
+  - dương tính yếu
+- \+\+ phản ứng vừa
+- \+\+\+ phản ứng mạnh.
+
+Một số chất gây dị ứng có màu và sẽ tạm thời nhuộm da (PPD là đen, xanh phân tán là xanh, nhựa dệt có nhiều màu sắc khác nhau. Màu có thể được loại bỏ bằng một miếng bông tẩm cồn và không nên nhầm lẫn với phản ứng dương tính thực sự.
+
+![Phản ứng thử nghiệm miếng dán +](https://dermnetnz.org/assets/Uploads/procedures/patch-eq.jpg)
+
+\+ phản ứng thử nghiệm miếng dán
+
+![Phản ứng thử nghiệm miếng dán ++ với neomycin](https://dermnetnz.org/assets/Uploads/dermatitis/patch-tests/3334.jpg)
+
+Phản ứng thử nghiệm miếng dán ++ với neomycin
+
+![+++ phản ứng với hỗn hợp compositae](https://dermnetnz.org/assets/Uploads/dermatitis/compositae-patch1.jpg)
+
+\+\+\+ phản ứng với hỗn hợp compositae
+
+Phản ứng kích thích có thể xảy ra ở những người bị chàm atopic, đặc biệt là với kim loại ([nickel](https://dermnetnz.org/topics/nickel-allergy), [chromate](https://dermnetnz.org/topics/chrome-allergy) và [cobalt](https://dermnetnz.org/topics/allergy-to-cobalt)), nước hoa và một số [chất tăng tốc cao su](https://dermnetnz.org/topics/allergy-to-rubber-accelerators), và không có liên quan.
+
+Kết quả âm tính có thể có nghĩa là viêm da là do nguyên nhân nội sinh hoặc kích thích, hoặc có thể chất gây dị ứng đã bị bỏ lỡ (không được xem xét hoặc thử nghiệm, hoặc thậm chí có thể là một chất gây dị ứng mới).
+
+Phản ứng dương tính, nếu có thể, sau đó được diễn giải là:
+
+- Liên quan hiện tại — phản ứng có thể giải thích viêm da hiện đang được điều tra
+- Liên quan quá khứ — lịch sử tiết lộ một viêm da dị ứng trong quá khứ nhưng không giải thích được tập hiện tại
+- Liên quan tương lai — chất gây dị ứng có khả năng gặp phải trong tương lai
+- Liên quan không chắc chắn — điều này có thể thay đổi khi bệnh nhân tìm thấy chất gây dị ứng đã xác định sau khi kiểm tra kỹ lưỡng các sản phẩm chăm sóc cá nhân hoặc nghề nghiệp của họ
+- Phản ứng chéo tiềm năng — ví dụ, phản ứng dương tính với chất gây dị ứng nhuộm tóc PPD có thể dẫn đến một số người phản ứng với [parabens](https://dermnetnz.org/topics/allergy-to-parabens) (trong mỹ phẩm và [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents)) hoặc thuốc nhuộm dệt.
+
+Các tờ thông tin chi tiết có thể được cung cấp cho nhiều chất gây dị ứng sẽ hướng dẫn bệnh nhân nơi họ có thể tìm thấy, và do đó tránh, chất gây dị ứng đã xác định. Rất hữu ích để ghi chú các chất gây dị ứng đã xác định để kiểm tra sản phẩm khi mua sắm. Hầu hết các quốc gia yêu cầu các thành phần chất gây dị ứng xuất hiện trong hoặc trên bao bì của một số loại sản phẩm, đặc biệt là các mặt hàng chăm sóc cá nhân. Chữ in có thể rất nhỏ, và các trang web của nhà sản xuất mỹ phẩm thường liệt kê các thành phần, cập nhật và dễ đọc hơn.
+
+## Thử nghiệm quang miếng dán
+
+Một số người sẽ chịu được một sản phẩm áp dụng lên da được che phủ, nhưng sẽ phản ứng với sản phẩm khi tiếp xúc với ánh sáng ([viêm da tiếp xúc ánh sáng](https://dermnetnz.org/topics/photocontact-dermatitis)). Điều này có thể được điều tra bằng thử nghiệm quang miếng dán; điều này có thể liên quan đến một số [nước hoa](https://dermnetnz.org/topics/fragrance-mix-allergy), chất khử trùng, [chất gây dị ứng thực vật](https://dermnetnz.org/topics/phytophotodermatitis), và phản ứng [kem chống nắng](https://dermnetnz.org/topics/sunscreen-allergy).
+
+Hai bảng quang miếng dán giống hệt nhau được áp dụng lên lưng, và sau 48 giờ chỉ một trong các bảng được tiếp xúc với ánh sáng cực tím. Các miếng dán được đọc sau 96 giờ. Viêm da tiếp xúc ánh sáng được chẩn đoán khi chỉ có chất gây dị ứng tiếp xúc tạo ra phản ứng dương tính.
+
+## Phản ứng bất lợi với thử nghiệm miếng dán
+
+Phản ứng dương tính tạo ra các mảng ngứa nhỏ của chàm. Cuối thử nghiệm, điều này có thể được điều trị bằng một [steroid bôi](https://dermnetnz.org/topics/topical-steroid).
+
+Các phản ứng bất lợi khác bao gồm:
+
+- Phản ứng cục bộ nghiêm trọng với phồng rộp cục bộ — nổi tiếng nhất với chất gây dị ứng nhuộm tóc PPD; nếu điều này được nghi ngờ, một thử nghiệm miếng dán ban đầu với nồng độ thấp của PPD có thể được sử dụng
+- [Sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- Bùng phát chàm ban đầu tại các vị trí xa phản ứng thử nghiệm miếng dán
+- Phản ứng băng — băng không gây dị ứng được sử dụng nhưng hiếm khi người ta sẽ phản ứng với điều này
+- Mẫn cảm — hiếm khi việc áp dụng chất gây dị ứng có thể dẫn đến mẫn cảm trong quá trình thử nghiệm miếng dán; điều này có thể tạo ra phản ứng dương tính trong khoảng 10 đến 14 ngày sau khi các thử nghiệm miếng dán được áp dụng
+- Phản ứng "lưng giận dữ" — nếu viêm da rất hoạt động vào thời điểm thử nghiệm miếng dán, nhiều thử nghiệm miếng dán dương tính có thể phát sinh; những điều này khó diễn giải và thử nghiệm miếng dán lại thường được yêu cầu khi chàm yên tĩnh hơn.
+
+![Nhuộm da đen do chất gây dị ứng nhuộm tóc PPD](https://dermnetnz.org/assets/Uploads/dermatitis/pt-ppd-neg.jpg)
+
+Nhuộm da đen do chất gây dị ứng nhuộm tóc PPD
+
+![](https://dermnetnz.org/assets/Uploads/procedures/ptest3.jpg)
+
+"Lưng giận dữ" – nhiều phản ứng dương tính do chàm quá hoạt động
+
+### Thư mục
+
+- Johnston GA, Exton LS, Mohd Mustapa MF, et al. Hướng dẫn của Hiệp hội Da liễu Anh về quản lý viêm da tiếp xúc 2017. Br J Dermatol. 2017;176(2):317–29. doi:10.1111/bjd.15239. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/bjd.15239)
+- Seine AJ, Baird EA, Chan L, et al. Một chuỗi thử nghiệm miếng dán cơ bản cho New Zealand. Australas J Dermatol. 2021;62(4):489–95. doi:10.1111/ajd.13673. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/ajd.13673)
+
+### Trên DermNet
+
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- [Giải thích dị ứng](https://dermnetnz.org/topics/allergies-explained)
+- [Thử nghiệm miếng dán atopy](https://dermnetnz.org/topics/atopy-patch-test)
+- [Chất gây dị ứng tiếp xúc](https://dermnetnz.org/topics/contact-allergens)
+- [Viêm da](https://dermnetnz.org/topics/dermatitis)
+- [Dị ứng thực phẩm](https://dermnetnz.org/topics/food-allergy)
+- [Viêm da tay](https://dermnetnz.org/topics/hand-dermatitis)
+- [Hình ảnh thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-test-images)
+- [Pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema)
+- [Chuỗi cơ bản của các chất gây dị ứng thử nghiệm miếng dán](https://dermnetnz.org/topics/baseline-series-of-patch-test-allergens)
+
+### Các trang web khác
+
+- [Chemotechnique Diagnostics](http://www.chemotechnique.se/) — Nhà cung cấp chất gây dị ứng tiếp xúc; trang web bao gồm thông tin bệnh nhân về 400 vật liệu
+- [AllergEAZE](http://allergeaze.com/) hệ thống thử nghiệm miếng dán
+- [Allergy New Zealand](http://www.allergy.org.nz/)
+- [Thử nghiệm miếng dán](https://www.bad.org.uk/pils/patch-testing/) — Hiệp hội Da liễu Anh
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

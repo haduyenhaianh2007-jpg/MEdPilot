@@ -1,0 +1,25 @@
+##### Viêm da tã — thông tin bổ sung
+
+Danh mục:
+
+Phát ban, Chàm
+
+ICD-10:
+
+L22
+
+ICD-11:
+
+EH40.10, EH40.02
+
+SNOMED CT:
+
+91487003, 240710003, 402999004, 111188005, 240711004
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes) [Chàm](https://dermnetnz.org/topics?category=Eczemas)**
+
+# **Viêm da tã**
+
+Tác giả: A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1997. Cập nhật mới nhất bởi Dr Jannet Gomez, tháng 2 năm 2017.
+
+[Giới thiệu](https://dermnetnz.org/topics/napkin-dermatitis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/napkin-dermatitis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/napkin-dermatitis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/napkin-dermatitis#Clinical%20features%3Cbr%20/%3E) [Xét nghiệm](https://dermnetnz.org/topics/napkin-dermatitis#Tests%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/napkin-dermatitis#Treatment)

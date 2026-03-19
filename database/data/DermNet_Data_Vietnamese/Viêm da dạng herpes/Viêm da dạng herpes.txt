@@ -1,0 +1,272 @@
+##### Viêm da dạng herpes — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Bệnh Duhring Brocq, Bệnh Duhring
+
+Danh mục:
+
+Bệnh hệ thống, Phát ban
+
+ICD-10:
+
+L13, L12.2
+
+ICD-11:
+
+EB44
+
+SNOMED CT:
+
+111196000, 402444004, 437651000124104
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics?category=Systemic%20diseases) [Phát ban](https://dermnetnz.org/topics?category=Rashes)**
+
+# **Viêm da dạng herpes**
+
+### Tháng 3 năm 2023
+
+Tác giả: Bác sĩ Ahmed Al-Tameemi, Bệnh viện Đại học Morcambe Bay, NHS Foundation Trust; Bác sĩ Sarah Elyoussfi, Đăng ký Da liễu, Bệnh viện Salford Royal NHS Trust; và Bác sĩ Ian Coulson, Chuyên gia Da liễu, East Lancashire NHS Trust, Vương quốc Anh (2023)
+
+Những người đóng góp trước đây: A/Prof Amanda Oakley, Chuyên gia Da liễu (2001); Bác sĩ Shendy Engelina (2016)
+
+Chuyên gia da liễu đánh giá: Bác sĩ Ian Coulson
+
+Chỉnh sửa bởi bộ phận nội dung DermNet
+
+[Giới thiệu](https://dermnetnz.org/topics/dermatitis-herpetiformis#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/dermatitis-herpetiformis#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/dermatitis-herpetiformis#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/dermatitis-herpetiformis#Clinical%20features) [Biến thể trong các loại da](https://dermnetnz.org/topics/dermatitis-herpetiformis#Variation%20in%20skin%20types) [Biến chứng](https://dermnetnz.org/topics/dermatitis-herpetiformis#Complications) [Chẩn đoán](https://dermnetnz.org/topics/dermatitis-herpetiformis#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/dermatitis-herpetiformis#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/dermatitis-herpetiformis#Treatment) [Kết quả](https://dermnetnz.org/topics/dermatitis-herpetiformis#Outcome)
+
+## Viêm da dạng herpes là gì?
+
+Viêm da dạng herpes (DH) là một bệnh viêm da miễn dịch bọng nước và là biểu hiện trên da của bệnh celiac, một [bệnh đường ruột nhạy cảm với gluten](https://dermnetnz.org/topics/gluten-enteropathy-in-patients-with-dermatitis-herpetiformis).
+
+Tên gọi herpetiformis xuất phát từ xu hướng các mụn nước xuất hiện thành cụm, giống như [herpes simplex](https://dermnetnz.org/topics/herpes-simplex). Tuy nhiên, DH không phải do nhiễm virus.
+
+DH còn được gọi là bệnh Duhring-Brocq.
+
+![Các mụn nước thành cụm đã bị cào xước trên khuỷu tay trong viêm da dạng herpes](https://dermnetnz.org/assets/collection/Dermatitis-herpetiformis/dermatitis-herpetiformis-0001.jpg)
+
+Các mụn nước thành cụm đã bị cào xước trên khuỷu tay trong viêm da dạng herpes
+
+![Tổn thương khuỷu tay, xương cùng và mông - phân bố điển hình của viêm da dạng herpes](https://dermnetnz.org/assets/collection/Dermatitis-herpetiformis/dermatitis-herpetiformis-0032.jpg)
+
+Tổn thương khuỷu tay, xương cùng và mông - phân bố điển hình của viêm da dạng herpes
+
+![Các mụn nước bị cào xước trên mông và xương cùng trong viêm da dạng herpes](https://dermnetnz.org/assets/collection/Dermatitis-herpetiformis/dermatitis-herpetiformis-0004.jpg)
+
+Các mụn nước bị cào xước trên mông và xương cùng trong viêm da dạng herpes (bệnh nhân DH-1)
+
+![Viêm da dạng herpes](https://dermnetnz.org/assets/Uploads/immune/dh3.jpg)
+
+Viêm da dạng herpes
+
+![Tổn thương đường chân tóc trong viêm da dạng herpes](https://dermnetnz.org/assets/collection/Dermatitis-herpetiformis/dermatitis-herpetiformis-0022.jpg)
+
+Tổn thương đường chân tóc trong viêm da dạng herpes
+
+![Viêm da dạng herpes](https://dermnetnz.org/assets/Uploads/immune/s/dh4.jpg)
+
+Viêm da dạng herpes
+
+[Thêm hình ảnh về viêm da dạng herpes](https://dermnetnz.org/images/dermatitis-herpetiformis-images)
+
+## Ai mắc viêm da dạng herpes?
+
+- Viêm da dạng herpes (DH) có tỷ lệ mắc là 10 trên 100.000 dân số.
+- DH chủ yếu ảnh hưởng đến người da trắng từ 15–50 tuổi, nhưng có thể xảy ra ở các độ tuổi và dân tộc khác.
+- Hiếm gặp ở những người có tổ tiên châu Phi và châu Á, và phổ biến nhất ở người Ireland và Thụy Điển.
+- Tuổi trung bình khi chẩn đoán là 40–50 tuổi.
+- Có sự ưu thế nam giới với tỷ lệ 2:1.
+- Nhiều nữ <20 tuổi bị ảnh hưởng hơn nam; nam có xu hướng xuất hiện ở độ tuổi muộn hơn.
+- Có sự di truyền với sự liên kết với kháng nguyên bạch cầu người (HLA) DQ2 và DQ8. ~90% bệnh nhân mắc bệnh celiac mang HLA-DQ2, chỉ để lại một tỷ lệ nhỏ bệnh nhân có dị hợp tử nguy cơ thấp hơn (như HLA-DQ8). 10–15% cá nhân mắc DH có người thân cấp một bị ảnh hưởng.
+- Một số bệnh nhân có tiền sử cá nhân hoặc gia đình mắc các [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) khác bao gồm [bệnh tuyến giáp](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease), thiếu máu ác tính, tiểu đường loại 1, [bạch biến](https://dermnetnz.org/topics/vitiligo), [bệnh Addison](https://dermnetnz.org/topics/addison-disease), [rụng tóc từng mảng](https://dermnetnz.org/topics/alopecia-areata), và [bệnh thừa sắt](https://dermnetnz.org/topics/haemochromatosis).
+
+## Nguyên nhân gây viêm da dạng herpes là gì?
+
+- Viêm da dạng herpes (DH) và bệnh celiac là do không dung nạp phần gliadin của gluten có trong lúa mì, lúa mạch đen và lúa mạch.
+- Gluten kích hoạt sản xuất kháng thể IgA và một quá trình tự miễn dịch nhắm vào da và ruột.
+- Trong bệnh celiac, gluten gây viêm ruột dẫn đến tiêu chảy, mệt mỏi, giảm cân, khó chịu ở bụng và hậu quả chuyển hóa của kém hấp thu.
+- Phần lớn (>90%) bệnh nhân mắc DH cũng có [bệnh đường ruột nhạy cảm với gluten](https://dermnetnz.org/topics/gluten-enteropathy-in-patients-with-dermatitis-herpetiformis). Triệu chứng tiêu hóa thường nhẹ; một số bệnh nhân không có triệu chứng.
+- Khoảng 15–25% bệnh nhân celiac có DH đồng thời. Những bệnh nhân này có xu hướng có bệnh lý ruột nghiêm trọng hơn so với những người không có DH.
+
+## Đặc điểm lâm sàng của viêm da dạng herpes là gì?
+
+DH xuất hiện dưới dạng ngứa dữ dội và phát ban bọng nước đối xứng. Các mụn nước (thường có đường kính 3–5 mm) hoặc bọng nước phát triển trên da đỏ nhưng thường bị xói mòn và đóng vảy do gãi.
+
+- Phân bố là một manh mối chẩn đoán hữu ích; tổn thương thường xuất hiện trên da đầu, vai, mông, khuỷu tay và đầu gối.
+- Nó được đặc trưng bởi [prurigo](https://dermnetnz.org/topics/prurigo) (sẩn ngứa cực độ) và mụn nước trên da bình thường hoặc đỏ.
+- DH cũng có thể xuất hiện ban đầu dưới dạng xuất huyết điểm kỹ thuật số.
+- Các mảng đỏ phẳng, mảng dày và vết sưng có thể xảy ra giống như các tình trạng viêm da khác như [viêm da](https://dermnetnz.org/topics/dermatitis), [ghẻ](https://dermnetnz.org/topics/scabies), và [mề đay dạng sẩn](https://dermnetnz.org/topics/papular-urticaria).
+- Tổn thương giải quyết để lại giảm sắc tố sau viêm và [tăng sắc tố](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation).
+
+DH có thể bị làm trầm trọng bởi một số loại thuốc (ví dụ, kali iodide, thuốc chống viêm không steroid, leuprolide acetate, progesterone), và trước kỳ kinh nguyệt.
+
+[Hình ảnh về viêm da dạng herpes](https://dermnetnz.org/images/dermatitis-herpetiformis-images)
+
+## Viêm da dạng herpes khác biệt như thế nào trên da màu?
+
+Mặc dù không phổ biến, các đặc điểm lâm sàng tương tự, mặc dù sắc tố sau viêm nổi bật hơn.
+
+## Biến chứng của viêm da dạng herpes và bệnh celiac là gì?
+
+Các tình trạng sau đây có thể ảnh hưởng đến bệnh nhân mắc viêm da dạng herpes (DH), đặc biệt khi nó liên quan đến bệnh celiac:
+
+- [Loét miệng](https://dermnetnz.org/topics/aphthous-ulcer) và [viêm khóe miệng](https://dermnetnz.org/topics/angular-cheilitis)
+- [Da khô](https://dermnetnz.org/topics/dry-skin), bất thường móng và tóc
+- Vấn đề về răng: men mỏng
+- Vấn đề thần kinh: mất thăng bằng, bệnh đa dây thần kinh, động kinh
+- Vấn đề tim: viêm màng ngoài tim và bệnh cơ tim
+- Sảy thai tái phát
+- Gan nhiễm mỡ dẫn đến xét nghiệm chức năng gan bất thường
+- [Lymphoma không Hodgkin](https://dermnetnz.org/topics/lymphoma) (NHL)\* ảnh hưởng đến ruột hoặc bất kỳ phần nào của cơ thể.
+
+\*Nguy cơ NHL tăng gấp sáu đến mười lần ở bệnh nhân DH. Tuân thủ nghiêm ngặt chế độ ăn không gluten làm giảm biến chứng hiếm nhưng nghiêm trọng này. May mắn thay, nguy cơ lymphoma tăng chỉ rõ ràng trong 5 năm đầu sau khi chẩn đoán DH và tuân thủ chế độ ăn không gluten.
+
+## Viêm da dạng herpes được chẩn đoán như thế nào?
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) thường cần thiết để xác nhận DH.
+
+Da tổn thương có thể cho thấy:
+
+- Bọng nước dưới biểu bì
+- Tế bào viêm bạch cầu trung tính và bạch cầu ái toan trong nhú bì.
+
+Da không bị tổn thương xung quanh tổn thương chứa một số lượng lớn hơn đáng kể các lắng đọng IgA, và sinh thiết tổn thương nói chung có tỷ lệ âm tính giả cao hơn.
+
+- DH được đặc trưng bởi các lắng đọng hạt của IgA tại nhú nối bì-biểu bì.
+- Sinh thiết da xung quanh tổn thương sử dụng [miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) là xét nghiệm tiêu chuẩn vàng để chẩn đoán DH (độ nhạy 90–95%; độ đặc hiệu 95–100%).
+
+![Lắng đọng hạt của IgA được hiển thị trên miễn dịch huỳnh quang trực tiếp của da xung quanh tổn thương (nhờ bác sĩ Richard Groves, London)](https://dermnetnz.org/assets/collection/Dermatitis-herpetiformis-histopathology/dermatitis-herpetiformis-histopathology-0001.jpg)
+
+Lắng đọng hạt của IgA được hiển thị trên miễn dịch huỳnh quang trực tiếp của da xung quanh tổn thương (nhờ bác sĩ Richard Groves, London)
+
+Xem [Bệnh lý viêm da dạng herpes](https://dermnetnz.org/topics/dermatitis-herpetiformis-pathology) để biết thêm thông tin.
+
+### Kiểm tra thiếu hụt dinh dưỡng
+
+Bệnh nhân mắc DH thường được đề nghị các xét nghiệm máu tương tự như bệnh nhân mắc bệnh celiac để kiểm tra thiếu hụt dinh dưỡng. Bao gồm:
+
+- Công thức máu đầy đủ, xét nghiệm chức năng gan và canxi huyết thanh
+- Sắt, ferritin, kẽm, vitamin B12 và folate
+- Xét nghiệm chức năng tuyến giáp.
+
+Thiếu máu nhẹ có thể do thiếu [sắt](https://dermnetnz.org/topics/iron-deficiency) hoặc axit folic (hoặc cả hai) do kém hấp thu liên quan đến [bệnh đường ruột nhạy cảm với gluten](https://dermnetnz.org/topics/gluten-enteropathy-in-patients-with-dermatitis-herpetiformis). Xét nghiệm chức năng tuyến giáp thường được khuyến nghị do mối liên hệ giữa DH và [bệnh tuyến giáp](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease).
+
+### Xét nghiệm máu chẩn đoán
+
+Các xét nghiệm tự kháng thể cụ thể cho DH là:
+
+- Kháng thể IgA chống nội mạc (có mặt ở 80% bệnh nhân mắc DH)
+- Kháng thể IgA chống transglutaminase mô (tTG)
+- Kháng thể IgA chống transglutaminase biểu bì (eTG), khi có sẵn
+
+  - DH liên quan đến IgA eTG, điều này không xảy ra trong bệnh celiac
+- Kháng thể peptide gliadin deamidated IgA và IgG (dGP)
+- Xét nghiệm gliadin IgA và IgG
+- Mức IgA tổng.
+
+Kết quả biên có thể khó giải thích.
+
+### Sinh thiết ruột non
+
+Bệnh nhân DH có kết quả máu bất thường thường tiến hành sinh thiết ruột non để xác nhận bệnh đường ruột nhạy cảm với gluten. Điều này được đặc trưng về mặt mô học bởi teo nhung mao ruột non. Điều này có nghĩa là thay vì bị cuộn lại nhiều, lớp lót của ruột là mịn và phẳng.
+
+Ruột non có thể xuất hiện bình thường do điều trị (chế độ ăn không gluten và/hoặc thuốc), tổn thương bỏ qua (mẫu được lấy từ vị trí không bị ảnh hưởng), hoặc ruột có thể không bị ảnh hưởng bởi bệnh.
+
+### Các xét nghiệm khác
+
+Xét nghiệm kiểu gen HLA (cho một tập hợp các biến thể DNA) có thể tiết lộ HLA-DQ2 hoặc HLA-DQ8. Điều này có mặt ở hầu hết tất cả bệnh nhân mắc DH (và bệnh celiac).
+
+## Chẩn đoán phân biệt của viêm da dạng herpes là gì?
+
+- [Bệnh bọng nước IgA tuyến tính](https://dermnetnz.org/topics/linear-iga-bullous-disease)
+- [Pemphigoid bọng nước](https://dermnetnz.org/topics/bullous-pemphigoid)
+- [Viêm da dị ứng/chàm](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Ghẻ](https://dermnetnz.org/topics/scabies)
+- [Mề đay dạng sẩn](https://dermnetnz.org/topics/papular-urticaria)
+- Prurigo nodularis/ [prurigo dạng nốt](https://dermnetnz.org/topics/nodular-prurigo)
+
+## Điều trị viêm da dạng herpes là gì?
+
+### Chế độ ăn không gluten
+
+Chế độ ăn không gluten suốt đời được khuyến nghị mạnh mẽ cho bệnh nhân mắc DH, vì nó:
+
+- Giảm nhu cầu dùng thuốc để kiểm soát DH
+- Cải thiện [bệnh đường ruột nhạy cảm với gluten](https://dermnetnz.org/topics/gluten-enteropathy-in-patients-with-dermatitis-herpetiformis) liên quan
+- Tăng cường dinh dưỡng và mật độ xương
+- Có thể giảm nguy cơ phát triển các bệnh tự miễn khác
+- Có thể giảm nguy cơ lymphoma ruột.
+
+Có thể mất đến 2 năm để chế độ ăn không gluten đạt hiệu quả tối đa.
+
+### Thuốc
+
+[Dapsone](https://dermnetnz.org/topics/dapsone) là lựa chọn điều trị cho DH, vì nó thường giảm ngứa trong vòng 3 ngày.
+
+- Liều lượng từ 25–300 mg hàng ngày.
+- Có thể giảm dần ở những người đã tuân thủ chế độ ăn không gluten ổn định.
+- Tác dụng của dapsone được thấy nhanh chóng. Triệu chứng [ngứa](https://dermnetnz.org/topics/pruritus) giảm trong vài giờ và hình thành bọng nước mới ngừng trong 24–36 giờ. Đây là một lựa chọn hiệu quả trong giai đoạn đầu của chế độ ăn không gluten.
+- Dapsone không có tác dụng đối với bệnh đường ruột, lắng đọng kháng thể IgA, hoặc nguy cơ lymphoma.
+- Dapsone có tác dụng phụ tiềm tàng và yêu cầu giám sát.
+- Giảm bạch cầu hạt (xảy ra 3–12 tuần sau khi bắt đầu), quá mẫn dapsone (thường 4–6 tuần sau khi bắt đầu điều trị), và bệnh methemoglobin là những biến chứng hiếm nhưng nghiêm trọng. Dapsone phải được ngừng ngay lập tức trong những trường hợp này.
+
+Nếu không dung nạp hoặc dị ứng với dapsone, các phương pháp sau có thể hữu ích:
+
+- [Steroid bôi ngoài da cực mạnh](https://dermnetnz.org/topics/topical-steroid)
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+- [Colchicine](https://dermnetnz.org/topics/colchicine)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- Sulfapyridine
+- [Rituximab](https://dermnetnz.org/topics/rituximab).
+
+Có báo cáo rằng liệu pháp kết hợp với dapsone và [sulfasalazine](https://dermnetnz.org/topics/sulfasalazine) có thể hiệu quả ở những bệnh nhân không dung nạp liều dapsone đơn trị liệu tăng dần.
+
+Gel dapsone 5% bôi ngoài da cũng được chứng minh là hiệu quả như một phương pháp điều trị bổ trợ cho DH. So với dapsone uống, dapsone bôi ngoài da có tỷ lệ tác dụng phụ thấp hơn và có thể được sử dụng an toàn ở bệnh nhân thiếu hụt glucose-6-phosphate dehydrogenase (G6PD).
+
+## Kết quả của viêm da dạng herpes là gì?
+
+Viêm da dạng herpes thường có tiên lượng tốt, với phần lớn bệnh nhân đáp ứng tốt với chế độ ăn không gluten nghiêm ngặt và thuốc. Cần tuân thủ chế độ ăn không gluten suốt đời. Mặc dù tỷ lệ mắc lymphoma tế bào T tăng ở DH, tỷ lệ tử vong do bệnh tổng thể thấp hơn so với dân số chung, có thể do giảm bệnh tim mạch và béo phì.
+
+[Hình ảnh về viêm da dạng herpes](https://dermnetnz.org/images/dermatitis-herpetiformis-images)
+
+### Thư mục
+
+- Bevans SL, Sami N. Liệu pháp kết hợp dapsone và sulfasalazine trong viêm da dạng herpes. Int J Dermatol. 2017;56(5):e90–2. doi: 10.1111/ijd.13542. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/ijd.13542)
+- Bolotin D, Petronic-Rosic V. Viêm da dạng herpes: phần II. Chẩn đoán, quản lý và tiên lượng. J Am Acad Dermatol. 2011;64(6):1027–33. doi: 10.1016/j.jaad.2010.09.776. [Tạp chí](https://www.jaad.org/article/S0190-9622(10)02121-3/fulltext)
+- Caproni M, Antiga E, Melani L, et al. Hướng dẫn chẩn đoán và điều trị viêm da dạng herpes. J Eur Acad Dermatol Venereol. 2009;23(6):633–8. doi: 10.1111/j.1468-3083.2009.03188.x. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/j.1468-3083.2009.03188.x)
+- Dominguez Castro P, Harkin G, Hussey M, et al. Thay đổi trong trình bày bệnh celiac ở Ireland từ những năm 1960 đến 2015. Clin Gastroenterol Hepatol. 2017;15(6):864–71.e3. doi: 10.1016/j.cgh.2016.11.018. [Tạp chí](https://www.cghjournal.org/article/S1542-3565(16)31116-8/fulltext)
+- Lewis HM, Renuala TL, Garioch JJ, et al. Tác dụng bảo vệ của chế độ ăn không gluten chống lại sự phát triển của lymphoma trong viêm da dạng herpes. Br J Dermatol. 1996;135(3):363–7. [Tạp chí](https://academic.oup.com/bjd/article/135/3/363/6681534)
+- Reunala T, Hervonen K, Salmi T. Viêm da dạng herpes: Cập nhật về chẩn đoán và quản lý. Am J Clin Dermatol. 2021;22(3):329–338. doi: 10.1007/s40257-020-00584-2. [Tạp chí](https://link.springer.com/article/10.1007/s40257-020-00584-2)
+- Salmi T, Hervonen K. Khái niệm hiện tại về viêm da dạng herpes. Acta Derm Venereol. 2020;100(5):adv00056. doi: 10.2340/00015555-3401. [Tạp chí](https://www.medicaljournals.se/acta/content/abstract/10.2340/00015555-3401)
+- Salmi TT, Hervonen K, Kautiainen H, et al. Tỷ lệ mắc và tỷ lệ mới mắc viêm da dạng herpes: một nghiên cứu triển vọng 40 năm từ Phần Lan. Br J Dermatol. 2011;165(2):354–9. doi: 10.1111/j.1365-2133.2011.10385.x. [Tạp chí](https://academic.oup.com/bjd/article/165/2/354/6644283)
+- Vale ECSD, Dimatos OC, Porro AM, Santi CG. Đồng thuận về điều trị các bệnh da bọng nước tự miễn: Viêm da dạng herpes và bệnh bọng nước IgA tuyến tính — Hiệp hội Da liễu Brazil. An Bras Dermatol. 2019;94(2 Suppl 1):48–55. doi: 10.1590/abd1806-4841.2019940208. [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6544034/)
+
+### Trên DermNet
+
+- [Hình ảnh viêm da dạng herpes](https://dermnetnz.org/images/dermatitis-herpetiformis-images)
+- [Bệnh đường ruột nhạy cảm với gluten ở bệnh nhân viêm da dạng herpes](https://dermnetnz.org/topics/gluten-enteropathy-in-patients-with-dermatitis-herpetiformis)
+- [Bệnh tự miễn trong da liễu](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology)
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy)
+- [Miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence)
+- [Bệnh lý viêm da dạng herpes](https://dermnetnz.org/topics/dermatitis-herpetiformis-pathology)
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Lymphoma](https://dermnetnz.org/topics/lymphoma)
+- [Dấu hiệu da của bệnh đường tiêu hóa](https://dermnetnz.org/topics/skin-manifestations-of-gastrointestinal-disease)
+
+### Các trang web khác
+
+- [Viêm da dạng herpes](https://www.bad.org.uk/pils/dermatitis-herpetiformis-gluten-sensitivity/) — Hiệp hội Da liễu Anh
+- [Chế độ ăn không gluten](https://www.coeliac.org.uk/information-and-support/living-gluten-free/the-gluten-free-diet/) — Coeliac UK
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

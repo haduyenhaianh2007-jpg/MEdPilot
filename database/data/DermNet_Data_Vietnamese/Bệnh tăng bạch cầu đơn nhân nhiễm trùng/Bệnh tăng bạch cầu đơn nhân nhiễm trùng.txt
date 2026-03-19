@@ -1,0 +1,290 @@
+##### Thông tin bổ sung về bệnh tăng bạch cầu đơn nhân nhiễm trùng
+
+Từ đồng nghĩa:
+
+Sốt tuyến, Tăng bạch cầu đơn nhân nhiễm trùng, Viêm họng đơn nhân, Bệnh Pfeiffer, Hội chứng tăng bạch cầu đơn nhân
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B27
+
+ICD-11:
+
+1D81.Z
+
+SNOMED CT:
+
+271558008, 238370005, 238815002, 40168006
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Bệnh tăng bạch cầu đơn nhân nhiễm trùng**
+
+Tác giả: Bác sĩ Sarah Hill, Bác sĩ Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2007. Cập nhật bởi Bác sĩ Catherine Tian, Bác sĩ Nội trú Bệnh viện Thành phố Auckland. Biên tập viên trưởng DermNet New Zealand: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập viên Y khoa: Bác sĩ Helen Gordon, Auckland, New Zealand. Biên tập sao chép bởi Gus Mitchell. Tháng 8 năm 2020.
+
+[Giới thiệu](https://dermnetnz.org/topics/infectious-mononucleosis#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/infectious-mononucleosis#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/infectious-mononucleosis#Causes) [Truyền nhiễm](https://dermnetnz.org/topics/infectious-mononucleosis#Transmission) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/infectious-mononucleosis#Clinical%20features) [Đặc điểm niêm mạc da](https://dermnetnz.org/topics/infectious-mononucleosis#Mucocutaneous%20features) [Chẩn đoán](https://dermnetnz.org/topics/infectious-mononucleosis#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/infectious-mononucleosis#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/infectious-mononucleosis#Treatment) [Phòng ngừa](https://dermnetnz.org/topics/infectious-mononucleosis#Prevention) [Biến chứng](https://dermnetnz.org/topics/infectious-mononucleosis#Complications) [Tiên lượng](https://dermnetnz.org/topics/infectious-mononucleosis#Prognosis) [Các bệnh khác do virus Epstein-Barr gây ra](https://dermnetnz.org/topics/infectious-mononucleosis#Other%20diseases%20caused%20by%20Epstein-Barr%20virus)
+
+[Gửi ảnh của bạn về bệnh tăng bạch cầu đơn nhân nhiễm trùng](https://dermnetnz.org/contact-us/submit-a-photo)
+
+## Bệnh tăng bạch cầu đơn nhân nhiễm trùng là gì?
+
+Bệnh tăng bạch cầu đơn nhân nhiễm trùng là một bệnh nhiễm trùng phổ biến do [virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus) (EBV) gây ra. Nó thường được biết đến nhiều hơn với tên gọi sốt tuyến.
+
+## Ai mắc bệnh tăng bạch cầu đơn nhân nhiễm trùng?
+
+Bệnh tăng bạch cầu đơn nhân nhiễm trùng thường ảnh hưởng đến thanh niên từ 15–25 tuổi. Nó phổ biến ở cả hai giới và ảnh hưởng đến tất cả các chủng tộc. Gần 95% người đã bị nhiễm EBV khi trưởng thành. Bệnh xảy ra trên toàn thế giới mà không có sự ưu tiên theo mùa.
+
+## Nguyên nhân gây ra bệnh tăng bạch cầu đơn nhân nhiễm trùng là gì?
+
+Bệnh tăng bạch cầu đơn nhân nhiễm trùng là một bệnh nhiễm virus lây nhiễm thường do EBV (virus herpes ở người-4, HHV4), một virus DNA gamma-herpesviridae gây ra. EBV có liên quan đến một loạt các bệnh ở người, nhiều trong số đó có biểu hiện niêm mạc da có thể là cấp tính hoặc mãn tính.
+
+Bệnh tăng bạch cầu đơn nhân nhiễm trùng cũng có thể do cytomegalovirus (CMV) gây ra, đặc biệt là ở nhóm tuổi lớn hơn so với bệnh nhân liên quan đến EBV.
+
+## Bệnh tăng bạch cầu đơn nhân nhiễm trùng lây truyền như thế nào?
+
+EBV được truyền từ người sang người qua nước bọt thông qua các tiếp xúc thân mật như hôn, hoặc qua các vật dụng như bàn chải đánh răng hoặc ly uống nước. Virus tồn tại trên một vật thể khi nó còn ẩm. EBV cũng có thể lây lan qua máu và tinh dịch trong quá trình quan hệ tình dục, truyền máu, cấy ghép nội tạng và các thủ tục khác. Sự lây lan đến trẻ em được cho là từ cha mẹ hoặc anh chị em mang EBV và thải virus không liên tục.
+
+## Đặc điểm lâm sàng của bệnh tăng bạch cầu đơn nhân nhiễm trùng là gì?
+
+Biểu hiện lâm sàng của nhiễm trùng phụ thuộc vào sự tương tác giữa virus và hệ thống miễn dịch của vật chủ. Thời gian ủ bệnh từ khi tiếp xúc đến khi có triệu chứng thường là 6-7 tuần.
+
+### Nhiễm trùng sơ cấp với EBV
+
+Bệnh tăng bạch cầu đơn nhân nhiễm trùng thường xuất hiện ở 75% thanh niên; 15% có biểu hiện không điển hình, và nhiễm trùng ở 10% là không có triệu chứng. Trẻ em thường không có triệu chứng hoặc được cho là có nhiễm virus không đặc hiệu.
+
+Có hai biểu hiện điển hình:
+
+- khởi phát đột ngột với viêm họng nặng và sưng hạch cổ
+- khởi phát dần dần với sốt nhẹ, mệt mỏi, đau khớp và đau cơ.
+
+#### Lách và gan
+
+- Lách to (lách lớn), thường vào tuần thứ hai và thứ ba
+- Đau bụng hoặc khó chịu liên quan
+- Gan to hiếm khi có thể sờ thấy mặc dù thường được phát hiện qua siêu âm
+- Tăng men gan thường gặp ở khoảng 50%
+- Viêm gan rõ rệt với vàng da và gan to đau xảy ra ở 5-10%
+- Người lớn tuổi có nhiều khả năng phát triển gan to và vàng da hơn thanh thiếu niên.
+
+#### Khớp
+
+- Viêm khớp ở một hoặc nhiều khớp
+
+#### Thận
+
+- Viêm cầu thận
+
+#### Hệ thần kinh
+
+- Viêm màng não vô khuẩn
+- Liệt mặt
+- Viêm tủy ngang
+- Viêm dây thần kinh ngoại biên, viêm dây thần kinh thị giác
+- Viêm tiểu não
+- Hội chứng Guillain-Barré
+- Viêm màng não não
+
+#### Phổi
+
+- Tắc nghẽn đường thở
+- Viêm phổi kẽ
+
+#### Tim
+
+- Viêm màng ngoài tim
+
+#### Mắt
+
+- Phù quanh mắt và mí mắt (dấu hiệu Hoagland)
+- [Viêm kết mạc](https://dermnetnz.org/topics/conjunctivitis)
+- Viêm giác mạc
+- Viêm màng bồ đào
+- Viêm võng mạc
+
+#### Hệ thống máu
+
+- Thiếu máu tan máu tự miễn
+- [Hội chứng tan máu tăng ure máu](https://dermnetnz.org/topics/haemolytic-uraemic-syndrome)
+- Giảm tiểu cầu
+- [Rối loạn đông máu nội mạch lan tỏa](https://dermnetnz.org/topics/disseminated-intravascular-coagulation)
+- Giảm bạch cầu trung tính
+- Ngưng kết lạnh
+- Thiếu máu bất sản
+- [Suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency)
+- Bệnh tăng sinh lympho và các bệnh tự miễn khác [bệnh huyết học](https://dermnetnz.org/topics/skin-manifestations-of-haematological-diseases).
+
+## Đặc điểm niêm mạc da của bệnh tăng bạch cầu đơn nhân nhiễm trùng là gì?
+
+[Phát ban](https://dermnetnz.org/topics/exanthems) điển hình của bệnh tăng bạch cầu đơn nhân nhiễm trùng là phát ban dạng sẩn mụn cấp tính, toàn thân. Phát ban:
+
+- Ảnh hưởng đến 4,2 đến 13% bệnh nhân không dùng kháng sinh
+- Thường mờ nhạt và không ngứa, xuất hiện đầu tiên trên thân và cánh tay trên, lan rộng đến mặt và cẳng tay
+- Có thể là dạng sởi, dạng sẩn, dạng sốt đỏ, dạng mụn nước, hoặc dạng xuất huyết
+- Biến mất sau khoảng một tuần.
+
+Một phát ban da dữ dội và rộng hơn xuất hiện ở tới 90% bệnh nhân bị bệnh tăng bạch cầu đơn nhân nhiễm trùng 2–10 ngày sau khi bắt đầu dùng [kháng sinh](https://dermnetnz.org/topics/antibiotics). Những loại này bao gồm ampicillin, azithromycin, amoxicillin, cephalosporin, [tetracycline](https://dermnetnz.org/topics/tetracycline), và macrolide như [erythromycin](https://dermnetnz.org/topics/erythromycin). Các nghiên cứu gần đây cho thấy tỷ lệ phát ban kháng sinh thực tế thấp hơn nhiều so với báo cáo trước đây.
+
+- [Phát ban do thuốc](https://dermnetnz.org/topics/drug-eruptions) là phát ban dạng sẩn mụn hoặc dạng sởi.](https://dermnetnz.org/topics/morbilliform-drug-reaction)
+- Nó ảnh hưởng đến bề mặt duỗi và các điểm áp lực, mặt, cổ, thân, lòng bàn tay và lòng bàn chân.
+- Nó có thể liên quan đến màng nhầy.
+- Phát ban thường biến mất trong vòng một tuần sau khi ngừng kháng sinh.
+
+Dị ứng thuốc thường là tạm thời. Tuy nhiên, tái tiếp xúc với kháng sinh đôi khi có thể dẫn đến tái phát phát ban nhiều năm sau đó.
+
+Xuất huyết trên vòm miệng được tìm thấy trên vòm miệng cứng và mềm ở 50% thanh niên trong những ngày đầu của bệnh.
+
+Vàng da do gan gây ngứa, dẫn đến trầy xước và bầm tím.
+
+Các dấu hiệu da ít được báo cáo hơn của bệnh tăng bạch cầu đơn nhân nhiễm trùng bao gồm giảm tiểu cầu miễn dịch [xuất huyết](https://dermnetnz.org/topics/purpura), [mề đay lạnh](https://dermnetnz.org/topics/cold-urticaria), và [hồng ban nút](https://dermnetnz.org/topics/erythema-nodosum).
+
+![Phát ban của bệnh tăng bạch cầu đơn nhân nhiễm trùng](https://dermnetnz.org/assets/Uploads/ebv-rash-02.jpg)
+
+Phát ban của bệnh tăng bạch cầu đơn nhân nhiễm trùng
+
+![Phát ban do bệnh tăng bạch cầu đơn nhân nhiễm trùng cộng với amoxicillin](https://dermnetnz.org/assets/Uploads/ebv-rash-01.jpg)
+
+Phát ban do bệnh tăng bạch cầu đơn nhân nhiễm trùng cộng với amoxicillin
+
+![Bệnh tăng bạch cầu đơn nhân nhiễm trùng: mề đay](https://dermnetnz.org/assets/collection/Infectious-mononucleosis/infectious-mononucleosis-00002.jpg)
+
+Bệnh tăng bạch cầu đơn nhân nhiễm trùng: mề đay
+
+### EBV tiềm ẩn
+
+Sau giai đoạn triệu chứng cấp tính, EBV tồn tại trong các tế bào B nhớ trong amidan và tuần hoàn ngoại vi của vật chủ bị nhiễm ở trạng thái mang không gây chết suốt đời. Virus có thể được thải ra không liên tục và nhiễm trùng có thể tái hoạt động.
+
+## Bệnh tăng bạch cầu đơn nhân nhiễm trùng được chẩn đoán như thế nào?
+
+Các đặc điểm lâm sàng và xét nghiệm dị ứng dương tính thường đủ để chẩn đoán bệnh tăng bạch cầu đơn nhân nhiễm trùng.
+
+### Kháng thể dị ứng (Monospot)
+
+- Kháng thể dị ứng trở nên dương tính 2–9 tuần sau khi nhiễm; độ nhạy là 70–92% trong hai tuần đầu tiên.
+- Chúng có thể tồn tại trong một năm hoặc lâu hơn.
+- Khoảng 40% trẻ em < 4 tuổi không phát triển kháng thể dị ứng sau khi nhiễm EBV sơ cấp.
+- Kháng thể dị ứng không đặc hiệu và có thể có mặt trong các [nhiễm trùng](https://dermnetnz.org/topics/bacterial-skin-infections), ung thư, và [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology).
+
+### Các xét nghiệm máu khác
+
+- Mức độ bạch cầu lympho tăng với ít nhất 10% là không điển hình. Các nhiễm virus khác có xu hướng giảm bạch cầu lympho.
+- Immunoglobulin (Ig)M đối với kháng nguyên vỏ virus (VCA) trong giai đoạn hoạt động của bệnh tăng bạch cầu đơn nhân nhiễm trùng được tìm thấy ở 75% bệnh nhân và thường biến mất trong vòng 4–6 tuần.
+- Kháng thể VCA IgG đạt tối đa khoảng 2–4 tuần sau khi khởi phát triệu chứng và sau đó giảm nhẹ. Chúng có thể tồn tại suốt đời.
+- Các xét nghiệm khác đánh giá kháng nguyên sớm EBV (EA) và kháng nguyên nhân (EBNA).
+- Tải lượng EBV cao được tìm thấy bằng phản ứng chuỗi polymerase (PCR) trong khoang miệng và máu trong giai đoạn tế bào ly giải cấp tính.
+- Xét nghiệm chức năng gan thường cho thấy mức độ transaminase tăng.
+- Các xét nghiệm khác sẽ phụ thuộc vào cơ quan nào bị nhiễm trùng ảnh hưởng.
+
+### Hình ảnh
+
+Siêu âm bụng có thể đánh giá gan lách to.
+
+## Chẩn đoán phân biệt cho bệnh tăng bạch cầu đơn nhân nhiễm trùng là gì?
+
+Chẩn đoán phân biệt chính của bệnh tăng bạch cầu đơn nhân nhiễm trùng cấp tính là:
+
+- Nhiễm cytomegalovirus (CMV) cấp tính
+- Nhiễm adenovirus
+- [Toxoplasmosis](https://dermnetnz.org/topics/toxoplasmosis)
+- [Nhiễm virus suy giảm miễn dịch ở người (HIV) cấp tính](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome).
+
+Các chẩn đoán phân biệt khác bao gồm [viêm họng do liên cầu khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) (có thể cùng tồn tại), bệnh bạch cầu, viêm amidan, bạch hầu, cảm lạnh thông thường, cúm, và [COVID-19](https://dermnetnz.org/topics/covid-19).
+
+## Điều trị bệnh tăng bạch cầu đơn nhân nhiễm trùng là gì?
+
+Các lựa chọn điều trị cho bệnh tăng bạch cầu đơn nhân nhiễm trùng thường mang tính chất hỗ trợ, chẳng hạn như:
+
+- Nghỉ ngơi trên giường
+- Cung cấp đủ nước
+- Thuốc giảm đau như paracetamol và [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) ([NSAID](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects))
+- [Corticosteroid](https://dermnetnz.org/topics/systemic-steroids) tiêm tĩnh mạch cho tắc nghẽn đường thở, giảm tiểu cầu, hoặc thiếu máu tan máu.
+
+Các lựa chọn điều trị ít phổ biến hơn bao gồm:
+
+- Thuốc kháng virus, chẳng hạn như [aciclovir](https://dermnetnz.org/topics/aciclovir) hoặc valaciclovir, không được sử dụng hoặc hữu ích cho các trường hợp không phức tạp của bệnh tăng bạch cầu đơn nhân nhiễm trùng. Chúng đôi khi được kê đơn cho viêm màng não do EBV, viêm dây thần kinh ngoại biên, viêm gan, hoặc cho các biến chứng huyết học.
+- [Kháng sinh](https://dermnetnz.org/topics/antibiotics) có thể được kê đơn để điều trị [nhiễm trùng vi khuẩn thứ cấp](https://dermnetnz.org/topics/bacterial-skin-infections) đã được xác nhận.
+
+## Bệnh tăng bạch cầu đơn nhân nhiễm trùng có thể được ngăn ngừa không?
+
+Hiện tại chưa có vắc-xin để bảo vệ chống lại nhiễm EBV. Phòng ngừa bao gồm vệ sinh xã hội, và tránh chia sẻ đồ uống, thực phẩm, hoặc đồ dùng cá nhân.
+
+## Biến chứng của bệnh tăng bạch cầu đơn nhân nhiễm trùng là gì?
+
+Các biến chứng của bệnh tăng bạch cầu đơn nhân nhiễm trùng bao gồm:
+
+- Viêm họng do liên cầu khuẩn nhóm A beta
+- Áp xe quanh amidan
+- Vỡ lách – các vận động viên được khuyến cáo tránh thể thao trong ba tuần đầu của bệnh
+- Nhiễm EBV mãn tính – triệu chứng tái phát hoặc kéo dài giống như bệnh tăng bạch cầu đơn nhân nhiễm trùng chủ yếu thấy ở trẻ em châu Á. Các biến chứng đe dọa tính mạng có thể xảy ra.
+
+## Tiên lượng của bệnh tăng bạch cầu đơn nhân nhiễm trùng là gì?
+
+Phục hồi từ giai đoạn cấp tính của nhiễm EBV ban đầu ở những người khỏe mạnh và có hệ miễn dịch bình thường thường hoàn tất trong vài tuần, nhưng có thể mất vài tháng để cảm thấy hoàn toàn khỏe mạnh trở lại. Mệt mỏi kéo dài, mệt mỏi, và đau khớp là phổ biến, thường kéo dài 6 tháng hoặc hơn.
+
+EBV gây nhiễm trùng suốt đời vì virus vẫn tồn tại ở trạng thái không hoạt động trong các tế bào B lympho. Phản ứng miễn dịch nguyên vẹn ngăn ngừa bệnh tiến triển do EBV. Tuy nhiên, [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) hoặc bệnh khác có thể tái hoạt động virus gây ra các triệu chứng mơ hồ và không rõ ràng và, hiếm khi, bệnh nghiêm trọng. Trong giai đoạn này, virus có thể lây lan sang người khác.
+
+## Các bệnh khác có thể do virus Epstein-Barr gây ra là gì?
+
+Các biểu hiện da khác của nhiễm EBV bao gồm:
+
+- [Viêm da sẩn ở trẻ em](https://dermnetnz.org/topics/papular-acrodermatitis-of-childhood) (hội chứng Gianotti-Crosti)
+- [Hồng ban đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+- [Hồng ban nút](https://dermnetnz.org/topics/erythema-nodosum)
+- [Mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions), bao gồm [mề đay lạnh](https://dermnetnz.org/topics/cold-urticaria)
+- [Viêm mạch mề đay](https://dermnetnz.org/topics/urticarial-vasculitis)
+- [Tím tái đầu chi](https://dermnetnz.org/topics/acrocyanosis)
+- [Hồng ban vòng](https://dermnetnz.org/topics/annular-erythema)
+- [Viêm da lichenoid](https://dermnetnz.org/topics/pityriasis-lichenoides)
+- [Viêm da tay](https://dermnetnz.org/topics/hand-dermatitis)
+- [Loét sinh dục phản ứng](https://dermnetnz.org/topics/non-sexually-acquired-genital-ulceration) (loét Lipschütz)
+- [Bệnh bóng nước IgA tuyến tính (bệnh bóng nước mãn tính ở trẻ em)](https://dermnetnz.org/topics/linear-iga-bullous-disease)
+- [Bạch sản lông miệng](https://dermnetnz.org/topics/oral-hairy-leukoplakia-pathology)
+- [Hydroa vacciniforme](https://dermnetnz.org/topics/hydroa-vacciniforme)
+- [Rối loạn tăng sinh lympho liên quan đến EBV](https://dermnetnz.org/topics/epsteinbarr-virus-associated-lymphoproliferative-disorders) bao gồm loét niêm mạc da dương tính với EBV, [u hạt lymphomatoid](https://dermnetnz.org/topics/lymphomatoid-granulomatosis), u lympho tế bào B lớn lan tỏa dương tính với EBV, không được chỉ định khác
+- [Hội chứng quá mẫn do thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome)
+
+Các bệnh khác liên quan đến EBV bao gồm:
+
+- U lympho Burkitt
+- U lympho không Hodgkin
+- [U lympho Hodgkin](https://dermnetnz.org/topics/hodgkin-lymphoma)
+- Ung thư biểu mô vòm họng
+- [U lympho tế bào T](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma)
+- U lympho dạng mạch mũi.
+
+### Thư mục
+
+- Andersen Lund BM, Bergan T. Phản ứng da tạm thời với penicillin trong giai đoạn cấp tính của bệnh tăng bạch cầu đơn nhân nhiễm trùng. Scand J Infect Dis. 1975;7(1):21–8. doi:10.3109/inf.1975.7.issue-1.04. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1145129/)
+- Chovel-Sella A, Ben Tov A, Lahav E, et al. Tỷ lệ phát ban sau điều trị amoxicillin ở trẻ em bị bệnh tăng bạch cầu đơn nhân nhiễm trùng. Pediatrics. 2013;131(5):e1424–7. doi:10.1542/peds.2012–1575. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23589810/)
+- Dunmire SK, Hogquist KA, Balfour HH. Bệnh tăng bạch cầu đơn nhân nhiễm trùng. Curr Top Microbiol Immunol. 2015;390(Pt 1):211–40. doi:10.1007/978-3-319-22822-8\_9. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4670567/)
+- Ebell MH. Virus Epstein-Barr bệnh tăng bạch cầu đơn nhân nhiễm trùng. Am Fam Physician. 2004;70(7):1279–87. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15508538/)
+- Hall LD, Eminger LA, Hesterman KS, Heymann WR. Virus Epstein-Barr: liên kết và ý nghĩa da liễu: phần I. Biểu hiện niêm mạc da của virus Epstein-Barr và các rối loạn không ác tính. J Am Acad Dermatol. 2015;72(1):1–20. doi:10.1016/j.jaad.2014.07.034. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25497917/)
+- Ishii T, Sasaki Y, Maeda T, Komatsu F, Suzuki T, Urita Y. Phân biệt lâm sàng của bệnh tăng bạch cầu đơn nhân nhiễm trùng do virus Epstein-Barr hoặc cytomegalovirus: một nghiên cứu trường hợp-đối chứng tại một trung tâm ở Nhật Bản. J Infect Chemother. 2019;25(6):431–6. doi:10.1016/j.jiac.2019.01.012 [Journal](https://www.jiac-j.com/article/S1341-321X(19)30031-5/fulltext)
+- Ónodi-Nagy K, Bata-Csörgo Z, Varga E, Kemény L, Kinyó A. Phát ban da do kháng sinh trong bệnh tăng bạch cầu đơn nhân nhiễm trùng: tổng quan tài liệu. J Allergy Ther 2015;6:222. doi:10.4172/2155-6121.1000222. [Journal](https://www.longdom.org/open-access/antibiotic-induced-cutaneous-rash-in-infectious-mononucleosis-overview-ofthe-literature-2155-6121-1000222.pdf)
+
+### Trên DermNet
+
+- [Nhiễm trùng da do virus](https://dermnetnz.org/topics/viral-skin-infections)
+- [Phát ban](https://dermnetnz.org/topics/exanthems)
+- [Viêm da sẩn ở trẻ em](https://dermnetnz.org/topics/papular-acrodermatitis-of-childhood)
+- [Rối loạn tăng sinh lympho liên quan đến virus Epstein-Barr](https://dermnetnz.org/topics/epsteinbarr-virus-associated-lymphoproliferative-disorders)
+
+### Các trang web khác
+
+- Medscape
+  - [Bệnh tăng bạch cầu đơn nhân nhiễm trùng](https://emedicine.medscape.com/article/222040-overview)
+  - [Mononucleosis](https://emedicine.medscape.com/article/784513-overview)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

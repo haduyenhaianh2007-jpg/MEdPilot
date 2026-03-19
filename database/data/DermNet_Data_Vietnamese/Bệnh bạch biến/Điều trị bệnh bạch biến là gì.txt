@@ -1,0 +1,114 @@
+## Điều trị bệnh bạch biến là gì?
+
+Hiện chưa có phương pháp chữa trị hoàn toàn cho bệnh bạch biến và việc điều trị thường không đạt kết quả như mong muốn. Mục tiêu là ngăn chặn sự tiến triển của bệnh (ổn định) và đạt được sự tái tạo sắc tố thỏa đáng.
+
+Điều trị thường thành công nhất trên mặt và thân; trong khi tay, chân và các khu vực có tóc trắng phản ứng kém. So với các mảng lâu năm, các mảng mới có khả năng đáp ứng tốt hơn với liệu pháp y tế.
+
+Trong khi nang tóc là nguồn chính của việc phục hồi sắc tố, một nguồn tiềm năng khác có thể nằm ở ranh giới của các mảng trắng. Khi tái tạo sắc tố thành công, các tế bào gốc melanocyte (DOPA-negative) ở giữa và dưới lớp vỏ ngoài (ORS), hoặc phình ra ở gốc nang tóc được kích hoạt (trở nên lớn hơn, với hoạt động DOPA oxidase mạnh mẽ). Chúng di chuyển lên bề mặt da để tạo thành các đảo sắc tố, xuất hiện dưới dạng các đốm nâu quanh nang. Nếu không, tái tạo sắc tố có thể xảy ra theo các mô hình ít phổ biến hơn như rìa, lan tỏa, hoặc kết hợp.
+
+Phản ứng điều trị được đánh giá dựa trên tỷ lệ da đã giữ lại sắc tố. Trong các nghiên cứu, một phản ứng tốt thường được dịch là > 50% hoặc 75%, tùy thuộc vào thiết kế của nghiên cứu.
+
+### Biện pháp chung
+
+Một vết cắt, trầy xước, hoặc vết xước có thể dẫn đến một mảng bạch biến mới
+
+- Giảm thiểu chấn thương da bằng cách mặc quần áo bảo vệ rộng rãi.
+
+[Ngụy trang mỹ phẩm](https://dermnetnz.org/topics/cosmetic-camouflage) có thể che giấu bạch biến. Các lựa chọn bao gồm:
+
+- Trang điểm, thuốc nhuộm, và vết bẩn
+- Sản phẩm chống nước
+- Sản phẩm chứa [Dihydroxyacetone](https://dermnetnz.org/topics/dihydroxyacetone) — "tắm nắng mà không cần ánh nắng."
+- Vi sắc tố hoặc xăm cho bạch biến ổn định.
+
+[Bảo vệ da khỏi ánh nắng](https://dermnetnz.org/topics/sun-protection) với [quần áo](https://dermnetnz.org/topics/sun-protective-clothing), [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) và thay đổi lối sống.
+
+- Da mất sắc tố chỉ có thể bị cháy nắng khi tiếp xúc với bức xạ tia cực tím (UVR); nó không thể rám nắng.
+- [Cháy nắng](https://dermnetnz.org/topics/sunburn) có thể khiến bạch biến lan rộng.
+- Rám nắng của da bình thường làm cho các mảng bạch biến trở nên rõ ràng hơn.
+
+### Biện pháp cụ thể
+
+Có nhiều phương thức đã được chứng minh là hữu ích trong điều trị bạch biến. Phản ứng điều trị tối ưu thường được thấy với liệu pháp kết hợp.
+
+#### Điều trị tại chỗ
+
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+  - Có thể được sử dụng trên thân và chi trong tối đa 3 tháng.
+- [Chất ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) ([kem pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) và [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus))
+  - Ưu tiên cho bạch biến ảnh hưởng đến mí mắt, mặt, cổ, nách và háng, vì không giống như steroid tại chỗ, chúng không gây teo da.
+- Dẫn xuất vitamin D tại chỗ ([calcipotriol](https://dermnetnz.org/topics/calcipotriol), tacalcitol)
+  - Hàng thứ hai; chỉ hiệu quả khi kết hợp điều trị.
+- Kem [Ruxolitinib](https://dermnetnz.org/topics/ruxolitinib)
+  - Một chất ức chế [Janus kinase 1 và 2](https://dermnetnz.org/topics/janus-kinase-inhibitors) được FDA chấp thuận cho điều trị bạch biến không phân đoạn ở bệnh nhân người lớn và trẻ em từ 12 tuổi trở lên.
+  - Cải thiện lâm sàng đáng kể cho bạch biến trên mặt, ở những người từ 12 tuổi trở lên với bạch biến không phân đoạn với 10% hoặc ít hơn BSA bị ảnh hưởng, với sự an toàn bền vững sau 52 tuần đã được thấy trong hai thử nghiệm lâm sàng giai đoạn 3 mù đôi. Bạch biến trên cơ thể cho thấy phản ứng ít ấn tượng hơn.
+- Các liệu pháp gây tranh cãi khác bao gồm pseudocatalase và chất ức chế prostaglandin tại chỗ
+  - Cần có thêm nghiên cứu để xác nhận hiệu quả.
+
+#### Quang trị liệu
+
+[Quang trị liệu](https://dermnetnz.org/topics/phototherapy) đề cập đến điều trị bằng bức xạ tia cực tím (UV). Các lựa chọn bao gồm:
+
+- Quang trị liệu UVB toàn thân hoặc cục bộ
+- [Laser UVB Excimer](https://dermnetnz.org/topics/excimer-308-nm-light-treatment) (308 nm) hoặc [UVB nhắm mục tiêu](https://dermnetnz.org/topics/uvb-phototherapy) cho các khu vực nhỏ của bạch biến
+- [Quang hóa trị liệu (PUVA)](https://dermnetnz.org/topics/puva-photochemotherapy) uống, tại chỗ, hoặc trong nước tắm
+- Quang trị liệu tại phòng khám hoặc tại nhà.
+
+Quang trị liệu có thể hoạt động trong bạch biến bằng hai cơ chế.
+
+- Ức chế miễn dịch — ngăn chặn sự phá hủy của các tế bào melanocyte
+- Kích thích cytokine (yếu tố tăng trưởng).
+
+Điều trị thường được thực hiện hai lần mỗi tuần trong một khoảng thời gian thử nghiệm từ 3–4 tháng. Nếu tái tạo sắc tố được quan sát, điều trị được tiếp tục cho đến khi tái tạo sắc tố hoàn toàn hoặc tối đa trong 1–2 năm.
+
+- Quang trị liệu không phù hợp cho những người có làn da rất sáng.
+- Cường độ điều trị nhằm mục đích làm cho da bạch biến có màu hồng "carnation" nhạt.
+- Nếu tái tạo sắc tố được quan sát, điều trị được tiếp tục cho đến khi tái tạo sắc tố hoàn toàn hoặc tối đa trong 1–2 năm.
+- Cần tránh cháy nắng (da đỏ, phồng rộp, bong tróc, ngứa hoặc đau), vì điều này có thể làm cho bạch biến trở nên tồi tệ hơn.
+
+Một phân tích tổng hợp của 35 nghiên cứu khác nhau báo cáo kết quả sau quang trị liệu cho bạch biến toàn thân. Một phản ứng rõ rệt hoặc có ích về mặt lâm sàng đã đạt được ở 36% sau 12 tháng UVB hẹp và ở 62% sau 12 tháng PUVA. Mặt và cổ phản ứng tốt hơn thân, thân phản ứng tốt hơn các chi. Nó không hiệu quả lắm trên tay và chân.
+
+#### Liệu pháp toàn thân
+
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+  - Liệu pháp xung ngắn để làm chậm sự tiến triển nhanh chóng, hoặc như steroid uống mini-pulse để ổn định bệnh hoạt động, ví dụ, dexamethasone 2.5–4 mg, trong hai ngày liên tiếp mỗi tuần, trong 3–6 tháng.
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+
+- [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil)
+
+- Minocycline uống 100 mg/ngày, một kháng sinh [tetracycline](https://dermnetnz.org/topics/tetracycline) với tính chất chống viêm
+
+- [Afamelanotide](https://dermnetnz.org/topics/afamelanotide) dưới da
+  - Một chất tương tự hormone kích thích α-melanocyte (α-MSH). Cho thấy tái tạo sắc tố vượt trội khi kết hợp với NB-UVB, nhưng rám nắng quá mức ở da xung quanh không bị ảnh hưởng làm cho kết quả thẩm mỹ cuối cùng kém hài lòng.
+
+Không có liệu pháp nào trong số này dựa trên dữ liệu thử nghiệm ngẫu nhiên có kiểm soát.
+
+#### Điều trị phẫu thuật bạch biến ổn định
+
+[Điều trị phẫu thuật cho bạch biến ổn định và phân đoạn](https://dermnetnz.org/topics/surgical-treatment-of-stable-vitiligo) yêu cầu loại bỏ lớp trên cùng của da bạch biến (bằng [cạo](https://dermnetnz.org/topics/shaving), [mài da](https://dermnetnz.org/topics/dermabrasion), chà nhám, hoặc [laser](https://dermnetnz.org/topics/lasers-in-dermatology)) và thay thế bằng da có sắc tố được lấy từ một vị trí khác.
+
+Các kỹ thuật bao gồm:
+
+- Cấy ghép tế bào huyền phù melanocyte-keratinocyte không nuôi cấy
+- Ghép đục lỗ (ghép mini)
+- Ghép bọng nước, được hình thành bằng hút hoặc [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- Ghép da tách
+- Ghép tự thân nuôi cấy của melanocyte được nuôi trong môi trường nuôi cấy mô.
+
+#### Liệu pháp làm mất sắc tố
+
+[Liệu pháp làm mất sắc tố](https://dermnetnz.org/topics/depigmentation-therapy-for-vitiligo), sử dụng 20% monobenzyl ether của hydroquinone (MBEH), có thể được xem xét ở những người có làn da tối màu bị ảnh hưởng nặng nề với bạch biến không tự tái tạo sắc tố hoặc với liệu pháp.
+
+[Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) và điều trị [laser](https://dermnetnz.org/topics/lasers-in-dermatology) (ví dụ, [alexandrite](https://dermnetnz.org/topics/alexandrite-laser-treatment) Q-switched 755-nm hoặc [ruby](https://dermnetnz.org/topics/ruby-laser-treatment) Q-switched 694 nm) cũng đã được sử dụng thành công để làm mất sắc tố các khu vực nhỏ của bạch biến.
+
+#### Liệu pháp tương lai
+
+Các liệu pháp tiềm năng mới khác vẫn đang được nghiên cứu bao gồm những liệu pháp nhắm vào đường dẫn IFN-γ–JAK–STAT1 (nhắm vào CXCL9/10), kháng IL15 và kháng CD122 (nhắm vào TRM), chất đối kháng tín hiệu Wnt, và các liệu pháp khác.
+
+#### Hỗ trợ tâm lý xã hội
+
+Bạch biến dẫn đến giảm chất lượng cuộc sống và khó khăn tâm lý ở nhiều bệnh nhân, với các vấn đề như trầm cảm và tự ti, đặc biệt ở thanh thiếu niên và phụ nữ. Bệnh nhân nên được đảm bảo rằng luôn có điều gì đó để giúp quản lý tình trạng của họ, từ việc sử dụng ngụy trang đến các liệu pháp có thể cải thiện đáng kể. Tác động tâm lý xã hội của bạch biến có xu hướng nghiêm trọng hơn ở một số quốc gia, văn hóa và tôn giáo so với những nơi khác.
+
+Hỗ trợ gia đình, tư vấn và điều trị hành vi nhận thức có thể có lợi.

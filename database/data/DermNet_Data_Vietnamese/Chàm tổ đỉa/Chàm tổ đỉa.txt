@@ -1,0 +1,192 @@
+##### Chàm tổ đỉa (pompholyx) — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Chàm tay tổ đỉa, Pompholyx, Chàm tay nội sinh có mụn nước, Cheiropompholyx, Viêm da tay có mụn nước, chàm lòng bàn tay chân cấp tính, cheiropedopompholyx, podopompholyx
+
+Danh mục:
+
+Chàm
+
+ICD-10:
+
+L30.1
+
+ICD-11:
+
+EA85.0
+
+SNOMED CT:
+
+201201000, 23856007, 402222007, 123698008, 402216003, 402218002, 784292007, 238561006
+
+**[Chàm](https://dermnetnz.org/topics?category=Eczemas)**
+
+# **Chàm tổ đỉa (pompholyx)**
+
+### Tháng 2 năm 2023
+
+Tác giả: Maitreyi Aria Jain (Sinh viên Y khoa) và Phó Giáo sư Danh dự Paul Jarrett (Bác sĩ Da liễu), Bệnh viện Middlemore và Khoa Y, Đại học Auckland, New Zealand (2023)
+
+Bác sĩ da liễu đánh giá: Tiến sĩ Ian Coulson
+
+Biên tập bởi bộ phận nội dung DermNet
+
+[Giới thiệu](https://dermnetnz.org/topics/dyshidrotic-eczema#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/dyshidrotic-eczema#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/dyshidrotic-eczema#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/dyshidrotic-eczema#Clinical%20features%3Cbr%20/%3E) [Biến thể trong các loại da](https://dermnetnz.org/topics/dyshidrotic-eczema#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/dyshidrotic-eczema#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/dyshidrotic-eczema#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/dyshidrotic-eczema#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/dyshidrotic-eczema#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/dyshidrotic-eczema#Outcome)
+
+## Chàm tổ đỉa là gì?
+
+Chàm tổ đỉa (pompholyx) là một tình trạng ngứa, mãn tính, tái phát, thường đối xứng trên lòng bàn tay, ngón tay và lòng bàn chân. Nó được đặc trưng bởi các mụn nước nhỏ, sâu, có đường kính 1–2 mm chứa đầy dịch tại các vị trí này, và sẽ tự khỏi sau vài tuần với hiện tượng bong vảy.
+
+Có sự tranh luận về thuật ngữ và định nghĩa chính xác nhưng các tên khác cho tình trạng này bao gồm pompholyx, viêm da tay có mụn nước cấp tính và tái phát, chàm lòng bàn tay chân cấp tính, chàm nội sinh có mụn nước, cheiropompholyx (ảnh hưởng đến tay), podopompholyx hoặc pedopompholyx (ảnh hưởng đến chân), và cheiropodopompholyx.
+
+![Mụn nước và bóng nước riêng biệt trên da lòng bàn tay](https://dermnetnz.org/assets/Uploads/dermatitis/pompholyx/3529.jpg)
+
+Mụn nước và bóng nước riêng biệt trên da lòng bàn tay
+
+![Mụn nước và bóng nước trên ngón tay trong chàm có mụn nước](https://dermnetnz.org/assets/Uploads/dermatitis/pompholyx/3519.jpg)
+
+Mụn nước và bóng nước trên ngón tay trong chàm có mụn nước
+
+![Mụn nước và bóng nước rộng rãi trên lòng bàn chân - chàm có mụn nước thường đối xứng](https://dermnetnz.org/assets/Uploads/dermatitis/pompholyx/3538.jpg)
+
+Mụn nước và bóng nước rộng rãi trên lòng bàn chân - chàm có mụn nước thường đối xứng
+
+[Bấm vào đây để xem thêm hình ảnh](https://dermnetnz.org/images/dyshidrotic-eczema-images)
+
+## Ai bị chàm tổ đỉa?
+
+Tỷ lệ chính xác của chàm tổ đỉa (pompholyx) không được biết. Khoảng 20% bệnh nhân được đánh giá trong phòng khám [thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) cho [viêm da tay](https://dermnetnz.org/topics/hand-dermatitis) có chàm tổ đỉa (pompholyx). Sự xuất hiện dường như không liên quan đến tuổi tác hay giới tính.
+
+## Nguyên nhân gây ra chàm tổ đỉa là gì?
+
+Nguyên nhân của chàm tổ đỉa (pompholyx) không được biết.
+
+Nó không liên quan đến sự tắc nghẽn của tuyến mồ hôi như đã nghĩ khi bệnh được nhận diện hơn 100 năm trước, nhưng có một số yếu tố liên quan đến rối loạn này, bao gồm:
+
+- [Atopy](https://dermnetnz.org/topics/atopy) — bằng chứng không đồng nhất với một số báo cáo nó là một yếu tố nguy cơ và một số khác không
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis):
+  - [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) với nhiều kháng nguyên bao gồm [niken](https://dermnetnz.org/topics/nickel-allergy), [chromium](https://dermnetnz.org/topics/chrome-allergy), và [cobalt](https://dermnetnz.org/topics/allergy-to-cobalt)
+  - [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) có thể làm trầm trọng thêm tình trạng này.
+- [Nhiễm nấm](https://dermnetnz.org/topics/fungal-skin-infections) — Tinea pedis có thể liên quan đến một đợt bùng phát giống chàm tổ đỉa
+- [Quang cảm ứng](https://dermnetnz.org/topics/phototherapy) — liên quan đến tiếp xúc với tia cực tím A
+- [Liệu pháp miễn dịch](https://dermnetnz.org/topics/intravenous-immunoglobulin)
+- [Tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) — đổ mồ hôi quá mức là một yếu tố làm trầm trọng thêm
+- Các yếu tố khác:
+  - Biến đổi theo mùa cũng có thể làm trầm trọng thêm sự tái phát
+  - [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+  - [Thuốc tránh thai uống](https://dermnetnz.org/topics/oral-contraceptive)
+  - Aspirin.
+
+## Các đặc điểm lâm sàng của chàm tổ đỉa là gì?
+
+Chàm tổ đỉa (pompholyx) là một tình trạng mãn tính, tái phát và xuất hiện dưới dạng các mụn nước nhỏ, sâu, chứa đầy dịch (mụn nước) ở hai bên ngón tay, tay và chân.
+
+- Các mụn nước nhỏ (1–2mm), thường đối xứng, không có ban đỏ kèm theo, và không xuất hiện ở nơi khác trên cơ thể. Mụn nước có thể hợp nhất thành các bóng nước lớn hơn.
+- Nó cực kỳ [ngứa](https://dermnetnz.org/topics/pruritus).
+- Các mụn nước thường tự khỏi sau 2–3 tuần với hiện tượng bong vảy.
+
+Mụn nước cũng có thể xuất hiện trong các loại [viêm da tay](https://dermnetnz.org/topics/hand-dermatitis) khác.
+
+[Bấm vào đây để xem hình ảnh](https://dermnetnz.org/images/dyshidrotic-eczema-images)
+
+## Các đặc điểm lâm sàng thay đổi như thế nào trong các loại da khác nhau?
+
+Chàm tổ đỉa (pompholyx) được mô tả là giống 'hạt trân châu' trong các loại [da tối màu](https://dermnetnz.org/topics/skin-phototype), nhấn mạnh sự tương phản màu sắc lớn hơn của các mụn nước so với da ít sắc tố hơn.
+
+## Các biến chứng của chàm tổ đỉa là gì?
+
+Chàm tổ đỉa (pompholyx) có thể dẫn đến:
+
+- Nhiễm trùng [thứ phát](https://dermnetnz.org/topics/skin-infections), ví dụ, nhiễm khuẩn với _[Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection)_ hoặc [_Streptococcus pyogenes_](https://dermnetnz.org/topics/streptococcal-skin-infections) gây ra viêm bạch huyết và viêm mô tế bào
+- [Paronychia](https://dermnetnz.org/topics/paronychia) và loạn dưỡng móng nếu gần hoặc gần nếp gấp móng
+- Khuyết tật thể chất và tâm lý; chi phí kinh tế tiềm năng do mất cơ hội làm việc.
+
+## Chàm tổ đỉa được chẩn đoán như thế nào?
+
+Đây là một chẩn đoán lâm sàng vì lịch sử và biểu hiện lâm sàng là điển hình khi các nguyên nhân khác bị loại trừ.
+
+- Sự tham gia một bên là nghi ngờ cho một nhiễm nấm (ví dụ, [tinea manuum](https://dermnetnz.org/topics/tinea-manuum) hoặc [tinea pedis](https://dermnetnz.org/topics/tinea-pedis)), và [cạo da](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) nên được thực hiện để [nấm học](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections).
+- [Thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) có thể được xem xét trong các trường hợp mãn tính hoặc không điển hình khi có nghi ngờ về nguyên nhân dị ứng tiếp xúc.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) hiếm khi cần thiết, và cho thấy một chàm spongiotic.
+
+## Chẩn đoán phân biệt cho chàm tổ đỉa là gì?
+
+Chẩn đoán phân biệt bao gồm các tình trạng da sau:
+
+- [Vảy nến mụn mủ lòng bàn tay chân](https://dermnetnz.org/topics/palmoplantar-pustulosis)
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/irritant-contact-dermatitis) ( [kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) hoặc [dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis))
+- Tinea ( [manuum](https://dermnetnz.org/topics/tinea-manuum) và [pedis](https://dermnetnz.org/topics/tinea-pedis))
+- [Ghẻ](https://dermnetnz.org/topics/scabies)
+- [Pemphigoid bóng nước](https://dermnetnz.org/topics/bullous-pemphigoid).
+
+## Điều trị chàm tổ đỉa là gì?
+
+### Biện pháp chung
+
+- Tránh các yếu tố làm trầm trọng thêm nếu có thể.
+- Ngâm [thuốc tím kali](https://dermnetnz.org/topics/potassium-permanganate) có thể hữu ích trong giai đoạn cấp tính.
+
+### Biện pháp cụ thể
+
+- Điều trị tại chỗ:
+
+  - [steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) (thường mạnh hoặc cực mạnh)
+  - [Pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) và [tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+  - Gel [Bexarotene](https://dermnetnz.org/topics/bexarotene)
+  - Sử dụng thường xuyên [chất làm mềm và dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers)
+  - [Iontophoresis](https://dermnetnz.org/topics/iontophoresis) hoặc [botulinum toxin](https://dermnetnz.org/topics/botulinum-toxin) khi được sử dụng cho [tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis)
+  - [Thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) nếu được chỉ định cho nhiễm nấm đã được xác nhận.
+- [Quang trị liệu](https://dermnetnz.org/topics/phototherapy):
+  - Psoralens tại chỗ và ánh sáng cực tím A (t [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy)).
+- Điều trị toàn thân:
+
+  - [Thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines)
+  - Một đợt ngắn [corticosteroid uống](https://dermnetnz.org/topics/systemic-steroids) để giảm ngay lập tức
+  - Kháng sinh uống hoặc [thuốc chống nấm](https://dermnetnz.org/topics/oral-antifungal-medication) nếu được chỉ định cho nhiễm trùng da thứ phát
+  - Các tác nhân hàng thứ hai bao gồm [methotrexate](https://dermnetnz.org/topics/methotrexate), [ciclosporin](https://dermnetnz.org/topics/ciclosporin), [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine), và [mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+  - [Retinoids uống](https://dermnetnz.org/topics/oral-retinoids) bao gồm [alitretinoin](https://dermnetnz.org/topics/alitretinoin), [acitretin](https://dermnetnz.org/topics/acitretin), và [isotretinoin](https://dermnetnz.org/topics/isotretinoin)
+  - [Tác nhân sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) bao gồm [dupilumab](https://dermnetnz.org/topics/dupilumab).
+
+## Kết quả cho chàm tổ đỉa là gì?
+
+Rối loạn có thể là mãn tính và chu kỳ. Điều trị hàng thứ hai ngắn hạn hoặc dài hạn có thể cần thiết tùy thuộc vào hành vi của bệnh. Tuy nhiên, đối với nhiều người, rối loạn sẽ ổn định theo thời gian và các phương pháp điều trị có thể được rút lại.
+
+[Bấm vào đây để xem hình ảnh](https://dermnetnz.org/images/dyshidrotic-eczema-images)
+
+### Thư mục
+
+- Gladys TE, Maczuga S, Flamm A. Đặc điểm nhân khẩu học và chi phí chăm sóc cho chàm tổ đỉa. Contact Dermatitis. 2022 Feb;86(2):107-112. doi 10.1111/cod.14007. [Tạp chí](https://onlinelibrary.wiley.com/doi/abs/10.1111/cod.14007)
+- Liu C, Toy J. Chàm tổ đỉa nặng ở da màu. J Cutan Med Surg. 2022;26(6):648. doi 10.1177/12034754221101542. [Tạp chí](https://journals.sagepub.com/doi/10.1177/12034754221101542?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+- Lofgren SM, Warshaw EM. Dyshidrosis: dịch tễ học, đặc điểm lâm sàng và liệu pháp. Dermatitis. 2006 Dec;17(4):165–181. doi 10.2310/6620.2006.05021. [Tóm tắt](https://www.liebertpub.com/doi/full/10.2310/6620.2006.05021)
+- Magina S, Barros MA, Ferreira JA, Mesquita-Guimarães J. Atopy, nhạy cảm với niken, nghề nghiệp, và các mẫu lâm sàng trong các loại viêm da tay khác nhau. Am J Contact Dermat. 2003 Jun;14(2):63–8. PMID 14749022 [Tạp chí](https://www.liebertpub.com/doi/abs/10.1053/ajcd.2003.3161?journalCode=ajcd)
+- Masuda-Kuroki K, Murakami M, Kishibe M, Kobayashi S, Okubo Y, Yamamoto T, et al. Các đặc điểm mô học chẩn đoán phân biệt pustulosis lòng bàn tay chân với pompholyx. J Dermatol. 2019 May;46(5):399-408. doi 10.1111/1346-8138.14850. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/1346-8138.14850)
+- Waldman RA, DeWane ME, Sloan B, Grant-Kels JM, Lu J. Dupilumab cho điều trị chàm tổ đỉa ở 15 bệnh nhân liên tiếp. J Am Acad Dermatol. 2020 May;82(5):1251–2. doi 10.1016/j.jaad.2019.12.053. [Tạp chí](https://www.jaad.org/article/S0190-9622(20)30027-X/fulltext)
+- Wollina U. Pompholyx: một đánh giá về các đặc điểm lâm sàng, chẩn đoán phân biệt và quản lý. Am J Clin Dermatol. 2010;11(5):305–14. doi 10.2165/11533250-000000000-00000. [Tạp chí](https://link.springer.com/article/10.2165/11533250-000000000-00000)
+
+### Trên DermNet
+
+- [Hình ảnh chàm tổ đỉa](https://dermnetnz.org/images/dyshidrotic-eczema-images)
+- [Viêm da](https://dermnetnz.org/topics/dermatitis)
+- [Viêm da tay](https://dermnetnz.org/topics/hand-dermatitis)
+- [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis)
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- [Dị ứng niken](https://dermnetnz.org/topics/nickel-allergy)
+- [Dị ứng chrome](https://dermnetnz.org/topics/chrome-allergy)
+- [Dị ứng với cobalt](https://dermnetnz.org/topics/allergy-to-cobalt)
+- [Các tình trạng da có bóng nước](https://dermnetnz.org/topics/blistering-skin-conditions)
+
+### Các trang web khác
+
+- [Chàm tổ đỉa](https://www.aad.org/public/diseases/eczema/types/dyshidrotic-eczema) — Học viện Da liễu Hoa Kỳ
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

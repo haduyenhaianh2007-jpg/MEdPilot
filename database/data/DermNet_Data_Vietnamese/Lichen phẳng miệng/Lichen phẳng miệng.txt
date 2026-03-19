@@ -1,0 +1,214 @@
+##### Lichen phẳng miệng — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+OLP
+
+Danh mục:
+
+Tự miễn/dị ứng viêm
+
+ICD-10:
+
+L43.9, D89.811, L43.8
+
+ICD-11:
+
+EA91.4, EA91.40, EA91.41, EA91.42, EA91.4Y
+
+SNOMED CT:
+
+235049008, 238665009, 718068005, 238664008, 24511006, 238666005, 238667001, 238662007, 238663002, 707249009, 703133002, 402247009
+
+**[Tự miễn/dị ứng viêm](https://dermnetnz.org/topics?category=Autoimmune/autoinflammatory)**
+
+# **Lichen phẳng miệng**
+
+Tác giả: Kim Gear, Thực tập sinh Y học miệng, Auckland, New Zealand, 2007. Cập nhật bởi A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Tháng 1 năm 2018. Sửa đổi nhỏ bởi Ian Coulson. Tháng 7 năm 2024.
+
+[Giới thiệu](https://dermnetnz.org/topics/oral-lichen-planus#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/oral-lichen-planus#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/oral-lichen-planus#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/oral-lichen-planus#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/oral-lichen-planus#Diagnosis%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/oral-lichen-planus#Complications%3Cbr%20/%3E) [Quản lý](https://dermnetnz.org/topics/oral-lichen-planus#Management%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/oral-lichen-planus#Outcome)
+
+## Lichen phẳng miệng là gì?
+
+Lichen phẳng miệng là [lichen phẳng](https://dermnetnz.org/topics/lichen-planus) bên trong miệng. Lichen phẳng là một tình trạng viêm da mãn tính.
+
+![Lichen phẳng dạng lưới](https://dermnetnz.org/assets/Uploads/scaly/olp2.jpg)
+
+Lichen phẳng dạng lưới
+
+![Lichen phẳng dạng xói mòn](https://dermnetnz.org/assets/Uploads/scaly/olp3.jpg)
+
+Lichen phẳng dạng xói mòn
+
+![Lichen phẳng dạng mảng](https://dermnetnz.org/assets/Uploads/scaly/olp1.jpg)
+
+Lichen phẳng dạng mảng
+
+## Ai bị lichen phẳng miệng?
+
+Lichen phẳng ảnh hưởng đến khoảng 1–2% dân số trưởng thành. Nó thường ảnh hưởng đến người lớn trên 45 tuổi, với độ tuổi trung bình khi chẩn đoán là 50–60 tuổi, mặc dù nó có thể ảnh hưởng đến người lớn trẻ tuổi và trẻ em. Nó phổ biến hơn ở phụ nữ so với nam giới (1.4: 1). Đôi khi có tiền sử lichen phẳng trong gia đình.
+
+Lichen phẳng miệng ảnh hưởng đến 50% bệnh nhân có [lichen phẳng](https://dermnetnz.org/topics/lichen-planus) trên da nhưng có thể xảy ra mà không có tổn thương da ở nơi khác.
+
+## Nguyên nhân của lichen phẳng miệng là gì?
+
+Nguyên nhân chính xác của lichen phẳng miệng chưa được hiểu rõ hoàn toàn. Nó liên quan đến tế bào lympho T CD8+ gây độc tế bào và cytokine tiền viêm, tấn công các tế bào biểu mô miệng — dẫn đến cái chết của chúng. Phản ứng miễn dịch được điều hòa bởi các tế bào đặc hiệu kháng nguyên.
+
+Trong hầu hết các trường hợp, lichen phẳng miệng là vô căn, khi phản ứng được cho là chống lại tự kháng nguyên. Trong các trường hợp khác, nó có thể được kích hoạt bởi các kháng nguyên ngoại sinh được mô tả dưới đây.
+
+- Thuốc — điều này được gọi là [phản ứng thuốc lichenoid miệng](https://dermnetnz.org/topics/oral-lichenoid-drug-eruption). Nó thường do liệu pháp [vàng](https://dermnetnz.org/topics/gold). Các loại thuốc khác bao gồm một số [kháng sinh](https://dermnetnz.org/topics/antibiotics), [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects), [thuốc chống sốt rét](https://dermnetnz.org/topics/antimalarial), thuốc dùng để điều trị tăng huyết áp và bệnh tim, và thuốc kháng retrovirus. Những loại thuốc này thường gây ra [phát ban lichenoid trên da](https://dermnetnz.org/topics/lichenoid-drug-eruption), với miệng bị ảnh hưởng ít hơn.
+- Chất gây dị ứng tiếp xúc trong [vật liệu phục hồi nha khoa](https://dermnetnz.org/topics/occupational-skin-disorders-in-dentists-and-dental-technicians) (thủy ngân, niken, vàng, nhựa, acrylates) hoặc [kem đánh răng](https://dermnetnz.org/topics/contact-reactions-to-toothpaste-and-other-oral-hygiene-products), đặc biệt là bạc hà. Những chất này có thể được xác định bằng cách [thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) cẩn thận.
+- [Nhiễm virus](https://dermnetnz.org/topics/viral-skin-infections), đặc biệt là [viêm gan C](https://dermnetnz.org/topics/viral-hepatitis)
+
+Tổn thương lichenoid miệng cũng là một phần của phổ bệnh [ghép chống chủ](https://dermnetnz.org/topics/graft-versus-host-disease) mãn tính xảy ra sau khi ghép tủy xương.
+
+Các nghiên cứu đã chứng minh mức vitamin D trong huyết thanh thấp hơn ở những người bị lichen phẳng miệng so với nhóm đối chứng.
+
+![Phản ứng thuốc lichenoid](https://dermnetnz.org/assets/Uploads/scaly/olp6.jpg)
+
+Phản ứng thuốc lichenoid
+
+![Phản ứng lichenoid với amalgam](https://dermnetnz.org/assets/Uploads/scaly/olp4.jpg)
+
+Phản ứng lichenoid với amalgam
+
+![Bệnh ghép chống chủ](https://dermnetnz.org/assets/Uploads/scaly/olp5.jpg)
+
+Bệnh ghép chống chủ
+
+## Đặc điểm lâm sàng của lichen phẳng miệng là gì?
+
+Lichen phẳng miệng có thể ảnh hưởng đến bất kỳ hoặc tất cả các khu vực bên trong miệng. Nó có thể được kích hoạt bởi căng thẳng tâm lý xã hội hoặc chấn thương cơ học tại chỗ.
+
+Lichen phẳng miệng có thể xuất hiện dưới các dạng sau và thường là hỗn hợp các loại.
+
+Lichen phẳng dạng lưới
+
+- Mẫu đối xứng dạng ren trắng trên niêm mạc má (mặt trong của má)
+- Có thể không có triệu chứng hoặc khó chịu và đau nhức.
+- Có thể ảnh hưởng đến lưỡi hoặc nướu
+- Có thể loét
+
+Lichen phẳng dạng teo/xói mòn
+
+- Tổn thương đỏ thường có viền trắng
+- Có thể gây xói mòn (loét nông)
+- Thường ảnh hưởng đến nướu (lợi) và môi
+- Có thể rất đau
+- Có thể liên quan đến lichen phẳng xói mòn ảnh hưởng đến các vị trí sinh dục
+
+Lichen phẳng miệng dạng mảng
+
+- Thường thấy ở người hút thuốc
+- Các mảng trắng hợp nhất tương tự như keratoses miệng
+
+![Mẫu dạng lưới](https://dermnetnz.org/assets/Uploads/lichen-planus-reticular.jpg)
+
+Mẫu dạng lưới
+
+![Mẫu dạng xói mòn](https://dermnetnz.org/assets/Uploads/scaly/olp7.jpg)
+
+Mẫu dạng xói mòn
+
+![Mẫu dạng mảng](https://dermnetnz.org/assets/Uploads/lichentong1.jpg)
+
+Mẫu dạng mảng
+
+## Chẩn đoán lichen phẳng miệng được thực hiện như thế nào?
+
+Chẩn đoán lichen phẳng miệng thường được thực hiện dựa trên hình thức lâm sàng của nó. [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) mô có thể hữu ích, khi các đặc điểm đặc trưng của lichen phẳng có thể được quan sát. Sinh thiết có thể giúp loại trừ các tình trạng miệng khác có phản ứng lichenoid, chẳng hạn như phản ứng lichenoid do thuốc, [lupus ban đỏ miệng](https://dermnetnz.org/topics/discoid-lupus-erythematosus), hoặc phản ứng lichenoid tiếp xúc.
+
+Dưới kính hiển vi, nhà bệnh lý học có thể quan sát một [phản ứng lichenoid](https://dermnetnz.org/topics/oral-lichenoid-drug-eruption) đặc trưng. [Miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) có thể cho thấy nhuộm dương tính với fibrinogen, immunoglobulin và [bổ thể](https://dermnetnz.org/topics/the-complement-system).
+
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) thường được thực hiện để loại trừ [ung thư miệng](https://dermnetnz.org/topics/oral-cancer).
+
+## Biến chứng của lichen phẳng miệng là gì?
+
+Lichen phẳng miệng có thể rất đau và loét có thể dẫn đến sẹo. Đôi khi việc ăn uống trở nên khó chịu đến mức người bị ảnh hưởng không thể duy trì dinh dưỡng đầy đủ.
+
+Lichen phẳng, đặc biệt là [dạng xói mòn](https://dermnetnz.org/topics/erosive-lichen-planus), có thể hiếm khi dẫn đến [ung thư miệng](https://dermnetnz.org/topics/oral-cancer) (ung thư biểu mô tế bào vảy). Các vết loét dai dẳng và các nốt sần lớn nên được sinh thiết.
+
+### Lichen phẳng miệng và ung thư biểu mô tế bào vảy
+
+![Ung thư ổ răng](https://dermnetnz.org/assets/Uploads/site-age-specific/w/oral-cancer.jpg)
+
+Ung thư ổ răng
+
+## Quản lý lichen phẳng miệng
+
+Điều quan trọng là xác định và loại bỏ hoặc tránh bất kỳ tác nhân tiềm năng nào có thể đã gây ra [phản ứng lichenoid](https://dermnetnz.org/topics/lichenoid-drug-eruption), chẳng hạn như các loại thuốc đã được bắt đầu trong những tháng gần đây và [chất gây dị ứng tiếp xúc](https://dermnetnz.org/topics/contact-allergens) được xác định bằng [thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests).
+
+Hầu hết mọi người đạt được kiểm soát triệu chứng thỏa đáng với các biện pháp sau.
+
+- Vệ sinh miệng kỹ lưỡng: đánh răng và nướu, thăm khám nha sĩ thường xuyên, súc miệng hàng tuần với chlorhexidine hoặc benzydamine pha loãng
+- Nếu [kem đánh răng](https://dermnetnz.org/topics/contact-reactions-to-toothpaste-and-other-oral-hygiene-products) tiêu chuẩn gây kích ứng, hãy thử các sản phẩm không chứa sodium lauryl sulphate
+- Bổ sung vitamin D (nếu cần)
+- Ngừng [hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Gel [cúc la mã](https://dermnetnz.org/topics/chamomile) bôi tại chỗ
+- Gel [gây tê](https://dermnetnz.org/topics/local-anaesthesia) bôi tại chỗ
+- [Retinoid bôi tại chỗ](https://dermnetnz.org/topics/topical-retinoids), ví dụ như tretinoin hoặc isotretinoin gel
+- [Steroid bôi tại chỗ](https://dermnetnz.org/topics/topical-steroid) dưới dạng giọt, kem, gel hoặc xịt, ví dụ, triamcinolone trong kem dưỡng ẩm nha khoa, chế phẩm mũi fluticasone, và clobetasol propionate dưới nhiều dạng khác nhau. Steroid bôi tại chỗ có thể được đưa đến lichen phẳng miệng ảnh hưởng đến nướu trong một khay thuốc polyvinyl siloxane, giữ tại chỗ trong vài giờ.
+- Tiêm steroid ([triamcinolone nội tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection))
+- Súc miệng chứa dexamethasone (1 mg hòa tan trong 10 ml nước ấm) hoặc [chất ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) ([ciclosporin](https://dermnetnz.org/topics/ciclosporin) hoặc [tacrolimus](https://dermnetnz.org/topics/tacrolimus)); sau đó nhổ ra.
+
+Trong các trường hợp nghiêm trọng, [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) có thể được sử dụng.
+
+Các tác nhân điều trị khác có thể bao gồm:
+
+- Retinoid toàn thân ([acitretin](https://dermnetnz.org/topics/acitretin) hoặc [isotretinoin](https://dermnetnz.org/topics/isotretinoin)) - trong một thử nghiệm ngẫu nhiên, việc thêm acitretin vào steroid bôi tại chỗ đã ảnh hưởng đến sự cải thiện đáng kể
+- [Griseofulvin](https://dermnetnz.org/topics/griseofulvin)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)
+- [Methotrexate](https://dermnetnz.org/topics/chamomile)
+- [Mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Metronidazole](https://dermnetnz.org/topics/metronidazole)
+- [Roflumilast](https://dermnetnz.org/topics/roflumilast) uống
+- [Thalidomide](https://dermnetnz.org/topics/thalidomide)
+- Heparin trọng lượng phân tử thấp.
+
+Các loại thuốc phân tử nhắm mục tiêu đang được điều tra để điều trị bệnh khó chữa, với [apremilast](https://dermnetnz.org/topics/apremilast) được báo cáo hiệu quả ở một số bệnh nhân.
+
+## Kết quả của lichen phẳng là gì?
+
+Tiên lượng cho lichen phẳng miệng là không chắc chắn. Nó có thể tự khỏi trong vài tháng hoặc kéo dài (có hoặc không có điều trị) trong nhiều thập kỷ. Thường có các giai đoạn thuyên giảm và tái phát.
+
+### Tài liệu tham khảo
+
+- Lopez Jornet, P. và Aznar-Cayuela, C. (2016), Hiệu quả của quản lý cúc la mã bôi tại chỗ so với giả dược ở bệnh nhân lichen phẳng miệng: một nghiên cứu ngẫu nhiên mù đôi. J Eur Acad Dermatol Venereol, 30: 1783–1786. doi:10.1111/jdv.13770. [Tạp chí](http://onlinelibrary.wiley.com/doi/10.1111/jdv.13770/full).
+- Bettencourt M. Lichen phẳng miệng được điều trị bằng Apremilast. J Drugs Dermatol. 2016 Aug 1;15(8):1026–8. PubMed PMID: 27538007. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27538007).
+- Thanyavuthi A, Boonchai W, Kasemsarn P. Dị ứng tiếp xúc với amalgam trong tổn thương lichenoid miệng. Dermatitis. 2016 Jul-Aug;27(4):215–21. doi: 10.1097/DER.0000000000000204. PubMed PMID: 27323234. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27323234).
+- Singh AR, Rai A, Aftab M, Jain S, Singh M. Hiệu quả của các tác nhân steroid so với không steroid trong lichen phẳng miệng: một nghiên cứu ngẫu nhiên, mở. J Laryngol Otol. 2017 Jan;131(1):69–76. Epub 2016 Dec 5. PubMed PMID: 27917729. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27917729).
+- Nogueira PA, Carneiro S, Ramos-e-Silva M. Lichen phẳng miệng: cập nhật về cơ chế bệnh sinh của nó. Int J Dermatol. 2015 Sep;54(9):1005–10. doi: 10.1111/ijd.12918. Epub 2015 Jul 3. Review. PubMed PMID: 26147778. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26147778).
+- Krupaa RJ, Sankari SL, Masthan KM, Rajesh E. Lichen phẳng miệng: Tổng quan. J Pharm Bioallied Sci. 2015 Apr;7(Suppl 1):S158–61. doi: 10.4103/0975-7406.155873. Review. PubMed PMID: 26015696; PubMed Central PMCID: PMC4439656. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4439656/).
+- Saeed S, Choudhury P, Ahmad SA, et al. Vitamin D trong điều trị lichen phẳng miệng: Một đánh giá có hệ thống. Biomedicines. 2022;10(11):2964. Published 2022 Nov 17. doi:10.3390/biomedicines10112964 [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9687323/pdf/biomedicines-10-02964.pdf)
+- Vinay K, Kumar S, Dev A, et al. Acitretin miệng cộng với Triamcinolone bôi tại chỗ so với Triamcinolone bôi tại chỗ đơn trị liệu ở bệnh nhân lichen phẳng miệng có triệu chứng: Một thử nghiệm lâm sàng ngẫu nhiên. JAMA Dermatol. 2024;160(1):80–7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38055232/)
+
+### Trên DermNet
+
+- [Lichen phẳng](https://dermnetnz.org/topics/lichen-planus)
+- [Phát ban thuốc lichenoid](https://dermnetnz.org/topics/lichenoid-drug-eruption)
+- [Phản ứng lichenoid với amalgam](https://dermnetnz.org/topics/lichenoid-amalgam-reaction)
+- [Phản ứng thuốc lichenoid miệng](https://dermnetnz.org/topics/oral-lichenoid-drug-eruption)
+- [Lichen phẳng dạng xói mòn](https://dermnetnz.org/topics/erosive-lichen-planus)
+- [Phát ban thuốc](https://dermnetnz.org/topics/drug-eruptions)
+- [Viêm nướu và viêm nha chu](https://dermnetnz.org/topics/gingivitis-and-periodontitis)
+- [Thuốc chống sốt rét trong da liễu](https://dermnetnz.org/topics/antimalarial)
+- [Viêm niêm mạc tế bào plasma](https://dermnetnz.org/topics/plasma-cell-mucositis)
+
+### Các trang web khác
+
+- [Lichen phẳng miệng](https://www.bad.org.uk/pils/oral-lichen-planus/) — Hiệp hội Da liễu Anh
+- [UK Lichen Planus](http://www.uklp.org.uk/)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ hiểu_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

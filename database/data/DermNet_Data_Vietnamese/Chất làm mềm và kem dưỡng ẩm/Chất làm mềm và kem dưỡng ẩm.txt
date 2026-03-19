@@ -1,0 +1,190 @@
+##### Chất làm mềm và kem dưỡng ẩm — thông tin bổ sung
+
+Danh mục:
+
+Điều trị
+
+ICD-11:
+
+EK02.03, NE60
+
+SNOMED CT:
+
+37338003, 48279009, 294193001, 292651000
+
+**[Điều trị](https://dermnetnz.org/topics?category=Treatments)**
+
+# **Chất làm mềm và kem dưỡng ẩm**
+
+Tác giả: Bác sĩ Libby Whittaker, Nhà văn, New Zealand (2022); Bác sĩ Amanda Oakley, Chuyên gia Da liễu (2016)
+
+Những người đóng góp trước đây: Bác sĩ Mark Duffill, Chuyên gia Da liễu (1998); Isabella Boileau và Justin Mori (2019)
+
+Chỉnh sửa bởi bộ phận nội dung DermNet
+
+[Giới thiệu](https://dermnetnz.org/topics/emollients-and-moisturisers#Introduction%3Cbr%20/%3E) [Công dụng](https://dermnetnz.org/topics/emollients-and-moisturisers#Uses%3Cbr%20/%3E) [Thành phần](https://dermnetnz.org/topics/emollients-and-moisturisers#Ingredients%3Cbr%20/%3E) [Cách sử dụng](https://dermnetnz.org/topics/emollients-and-moisturisers#How%20to%20use%3Cbr%20/%3E) [Lợi ích](https://dermnetnz.org/topics/emollients-and-moisturisers#Benefits%3Cbr%20/%3E) [Tác dụng phụ và rủi ro](https://dermnetnz.org/topics/emollients-and-moisturisers#Side-effects%20and%20risks)
+
+## Chất làm mềm và kem dưỡng ẩm là gì?
+
+Kem dưỡng ẩm là sản phẩm được sử dụng để bổ sung độ ẩm cho da. Chất làm mềm là sản phẩm được sử dụng để làm mềm và mịn da (ví dụ, lanolin, glycerol stearate). Mặc dù các thuật ngữ chất làm mềm và kem dưỡng ẩm thường được sử dụng đồng nghĩa, chất làm mềm cũng có thể được mô tả như một thành phần cụ thể của kem dưỡng ẩm.
+
+Thường có nhiều loại kem dưỡng ẩm có sẵn. Các lựa chọn bao gồm:
+
+- Dầu
+- Lotion
+- Kem
+- Gel
+- Thuốc mỡ.
+
+Kem cetomacrogol và glycerine (sorbolene với glycerine) là một loại kem dưỡng ẩm đa dụng không nhờn, rẻ tiền và có sẵn với số lượng lớn mà không cần kê đơn.
+
+![Túi tự chọn chất làm mềm cho phép thử nghiệm tại nhà với nhiều loại chất làm mềm, sau đó đặt hàng số lượng lớn sản phẩm ưa thích](https://dermnetnz.org/assets/Non-clinical-images/emollient-self-selection-bag-v2.jpg)
+
+Túi tự chọn chất làm mềm cho phép thử nghiệm tại nhà với nhiều loại chất làm mềm, sau đó đặt hàng số lượng lớn sản phẩm ưa thích
+
+![Một loạt các chất làm mềm từ nhẹ đến rất nhờn - 'loại phù hợp là loại mà bệnh nhân thích'](https://dermnetnz.org/assets/Non-clinical-images/various-kinds-of-emollients.jpg)
+
+Một loạt các chất làm mềm từ nhẹ đến rất nhờn - 'loại phù hợp là loại mà bệnh nhân thích'
+
+## Chất làm mềm và kem dưỡng ẩm được sử dụng để làm gì?
+
+Công dụng của kem dưỡng ẩm bao gồm:
+
+- Giảm khô da ([xerosis](https://dermnetnz.org/topics/dry-skin)) và bong tróc ([ichthyosis](https://dermnetnz.org/topics/ichthyosis))
+- Giảm mất nước qua biểu bì (TEWL)
+- Duy trì tính toàn vẹn, độ linh hoạt và [chức năng hàng rào](https://dermnetnz.org/topics/barrier-function-in-atopic-dermatitis) của da
+- Giảm triệu chứng ngứa da
+- Điều trị các tình trạng da như [viêm da dị ứng (eczema)](https://dermnetnz.org/topics/atopic-dermatitis) và ngăn ngừa bùng phát
+- Che giấu nếp nhăn và đường nhăn
+- Tạo nền cho các [sản phẩm mỹ phẩm](https://dermnetnz.org/topics/cosmetic-camouflage) khác như trang điểm.
+
+## Kem dưỡng ẩm chứa những gì?
+
+Thành phần của kem dưỡng ẩm bao gồm chất làm mềm, chất tạo màng và chất hút ẩm. Kem dưỡng ẩm cũng có thể chứa các thành phần khác như chất hoạt động bề mặt ([chất tẩy rửa](https://dermnetnz.org/topics/soaps-and-cleansers)), hương liệu và chất bảo quản. Các sản phẩm được pha chế đặc biệt có thể báo cáo tác dụng kháng khuẩn, chống ngứa và chống viêm.
+
+### Chất làm mềm
+
+Có nhiều loại chất làm mềm khác nhau, chúng chứa các chất dầu như lanolin, glyceryl stearate và sterol đậu nành, làm mềm và mịn da bằng cách lấp đầy các vết nứt trên lớp ngoài cùng của da.
+
+### Chất tạo màng
+
+Chất tạo màng cung cấp một lớp dầu kỵ nước (ưa dầu) trên bề mặt da, tạo thành một hàng rào bảo vệ để giảm mất nước bay hơi từ lớp sừng (lớp ngoài cùng của biểu bì).
+
+Ví dụ về các thành phần tạo màng:
+
+- Sáp dầu
+- Paraffin
+- Dầu khoáng
+- Dimethicone (một thành phần của nhiều loại kem tạo màng được sử dụng để quản lý [viêm da tay](https://dermnetnz.org/topics/hand-dermatitis)).
+
+Các sản phẩm sau được sắp xếp từ nhiều nhất đến ít tạo màng nhất:
+
+- Thuốc mỡ — tốt nhất cho các khu vực khô, dày, có vảy; hiệu quả bảo vệ lâu dài do hàm lượng dầu cao hơn, nhưng một số bệnh nhân thấy chúng quá nhờn, đặc biệt là ở các khu vực dễ thấy
+- Kem — phù hợp để bôi rộng; nhẹ hơn thuốc mỡ nên hấp thụ nhanh hơn nhưng cũng cần bôi thường xuyên hơn
+- Lotion — thường được sử dụng cho các khu vực có lông như da đầu, và/hoặc cho khô nhẹ ở nơi khác
+- Dầu — ví dụ, dầu tắm tạo một lớp dầu mỏng trên da khi ra khỏi nước. Một nghiên cứu đã chứng minh chức năng hàng rào da giảm khi sử dụng dầu tắm thường xuyên ở trẻ sơ sinh dưới 12 tháng tuổi.
+
+### Chất hút ẩm
+
+Chất hút ẩm là các chất ưa nước ('yêu nước'), do đó thu hút và giữ nước trong lớp sừng, tương tự như các yếu tố dưỡng ẩm tự nhiên có trong tế bào sừng. Chúng bao gồm:
+
+- Glycerine
+- [Urea](https://dermnetnz.org/topics/urea)
+- [Acid alpha hydroxy](https://dermnetnz.org/topics/alpha-hydroxy-acid-facial-treatments) (ví dụ, acid lactic hoặc acid glycolic)
+- [Acid salicylic](https://dermnetnz.org/topics/salicylic-acid).
+
+Urea và các chế phẩm acid khác thường gây châm chích nếu bôi lên da bị trầy xước hoặc nứt nẻ. Chúng cũng có tác dụng [keratolytic](https://dermnetnz.org/topics/keratolytic-agents), tức là có tác dụng làm bong tróc hoặc lột da, điều này quan trọng trong việc quản lý [ichthyosis](https://dermnetnz.org/topics/ichthyosis).
+
+### Chất bảo quản
+
+Kem và lotion dễ bị nhiễm khuẩn và chất bảo quản (ví dụ, [parabens](https://dermnetnz.org/topics/allergy-to-parabens), chất giải phóng formaldehyde và isothiazolinones) được thêm vào để cải thiện thời hạn sử dụng. Chất bảo quản trong kem dưỡng ẩm có thể dẫn đến [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/contact-allergy-to-preservatives) ở những người nhạy cảm.
+
+### Các thành phần khác
+
+- Thành phần chống ngứa: bao gồm lauromacrogols (có tác dụng gây tê nhẹ), menthol và bột yến mạch;
+- Thành phần chống viêm: bao gồm hoa cúc, lô hội và bơ hạt mỡ.
+
+Nhiều chất bổ sung khác có thể được thêm vào kem dưỡng ẩm để thu hút người tiêu dùng. Hãy lưu ý rằng các tuyên bố tiếp thị về các thành phần này trong việc giảm dấu hiệu lão hóa da có thể gây hiểu lầm. Các phân tử lớn như peptide và collagen không thể thẩm thấu qua lớp sừng.
+
+## Cách sử dụng kem dưỡng ẩm và chất làm mềm
+
+- Để ngăn ngừa khô da, chất tẩy rửa xà phòng và gel tắm nên được sử dụng tiết kiệm, hoặc không sử dụng.
+- Chất thay thế xà phòng dưỡng ẩm là một lựa chọn tốt cho những người có da khô và/hoặc [da nhạy cảm](https://dermnetnz.org/topics/sensitive-skin).
+- Chất làm mềm tắm là dầu hoặc chất nhũ hóa được thiết kế để phân tán trong bồn tắm, và tốt nhất nên được sử dụng kết hợp với các loại kem dưỡng ẩm khác bao gồm các sản phẩm để lại trên da.
+- Thường sử dụng kết hợp các sản phẩm, ví dụ, chất thay thế xà phòng +/- dầu tắm, cũng như các sản phẩm để lại trên da.
+- Thuốc mỡ, kem và lotion dưỡng ẩm để lại trên da có hiệu quả nhất khi được bôi ngay sau khi tắm, vì nước đã thấm vào biểu bì vẫn còn ở đó, nhưng chúng cũng có thể được bôi vào các thời điểm khác.
+
+Tần suất và lượng bôi phụ thuộc vào mức độ nghiêm trọng của [da khô](https://dermnetnz.org/topics/dry-skin):
+
+- Da rất khô có thể được hưởng lợi từ kem dưỡng ẩm nhờn, tạo màng bôi mỗi vài giờ, trong khi da hơi khô có thể chỉ cần một loại kem dưỡng ẩm nhẹ vào ban đêm.
+- Lượng kem dưỡng ẩm bôi mỗi tuần ở bệnh nhân eczema trung bình từ 150–200 g ở trẻ nhỏ đến 500 g ở người lớn.
+
+## Lợi ích của kem dưỡng ẩm là gì?
+
+- Giảm khô da, dẫn đến cải thiện tính toàn vẹn và chức năng hàng rào của da.
+- Ở bệnh nhân eczema, việc sử dụng kem dưỡng ẩm và chất làm mềm có thể đủ để kiểm soát bệnh nhẹ và loại bỏ triệu chứng; giảm mức độ nghiêm trọng của các đợt bùng phát; và giảm nhu cầu sử dụng [steroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid).
+- Tác dụng điều trị của kem dưỡng ẩm là lớn nhất trong 6 giờ đầu sau khi bôi; việc bôi thường xuyên 2–3 lần/ngày có thể cần thiết để tối đa hóa lợi ích.
+
+## Tác dụng phụ và rủi ro của kem dưỡng ẩm là gì?
+
+### Phản ứng kích ứng
+
+Người có da nhạy cảm liên quan đến [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) hoặc [rosacea](https://dermnetnz.org/topics/rosacea) thường mô tả các phản ứng kích ứng với kem dưỡng ẩm, như nóng rát và châm chích. Nếu kích ứng là tạm thời, sản phẩm có thể tiếp tục được sử dụng. Nó nên được ngừng sử dụng nếu xuất hiện viêm da tiếp xúc (xem bên dưới).
+
+### Dị ứng tiếp xúc
+
+Ngừng sử dụng nếu phát triển [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) với một chất làm mềm hoặc kem dưỡng ẩm cụ thể. Dị ứng tiếp xúc nghi ngờ với các chất bảo quản, hương liệu hoặc phương tiện cụ thể có thể được điều tra bằng [thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests).
+
+### Viêm nang lông
+
+Chất làm mềm tạo màng có thể gây ra hoặc làm trầm trọng thêm [mụn trứng cá](https://dermnetnz.org/topics/acne), [viêm da quanh miệng](https://dermnetnz.org/topics/periorificial-dermatitis), [viêm nang lông](https://dermnetnz.org/topics/folliculitis) và [nhọt](https://dermnetnz.org/topics/boil).
+
+### Bỏng nhiệt
+
+[Bỏng nhiệt từ thuốc mỡ chứa paraffin](https://dermnetnz.org/topics/burns-from-ointments) trên quần áo hoặc giường có thể nguy hiểm và có thể xảy ra nếu bị đốt cháy bởi thuốc lá hoặc ngọn lửa trần.
+
+### Trượt và ngã
+
+Các sản phẩm dưỡng ẩm (đặc biệt là dầu tắm) có thể trơn trượt và cần cẩn thận khi ra vào bồn tắm hoặc vòi sen để tránh ngã. Sử dụng thảm tắm có thể giảm thiểu rủi ro này.
+
+_Tờ dữ liệu được phê duyệt là nguồn thông tin chính thức cho các loại thuốc, bao gồm các công dụng, liều lượng và thông tin an toàn đã được phê duyệt. Kiểm tra tờ dữ liệu cá nhân ở quốc gia của bạn để biết thông tin về thuốc._
+
+_Chúng tôi đề nghị bạn tham khảo cơ quan phê duyệt thuốc quốc gia của bạn như [Cục Quản lý Hàng hóa Trị liệu Úc (TGA),](http://www.tga.gov.au/) [Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA)](http://www.fda.gov/), [Cơ quan quản lý sản phẩm y tế và chăm sóc sức khỏe Vương quốc Anh (MHRA)](https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency) / [emc](https://www.medicines.org.uk/emc/about-the-emc), và [Medsafe New Zealand,](https://www.medsafe.govt.nz/Medicines/infoSearch.asp) hoặc một danh mục thuốc quốc gia hoặc tiểu bang được phê duyệt ví dụ, [Danh mục Thuốc New Zealand](http://www.nzf.org.nz/) (NZF) và [Danh mục Thuốc Trẻ em New Zealand](http://www.nzfchildren.org.nz/) (NZFC) và [Danh mục Thuốc Quốc gia Anh](http://bnf.nice.org.uk/) (BNF) và [Danh mục Thuốc Quốc gia Anh cho Trẻ em](http://bnfc.nice.org.uk/) (BNFC)._
+
+### Thư mục
+
+- Anderson PC, Dinulos JG. Các loại kem dưỡng ẩm mới có hiệu quả hơn không? Curr Opin Pediatr 2009; 21: 486–90. DOI: 10.1097/MOP.0b013e32832cfd3b. [Tạp chí](https://journals.lww.com/co-pediatrics/Abstract/2009/08000/Are_the_new_moisturizers_more_effective_.12.aspx)
+- Danby SG, Chalmers J, Brown K, Williams HC, Cork MJ. Nghiên cứu cơ chế chức năng về tác động của chất làm mềm lên cấu trúc và chức năng của hàng rào da. Br J Dermatol 2016; 175: 1011–9. DOI: 10.1111/bjd.14684. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/bjd.14684)
+- Hon KL, Kung JSC, Ng WGG, Leung TF. Điều trị viêm da dị ứng bằng chất làm mềm: bằng chứng mới nhất và cân nhắc lâm sàng. Drugs Context 2018; 7: 212530. DOI: 10.7573/dic.212530. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5908267/)
+- Purnamawati S, Indrastuti N, Danarti R, Saefudin T. Vai trò của kem dưỡng ẩm trong việc giải quyết các loại viêm da khác nhau: Một đánh giá. Clin Med Res 2017; 115(2-3): 75–87. DOI: 10.3121/cmr.2017.1363. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5849435/)
+- Ridd MJ, Redmond NM, Hollinghurst S, et al. Lựa chọn kem dưỡng ẩm cho điều trị eczema (COMET): giao thức nghiên cứu cho một thử nghiệm ngẫu nhiên có kiểm soát. Trials 2015; 16: 304. DOI: 10.1186/s13063-015-0830-y. [Tạp chí](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-015-0830-y)
+- Ring J, Alomar A, Bieber T, et al. Hướng dẫn điều trị eczema dị ứng (viêm da dị ứng) phần I. J Eur Acad Dermatol Venereol 2012; 26: 1045–60. DOI: 10.1111/j.1468-3083.2012.04635.x. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/j.1468-3083.2012.04635.x)
+- Varothai S, Nitayavardhana S, Kulthanan K. Bài báo đánh giá: Kem dưỡng ẩm cho bệnh nhân viêm da dị ứng. Asian Pac J Allergy Immunol 2013; 31: 91-8. [Tạp chí](http://apjai-journal.org/wp-content/uploads/2016/10/2MoisturizersforpatientsVol31No2June2013P91.pdf)
+- Zuuren EJ, Fedorowicz Z, Arents BWM. Chất làm mềm và kem dưỡng ẩm cho eczema: đánh giá hệ thống Cochrane rút gọn bao gồm đánh giá GRADE. Br J Dermatol 2017; 177: 1256–71. DOI: 10.1111/bjd.15602. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/bjd.15602)
+
+### Trên DermNet
+
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Kem tạo màng](https://dermnetnz.org/topics/barrier-cream)
+- [Chức năng hàng rào trong viêm da dị ứng](https://dermnetnz.org/topics/barrier-function-in-atopic-dermatitis)
+- [Viêm da](https://dermnetnz.org/topics/dermatitis)
+- [Da khô](https://dermnetnz.org/topics/dry-skin)
+- [Ichthyosis](https://dermnetnz.org/topics/ichthyosis)
+- [Bệnh da nghề nghiệp](https://dermnetnz.org/topics/occupational-skin-disease)
+- [Xà phòng và chất tẩy rửa](https://dermnetnz.org/topics/soaps-and-cleansers)
+- [Steroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid)
+
+### Các trang web khác
+
+- [Cách sử dụng chất làm mềm](https://www.youtube.com/watch?v=nj4JSWGL5KQ) — Guy's and St Thomas' NHS Foundation Trust (video YouTube)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ Dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

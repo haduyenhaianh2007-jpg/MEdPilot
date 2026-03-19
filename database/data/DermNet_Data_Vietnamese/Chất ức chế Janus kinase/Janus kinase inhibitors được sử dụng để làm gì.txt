@@ -1,0 +1,56 @@
+## Janus kinase inhibitors được sử dụng để làm gì?
+
+Janus kinase inhibitors đã cho thấy hiệu quả có lợi trong nhiều tình trạng liên quan đến hệ miễn dịch.
+
+JAK inhibitors cũng đã được sử dụng thành công trong các tình trạng có đột biến JAK như đa hồng cầu, tăng tiểu cầu thiết yếu, và xơ tủy.
+
+### Sử dụng Janus kinase inhibitors ngoài da liễu
+
+- Viêm cột sống dính khớp
+- COVID-19
+- Viêm động mạch tế bào khổng lồ
+- Xơ tủy
+- Viêm cột sống trục không có hình ảnh X-quang
+- Viêm khớp vảy nến
+- Viêm khớp dạng thấp
+- Viêm loét đại tràng và bệnh Crohn.
+
+### Sử dụng Janus kinase inhibitors trong da liễu
+
+Janus kinase inhibitors đã được phê duyệt sử dụng hoặc đang được nghiên cứu cho các chỉ định sau:
+
+| Chỉ định | Được phê duyệt sử dụng | Đang nghiên cứu |
+| --- | --- | --- |
+| Viêm da cơ địa | - Dạng uống abrocitinib, baricitinib, upadacitinib<br>  <br>- Dạng bôi ruxolitinib | - Dạng uống tofacitinib<br>  <br>- Dạng bôi delgocitinib, tofacitinib |
+| Rụng tóc từng mảng | - Dạng uống baricitinib, deuruxolitinib, ritlecitinib, tofacitinib | - Dạng uống ruxolitinib, tofacitinib, upadacitinib<br>  <br>- Dạng bôi tofacitinib |
+| Bạch biến | - Dạng bôi ruxolitinib | - Dạng uống upadacitinib<br>  <br>- Dạng bôi tofacitinib |
+| Vảy nến mảng | - Dạng uống deucravacitinib<br>  <br>- Dạng uống tofacitinib cho vảy nến móng | - Dạng uống baricitinib, delgocitinib, filotinib, itacitinib, peficitinib, tofacitinib<br>  <br>- Dạng bôi brepocitinib, ruxolitinib |
+| Viêm da tay mãn tính | - Dạng bôi delgocitinib |
+| Viêm da cơ |  | - Dạng uống baricitinib, ruxolitinib, tofacitinib, upadacitinib |
+| Bệnh ghép chống chủ (GVHD) |  | - Dạng uống baricitinib, itacitinib, ruxolitinib |
+| Viêm tuyến mồ hôi mủ |  | - Dạng uống upadacitinib |
+| Lichen phẳng/lichen phẳng nang lông |  | - Dạng uống tofacitinib<br>  <br>- Dạng bôi ruxolitinib |
+| Lupus ban đỏ hệ thống/lupus ban đỏ dạng đĩa |  | - Dạng uống baricitinib, deucravacitinib, elsubrutinib, tofacitinib, upadacitinib |
+| Rối loạn u hạt bao gồm sarcoidosis, u hạt vòng, hoại tử mỡ |  | - Dạng uống tofacitinib |
+
+Các báo cáo trường hợp đơn lẻ hoặc chuỗi trường hợp nhỏ báo cáo đáp ứng với JAK inhibitors bao gồm:
+
+- Viêm da ánh sáng mãn tính
+- Hội chứng quá mẫn thuốc (DRESS)
+- Hội chứng Stevens-Johnson/hoại tử biểu bì nhiễm độc (SJS/TEN)
+- Hội chứng tăng bạch cầu ái toan
+- Morphoea
+- Viêm cân mạc tăng bạch cầu ái toan
+- Bệnh Hailey-Hailey.
+
+### Lịch sử cấp phép và phát triển
+
+Tofacitinib nhận được sự chấp thuận của FDA cho điều trị viêm khớp dạng thấp vào năm 2012, và vào năm 2017/18 cũng cho viêm khớp vảy nến và viêm loét đại tràng. Nó được sử dụng ngoài nhãn cho bệnh vảy nến, và hiện đang được nghiên cứu cho điều trị một số tình trạng da liễu bao gồm viêm da cơ địa và bạch biến.
+
+Ruxolitinib được TGA tại Úc phê duyệt vào năm 2013 cho điều trị xơ tủy. Nó cũng được FDA phê duyệt cho điều trị bôi ngoài da viêm da cơ địa nhẹ đến trung bình (2021), và bạch biến không phân đoạn ở bệnh nhân người lớn và trẻ em từ 12 tuổi trở lên (2022).
+
+Baricitinib được TGA tại Úc phê duyệt vào năm 2018 cho điều trị viêm khớp dạng thấp và, vào năm 2021, cho viêm da cơ địa từ trung bình đến nặng. Sự phê duyệt cho chỉ định này cũng đã được cấp bởi Liên minh Châu Âu và Nhật Bản.
+
+Upadacitinib được Medsafe New Zealand phê duyệt (2021) và bởi FDA (2022) cho điều trị viêm da cơ địa từ trung bình đến nặng. Abrocitinib và upadacitinib dạng uống đã nhận được giấy phép sử dụng trong bệnh chàm cơ địa tại Mỹ và Châu Âu vào năm 2023.
+
+Năm 2020, kem delgocitinib được phê duyệt tại Nhật Bản cho điều trị viêm da cơ địa ở người lớn, sau đó được phê duyệt tại Châu Âu vào năm 2024 cho điều trị viêm da tay mãn tính từ trung bình đến nặng.

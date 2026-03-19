@@ -1,0 +1,81 @@
+## Ai bị livedo reticularis?
+
+[Cutis marmorata](https://dermnetnz.org/topics/cutis-marmorata) gây ra livedo tạm thời hoặc sinh lý ở khoảng 50% trẻ sơ sinh khỏe mạnh và nhiều người lớn, đặc biệt là phụ nữ trẻ khi tiếp xúc với lạnh.
+
+[Cutis marmorata telangiectatica congenita](https://dermnetnz.org/topics/cutis-marmorata-telangiectatica-congenita) là một tình trạng hiếm gặp trong đó livedo rõ rệt xuất hiện khi sinh hoặc ngay sau đó. Nó thường cải thiện theo tuổi tác. Có một số bất thường bẩm sinh liên quan đến cutis marmorata telangiectatica.
+
+Livedo reticularis nguyên phát là dạng vô căn ở người lớn và có thể kéo dài. Chẩn đoán thường được thực hiện khi các nguyên nhân nghiêm trọng hơn của livedo reticularis đã được loại trừ.
+
+Livedo thứ phát, hay livedo racemosa, liên quan đến một loạt các bệnh hệ thống.
+
+### Tắc nghẽn/bệnh lý mạch máu
+
+Tắc nghẽn mạch máu có thể xảy ra do tình trạng tăng đông máu. Điều này có thể biểu hiện như [hội chứng ngón chân xanh](https://dermnetnz.org/topics/blue-toe-syndrome).
+
+- [Hội chứng kháng phospholipid](https://dermnetnz.org/topics/antiphospholipid-syndrome) (APS, còn được gọi là hội chứng kháng đông lupus) được đặc trưng bởi cục máu đông do tiểu cầu dính. Nó dẫn đến livedo racemosa ở 25% bệnh nhân, và 70% trong số những người có APS liên quan đến SLE.
+- [Hội chứng Sneddon](https://dermnetnz.org/topics/sneddon-syndrome) là sự kết hợp của livedo racemosa với đột quỵ ở phụ nữ trẻ.
+- [Bệnh lý mạch máu livedoid](https://dermnetnz.org/topics/livedoid-vasculopathy) liên quan đến loét do bất thường fibrinolytic và huyết khối vi tuần hoàn.
+- [Viêm động mạch lymphocytic thrombophilic](https://dermnetnz.org/topics/lymphocytic-thrombophilic-arteritis)
+- [Cryoglobulinaemia](https://dermnetnz.org/topics/cryoglobulinaemia) (globulin miễn dịch kết tủa trong lạnh)
+- [Polycythaemia rubra vera](https://dermnetnz.org/topics/skin-manifestations-of-haematological-diseases) (số lượng hồng cầu quá mức) hoặc thrombocythaemia
+- Đa u tủy
+- Bệnh ngưng kết lạnh
+- Thiếu hụt protein C và S
+- Thiếu hụt antithrombin III
+- [Rối loạn đông máu nội mạch lan tỏa](https://dermnetnz.org/topics/disseminated-intravascular-coagulation)
+- [Hội chứng tan máu-ure](https://dermnetnz.org/topics/haemolytic-uraemic-syndrome)
+- Huyết khối tĩnh mạch sâu
+
+#### Bệnh tự miễn/viêm mạch/bệnh mô liên kết
+
+Viêm mạch máu nhỏ, trung bình và lớn liên quan đến livedo racemosa.
+
+- [Lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+- [Viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis)
+- [Viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin)
+- [Viêm đa động mạch nút](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa)
+- [Bệnh u hạt với viêm đa mạch](https://dermnetnz.org/topics/granulomatosis-with-polyangiitis)
+- [Viêm động mạch thái dương](https://dermnetnz.org/topics/giant-cell-arteritis)
+- [Hội chứng Sjögren](https://dermnetnz.org/topics/sjoegren-syndrome)
+
+#### Bệnh thần kinh
+
+- Loạn dưỡng giao cảm phản xạ
+- Đa xơ cứng
+- Bệnh Parkinson
+
+#### Nhiễm trùng
+
+- [Lao](https://dermnetnz.org/topics/cutaneous-tuberculosis)
+- [Giang mai](https://dermnetnz.org/topics/syphilis)
+- [Viêm phổi Mycoplasma](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection)
+- [Nhiễm virus](https://dermnetnz.org/topics/viral-skin-infections), như [parvovirus](https://dermnetnz.org/topics/erythema-infectiosum), [viêm gan C](https://dermnetnz.org/topics/viral-hepatitis)
+- Nhiễm trùng huyết [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections), như [bệnh não mô cầu](https://dermnetnz.org/topics/meningococcal-disease), [bệnh liên cầu khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections)
+- Sốt thấp khớp ([ban đỏ marginatum](https://dermnetnz.org/topics/rheumatic-fever))
+
+#### Ung thư
+
+- Ung thư tế bào thận
+- Ung thư vú viêm ([ung thư erysipeloides](https://dermnetnz.org/topics/carcinoma-erysipeloides))
+- U lympho ([mycosis fungoides](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma))
+- Bệnh bạch cầu lympho cấp tính
+
+#### Thuốc
+
+Amantadine (chất chủ vận dopamine được sử dụng để điều trị bệnh Parkinson, đa xơ cứng và rối loạn tăng động giảm chú ý) gây livedo thông qua co thắt động mạch liên quan đến cạn kiệt catecholamine. Livedo liên quan đến thuốc cũng đã được báo cáo với:
+
+- [Minocycline](https://dermnetnz.org/topics/tetracycline)
+- Gemcitabine
+- Catecholamine
+- [Thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects).
+
+#### Khác
+
+- [Thuyên tắc cholesterol](https://dermnetnz.org/topics/cholesterol-emboli) và [homocystinuria](https://dermnetnz.org/topics/homocystinuria)
+- [Thuyên tắc nhiễm trùng](https://dermnetnz.org/topics/septic-emboli)
+- Tăng calci máu (lắng đọng canxi)
+- [Viêm tắc động mạch (Buerger disease)](https://dermnetnz.org/topics/thromboangiitis-obliterans)
+- Tiêm trong động mạch (đặc biệt ở [người nghiện ma túy](https://dermnetnz.org/topics/skin-infections-in-people-who-inject-recreational-drugs))
+- Viêm tụy
+- Đau cơ xơ hóa nguyên phát
+- [Thiếu hụt miễn dịch bẩm sinh](https://dermnetnz.org/topics/common-variable-immunodeficiency)

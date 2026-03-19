@@ -1,0 +1,369 @@
+##### Ghẻ — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Ngứa do Sarcoptes, Nhiễm Sarcoptes scabiei var hominis
+
+Danh mục:
+
+Nhiễm ký sinh trùng
+
+ICD-10:
+
+B86, B88.9
+
+ICD-11:
+
+1G04, 1G04.0, 1G04.1
+
+SNOMED CT:
+
+128869009, 67333007, 128870005, 128873007, 409977006, 47624007, 39552000, 410457007, 387559003
+
+**[Nhiễm ký sinh trùng](https://dermnetnz.org/topics?category=Infestations)**
+
+# **Ghẻ**
+
+Tác giả: Bác sĩ Jessica Rachel Maguire, IMT, Barts Health NHS Trust, London, Vương quốc Anh, tháng 3 năm 2022; cập nhật bởi Bác sĩ Ian Coulson, Chuyên gia Da liễu, Vương quốc Anh, tháng 4 năm 2025.
+
+[Giới thiệu](https://dermnetnz.org/topics/scabies#Introduction%3Cbr%20/%3E) [Dân số học](https://dermnetnz.org/topics/scabies#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/scabies#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/scabies#Clinical%20features%3Cbr%20/%3E) [Biến thể trong các loại da](https://dermnetnz.org/topics/scabies#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/scabies#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/scabies#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/scabies#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/scabies#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/scabies#Outcome)
+
+## Ghẻ là gì?
+
+Ghẻ là một bệnh da truyền nhiễm do ký sinh trùng ngoại _Sarcoptes scabiei var. hominis_ gây ra. Biến thể này chỉ nhiễm vào người; ghẻ không thể lây nhiễm hoặc truyền sang động vật khác.
+
+Ghẻ là một nhiễm trùng rất dễ lây lan của biểu bì người. Ghẻ đã được Aristotle mô tả như là 'chấy của da'. Ghẻ xuất hiện dưới dạng phát ban với ngứa dữ dội; nó có thể có hình dạng và phân bố đặc trưng.
+
+[Bấm vào đây để xem hình ảnh](https://dermnetnz.org/images/scabies-images)
+
+## Ai bị ghẻ?
+
+Ghẻ là một bệnh toàn cầu, và bất kỳ ai cũng có thể bị ảnh hưởng. Ước tính có khoảng 204 triệu người bị ảnh hưởng bởi ghẻ trên toàn thế giới, với tỷ lệ mắc hàng năm là 455 triệu trường hợp. Ghẻ phổ biến hơn ở người già, trẻ em và thanh thiếu niên.
+
+Gánh nặng bệnh tật cao hơn ở các khu vực thu nhập thấp, vùng nhiệt đới và trong các cộng đồng và quốc gia thiếu tài nguyên.
+
+Các yếu tố nguy cơ của ghẻ, đặc biệt là ở các nước đang phát triển, bao gồm:
+
+- Điều kiện đông đúc
+- Vệ sinh kém
+- Nghèo đói
+- Suy dinh dưỡng
+- Vô gia cư
+- Suy giảm miễn dịch.
+
+Ở các nước phát triển, ghẻ xảy ra trong các đợt bùng phát gia đình và trẻ em có thể mắc phải từ tiếp xúc gần gũi khi chơi ở trường hoặc ngủ qua đêm. Trong các tình huống có thể có tiếp xúc cơ thể gần gũi để cung cấp chăm sóc cá nhân, chẳng hạn như trong [nhà dưỡng lão](https://dermnetnz.org/topics/institutional-scabies), các đợt bùng phát lớn không phải là hiếm. Ở người trưởng thành trẻ tuổi, lây lan qua đường tình dục là phổ biến.
+
+## Nguyên nhân gây ra ghẻ là gì?
+
+Nhiễm ghẻ thường được truyền qua tiếp xúc da gần gũi như nắm tay trong thời gian dài; lây lan giữa các đối tác tình dục là phổ biến. Một cái bắt tay hoặc ôm ngắn thường không cho phép truyền trừ khi bệnh nhân bị ghẻ vảy.
+
+Lây lan qua vật dụng (quần áo, khăn tắm, v.v.) rất hiếm vì ký sinh trùng chết trong vòng vài giờ sau khi rời khỏi vật chủ; nó có liên quan trong [ghẻ vảy](https://dermnetnz.org/topics/crusted-scabies).
+
+### Chu kỳ ghẻ
+
+- Ký sinh trùng đực nhỏ hơn thụ tinh cho con cái trên bề mặt da và chết ngay sau khi giao phối.
+- Ký sinh trùng cái đào hang vào lớp sừng của vật chủ nơi chúng đẻ 2 đến 3 trứng mỗi ngày.
+- Ký sinh trùng cái tiếp tục đào hang với tốc độ 0,5 đến 5mm mỗi ngày trong suốt vòng đời 4 đến 8 tuần của nó.
+- Trứng được đẻ trong hang và nở thành ấu trùng sau khoảng 2 đến 5 ngày.
+- Ấu trùng nở trưởng thành thành ký sinh trùng ghẻ trưởng thành trong khoảng 3 tuần. Chúng di chuyển lên bề mặt da, và chu kỳ tiếp tục.
+- Phát ban ngứa là kết quả của phản ứng quá mẫn TH1 đối với các kháng nguyên liên quan đến ký sinh trùng và do đó bị trì hoãn.
+
+## Đặc điểm lâm sàng của ghẻ là gì?
+
+Nhiễm trùng thường xuất hiện với phát ban ngứa điển hình. Tổn thương đối xứng, và chủ yếu ảnh hưởng đến tay, cổ tay, nách, đùi, mông, eo, lòng bàn chân, quầng vú và âm hộ ở nữ và dương vật và bìu ở nam. Cổ và phía trên thường không bị ảnh hưởng, ngoại trừ trong các trường hợp ghẻ vảy và trong các nhiễm trùng xảy ra ở trẻ sơ sinh, người già và người suy giảm miễn dịch.
+
+Tuy nhiên, phát ban có thể lan rộng và [đặc điểm chàm](https://dermnetnz.org/topics/atopic-dermatitis) có thể chiếm ưu thế và che giấu các dấu hiệu điển hình. Nghi ngờ lâm sàng là rất quan trọng.
+
+#### Ngứa
+
+- Lan rộng
+- Xảy ra trong 4 đến 6 tuần sau khi nhiễm trùng ban đầu (trong thời gian này vật chủ có khả năng lây nhiễm)
+- Xảy ra trong vòng vài giờ sau khi tái nhiễm
+- Tồi tệ hơn vào ban đêm
+- Có thể kéo dài trong vài tuần sau khi hoàn thành điều trị.
+
+#### Phát ban
+
+- Sẩn đỏ
+- Trầy xước
+- Dấu vết gãi tuyến tính
+- [Viêm da](https://dermnetnz.org/topics/dermatitis)
+- Nốt có thể có màu da, đỏ-nâu, hoặc tím
+- Vảy (tăng sừng như thấy trong ghẻ vảy)
+- Mụn nước có thể là do nhiễm trùng vi khuẩn chồng lên.
+
+### Đặc điểm bệnh lý có thể hỗ trợ trong chẩn đoán
+
+#### Đường hầm
+
+- Đường cong hoặc ngoằn ngoèo giống như sợi chỉ đo khoảng 5–10 mm — những điều này có thể tinh tế
+- Thường được xác định trong các khoảng không giữa các ngón tay, lòng bàn tay, lòng bàn chân, ngón tay, ngón chân, cổ tay trong, khuỷu tay, rốn, và đường thắt lưng.
+
+#### Nốt
+
+- Kích thước thay đổi từ 3 đến 15 mm
+- Có thể phát triển trên dương vật và bìu ở nam
+- Trên đùi trên và nếp gấp mông
+- Quanh quầng vú ở nữ
+- Trong nách
+
+![Một đường hầm ghẻ trên ngón chân](https://dermnetnz.org/assets/collection/Scabies/scabies-0043.jpg)
+
+Một đường hầm ghẻ trên ngón chân
+
+![Một đường hầm trên lòng bàn tay - ký sinh trùng có thể được nhìn thấy gần mụn nước](https://dermnetnz.org/assets/collection/Scabies/scabies-0042.jpg)
+
+Một đường hầm trên lòng bàn tay - ký sinh trùng có thể được nhìn thấy gần mụn nước
+
+![Nhiều đường hầm ghẻ trên lòng bàn tay của một phụ nữ lớn tuổi](https://dermnetnz.org/assets/collection/Scabies/scabies-0001.jpg)
+
+Nhiều đường hầm ghẻ trên lòng bàn tay của một phụ nữ lớn tuổi
+
+![Đường hầm ghẻ trên lòng bàn tay](https://dermnetnz.org/assets/collection/Scabies/scabies-0016.jpg)
+
+Đường hầm ghẻ trên lòng bàn tay
+
+![Đường hầm ghẻ trên chân của trẻ sơ sinh](https://dermnetnz.org/assets/collection/Scabies/scabies-0044.jpg)
+
+Đường hầm ghẻ trên chân của trẻ sơ sinh
+
+![Vảy giữa các ngón tay trong khoảng không đầu tiên của bàn tay](https://dermnetnz.org/assets/collection/Scabies/scabies-0002.jpg)
+
+Vảy giữa các ngón tay trong khoảng không đầu tiên của bàn tay
+
+#### Ghẻ vảy
+
+Biến thể này xảy ra ở người già và người suy giảm miễn dịch – lòng bàn tay và lòng bàn chân bị phủ bởi các mảng vảy. Có sự nhiễm trùng lớn với ký sinh trùng, số lượng lên đến hàng ngàn; nó rất dễ lây nhiễm và có thể có sự nhiễm trùng nặng của giường và đồ nội thất.
+
+![Các mảng vảy dày trên ngón tay cái và lòng bàn tay do ghẻ vảy ở một phụ nữ lớn tuổi](https://dermnetnz.org/assets/collection/Scabies/scabies-0048.jpg)
+
+Các mảng vảy dày trên ngón tay cái và lòng bàn tay do ghẻ vảy ở một phụ nữ lớn tuổi
+
+[Bấm vào đây để xem thêm hình ảnh](https://dermnetnz.org/images/scabies-images)
+
+### Phát ban thứ cấp
+
+Điều này có thể là một phát ban chàm không đặc hiệu lan rộng trên thân và chi và có thể làm mờ đi các đặc điểm bệnh lý chính.
+
+## Các đặc điểm lâm sàng thay đổi như thế nào trong các loại da khác nhau?
+
+Ghẻ có thể xuất hiện dưới dạng nốt sần hạt ở người bị nhiễm có loại da tối màu hơn.
+
+Thay đổi viêm xuất hiện dưới dạng đỏ trên da trắng và xám trên da đen.
+
+## Biến chứng của ghẻ là gì?
+
+#### Ghẻ vảy
+
+- Trước đây được biết đến như Ghẻ Na Uy.
+- Liên quan đến tăng sừng dày đặc của da.
+- Gây ra bởi phản ứng miễn dịch của vật chủ bị thay đổi.
+- Thấy đặc biệt ở bệnh nhân với:
+  - Giảm miễn dịch tế bào T ví dụ, [HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+  - Giảm cảm giác ngoại biên ví dụ, [phong](https://dermnetnz.org/topics/leprosy)
+  - Bệnh nhân không thể loại bỏ ký sinh trùng cơ học ví dụ, [hội chứng Down](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome) và tăng sừng dưới móng.
+- Kết quả là sự phát triển không kiểm soát của ký sinh trùng (hàng ngàn đến hàng triệu ký sinh trùng, so với 10–15 thấy trong ghẻ điển hình).
+
+#### Ghẻ bóng nước
+
+- Thường thấy ở nam giới lớn tuổi.
+- Bóng nước có thể căng hoặc mềm.
+- Được cho là do nhiễm trùng thứ cấp của tổn thương ghẻ với _Staphylococcus aureus_ hoặc do phản ứng tự kháng thể.
+
+#### Ghẻ nốt
+
+- Có thể do phản ứng quá mẫn cục bộ với ký sinh trùng chết hoặc có thể do nhiễm trùng kéo dài.
+- Thường ảnh hưởng đến bộ phận sinh dục nam (có thể là đặc điểm chiếm ưu thế lan rộng ở trẻ em) và ngực.
+- Có thể thấy quanh nách hoặc trên mông.
+- Có thể kéo dài trong nhiều tháng mặc dù điều trị ghẻ thành công.
+
+Các biến chứng khác của ghẻ điển hình bao gồm:
+
+#### Ghẻ incognito
+
+- Sự thay đổi của hình ảnh lâm sàng do sử dụng steroid không phù hợp sau khi chẩn đoán sai.
+- Dẫn đến chẩn đoán chậm trễ, đôi khi trong nhiều tháng hoặc thậm chí nhiều năm.
+
+#### Nhiễm trùng vi khuẩn thứ cấp
+
+- _Staphylococcus aureus_ hoặc _Streptococcus pyogenes_ nhiễm khuẩn huyết.
+- [Chốc lở](https://dermnetnz.org/topics/impetigo).
+- Tổn thương mủ trên lòng bàn tay, lòng bàn chân, ngón tay và ngón chân.
+- Các bệnh do độc tố như [hội chứng sốc độc tố](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome), viêm cầu thận, và sốt thấp khớp cấp.
+
+#### Căng thẳng tâm lý
+
+- Ghẻ thường ảnh hưởng đến người trưởng thành trẻ tuổi sống xa nhà lần đầu tiên và sự phát triển của phát ban truyền nhiễm có thể gây xấu hổ. Kỳ thị có thể dẫn đến không thể đảm bảo các liên hệ gia đình hoặc tình dục được điều trị.
+- Rối loạn giấc ngủ và phát ban khó coi làm tăng tác động cảm xúc của bệnh, đặc biệt khi chẩn đoán và điều trị toàn diện bị trì hoãn, khi các triệu chứng có thể kéo dài trong nhiều tháng.
+
+![Ghẻ với nhiễm trùng liên cầu khuẩn chồng lên](https://dermnetnz.org/assets/collection/Scabies/scabies-0029.jpg)
+
+Ghẻ với nhiễm trùng liên cầu khuẩn chồng lên
+
+![Nốt ghẻ ở nách](https://dermnetnz.org/assets/collection/Scabies/scabies-0046.jpg)
+
+Nốt ghẻ ở nách
+
+![Nốt ghẻ ở nách của trẻ sơ sinh](https://dermnetnz.org/assets/collection/Scabies/scabies-0022.jpg)
+
+Nốt ghẻ ở nách của trẻ sơ sinh
+
+## Ghẻ được chẩn đoán như thế nào?
+
+Một chỉ số nghi ngờ cao nên được sử dụng khi đánh giá một bệnh nhân với phát ban ngứa lan rộng mới, đặc biệt là người báo cáo có liên hệ gần gũi ngứa. Chẩn đoán thường là lâm sàng và dễ dàng được xác nhận nhất bằng cách sử dụng [dermoscopy](https://dermnetnz.org/topics/dermoscopy).
+
+Có một số xét nghiệm xâm lấn và không xâm lấn tồn tại để hỗ trợ xác nhận chẩn đoán ghẻ:
+
+- Dermoscopy có thể tiết lộ dấu hiệu 'cánh delta' hoặc 'tam giác nhỏ'. Trong ghẻ vảy, dermoscopy có thể cho thấy tăng sừng.
+
+  - Để biết thông tin về các phát hiện trichoscopic trong ghẻ của da đầu, xem [Trichoscopy của nhiễm trùng da đầu.](https://dermnetnz.org/topics/trichoscopy-of-scalp-infestations)
+- Cạo da bằng cách sử dụng lưỡi dao hoặc kim cho phép quan sát trực tiếp trứng ký sinh trùng hoặc phân ký sinh trùng trên kính hiển vi. Quan sát một ký sinh trùng sống bởi bệnh nhân thúc đẩy sự tuân thủ điều trị.
+- Thử nghiệm mực đường hầm có thể tiết lộ một đường zig-zag cổ điển nơi mực đã theo dõi vào một đường hầm.
+- Thử nghiệm băng dính được sử dụng để chuyển một mẫu từ một tổn thương nghi ngờ trực tiếp lên một lam kính hiển vi.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy), mặc dù hiếm khi cần thiết, sẽ cho thấy trứng, ấu trùng, phân, và ký sinh trùng.
+
+Nó hữu ích để kiểm tra các liên hệ gần gũi trong các trường hợp nghi ngờ vì các dấu hiệu bệnh lý thường thấy ở những người có triệu chứng tối thiểu.
+
+![Một ký sinh trùng ghẻ trên kính hiển vi sau khi được lấy ra từ một đường hầm](https://dermnetnz.org/assets/Non-clinical-images/microscopy-image-of-scabies.jpg)
+
+Một ký sinh trùng ghẻ trên kính hiển vi sau khi được lấy ra từ một đường hầm
+
+![Kính hiển vi điện tử quét của Sarcoptes scabei](https://dermnetnz.org/assets/Non-clinical-images/Sarcoptes-scabei.jpg)
+
+Kính hiển vi điện tử quét của Sarcoptes scabei
+
+Liên minh Quốc tế về Kiểm soát Ghẻ (IACS) đã cập nhật tiêu chí đồng thuận cho chẩn đoán ghẻ vào năm 2020, sao chép dưới đây:
+
+### A: Ghẻ được xác nhận được chẩn đoán nếu có ít nhất một trong số:
+
+- A1: Ký sinh trùng, trứng hoặc phân trên kính hiển vi ánh sáng của mẫu da
+- A2: Ký sinh trùng, trứng hoặc phân được quan sát trên một cá nhân bằng cách sử dụng thiết bị hình ảnh công suất cao
+- A3: Ký sinh trùng được quan sát trên một cá nhân bằng cách sử dụng dermoscopy.
+
+### B: Ghẻ lâm sàng được chẩn đoán nếu có ít nhất một trong số:
+
+- B1: Đường hầm ghẻ
+- B2: Tổn thương điển hình ảnh hưởng đến bộ phận sinh dục nam
+- B3: Tổn thương điển hình trong phân bố điển hình và hai đặc điểm lịch sử.
+
+### C: Ghẻ nghi ngờ được chẩn đoán nếu có một trong số:
+
+- C1: Tổn thương điển hình trong phân bố điển hình và một đặc điểm lịch sử
+- C2: Tổn thương không điển hình hoặc phân bố không điển hình và hai đặc điểm lịch sử.
+
+### Các đặc điểm lịch sử là:
+
+- H1: Ngứa
+- H2: Lịch sử liên hệ dương tính với một cá nhân có ngứa hoặc tổn thương điển hình trong phân bố điển hình.
+
+#### Ghi chú
+
+1. Các tiêu chí này nên được sử dụng cùng với các ghi chú giải thích đầy đủ và định nghĩa (đang được chuẩn bị bởi IACS).
+2. Chẩn đoán có thể được thực hiện ở một trong ba cấp độ (A, B hoặc C).
+3. Chẩn đoán ghẻ lâm sàng và nghi ngờ chỉ nên được thực hiện nếu các chẩn đoán phân biệt khác (như chàm và chốc lở) được coi là ít khả năng hơn ghẻ.
+
+## Chẩn đoán phân biệt cho ghẻ là gì?
+
+- [Rối loạn da bóng nước](https://dermnetnz.org/topics/blistering-skin-conditions)
+- [Viêm da](https://dermnetnz.org/topics/dermatitis)
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis)
+- [Mề đay dạng sẩn](https://dermnetnz.org/topics/papular-urticaria)
+- [Ngứa (bán cấp)](https://dermnetnz.org/topics/prurigo)
+- [Vảy nến](https://dermnetnz.org/topics/psoriasis)
+- [Mụn mủ ở trẻ sơ sinh](https://dermnetnz.org/topics/acropustulosis-of-infancy)
+
+## Điều trị ghẻ là gì?
+
+### Biện pháp chung
+
+- Giặt ga trải giường, khăn tắm, và quần áo đã mặc gần đây. Quần áo ngoài, chăn, và mền nên được phơi trong 72 giờ.
+- Hút bụi đồ nội thất mềm nếu có thể, mặc dù điều này có thể có lợi ích hạn chế.
+- Cắt móng tay và làm sạch bất kỳ mảnh vụn dưới móng nào.
+
+### Biện pháp cụ thể
+
+Điều quan trọng là tất cả các liên hệ gần gũi của một trường hợp ghẻ được xác nhận nên hoàn thành liệu pháp tiêu diệt, dù họ có triệu chứng hay không. Các liên hệ có thể bị nhiễm nhưng không có triệu chứng trong vài tuần, do đó họ có thể tiếp tục lây nhiễm cho người khác và thậm chí tái nhiễm cho trường hợp ban đầu.
+
+#### Liệu pháp bôi ngoài
+
+- Kem hoặc lotion 5% [permethrin](https://dermnetnz.org/topics/insecticides-and-the-skin) (diệt ký sinh trùng và diệt trứng) vẫn là liệu pháp hàng đầu.
+- Bôi lên toàn bộ cơ thể bao gồm mặt, cổ, da đầu và tai (hoặc theo chỉ dẫn khác) và để qua đêm trong 8–12 giờ. Cần bôi lại nếu tay bị rửa trong thời gian điều trị.
+- Bôi nên bao gồm dưới móng tay và giữa các ngón chân.
+- Điều trị nên được lặp lại sau 7–10 ngày.
+- Nếu trường hợp kháng permethrin, hoặc permethrin không có sẵn, các [thuốc diệt côn trùng](https://dermnetnz.org/topics/insecticides-and-the-skin) thay thế, bao gồm benzyl benzoate 10–25% hoặc lotion nước malathion 0,5%.
+- Spinosad là một thuốc diệt côn trùng làm vườn bôi ngoài và có hiệu quả chống lại ghẻ nơi nó có sẵn.
+
+#### Liệu pháp uống
+
+- Uống [ivermectin](https://dermnetnz.org/topics/ivermectin) được chỉ định trong các trường hợp thất bại bôi ngoài, không thể tuân thủ liệu pháp bôi ngoài, không tuân thủ liệu pháp bôi ngoài, bùng phát trong tổ chức, điều trị hàng loạt dân số, và ghẻ vảy.
+- Liều lặp lại sau 2 tuần.
+- Dữ liệu mới nhất cho thấy uống ivermectin có hiệu quả tương đương với kem hoặc lotion 5% permethrin bôi ngoài, tuy nhiên có thể chậm hơn.
+- Theo hướng dẫn da liễu của Pháp (2024), ivermectin có thể là một lựa chọn cho trẻ em trên 2 tháng tuổi. Nó cũng có thể được sử dụng ở phụ nữ cho con bú và trong thai kỳ từ tam cá nguyệt thứ hai trở đi, nếu liệu pháp bôi ngoài không hiệu quả.
+- Moxidectin uống chưa được cấp phép, nhưng là một tác nhân hiệu quả có khả năng giữ lại tốt trên da — nó có thể hiệu quả như một liệu pháp đơn và ngăn ngừa tái nhiễm.
+
+#### Lời khuyên thực tế cho bệnh nhân
+
+- Cung cấp hướng dẫn bằng văn bản.
+- Giải thích sự cần thiết phải tuân thủ hoàn toàn, đồng thời với liệu pháp bôi ngoài.
+- Các thành viên trong gia đình nên chọn một buổi tối sớm, thuận tiện để được điều trị, tập hợp giường và quần áo để giặt, và bôi liệu pháp bôi ngoài trước khi mặc quần áo và làm lại giường.
+- Ngứa có thể kéo dài trong vài tuần, và điều này không đại diện cho nhiễm trùng dai dẳng hoặc thất bại điều trị.
+
+#### Ngứa sau ghẻ
+
+- Có thể kéo dài trong nhiều tuần
+- [Steroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid) có độ mạnh trung bình có thể được sử dụng và cần thiết trong 3–4 tuần, đặc biệt nếu bệnh nhân có phản ứng chàm lan rộng
+- [Thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) hữu ích trong một số trường hợp
+- Sử dụng chất làm mềm và tránh xà phòng nên được khuyến cáo
+- Các nốt dai dẳng có thể cần [steroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid) hoặc [steroid tiêm trong tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection).
+
+#### Ghẻ và thai kỳ
+
+- Kem hoặc lotion 5% permethrin được coi là an toàn trong thai kỳ và khi cho con bú.
+- Các chế phẩm bôi ngoài thay thế bao gồm kem lưu huỳnh 5–10%, thuốc mỡ, hoặc lotion.
+- Uống ivermectin không được khuyến cáo trong thai kỳ.
+
+## Kết quả cho ghẻ là gì?
+
+Ghẻ điển hình có tiên lượng tốt nếu tuân thủ điều trị là thỏa đáng và tất cả các liên hệ gần gũi (có triệu chứng hoặc không) được điều trị đồng thời. Ghẻ vảy có thể cần điều trị kéo dài và lặp lại và bệnh nhân có thể có các điều kiện cơ bản đáng kể sẽ ảnh hưởng đến tiên lượng. Nhiễm trùng pyococcal của ghẻ là một trong những nguyên nhân phổ biến nhất của viêm cầu thận cấp trên toàn cầu.
+
+Tái nhiễm ghẻ là phổ biến và thường là do lây lan từ các liên hệ gần gũi không được điều trị. Sử dụng lặp đi lặp lại các chất khử trùng có thể dẫn đến [viêm da kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis), và trong niềm tin sai lầm về nhiễm trùng ghẻ dai dẳng, lại sử dụng thêm chất khử trùng.
+
+[Bấm vào đây để xem hình ảnh](https://dermnetnz.org/images/scabies-images)
+
+### Thư mục
+
+- Arora P, Rudnicka L, Sar-Pomian M, et al. Ghẻ: Đánh giá toàn diện và quan điểm hiện tại. Dermatol Ther. 2020;33(4):e13746. doi:10.1111/dth.13746. [Đánh giá](https://onlinelibrary.wiley.com/doi/10.1111/dth.13746)
+- Engelman D, Yoshizumi J, Hay RJ, et al. Tiêu chí đồng thuận của Liên minh Quốc tế về Kiểm soát Ghẻ năm 2020 cho Chẩn đoán Ghẻ. Br J Dermatol. 2020;183(5):808–20. doi:10.1111/bjd.18943. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/bjd.18943)
+- Leung AKC, Lam JM, Leong KF. Ghẻ: Một bệnh bị lãng quên toàn cầu. Curr Pediatr Rev. 2020;16(1):33–42. doi:10.2174/1573396315666190717114131. [Đánh giá](http://www.eurekaselect.com/article/99721)
+- Morand A, Weill A, Miquel J, et al. Quản lý ghẻ ở trẻ em dưới 15 kg và phụ nữ mang thai hoặc cho con bú: khuyến nghị được hỗ trợ bởi Trung tâm Bằng chứng của Hiệp hội Da liễu Pháp. Br J Dermatol. 2024;191(6):1014–6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39028660/)
+- Richards RN. Ghẻ: Cập nhật Chẩn đoán và Điều trị. J Cutan Med Surg. 2021;25(1):95–101. doi:10.1177/1203475420960446. [Tạp chí](https://journals.sagepub.com/doi/10.1177/1203475420960446?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&)
+- Seiler JC, Keech RC, Aker JL, Miller W, Belcher C, Mettert KW. Spinosad ở 0.9% trong điều trị ghẻ: Kết quả hiệu quả từ 2 nghiên cứu đa trung tâm, ngẫu nhiên, mù đôi, có kiểm soát phương tiện. J Am Acad Dermatol. 2022;86(1):97–103. doi:10.1016/j.jaad.2021.07.074. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34391812/)
+
+### Trên DermNet
+
+- [Nhiễm ký sinh trùng chân đốt](https://dermnetnz.org/topics/bugs)
+- [Ghẻ vảy](https://dermnetnz.org/topics/crusted-scabies)
+- [Bệnh lý ghẻ vảy](https://dermnetnz.org/topics/crusted-scabies-pathology)
+- [Chẩn đoán phân biệt của da rất ngứa](https://dermnetnz.org/topics/differential-diagnosis-of-itchy-skin)
+- [Thuốc diệt côn trùng và da](https://dermnetnz.org/topics/insecticides-and-the-skin)
+- [Ghẻ trong tổ chức](https://dermnetnz.org/topics/institutional-scabies)
+- [Ivermectin](https://dermnetnz.org/topics/ivermectin)
+- [Hình ảnh ghẻ](https://dermnetnz.org/images/scabies-images)
+- [Bệnh lý ghẻ](https://dermnetnz.org/topics/scabies-pathology)
+- [Trichoscopy của nhiễm trùng da đầu](https://dermnetnz.org/topics/trichoscopy-of-scalp-infestations)
+
+### Các trang web khác
+
+- [Ghẻ](https://www.bad.org.uk/pils/scabies/) — Hiệp hội Da liễu Anh
+- [Liên minh Quốc tế về Kiểm soát Ghẻ (IACS)](https://www.controlscabies.org/)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

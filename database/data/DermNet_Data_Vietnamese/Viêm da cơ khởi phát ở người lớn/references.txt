@@ -1,0 +1,39 @@
+### References
+
+- Bailey EE, Fiorentino DF. Amyopathic dermatomyositis: definitions, diagnosis, and management. Curr Rheumatol Rep. 2014;16(12):465. doi:10.1007/s11926-014-0465-0. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25366932/)
+- Bitar C, Ninh T, Brag K, et al. Apremilast in Recalcitrant Cutaneous Dermatomyositis:A Nonrandomized Controlled Trial. _JAMA Dermatol._ 2022;158(12):1357–1366. doi:10.1001/jamadermatol.2022.3917  [Journal](https://jamanetwork.com/journals/jamadermatology/article-abstract/2796849)
+- Cobos GA, Femia A, Vleugels RA. Dermatomyositis: an update on diagnosis and treatment. Am J Clin Dermatol. 2020;21(3):339–53. doi:10.1007/s40257-020-00502-6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32096127/)
+- DeWane ME, Waldman R, Lu J. Dermatomyositis: clinical features and pathogenesis. J Am Acad Dermatol. 2020;82(2):267–81. doi:10.1016/j.jaad.2019.06.1309. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31279808/)
+- Fiorentino, D., Mangold, A. R., Werth, V. P., Christopher-Stine, L., Femia, A., Chu, M., Musiek, A. C. M., Sluzevich, J. C., Graham, L. v, Fernandez, A. P., Aggarwal, R., Rieger, K., Page, K. M., Li, X., Hyde, C., Rath, N., Sloan, A., Oemar, B., Banerjee, A., … Vleugels, R. A. (2025). Efficacy, safety, and target engagement of dazukibart, an IFNβ specific monoclonal antibody, in adults with dermatomyositis: a multicentre, double-blind, randomised, placebo-controlled, phase 2 trial. The Lancet, 405(10473), 137–146. doi:10.1016/S0140-6736(24)02071-3. [Journal](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)02071-3/abstract)
+
+- Okiyama N, Fujimoto M. Cutaneous manifestations of dermatomyositis characterized by myositis-specific autoantibodies. F1000Res. 2019;8:F1000 Faculty Rev-1951. doi:10.12688/f1000research.20646.1. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6880256/)
+- Papadakis MA, McPhee SJ, Rabow MW. Dermatomyositis. In: Current Medical Diagnosis and Treatment 2020, 59th edn, Lange, 2020: 864–7.
+- Sasaki H, Kohsaka H. Current diagnosis and treatment of polymyositis and dermatomyositis. Mod Rheumatol. 2018;28(6):913–21. doi:10.1080/14397595.2018.1467257. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29669460/)
+- Stone CJ, Faden DF, Xie L, et al. Application of Risk-Based Cancer Screening in Patients With Dermatomyositis. JAMA Dermatol. 2024;160(11):1248-1251. doi:10.1001/jamadermatol.2024.3355. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39320903/)
+- Thompson C, Piguet V, Choy E. The pathogenesis of dermatomyositis. Br J Dermatol. 2018;179(6):1256–62. doi:10.1111/bjd.15607. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28542733/)
+- Waldman R, DeWane ME, Lu J. Dermatomyositis: diagnosis and treatment. J Am Acad Dermatol. 2020;82(2):283–96. doi:10.1016/j.jaad.2019.05.105. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31279813/)
+- Zhao Q, Zhu Z, Fu Q, et al. Baricitinib for the treatment of cutaneous dermatomyositis: A prospective, open-label study. J Am Acad Dermatol. 2022;87(6):1374-1376. doi:10.1016/j.jaad.2022.08.025 [Journal](https://www.jaad.org/article/S0190-9622(22)02549-X/fulltext)
+
+### On DermNet
+
+- [Juvenile dermatomyositis](https://dermnetnz.org/topics/juvenile-dermatomyositis)
+- [Antisynthetase syndrome](https://dermnetnz.org/topics/antisynthetase-syndrome)
+- [Systemic lupus erythematosus](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+- [Trichoscopy of inflammatory conditions](https://dermnetnz.org/topics/trichoscopy-of-inflammatory-conditions)
+
+### Other websites
+
+- [Dermatomyositis](https://emedicine.medscape.com/article/332783-overview) — Medscape
+- [The Myositis Association](https://www.myositis.org/patient-support/support-groups/)
+- [The National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/Disorders/All-Disorders/Dermatomyositis-Information-Page)
+
+### Books about skin diseases
+
+- [Books about the skin](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- second edition](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Other recommended articles
+
+![close](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

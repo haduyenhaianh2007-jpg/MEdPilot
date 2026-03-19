@@ -1,0 +1,468 @@
+##### Các tình trạng da phồng rộp — thông tin bổ sung
+
+Danh mục:
+
+Viêm
+
+ICD-10:
+
+R23.8, L13.9
+
+ICD-11:
+
+ME62.6, ME63.3
+
+SNOMED CT:
+
+721542002
+
+**[Viêm](https://dermnetnz.org/topics?category=Inflammation)**
+
+# **Các tình trạng da phồng rộp**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 9 năm 2015.
+
+[Giới thiệu](https://dermnetnz.org/topics/blistering-skin-conditions#Introduction%3Cbr%20/%3E) [Bệnh phồng rộp cấp tính](https://dermnetnz.org/topics/blistering-skin-conditions#Acute%20blistering%20diseases%3Cbr%20/%3E) [Bệnh phồng rộp mãn tính](https://dermnetnz.org/topics/blistering-skin-conditions#Chronic%20blistering%20diseases%3Cbr%20/%3E) [Bài giảng điện tử](https://dermnetnz.org/topics/blistering-skin-conditions#E-lecture)
+
+## Bệnh phồng rộp là gì?
+
+Bệnh phồng rộp là tình trạng có các tổn thương da chứa đầy dịch.
+
+- Mụn nước là các phồng rộp nhỏ có đường kính dưới 5 mm.
+- Bọng nước là phồng rộp lớn hơn. Lưu ý rằng số nhiều của bọng nước là bullae.
+- Phồng rộp có thể vỡ hoặc lớp da trên phồng rộp có thể bị tách ra tạo thành vết xói mòn. Dịch tiết huyết thanh tạo thành vảy.
+
+![Mụn nước](https://dermnetnz.org/assets/Uploads/figure-1-blistering.jpg)
+
+Mụn nước
+
+![Bọng nước](https://dermnetnz.org/assets/Uploads/figure-2-blistering.jpg)
+
+Bọng nước
+
+![Vảy](https://dermnetnz.org/assets/Uploads/figure-4-blistering.jpg)
+
+Vảy
+
+## Bệnh phồng rộp cấp tính
+
+Bệnh phồng rộp cấp tính có thể lan rộng hoặc khu trú tại một vị trí trên cơ thể và do nhiễm trùng hoặc rối loạn viêm. Mặc dù thường là bệnh chàm, bệnh phồng rộp cấp tính lan rộng có thể đe dọa tính mạng và thường cần nhập viện.
+
+Các tình trạng phồng rộp cấp tính nên được điều tra bằng cách lấy mẫu để [nuôi cấy vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) và [nuôi cấy virus](https://dermnetnz.org/topics/laboratory-tests-for-viral-infections). [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể hữu ích trong việc chẩn đoán.
+
+### Bệnh phồng rộp cấp tính lan rộng
+
+[Viêm da neutrophilic cấp tính có sốt](https://dermnetnz.org/topics/acute-febrile-neutrophilic-dermatosis)
+
+- Cổ, chi, thân trên
+- Mảng giả mụn nước, phồng rộp, mụn mủ, xuất huyết, hoặc loét
+- Liên quan đến bệnh: [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin), [bệnh viêm ruột](https://dermnetnz.org/topics/cutaneous-manifestations-of-inflammatory-bowel-disease), viêm khớp tự miễn, loạn sản tủy
+- Sinh thiết gợi ý
+
+Nhiễm [enterovirus không điển hình](https://dermnetnz.org/topics/hand-foot-and-mouth-disease)
+
+- Phát ban mụn nước lan rộng
+- Khỏi trong vài ngày
+- Khi ảnh hưởng đến các vùng [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis), nhiễm enterovirus được gọi là [eczema coxsackium](https://dermnetnz.org/topics/eczema-coxsackium).
+
+[Thủy đậu/varicella](https://dermnetnz.org/topics/chickenpox)
+
+- Bệnh trẻ em; nghiêm trọng hơn ở người lớn
+- Da đầu, mặt, niêm mạc miệng, thân
+- Nuôi cấy/PCR virus Herpes varicella zoster
+
+![Viêm da neutrophilic cấp tính có sốt](https://dermnetnz.org/assets/Uploads/figure-5-blistering.jpg)
+
+Viêm da neutrophilic cấp tính có sốt
+
+![Nhiễm enterovirus không điển hình](https://dermnetnz.org/assets/Uploads/figure-6-blistering.jpg)
+
+Nhiễm enterovirus không điển hình
+
+![Thủy đậu/varicella](https://dermnetnz.org/assets/Uploads/figure-7-blistering.jpg)
+
+Thủy đậu/varicella
+
+[Phồng rộp do hôn mê](https://dermnetnz.org/topics/skin-signs-of-coma)
+
+- Truyền thống liên quan đến việc sử dụng barbiturat; các loại thuốc khác cũng có liên quan.
+- Phát triển sau 48 - 72 giờ kể từ khi bắt đầu hôn mê.
+- Tự giới hạn, thường khỏi trong vòng 1 đến 2 tuần.
+
+[Eczema herpeticum](https://dermnetnz.org/topics/eczema-herpeticum)
+
+- Tiền sử [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- Cụm mụn nước đơn hình có rốn
+- Nuôi cấy/PCR [virus Herpes simplex](https://dermnetnz.org/topics/herpes-simplex)
+
+[Viêm da](https://dermnetnz.org/topics/dermatitis)
+
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Chàm đĩa](https://dermnetnz.org/topics/discoid-eczema)
+
+![Chàm đĩa](https://dermnetnz.org/assets/Uploads/dermatitis/discoid-eczema/2621.jpg)
+
+Chàm đĩa
+
+![Eczema herpeticum](https://dermnetnz.org/assets/Uploads/figure-8-blistering.jpg)
+
+Eczema herpeticum
+
+![Viêm da dị ứng](https://dermnetnz.org/assets/Uploads/figure-9-blistering.jpg)
+
+Viêm da dị ứng
+
+[Phát ban ánh sáng đa hình](https://dermnetnz.org/topics/polymorphic-light-eruption)
+
+- Ảnh hưởng đến các vị trí cơ thể tiếp xúc với ánh nắng (tay, ngực trên, chân)
+- Sẩn, mảng, đôi khi [dạng mục tiêu](https://dermnetnz.org/topics/target-and-targetoid-lesions)
+- Có thể không ảnh hưởng đến mặt
+- Xuất hiện trong vòng vài giờ sau khi tiếp xúc với ánh sáng mặt trời sáng
+
+[Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+
+- Phản ứng ví dụ, với nhiễm trùng
+- Phát ban cấp tính của sẩn, mảng, [tổn thương mục tiêu](https://dermnetnz.org/topics/target-and-targetoid-lesions)
+- Phân bố ngoại vi: má, khuỷu tay, đầu gối, tay, chân
+- Có thể có viêm niêm mạc (môi, kết mạc, bộ phận sinh dục)
+
+[Hội chứng Stevens-Johnson / hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis)
+
+- Bệnh nhân rất ốm
+- Liên quan đến niêm mạc
+- Gần như luôn do thuốc gây ra
+- Hiếm khi do nhiễm [mycoplasma](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection)
+- Da đỏ đau có thể bong ra từng mảng hoặc có nhiều phồng rộp hợp nhất
+
+![Phát ban ánh sáng đa hình](https://dermnetnz.org/assets/Uploads/figure-10-blistering.jpg)
+
+Phát ban ánh sáng đa hình
+
+![Ban đỏ đa dạng](https://dermnetnz.org/assets/Uploads/figure-11-blistering.jpg)
+
+Ban đỏ đa dạng
+
+![Hội chứng Stevens-Johnson / hoại tử biểu bì nhiễm độc](https://dermnetnz.org/assets/Uploads/figure-12-blistering.jpg)
+
+Hội chứng Stevens-Johnson / hoại tử biểu bì nhiễm độc
+
+[Hội chứng quá mẫn thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome)
+
+- Thuốc bắt đầu sử dụng đến 8 tuần trước khi phát bệnh
+- Phát ban dạng sởi có thể phồng rộp (không có hoại tử)
+- Thường liên quan đến niêm mạc
+- Tổn thương đa cơ quan (thận, gan, hô hấp, huyết học)
+- Thường có tăng bạch cầu ái toan rõ rệt
+
+[Hội chứng da phồng rộp do tụ cầu](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome)
+
+- Trẻ nhỏ
+- Khó chịu
+- Da đỏ bong ra từng mảng
+- Bằng chứng của [nhiễm trùng tụ cầu](https://dermnetnz.org/topics/staphylococcal-skin-infection)
+
+![Hội chứng quá mẫn thuốc](https://dermnetnz.org/assets/Uploads/figure-13-blistering.jpg)
+
+Hội chứng quá mẫn thuốc
+
+![Hội chứng da phồng rộp do tụ cầu](https://dermnetnz.org/assets/Uploads/figure-14-blistering.jpg)
+
+Hội chứng da phồng rộp do tụ cầu
+
+### Bệnh phồng rộp cấp tính khu trú
+
+Viêm da cấp tính
+
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis)
+- [Viêm da thực vật](https://dermnetnz.org/topics/plant-dermatitis)
+- [Viêm da tay mụn nước](https://dermnetnz.org/topics/dyshidrotic-eczema)
+
+[Chốc lở phồng rộp](https://dermnetnz.org/topics/blistering-skin-conditions)
+
+- Mảng mở rộng nhanh chóng
+- Lấy mẫu _[Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection)_
+- [Nhiễm trùng vết thương](https://dermnetnz.org/topics/wound-infections), [ghẻ,](https://dermnetnz.org/topics/scabies) v.v.
+
+[Cước](https://dermnetnz.org/topics/chilblains)
+
+- Ngón tay, ngón chân, vị trí ngoại vi
+- Tiếp xúc với lạnh
+- Mảng ngứa/đau rát màu tím
+
+![Viêm da thực vật](https://dermnetnz.org/assets/Uploads/figure-15-blistering.jpg)
+
+Viêm da thực vật
+
+![Chốc lở phồng rộp](https://dermnetnz.org/assets/Uploads/figure-16-blistering.jpg)
+
+Chốc lở phồng rộp
+
+![Cước](https://dermnetnz.org/assets/Uploads/figure-17-blistering.jpg)
+
+Cước
+
+Viêm miệng mụn nước do enterovirus
+
+- [Bệnh tay chân miệng](https://dermnetnz.org/topics/hand-foot-and-mouth-disease)
+
+Khỏi trong vài ngày
+
+[Viêm mô tế bào](https://dermnetnz.org/topics/erysipelas)
+
+- Bệnh cấp tính có sốt
+- Lấy mẫu _[Streptococcus pyogenes](https://dermnetnz.org/topics/streptococcal-skin-infections)_
+
+[Phát ban cố định do thuốc](https://dermnetnz.org/topics/fixed-drug-eruption)
+
+- Phát ban tái phát, thường tại cùng một vị trí
+- Do một loại thuốc dùng gián đoạn đã được dùng trong vòng 24 giờ trước khi phát ban xuất hiện
+- Một hoặc vài tổn thương
+- Phồng rộp trung tâm
+
+![Viêm miệng mụn nước do enterovirus](https://dermnetnz.org/assets/Uploads/figure-18-blistering.jpg)
+
+Viêm miệng mụn nước do enterovirus
+
+![Viêm mô tế bào](https://dermnetnz.org/assets/Uploads/figure-19-blistering.jpg)
+
+Viêm mô tế bào
+
+![Phát ban cố định do thuốc](https://dermnetnz.org/assets/Uploads/figure-20-blistering.jpg)
+
+Phát ban cố định do thuốc
+
+[Herpes simplex](https://dermnetnz.org/topics/herpes-simplex)
+
+- Đơn hình, có rốn
+- Nuôi cấy/PCR virus Herpes simplex
+
+[Herpes zoster (giời leo)](https://dermnetnz.org/topics/herpes-zoster)
+
+- Phân bố theo vùng da
+- Nuôi cấy/PCR virus Herpes varicella zoster
+
+[Côn trùng cắn và đốt](https://dermnetnz.org/topics/ant-bites-and-stings)
+
+- Các sẩn nổi mề đay
+- Mụn nước hoặc lỗ chích trung tâm
+- Ưu tiên các vị trí tiếp xúc
+- Phồng rộp do tiếp xúc với các loại bọ khác nhau (ví dụ, [viêm da paedarus](https://dermnetnz.org/topics/paederus-dermatitis), [viêm da bọ cánh cứng lỏng](https://dermnetnz.org/topics/lax-beetle-dermatosis)) và [sâu bướm](https://dermnetnz.org/topics/skin-problems-due-to-caterpillars-and-moths)
+
+![Herpes simplex](https://dermnetnz.org/assets/Uploads/figure-21-blistering.jpg)
+
+Herpes simplex
+
+![Herpes zoster](https://dermnetnz.org/assets/Uploads/figure-22-blistering.jpg)
+
+Herpes zoster
+
+![Côn trùng cắn và đốt](https://dermnetnz.org/assets/Uploads/figure-23-blistering.jpg)
+
+Côn trùng cắn và đốt
+
+[Miliaria](https://dermnetnz.org/topics/miliaria)
+
+- Thân trung tâm
+- Phát ban mồ hôi
+- Mụn nước rất nông
+
+[Viêm cân hoại tử](https://dermnetnz.org/topics/necrotising-fasciitis)
+
+- Rất ốm; sốc nhiễm trùng
+- Lan nhanh của [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) với [xuất huyết](https://dermnetnz.org/topics/purpura)/phồng rộp
+- Khu vực mất cảm giác trong tổn thương sớm
+- [Nuôi cấy vi khuẩn](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections) là cần thiết
+
+[Viêm da acantholytic thoáng qua](https://dermnetnz.org/topics/transient-acantholytic-dermatosis)
+
+- Cấp tính hoặc mãn tính
+- Nam giới lớn tuổi
+- Ngứa hoặc không có triệu chứng
+- Sẩn có vảy
+
+[Hội chứng PLACK](https://dermnetnz.org/topics/PLACK-syndrome)
+
+- Bệnh gen da tự phát cực kỳ hiếm gặp
+- Dạng hội chứng da bong tróc lan rộng
+- Có thể kèm theo phồng rộp
+
+Chấn thương
+
+- Tiền sử chấn thương hoặc bệnh thần kinh
+- Ma sát, [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn), bức xạ tia cực tím [cháy nắng](https://dermnetnz.org/topics/sunburn), [bỏng hóa chất](https://dermnetnz.org/topics/chemical-burn), gãy xương
+
+![Miliaria](https://dermnetnz.org/assets/Uploads/figure-24-blistering.jpg)
+
+Miliaria
+
+![Viêm da acantholytic thoáng qua](https://dermnetnz.org/assets/Uploads/figure-25-blistering.jpg)
+
+Viêm da acantholytic thoáng qua
+
+![Chấn thương-bức xạ tia cực tím](https://dermnetnz.org/assets/Uploads/figure-26-blistering.jpg)
+
+Chấn thương-bức xạ tia cực tím
+
+## Bệnh phồng rộp mãn tính
+
+Chẩn đoán bệnh phồng rộp mãn tính thường cần sinh thiết da để [xét nghiệm mô học](https://dermnetnz.org/topics/dermatopathology) và [miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence). Xét nghiệm máu tìm kháng thể đặc hiệu ([miễn dịch huỳnh quang gián tiếp](https://dermnetnz.org/topics/indirect-immunofluorescence)) cũng có thể hữu ích trong việc chẩn đoán bệnh phồng rộp miễn dịch.
+
+[Bệnh ly giải thượng bì bọng nước](https://dermnetnz.org/topics/epidermolysis-bullosa)
+
+- Các loại khác nhau bao gồm dạng mắc phải và di truyền
+- Khởi phát từ khi sinh hoặc thời thơ ấu
+
+[Fogo selvagem](https://dermnetnz.org/topics/fogo-selvagem)
+
+- Còn gọi là pemphigus foliaceus đặc hữu
+- Khởi phát từ thời thơ ấu hoặc thanh thiếu niên
+
+[Mastocytosis](https://dermnetnz.org/topics/mastocytosis)
+
+- Các loại khác nhau
+- Thường khởi phát từ thời thơ ấu
+
+[Pemphigus gia đình lành tính](https://dermnetnz.org/topics/benign-familial-pemphigus)
+
+- Còn gọi là bệnh Hailey-Hailey
+- Giới hạn ở các nếp gấp
+
+![Bệnh ly giải thượng bì bọng nước](https://dermnetnz.org/assets/Uploads/figure-27-blistering.jpg)
+
+Bệnh ly giải thượng bì bọng nước
+
+![Mastocytoma](https://dermnetnz.org/assets/Uploads/figure-28-blistering.jpg)
+
+Mastocytoma
+
+![Pemphigus gia đình lành tính](https://dermnetnz.org/assets/Uploads/figure-29-blistering.jpg)
+
+Pemphigus gia đình lành tính
+
+[Bệnh lupus ban đỏ hệ thống bọng nước](https://dermnetnz.org/topics/bullous-systemic-lupus-erythematosus)
+
+- Bệnh nhân mắc bệnh lupus ban đỏ hệ thống
+- Bọng nước dưới biểu bì
+
+[Bệnh pemphigoid bọng nước](https://dermnetnz.org/topics/bullous-pemphigoid)
+
+- Chủ yếu là da (hiếm khi niêm mạc)
+- Chủ yếu ảnh hưởng đến người già (hiếm khi trẻ sơ sinh, trẻ em)
+- Bọng nước dưới biểu bì
+- Tổn thương tiền thân dạng chàm hoặc nổi mề đay
+
+[Viêm da herpetiformis](https://dermnetnz.org/topics/dermatitis-herpetiformis)
+
+- Liên quan đến [bệnh ruột nhạy cảm gluten](https://dermnetnz.org/topics/gluten-enteropathy-in-patients-with-dermatitis-herpetiformis)
+- Ngứa dữ dội; mụn nước thường bị loại bỏ do gãi để lại vết xói mòn
+- Đối xứng trên da đầu, vai, khuỷu tay, đầu gối, mông
+
+![Bệnh pemphigoid bọng nước](https://dermnetnz.org/assets/Uploads/figure-30-blistering.jpg)
+
+Bệnh pemphigoid bọng nước
+
+![Viêm da herpetiformis](https://dermnetnz.org/assets/Uploads/figure-31-blistering.jpg)
+
+Viêm da herpetiformis
+
+Các bệnh phồng rộp miễn dịch khác
+
+- [Pemphigoid sẹo](https://dermnetnz.org/topics/mucous-membrane-pemphigoid)
+- [Pemphigoid thai kỳ](https://dermnetnz.org/topics/pemphigoid-gestationis)
+- [Viêm da IgA tuyến tính](https://dermnetnz.org/topics/linear-iga-bullous-disease)
+- [Bệnh ly giải thượng bì bọng nước mắc phải](https://dermnetnz.org/topics/epidermolysis-bullosa-acquisita)
+- [Pemphigus vulgaris](https://dermnetnz.org/topics/pemphigus-vulgaris)
+- [Pemphigus foliaceus](https://dermnetnz.org/topics/pemphigus-foliaceus)
+- [Pemphigus cận ung thư](https://dermnetnz.org/topics/paraneoplastic-pemphigus)
+- [Pemphigus do thuốc](https://dermnetnz.org/topics/drug-induced-pemphigus)
+- [Pemphigus IgA](https://dermnetnz.org/topics/iga-pemphigus)
+- [Liên quan đến mắt trong các bệnh phồng rộp tự miễn](https://dermnetnz.org/topics/ocular-blistering)
+
+[Porphyria cutanea tarda](https://dermnetnz.org/topics/porphyria-cutanea-tarda)
+
+- Nhạy cảm ánh sáng chuyển hóa
+- Da dễ tổn thương, bọng nước, mụn nước
+- Mặt sau của tay, mặt
+- Khởi phát ở tuổi trung niên
+
+![Pemphigoid thai kỳ](https://dermnetnz.org/assets/Uploads/figure-32-blistering.jpg)
+
+Pemphigoid thai kỳ
+
+![Pemphigus vulgaris](https://dermnetnz.org/assets/Uploads/figure-33-blistering.jpg)
+
+Pemphigus vulgaris
+
+![Porphyria cutanea tarda](https://dermnetnz.org/assets/Uploads/figure-34-blistering.jpg)
+
+Porphyria cutanea tarda
+
+Phồng rộp được tiết lộ: Định nghĩa, Nguyên nhân và Điều trị - YouTube
+
+[Hình ảnh của DermNet](https://www.youtube.com/channel/UCj4I5L1l7jT64IuMZJirfhQ?embeds_referring_euri=https%3A%2F%2Fdermnetnz.org%2F)
+
+DermNet
+
+4K người đăng ký
+
+[Phồng rộp được tiết lộ: Định nghĩa, Nguyên nhân và Điều trị](https://www.youtube.com/watch?v=xvBTdPl0uao)
+
+DermNet
+
+Tìm kiếm
+
+Xem sau
+
+Chia sẻ
+
+Sao chép liên kết
+
+Thông tin
+
+Mua sắm
+
+Nhấn để tắt tiếng
+
+Nếu phát lại không bắt đầu ngay, hãy thử khởi động lại thiết bị của bạn.
+
+Nhiều video hơn
+
+## Nhiều video hơn
+
+Bạn đã đăng xuất
+
+Các video bạn xem có thể được thêm vào lịch sử xem của TV và ảnh hưởng đến các đề xuất của TV. Để tránh điều này, hãy hủy và đăng nhập vào YouTube trên máy tính của bạn.
+
+HủyXác nhận
+
+Chia sẻ
+
+Bao gồm danh sách phát
+
+Đã xảy ra lỗi khi truy xuất thông tin chia sẻ. Vui lòng thử lại sau.
+
+[Xem trên](https://www.youtube.com/watch?v=xvBTdPl0uao&embeds_referring_euri=https%3A%2F%2Fdermnetnz.org%2F)
+
+0:00
+
+0:00 / 21:40
+•Trực tiếp
+
+•
+
+### Trên DermNet
+
+- [Giải thích về dị ứng](https://dermnetnz.org/topics/allergies-explained)
+- [Phồng rộp và mụn mủ ở trẻ sơ sinh](https://dermnetnz.org/topics/blisters-and-pustules-in-neonates)
+- [Bệnh tự miễn trong da liễu](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology)
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ hiểu_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

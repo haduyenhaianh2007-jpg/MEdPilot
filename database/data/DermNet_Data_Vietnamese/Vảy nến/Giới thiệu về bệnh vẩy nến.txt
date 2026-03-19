@@ -1,0 +1,31 @@
+##### Bệnh vẩy nến — thông tin bổ sung
+
+Danh mục:
+
+Tự miễn/dị ứng viêm
+
+ICD-10:
+
+L40, L40.0, L40.4, L40.8, L62
+
+ICD-11:
+
+EA90.Z, EA90.Y, EA90.0, EA90.1, EA90.2, EA90.3, EA90.50, EA90.51, EA90.52
+
+SNOMED CT:
+
+9014002, 238608008, 200965009, 238600001, 238604005, 37042000, 402335001, 200975007, 238601002, 402308005, 402307000, 402310007, 238609000, 402325007, 402312004, 402318000, 200970002, 200971003, 25847004, 200977004
+
+**[Tự miễn/dị ứng viêm](https://dermnetnz.org/topics?category=Autoimmune/autoinflammatory)**
+
+# **Bệnh vẩy nến**
+
+### Được xem xét lần cuối: Tháng 6 năm 2023
+
+Tác giả: Bác sĩ Chelsea Jones, Newcastle, Úc; Bác sĩ Monisha Gupta, Bác sĩ Da liễu, Úc (2020); cập nhật bởi Bác sĩ Salim Uddin, Bác sĩ Nội trú, New Zealand; Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand (2023).
+
+Bác sĩ da liễu xem xét: Bác sĩ Ian Coulson
+
+Chỉnh sửa bởi bộ phận nội dung DermNet
+
+[Giới thiệu](https://dermnetnz.org/topics/psoriasis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/psoriasis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/psoriasis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/psoriasis#Clinical%20features%3Cbr%20/%3E) [Phân loại](https://dermnetnz.org/topics/psoriasis#Classification%3Cbr%20/%3E) [Các loại](https://dermnetnz.org/topics/psoriasis#Types%3Cbr%20/%3E) [Yếu tố làm nặng](https://dermnetnz.org/topics/psoriasis#Aggravating%20factors%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/psoriasis#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/psoriasis#Treatment%3Cbr%20/%3E) [Bài giảng điện tử](https://dermnetnz.org/topics/psoriasis#E-lecture)

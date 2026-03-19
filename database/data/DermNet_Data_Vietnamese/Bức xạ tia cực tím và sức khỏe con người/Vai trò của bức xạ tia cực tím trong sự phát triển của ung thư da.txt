@@ -1,0 +1,50 @@
+## Vai trò của bức xạ tia cực tím trong sự phát triển của ung thư da
+
+Bức xạ tia cực tím (UVR) là một chất gây ung thư chính. Nó gây tổn thương da bằng cách tạo ra các loại oxy phản ứng (gốc tự do) gây hại cho protein, lipid, RNA và DNA. Theo mô hình hai cú đánh, nơi ung thư là kết quả của sự tích lũy đột biến trong DNA, sự phát triển của [ung thư da](https://dermnetnz.org/topics/skin-cancer) phụ thuộc vào cấu trúc di truyền của từng cá nhân (đặc biệt là các đa hình tín hiệu _MC1R_ — quyết định màu da và tóc và độ nhạy cảm với ánh nắng) cùng với hai yếu tố.
+
+1. UVR gây khởi phát khối u thông qua các đột biến trong DNA.
+2. UVR là một chất thúc đẩy khối u và gây ra sự phát triển khối u tiến triển.
+
+### U ác tính trên da
+
+- Tỷ lệ mắc [u ác tính](https://dermnetnz.org/topics/melanoma) cao ở các quần thể da sáng sống gần xích đạo và cao hơn ở Úc và New Zealand so với Anh và Canada, nơi mức độ UVR thấp hơn.
+- Ở người lớn tuổi, u ác tính chủ yếu ảnh hưởng đến đầu và cổ của bệnh nhân và có liên quan đến việc tiếp xúc lâu dài với UVR.
+- Ở người trẻ tuổi, u ác tính ảnh hưởng đến thân và chi của bệnh nhân, đặc biệt là ở những người có nhiều [nốt ruồi sắc tố (melanocytic naevi)](https://dermnetnz.org/topics/melanocytic-naevus). Điều này được cho là do tiếp xúc sớm với UVR, dẫn đến [cháy nắng](https://dermnetnz.org/topics/sunburn).
+
+### Ung thư da không phải u ác tính
+
+- Tỷ lệ mắc hàng năm cao nhất của [ung thư biểu mô tế bào vảy trên da (SCC)](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) và [ung thư biểu mô tế bào đáy (BCC)](https://dermnetnz.org/topics/basal-cell-carcinoma) là ở Úc và thấp nhất là ở Châu Phi.
+- SCC và BCC phổ biến hơn ở da sáng ([các loại da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) I, II và III) hơn là ở da tối màu (các loại IV, V và VI). (Xem [SCC ở da màu](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma-in-skin-of-colour) và [BCC ở da màu](https://dermnetnz.org/topics/basal-cell-carcinoma-in-skin-of-colour).)
+- [Dày sừng ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) và SCC có liên quan đến việc tiếp xúc tích lũy với ánh nắng.
+- BCC là kết quả của việc tiếp xúc không liên tục với UVR và [cháy nắng](https://dermnetnz.org/topics/sunburn).
+- [Ung thư da](https://dermnetnz.org/topics/skin-cancer) ở các vị trí tiếp xúc với ánh nắng phổ biến hơn ở những bệnh nhân [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression), đặc biệt là [người nhận ghép tạng](https://dermnetnz.org/topics/skin-cancer-in-transplant-recipients).
+
+Hầu hết các BCC và SCC trên da tiếp xúc với ánh nắng mang đột biến 'chữ ký UVR' (tức là, chuyển đổi từ cytosine sang tyrosine tại các dimer pyrimidine cyclobutane) trong các gen ức chế khối u (_[PTCH1](https://dermnetnz.org/topics/genetics-of-basal-cell-carcinoma)_ và p53 tương ứng).
+
+[Ung thư da](https://dermnetnz.org/topics/skin-cancer) phổ biến hơn ở những người có rối loạn [nhạy cảm ánh sáng](https://dermnetnz.org/topics/photosensitivity) di truyền. Những rối loạn này bao gồm:
+
+- [Xeroderma pigmentosum](https://dermnetnz.org/topics/xeroderma-pigmentosum)
+- [Bạch tạng da mắt](https://dermnetnz.org/topics/albinism)
+- [Hội chứng Bloom](https://dermnetnz.org/topics/bloom-syndrome)
+- [Trichothiodystrophy](https://dermnetnz.org/topics/trichothiodystrophy)
+- [Hội chứng Rothmund Thomson](https://dermnetnz.org/topics/rothmund-thomson-syndrome).
+
+Tiếp xúc với UVR cũng làm tăng nguy cơ:
+
+- [Ung thư tế bào Merkel](https://dermnetnz.org/topics/merkel-cell-carcinoma)
+- [U xơ không điển hình](https://dermnetnz.org/topics/atypical-fibroxanthoma)
+- Các loại ung thư da hiếm gặp khác.
+
+### Ung thư da do tiếp xúc với bức xạ tia cực tím
+
+![U ác tính lan rộng bề mặt](https://dermnetnz.org/assets/Uploads/ssm39.jpg)
+
+U ác tính lan rộng bề mặt
+
+![Ung thư biểu mô tế bào vảy của môi](https://dermnetnz.org/assets/Uploads/squamous-cell-carcinoma-lip.jpg)
+
+Ung thư biểu mô tế bào vảy của môi
+
+![Ung thư biểu mô tế bào đáy](https://dermnetnz.org/assets/Uploads/nodulocystic-basal-cell-carcinoma.jpg)
+
+Ung thư biểu mô tế bào đáy

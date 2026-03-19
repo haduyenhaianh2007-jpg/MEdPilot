@@ -1,0 +1,209 @@
+##### Tinea corporis — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Tinea circinata, Nấm da thân, Nấm da cơ thể, Tinea glabrosa, Nấm da vòng
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B35.4, B35.5, B35.0
+
+ICD-11:
+
+1F28.Y
+
+SNOMED CT:
+
+84849002, 240699006, 75868000, 182384005, 403038004, 214600002, 19087001
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Tinea corporis**
+
+Tạo năm 2003. Cập nhật: Bác sĩ Harriet Bell, Bác sĩ nội trú, Bệnh viện Thành phố Auckland, Auckland, New Zealand. Biên tập bởi Gus Mitchell. Tháng 11 năm 2020.
+
+[Giới thiệu](https://dermnetnz.org/topics/tinea-corporis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/tinea-corporis#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/tinea-corporis#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/tinea-corporis#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/tinea-corporis#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/tinea-corporis#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/tinea-corporis#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/tinea-corporis#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/tinea-corporis#Outcome)
+
+## Tinea corporis là gì?
+
+[Tinea](https://dermnetnz.org/topics/tinea) corporis là một nhiễm trùng nấm bề mặt của da có thể ảnh hưởng đến bất kỳ phần nào của cơ thể, ngoại trừ tay và chân, da đầu, mặt và râu, háng và móng. Nó thường được gọi là 'nấm da vòng' vì xuất hiện với các tổn thương hình vòng đặc trưng.
+
+### Tổn thương hình vòng điển hình của nấm da vòng
+
+![Tinea corporis](https://dermnetnz.org/assets/Uploads/fungal/s/tincorp8.jpg)
+
+Tinea corporis
+
+![](https://dermnetnz.org/assets/Uploads/fungal/s/tincorp9-v2.jpg)
+
+![ ](https://dermnetnz.org/assets/collection/Tinea-corporis/tinea-corporis-00019.jpg)
+
+## Ai bị tinea corporis?
+
+Tinea corporis được tìm thấy ở hầu hết các khu vực trên thế giới, nhưng đặc biệt phổ biến ở các vùng khí hậu nóng ẩm. Nó thường gặp nhất ở trẻ em và thanh niên, tuy nhiên tất cả các nhóm tuổi đều có thể bị nhiễm, bao gồm cả trẻ sơ sinh.
+
+Các yếu tố nguy cơ y tế bao gồm:
+
+- Nhiễm tinea trước đó hoặc đồng thời
+- Bệnh tiểu đường
+- Suy giảm miễn dịch
+- Tăng tiết mồ hôi
+- Da khô
+- Bệnh vảy cá.
+
+Các yếu tố nguy cơ môi trường bao gồm:
+
+- Đông đúc trong gia đình
+- Nhiễm trùng của các thành viên trong gia đình
+- Nuôi thú cưng trong nhà
+- Mặc quần áo kín
+- Các hoạt động giải trí liên quan đến tiếp xúc gần gũi với người khác bao gồm phòng thay đồ chung.
+
+Một khuynh hướng di truyền đã được đề xuất, đặc biệt là đối với tinea imbricata.
+
+## Nguyên nhân gây ra tinea corporis là gì?
+
+Tinea corporis chủ yếu do nấm dermatophyte thuộc chi _Trichophyton_ và _Microsporum_ gây ra. Loài _T. rubrum_ là tác nhân gây bệnh phổ biến nhất của tinea corporis trên toàn thế giới, bao gồm cả New Zealand. Các loài khác có thể gây tinea corporis bao gồm:
+
+- _T. interdigitale_
+- _T. tonsurans_ — thứ phát từ tinea capitis hoặc tiếp xúc da kề da
+- _M. canis_ (mèo, chó), và ít phổ biến hơn các loài zoonotic khác bao gồm _T. verrucosum_ (bò), _T. equinum_ (ngựa) và _T. erinacei_ (nhím).
+
+Tinea corporis lây lan qua việc rụng bào tử nấm từ da bị nhiễm. Sự truyền nhiễm được tạo điều kiện bởi môi trường ấm, ẩm và việc chia sẻ các vật dụng như giường, khăn tắm và quần áo. Nhiễm trùng dermatophyte ở các vùng da khác, như tinea pedis, cũng có thể được chuyển giao. Thời gian ủ bệnh là 1–3 tuần. Dermatophyte xâm nhập và lan rộng trong lớp sừng, nhưng không thể xâm nhập sâu hơn trong da khỏe mạnh.
+
+## Đặc điểm lâm sàng của tinea corporis là gì?
+
+Tinea corporis ban đầu xuất hiện dưới dạng một mảng đỏ tròn đơn lẻ với viền vảy nổi lên. Một tổn thương lan ra từ trung tâm tạo thành hình vòng với sự giảm sắc tố trung tâm và viền đỏ vảy ngoại vi (nấm da vòng). Viền có thể là dạng sẩn hoặc mụn mủ. Ngứa là phổ biến. Theo thời gian, nhiều tổn thương có thể phát triển và có thể hợp nhất để tạo thành một mẫu đa vòng. Phân bố của các tổn thương thường không đối xứng.
+
+![Viền đỏ sắc nét của tinea corporis](https://dermnetnz.org/assets/Uploads/fungal/tincorp16.jpg)
+
+Viền đỏ sắc nét của tinea corporis
+
+![Sẩn và mụn mủ của tinea corporis](https://dermnetnz.org/assets/Uploads/fungal/tincorp18.jpg)
+
+Sẩn và mụn mủ của tinea corporis
+
+![Sự không đối xứng của tinea corporis](https://dermnetnz.org/assets/Uploads/fungal/tincorp15.jpg)
+
+Sự không đối xứng của tinea corporis
+
+Xem thêm [Hình ảnh tinea corporis](https://dermnetnz.org/topics/tinea-corporis-images)
+
+### Các biến thể lâm sàng của tinea corporis
+
+Các biến thể lâm sàng của tinea corporis có thể bao gồm các loại sau.
+
+- [Kerion](https://dermnetnz.org/topics/kerion) — một phản ứng viêm mủ dữ dội do nấm zoophilic.
+- Tinea gladiatorum — ảnh hưởng đến những người tham gia các môn thể thao tiếp xúc như đấu vật hoặc võ thuật do tiếp xúc da kề da. Thường do _T. tonsurans_ gây ra.
+- Tinea imbricata — các vòng đồng tâm rộng tạo thành các mảng đa vòng với vảy dày do _T. concentricum_. Đặc biệt ngứa. Biến thể này phổ biến ở các đảo Thái Bình Dương và các khu vực nhiệt đới xích đạo khác.
+- [Tinea incognito](https://dermnetnz.org/topics/tinea-incognito) — thiếu các đặc điểm điển hình của tinea corporis do sự ức chế phản ứng viêm sau khi bôi corticosteroid hoặc chất ức chế calcineurin tại chỗ. Các tổn thương có xu hướng lan rộng với viền không rõ ràng, thiếu vảy và ban đỏ.
+- [Majocchi granuloma](https://dermnetnz.org/topics/majocchi-granuloma) — một biến thể liên quan đến các nang lông và mô dưới da, thường gặp nhất trên các chi sau khi cạo. Xuất hiện dưới dạng sẩn hoặc mụn mủ quanh nang. _T. rubrum_ là sinh vật thông thường.
+- Bullous tinea corporis — một biến thể hiếm gặp xuất hiện với các mụn nước hoặc bọng nước.
+- _T. mentagrophytes_ type VII — một dermatophyte mới nổi gây ra một phát ban sinh dục viêm mạnh lây lan qua tiếp xúc tình dục.
+
+### Các biến thể lâm sàng của tinea corporis
+
+![Kerion - tinea corporis viêm](https://dermnetnz.org/assets/Uploads/fungal/kerion09.jpg)
+
+Kerion - tinea corporis viêm
+
+![Majocchi granuloma - tinea corporis xâm lấn](https://dermnetnz.org/assets/Uploads/fungal/majocchi14.jpg)
+
+Majocchi granuloma \- tinea corporis xâm lấn
+
+![Tinea incognito](https://dermnetnz.org/assets/Uploads/fungal/tiimsu.jpg)
+
+Tinea incognito
+
+## Biến chứng của tinea corporis là gì?
+
+Tinea corporis có khả năng lây lan sang các vùng da khác và sang người khác.
+
+Bệnh nhân suy giảm miễn dịch, chẳng hạn như những người mắc [HIV/AIDS](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome), có thể xuất hiện với nhiễm trùng lan rộng.
+
+Dermatophytosis mãn tính là nhiễm _T. rubrum_ ở ít nhất bốn vị trí trên cơ thể sau một quá trình dao động kéo dài và tái phát mặc dù đã điều trị.
+
+[Phản ứng dermatophytide](https://dermnetnz.org/topics/dermatophytide-reactions) là một phát ban dị ứng ở một vị trí xa do nhiễm trùng nấm viêm.
+
+Nhiễm trùng [vi khuẩn thứ phát](https://dermnetnz.org/topics/bacterial-skin-infections) với _Staph aureus_ là phổ biến ở trẻ em mắc [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) và tinea corporis.
+
+## Tinea corporis được chẩn đoán như thế nào?
+
+Tinea corporis nên được xem xét trong bối cảnh của một mảng đơn lẻ hoặc phát ban không đối xứng và được xác nhận trên mycology để xác định nguồn có khả năng.
+
+Khám nên bao gồm toàn bộ bề mặt da, bao gồm cả da đầu và móng, để tìm các vị trí khác có liên quan.
+
+[Dermoscopy](https://dermnetnz.org/topics/dermoscopy) có thể hỗ trợ chẩn đoán lâm sàng với các đặc điểm của ban đỏ, vảy trắng, phân bố mạch máu ngoại vi hoặc không đều, sẩn nang nhỏ, đốm nâu bao quanh bởi vòng trắng-vàng, và tóc gợn sóng hoặc gãy.
+
+Cạo da từ viền tổn thương vảy và gắn trong 10–20% kali hydroxide có thể được kiểm tra dưới kính hiển vi ánh sáng để tìm hyphae và bào tử. Nuôi cấy nấm của mẫu cạo da cung cấp nhận dạng của sinh vật gây bệnh (xem [Xét nghiệm phòng thí nghiệm cho nhiễm trùng nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection)).
+
+Tinea corporis đôi khi được chẩn đoán trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy), và các thay đổi mô học đặc trưng được thấy (xem [Bệnh lý tinea corporis](https://dermnetnz.org/topics/tinea-corporis-pathology)). Mô học thường cần thiết để chẩn đoán Majocchi granuloma.
+
+## Chẩn đoán phân biệt cho tinea corporis là gì?
+
+Chẩn đoán phân biệt cho tinea corporis có thể bao gồm:
+
+- [Chàm đĩa](https://dermnetnz.org/topics/discoid-eczema)
+- [Vảy nến](https://dermnetnz.org/topics/psoriasis)
+- [Pityriasis rosea](https://dermnetnz.org/topics/pityriasis-rosea) herald patch
+- [Viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis).
+
+## Điều trị tinea corporis là gì?
+
+### Biện pháp chung
+
+Da nên được giữ sạch và khô kỹ. Quần áo nhẹ, rộng rãi được khuyến nghị trong các vùng khí hậu nóng ẩm. Tránh tiếp xúc gần với người bị nhiễm và chia sẻ các vật dụng. Khám các thành viên trong gia đình và thú cưng để tìm nguồn nhiễm trùng và điều trị thích hợp giảm nguy cơ tái nhiễm.
+
+### Biện pháp cụ thể
+
+Tinea corporis cục bộ có thể đáp ứng với [thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) như imidazoles và [terbinafine](https://dermnetnz.org/topics/terbinafine). Việc bôi cần bao gồm một viền đủ rộng xung quanh tổn thương và một liệu trình kéo dài ít nhất 1–2 tuần sau khi phát ban đã biến mất. Tuy nhiên, tái phát là phổ biến.
+
+[Điều trị chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) thường cần thiết nếu tinea corporis liên quan đến một vị trí có lông, lan rộng, hoặc không khỏi với thuốc chống nấm tại chỗ. Liệu pháp hệ thống cũng cần thiết cho Majocchi granuloma và tinea imbricate. Các tác nhân đường uống được khuyến nghị là [terbinafine](https://dermnetnz.org/topics/terbinafine) và [itraconazole](https://dermnetnz.org/topics/itraconazole).
+
+## Kết quả cho tinea corporis là gì?
+
+Với điều trị thích hợp và sự tuân thủ tốt của bệnh nhân, tinea corporis có thể được chữa khỏi. Tuy nhiên, tái phát hoặc tái nhiễm có thể xảy ra nếu điều trị dừng quá sớm, hoặc nguồn nhiễm trùng chưa được xác định và điều trị.
+
+### Thư mục
+
+- Astvad, K. M. T., & Saunte, D. M. L. (2025). Sự lây truyền qua đường tình dục của một dermatophyte mới nổi: T. Mentagrophytes genotype VII. Journal of the European Academy of Dermatology and Venereology, 39(2), 245–246. doi:10.1111/jdv.20402. [Journal](https://onlinelibrary.wiley.com/doi/10.1111/jdv.20402)
+
+- El-Gohary M, van Zuuren EJ, Fedorowicz Z, et al. Các phương pháp điều trị chống nấm tại chỗ cho tinea cruris và tinea corporis. Cochrane Database Syst Rev. 2014;(8):CD009992. doi:10.1002/14651858.CD009992.pub2. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4804599/)
+- Kermani F, Moosazadeh M, Hosseini SA, Bandalizadeh Z, Barzegari S, Shokohi T. Tinea gladiatorum và sự ô nhiễm dermatophyte trong số các đô vật và trong các phòng đấu vật: một đánh giá hệ thống và phân tích tổng hợp. Curr Microbiol. 2020;77(4):602–11. doi:10.1007/s00284-019-01816-3. [Journal](https://link.springer.com/article/10.1007/s00284-019-01816-3)
+- Leung AK, Lam JM, Leong KF, Hon KL. Tinea corporis: một đánh giá cập nhật. Drugs Context. 2020;9:2020-5-6. doi:10.7573/dic.2020-5-6. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7375854/)
+- Moriarty B, Hay R, Morris-Jones R. Chẩn đoán và quản lý tinea. BMJ. 2012;345:e4380. doi:10.1136/bmj.e4380. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22782730/)
+- Sahoo AK, Mahajan R. Quản lý tinea corporis, tinea cruris, và tinea pedis: Một đánh giá toàn diện. Indian Dermatol Online J. 2016;7(2):77–86. doi:10.4103/2229-5178.178099. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4804599/)
+- Singh D, Patel DC, Rogers K, Wood N, Riley D, Morris AJ. Dịch tễ học của nhiễm trùng dermatophyte ở Auckland, New Zealand. Australas J Dermatol. 2003;44(4):263–6. doi:10.1046/j.1440-0960.2003.00005.x. [PubMed](https://pubmed.ncbi.nlm.nih.gov/14616492/)
+
+### Trên DermNet
+
+- [Nhiễm trùng da do nấm](https://dermnetnz.org/topics/fungal-skin-infections)
+- [Hình ảnh nhiễm trùng da do nấm](https://dermnetnz.org/image-catalogue/fungal-skin-infection-images)
+- [Giới thiệu về nhiễm trùng nấm](https://dermnetnz.org/topics/introduction-to-fungal-infections)
+- [Kerion](https://dermnetnz.org/topics/kerion)
+- [Xét nghiệm phòng thí nghiệm cho nhiễm trùng nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection)
+- [Mycology của nhiễm trùng dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections)
+- [Tinea](https://dermnetnz.org/topics/tinea)
+- [Bệnh lý tinea corporis](https://dermnetnz.org/topics/tinea-corporis-pathology)
+- [Điều trị nhiễm trùng nấm](https://dermnetnz.org/topics/treatment-of-fungal-infection)
+
+### Các trang web khác
+
+- [Nhiễm trùng nấm của da](https://www.youtube.com/watch?v=usvkbJATeo0&t=2s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Tinea corporis](https://emedicine.medscape.com/article/1091473-overview) — Tham khảo Medscape
+- [Nấm da vòng trên cơ thể (tinea corporis)](https://www.emedicinehealth.com/ringworm_on_body/symptom.htm) — emedicinehealth
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

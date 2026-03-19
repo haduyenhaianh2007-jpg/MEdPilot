@@ -1,0 +1,25 @@
+##### Viêm khớp tự phát thiếu niên — thông tin bổ sung
+
+Danh mục:
+
+Bệnh hệ thống, Tự miễn/dị ứng tự phát
+
+ICD-10:
+
+M08, M08.80, M08.00, M08.0, M08.1, M08.2, M08.3, M08.4, M08.8, M08.9
+
+ICD-11:
+
+FA24.Z, FA24.0Z, FA24.1, FA24.Y, FA24.2, FA24.4, EB10, EB2Y
+
+SNOMED CT:
+
+410502007, 201796004, 16044751000119106, 410798004, 410801005, 410796000, 410797009, 239802003, 410794002, 271807003, 430478003, 402432002
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics?category=Systemic%20diseases) [Tự miễn/dị ứng tự phát](https://dermnetnz.org/topics?category=Autoimmune/autoinflammatory)**
+
+# **Viêm khớp tự phát thiếu niên**
+
+Tác giả: Nicole S Kim, Sinh viên Y khoa, Đại học Toronto, Toronto, Canada; Bác sĩ Yuliya Velykoredko, Bác sĩ Nội trú Da liễu, Đại học Toronto, Toronto, Canada. Biên tập viên trưởng DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập sao chép bởi Gus Mitchell/Maria McGivern. Tháng 9 năm 2018.
+
+[Giới thiệu](https://dermnetnz.org/topics/juvenile-idiopathic-arthritis#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/juvenile-idiopathic-arthritis#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/juvenile-idiopathic-arthritis#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/juvenile-idiopathic-arthritis#Clinical%20features) [Biến chứng](https://dermnetnz.org/topics/juvenile-idiopathic-arthritis#Complications) [Chẩn đoán](https://dermnetnz.org/topics/juvenile-idiopathic-arthritis#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/juvenile-idiopathic-arthritis#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/juvenile-idiopathic-arthritis#Treatment) [Kết quả](https://dermnetnz.org/topics/juvenile-idiopathic-arthritis#Outcome)

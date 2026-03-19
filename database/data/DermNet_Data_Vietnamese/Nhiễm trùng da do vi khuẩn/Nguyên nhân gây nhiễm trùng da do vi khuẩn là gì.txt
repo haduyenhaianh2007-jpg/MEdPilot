@@ -1,0 +1,46 @@
+## Nguyên nhân gây nhiễm trùng da do vi khuẩn là gì?
+
+Một loạt các vi khuẩn có thể gây nhiễm trùng da, phổ biến nhất là các loài _[Staphylococcus](https://dermnetnz.org/topics/staphylococcal-skin-infection)_ và _[Streptococcus](https://dermnetnz.org/topics/streptococcal-skin-infections)_.
+
+#### Bảng 1. Vi khuẩn nào gây nhiễm trùng da?
+
+| Vi khuẩn | Nhiễm trùng niêm mạc da (hoặc nhiễm trùng có dấu hiệu trên da) |
+| --- | --- |
+| _Staphylococcus aureus_ (phổ biến) | - [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis)<br>  <br>- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis)<br>  <br>- Viêm nang lông mủ ( [mụn nhọt](https://dermnetnz.org/topics/boil)) và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess)<br>  <br>- [Chốc lở](https://dermnetnz.org/topics/impetigo) (mụn nước học đường) và [ecthyma](https://dermnetnz.org/topics/ecthyma)<br>  <br>- [Staphylococcus aureus kháng methicillin (MRSA)](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus)<br>  <br>- [Hội chứng da bị phỏng do tụ cầu](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome)<br>  <br>- [Hội chứng sốc độc tố](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome)<br>  <br>- [Viêm cơ mủ nhiệt đới](https://dermnetnz.org/topics/tropical-pyomyositis)<br>  <br>- [Botryomycosis](https://dermnetnz.org/topics/botryomycosis-pyoderma-vegetans) (pyoderma vegetans) |
+| _Streptococcus pyogenes_ (phổ biến) | - [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis)<br>  <br>- [Viêm quầng](https://dermnetnz.org/topics/erysipelas)<br>  <br>- [Chốc lở](https://dermnetnz.org/topics/impetigo)<br>  <br>- [Viêm cân hoại tử](https://dermnetnz.org/topics/necrotising-fasciitis)<br>  <br>- [Hoại tử nhiễm trùng](https://dermnetnz.org/topics/wet-gangrene)<br>  <br>- [Sốt ban đỏ](https://dermnetnz.org/topics/scarlet-fever)<br>  <br>- [Sốt thấp khớp](https://dermnetnz.org/topics/rheumatic-fever), ban đỏ rìa |
+| Loài _Corynebacterium_ | - [Erythrasma](https://dermnetnz.org/topics/erythrasma)<br>  <br>- [Viêm nang lông lõm](https://dermnetnz.org/topics/pitted-keratolysis)<br>  <br>- [Trichomycosis axillaris](https://dermnetnz.org/topics/trichomycosis-axillaris) |
+| Loài _Neisseria_ | - [Bệnh lậu](https://dermnetnz.org/topics/gonorrhoea)<br>  <br>- [Bệnh do não mô cầu](https://dermnetnz.org/topics/meningococcal-disease) |
+| _Erysipelothrix insidiosa_ | - [Erysipeloid](https://dermnetnz.org/topics/erysipeloid) |
+| Loài _Haemophilus_ | - [Chancroid](https://dermnetnz.org/topics/chancroid) và [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) ở trẻ nhỏ |
+| _Helicobacter pylori_ | Nguyên nhân gây nhiễm trùng dạ dày; có thể liên quan đến:<br>- [Mề đay](https://dermnetnz.org/topics/urticaria-an-overview) mãn tính<br>  <br>- [Rosacea](https://dermnetnz.org/topics/rosacea) |
+| _Klebsiella rhinoscleromatis_ | - [Rhinoscleroma](https://dermnetnz.org/topics/rhinoscleroma) |
+| _Mycoplasma pneumoniae_ | Nguyên nhân gây viêm phổi; có thể liên quan đến:<br>- Ban đỏ không đặc hiệu<br>  <br>- Phát ban bóng nước<br>  <br>- Phát ban mề đay<br>  <br>- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)<br>  <br>- Viêm niêm mạc<br>  <br>- [Hội chứng Stevens–Johnson / hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis) (SJS/TEN; hiếm) |
+| _Pseudomonas aeruginosa_ | - Nhiễm trùng vết thương<br>  <br>- [Bệnh nấm chân](https://dermnetnz.org/topics/athletes-foot)<br>  <br>- [Viêm nang lông gram âm](https://dermnetnz.org/topics/gram-negative-folliculitis)<br>  <br>- [Viêm quanh móng mãn tính](https://dermnetnz.org/topics/paronychia) (hội chứng móng xanh)<br>  <br>- [Viêm nang lông hồ bơi](https://dermnetnz.org/topics/spa-pool-folliculitis)<br>  <br>- [Ecthyma gangrenosum](https://dermnetnz.org/topics/ecthyma-gangrenosum) |
+| _Calymmatobacterium granulomatis_ | - [Granuloma inguinale](https://dermnetnz.org/topics/granuloma-inguinale) |
+| _Bacillus anthracis_ | - [Bệnh than](https://dermnetnz.org/topics/anthrax) |
+| _Clostridium perfringens_ | - [Hoại tử khí](https://dermnetnz.org/topics/wet-gangrene) |
+| _Listeria monocytogenes_ | - [Listeriosis](https://dermnetnz.org/topics/listeriosis) trên da (hiếm) |
+| Loài _Treponema_ | - [Giang mai](https://dermnetnz.org/topics/syphilis)<br>  <br>- [Yaws](https://dermnetnz.org/topics/yaws)<br>  <br>- [Pinta](https://dermnetnz.org/topics/pinta) |
+| Loài _Bartonella_ | - [Sốt mèo cào](https://dermnetnz.org/topics/catscratch-disease)<br>  <br>- [Angiomatosis do vi khuẩn](https://dermnetnz.org/topics/bacillary-angiomatosis)<br>  <br>- [Bệnh Carrion](https://dermnetnz.org/topics/carrion-disease)<br>  <br>- Bartonellosis |
+| Loài _Mycobacterium_ | - [Lao](https://dermnetnz.org/topics/cutaneous-tuberculosis)<br>  <br>- [Bệnh phong](https://dermnetnz.org/topics/leprosy)<br>  <br>- [Nhiễm trùng mycobacterium không điển hình](https://dermnetnz.org/topics/atypical-mycobacterial-infection) bao gồm loét Buruli |
+| Leptospira | - [Leptospirosis](https://dermnetnz.org/topics/leptospirosis) có thể gây ban xuất huyết |
+| Nocardia | - Nocardiosis |
+| _Yersinia pestis_ | - [Dịch hạch](https://dermnetnz.org/topics/plague) thể bubo: sưng hạch bạch huyết và mụn mủ, loét, và vảy trên da |
+| _Serratia marcescens_ (một loại trực khuẩn gram âm kỵ khí tùy ý) | - Hiếm khi gây nhiễm trùng da như [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis), [áp xe](https://dermnetnz.org/topics/cutaneous-abscess), và [loét](https://dermnetnz.org/topics/erosions-and-ulcers) (thường ở bệnh nhân bị [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency)) |
+| Loài _Fusobacterium_ (ví dụ, _Bacillus fusiformis_, _Treponema vincenti_) | - [Loét nhiệt đới](https://dermnetnz.org/topics/tropical-ulcer) |
+| Loài _Burkholderia_ | - [Melioidosis](https://dermnetnz.org/topics/melioidosis) và [bệnh glanders](https://dermnetnz.org/topics/glanders): [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) có thể liên quan đến triệu chứng toàn thân |
+| Loài _Actinomyces_ | - [Actinomycosis](https://dermnetnz.org/topics/actinomycosis): xảy ra vi khuẩn hạt, với áp xe và đường dẫn lưu hạt màu vàng lưu huỳnh |
+| _Vibrio vulnificus_ | - Nguyên nhân gây sốc nhiễm trùng huyết đặc trưng bởi mụn nước chứa máu |
+| Loài _Brucella_ | - Brucellosis, một bệnh sốt bắt nguồn từ động vật chưa được tiêm phòng hoặc sữa chưa tiệt trùng của chúng. |
+| Loài Salmonella (ví dụ, Salmonella typhi) | - [Sốt thương hàn](https://dermnetnz.org/topics/typhoid-fever) |
+| Loài Aeromonas (tìm thấy trong nước) | - (Hiếm khi) gây nhiễm trùng da và mô mềm |
+| Nhiễm trùng do vi khuẩn truyền qua ve | - _Borrelia burgdorferi_ ( [bệnh Lyme](https://dermnetnz.org/topics/lyme-disease))<br>  <br>- _Babesia microti_ ( [sốt tái phát](https://dermnetnz.org/topics/tick-borne-relapsing-fever))<br>  <br>- _Francisella tularensis_ ( [bệnh tularemia](https://dermnetnz.org/topics/tularaemia))<br>  <br>- [Bệnh do Rickettsia](https://dermnetnz.org/topics/rickettsial-diseases) (một số cũng được truyền qua [chấy cơ thể](https://dermnetnz.org/topics/body-lice), [bọ chét](https://dermnetnz.org/topics/flea-bite), muỗi, và mạt)<br>  <br>- [Bệnh Ehrlichiosis và anaplasmosis](https://dermnetnz.org/topics/ehrlichiosis-and-anaplasmosis) |
+
+Các tình trạng khác đôi khi do hoặc liên quan đến nhiễm trùng vi khuẩn bao gồm:
+
+- [Bệnh Kawasaki](https://dermnetnz.org/topics/kawasaki-disease) (hội chứng hạch bạch huyết niêm mạc da)
+- [Viêm nang lông barbae](https://dermnetnz.org/topics/folliculitis-barbae) (mụn do cạo râu)
+- [Sarcoidosis](https://dermnetnz.org/topics/sarcoidosis)
+- [Viêm nang lông da đầu](https://dermnetnz.org/topics/scalp-folliculitis)
+- [Nốt Osler và tổn thương Janeway](https://dermnetnz.org/topics/osler-nodes-and-janeway-lesions) (viêm nội tâm mạc do vi khuẩn)
+- [Viêm âm đạo](https://dermnetnz.org/topics/vaginitis) và [viêm âm đạo do vi khuẩn](https://dermnetnz.org/topics/bacterial-vaginosis).

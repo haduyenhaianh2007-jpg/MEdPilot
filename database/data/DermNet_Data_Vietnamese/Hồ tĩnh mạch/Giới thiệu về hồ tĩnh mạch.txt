@@ -1,0 +1,29 @@
+##### Hồ máu tĩnh mạch — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+U máu tĩnh mạch mắc phải, U máu môi do tuổi già
+
+Danh mục:
+
+Vấn đề mạch máu
+
+ICD-10:
+
+I99.9, L98.8
+
+ICD-11:
+
+EF20.0
+
+SNOMED CT:
+
+402843003, 235052000
+
+**[Vấn đề mạch máu](https://dermnetnz.org/topics?category=Blood%20vessel%20problems)**
+
+# **Hồ máu tĩnh mạch**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand. Biên tập bởi Maria McGivern/Gus Mitchell. Tháng 12 năm 2017.
+
+[Giới thiệu](https://dermnetnz.org/topics/venous-lake#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/venous-lake#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/venous-lake#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/venous-lake#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/venous-lake#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/venous-lake#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/venous-lake#Treatment)

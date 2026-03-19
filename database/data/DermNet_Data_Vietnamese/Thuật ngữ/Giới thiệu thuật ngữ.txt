@@ -1,0 +1,29 @@
+##### Thuật ngữ trong da liễu — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Từ vựng
+
+Danh mục:
+
+Thuật ngữ
+
+ICD-10:
+
+R23.9, L98.9, R23.4
+
+ICD-11:
+
+ED64, ME66.1, ME66.6Z, ME60.Z, ME60.0, EM0Z
+
+SNOMED CT:
+
+55988001, 53534000, 71966008, 1646003, 112629002, 25694009, 95319004, 276322001, 107652000, 72724002, 276323006, 271761007, 364530004, 274672009, 400048001, 95324001, 271807003
+
+**[Thuật ngữ](https://dermnetnz.org/topics?category=Terminology)**
+
+# **Thuật ngữ trong da liễu**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên gia Da liễu, Hamilton, New Zealand, 1997.
+
+[Giới thiệu](https://dermnetnz.org/topics/terminology#Introduction%3Cbr%20/%3E) [Mô tả các tình trạng da](https://dermnetnz.org/topics/terminology#Describing%20skin%20conditions%3Cbr%20/%3E) [Cấu trúc của da](https://dermnetnz.org/topics/terminology#Structure%20of%20the%20skin%3Cbr%20/%3E) [Phân bố](https://dermnetnz.org/topics/terminology#Distribution%3Cbr%20/%3E) [Cấu hình của tổn thương](https://dermnetnz.org/topics/terminology#Configuration%20of%20lesions%3Cbr%20/%3E) [Màu sắc](https://dermnetnz.org/topics/terminology#Colour%3Cbr%20/%3E) [Hình thái](https://dermnetnz.org/topics/terminology#Morphology%3Cbr%20/%3E) [Bề mặt da](https://dermnetnz.org/topics/terminology#Skin%20surface%3Cbr%20/%3E) [Thay đổi thứ cấp](https://dermnetnz.org/topics/terminology#Secondary%20changes)

@@ -1,0 +1,39 @@
+## Tia cực tím ảnh hưởng đến hệ miễn dịch như thế nào?
+
+Các photon của tia cực tím (UVR) được hấp thụ bởi các chromophore (nguyên tử tạo màu trên hợp chất) trong lớp biểu bì và hạ bì, kích hoạt một [phản ứng miễn dịch](https://dermnetnz.org/topics/skin-immune-system).
+
+- UVR thúc đẩy phản ứng miễn dịch bẩm sinh của cá nhân bằng cách tạo ra [peptide kháng khuẩn](https://dermnetnz.org/topics/antimicrobial-peptides) trong lớp biểu bì. Những peptide này bảo vệ chống lại mầm bệnh và hỗ trợ sự phát triển và sửa chữa tế bào.
+- UVR ức chế các phản ứng miễn dịch thu được thông qua việc kích thích tế bào T điều hòa, đóng vai trò quan trọng trong việc duy trì cân bằng da.
+- UVR, đặc biệt là UVB, kích thích sản xuất yếu tố kích hoạt tiểu cầu, prostaglandin E2, histamine và yếu tố hoại tử khối u alpha; các cytokine này tạo ra một quần thể tế bào T ức chế suốt đời và gây ra viêm do bạch cầu trung tính.
+- UVB dẫn đến sự tổng hợp [vitamin D](https://dermnetnz.org/topics/vitamin-d), cũng có thể ảnh hưởng đến chức năng miễn dịch.
+
+Các tình trạng da nhạy cảm với ánh sáng phát sinh từ sự thất bại của phản ứng miễn dịch bình thường bao gồm:
+
+- [Phát ban đa dạng do ánh sáng](https://dermnetnz.org/topics/polymorphic-light-eruption)
+- [Viêm da nhạy cảm ánh sáng mãn tính](https://dermnetnz.org/topics/chronic-actinic-dermatitis)
+- [Viêm da tiếp xúc ánh sáng](https://dermnetnz.org/topics/photocontact-dermatitis).
+- Các rối loạn do ánh sáng làm nặng thêm (ví dụ, [lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)).
+
+### Rối loạn nhạy cảm ánh sáng
+
+![Phát ban đa dạng do ánh sáng](https://dermnetnz.org/assets/Uploads/pmle-06.jpg)
+
+Phát ban đa dạng do ánh sáng
+
+![Viêm da nhạy cảm ánh sáng mãn tính](https://dermnetnz.org/assets/collection/Chronic-actinic-dermatitis/chronic-actinic-dermatitis-0024.jpg)
+
+Viêm da nhạy cảm ánh sáng mãn tính
+
+![Viêm da tiếp xúc ánh sáng](https://dermnetnz.org/assets/Uploads/dermatitis/acdss.jpg)
+
+Viêm da tiếp xúc ánh sáng
+
+### Các tình trạng liên quan đến miễn dịch khác liên quan đến tia cực tím
+
+#### Hen suyễn
+
+- Những người sống ở vĩ độ gần xích đạo, nơi có UVB cao hơn, có nguy cơ phát triển hen suyễn dị ứng cao hơn. Ngược lại, họ có nguy cơ thấp hơn đối với hen suyễn không dị ứng.
+
+#### Nhiễm trùng
+
+UVR ức chế phản ứng miễn dịch thu được đối với [nhiễm trùng vi sinh vật](https://dermnetnz.org/topics/bacterial-skin-infections). Nó làm giảm hiệu quả bảo vệ của vắc-xin. Sự ức chế miễn dịch liên quan đến UVR có thể kích hoạt lại một số nhiễm trùng tiềm ẩn và chuyển đổi nhiễm trùng không triệu chứng thành nhiễm trùng có triệu chứng. Nó cũng có thể tăng cường các đặc tính gây ung thư của [vi sinh vật](https://dermnetnz.org/topics/microorganisms-found-on-the-skin), chẳng hạn như [virus papilloma ở người](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus).

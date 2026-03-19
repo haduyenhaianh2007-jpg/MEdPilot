@@ -1,0 +1,50 @@
+## Nguyên nhân gây ra phát ban dạng chấm?
+
+Phát ban dạng chấm trong thời thơ ấu rất phổ biến và thường do các [nhiễm trùng virus](https://dermnetnz.org/topics/viral-skin-infections) cụ thể gây ra:
+
+- [Thủy đậu (varicella)](https://dermnetnz.org/topics/chickenpox)
+- [Sởi (morbillivirus)](https://dermnetnz.org/topics/measles)
+- [Rubella (virus rubella)](https://dermnetnz.org/topics/rubella)
+- [Roseola](https://dermnetnz.org/topics/roseola) (virus herpes 6B)
+- [Ban đỏ nhiễm trùng](https://dermnetnz.org/topics/erythema-infectiosum) (parvovirus B19).
+
+Phát ban dạng chấm do virus cũng bao gồm:
+
+- [Hội chứng nhiễm trùng virus suy giảm miễn dịch ở người cấp tính](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome)
+- [Đậu mùa](https://dermnetnz.org/topics/smallpox)
+- [Viêm gan virus](https://dermnetnz.org/topics/skin-signs-of-viral-hepatitis)
+- [Bệnh tăng bạch cầu đơn nhân nhiễm trùng](https://dermnetnz.org/topics/infectious-mononucleosis) và phát ban aminopenicillin ([virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus))
+- [Hội chứng găng tay và tất dạng chấm xuất huyết](https://dermnetnz.org/topics/papular-purpuric-gloves-and-socks-syndrome) (parvovirus B19)
+- [Pityriasis rosea](https://dermnetnz.org/topics/pityriasis-rosea) (virus herpes 6 và 7)
+- [Viêm da dạng chấm ở trẻ em](https://dermnetnz.org/topics/papular-acrodermatitis-of-childhood)
+- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+- [Phát ban bên ngực](https://dermnetnz.org/topics/laterothoracic-exanthem)
+- Một số trường hợp [phát ban mụn mủ toàn thân cấp tính](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis)
+- Phát ban dạng chấm không đặc hiệu do virus.
+
+Phát ban dạng chấm do nhiễm trùng [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) bao gồm:
+
+- Nhiễm độc tố [tụ cầu khuẩn](https://dermnetnz.org/topics/staphylococcal-skin-infection):
+  - [Hội chứng sốc độc tố](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome) (TSS)
+  - Hội chứng [da bong tróc do tụ cầu khuẩn](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome) (SSSS).
+- Nhiễm độc tố liên cầu khuẩn:
+  - [Sốt phát ban](https://dermnetnz.org/topics/scarlet-fever)
+  - [Hội chứng sốc độc tố giống liên cầu khuẩn (STSS)](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome).
+
+Các nhiễm trùng cụ thể khác có thể gây ra phát ban dạng chấm bao gồm:
+
+- [Viêm phổi do Mycoplasma](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection)
+- [Bệnh do Rickettsia](https://dermnetnz.org/topics/rickettsial-diseases).
+
+Phát ban dạng chấm cũng có thể do [thuốc](https://dermnetnz.org/topics/drug-eruptions) (đặc biệt là [kháng sinh](https://dermnetnz.org/topics/antibiotics) và [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects)). Xem:
+
+- [Phát ban dạng chấm do thuốc](https://dermnetnz.org/topics/morbilliform-drug-reaction)
+- [Hội chứng quá mẫn cảm do thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome).
+
+Các bệnh mô liên kết cấp tính có thể biểu hiện với phát ban dạng chấm:
+
+- [Lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+- Viêm khớp thiếu niên khởi phát hệ thống
+- [Bệnh Still khởi phát ở người lớn](https://dermnetnz.org/topics/adult-onset-still-disease).
+
+Một số phát ban dạng chấm có nguyên nhân không rõ, ví dụ như [bệnh Kawasaki](https://dermnetnz.org/topics/kawasaki-disease).

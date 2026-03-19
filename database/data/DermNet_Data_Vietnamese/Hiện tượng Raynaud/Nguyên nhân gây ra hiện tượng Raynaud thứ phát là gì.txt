@@ -1,0 +1,31 @@
+## Nguyên nhân gây ra hiện tượng Raynaud thứ phát?
+
+### Bệnh mô liên kết
+
+Bệnh mô liên kết được cho là do sự điều chỉnh rối loạn của hệ thống miễn dịch. Bệnh mô liên kết tiềm ẩn có thể không rõ ràng khi hiện tượng Raynaud lần đầu tiên xảy ra.
+
+[Xơ cứng bì hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) (một dạng hệ thống của [xơ cứng bì](https://dermnetnz.org/topics/scleroderma)) là bệnh mô liên kết có khả năng cao nhất xuất hiện cùng với hiện tượng Raynaud, đặc biệt là dạng hội chứng CREST: vôi hóa, Raynaud, rối loạn thực quản, xơ cứng ngón tay, giãn mao mạch. Loét đầu ngón tay có thể xảy ra nếu co thắt mạch máu nghiêm trọng.
+
+Hiện tượng Raynaud cũng xảy ra trong [lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus), [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis), [hội chứng Sjögren](https://dermnetnz.org/topics/sjoegren-syndrome), và [viêm đa mạch với u hạt](https://dermnetnz.org/topics/granulomatosis-with-polyangiitis).
+
+### Thuốc
+
+Các loại thuốc có thể làm trầm trọng hoặc gây ra hiện tượng Raynaud bao gồm thuốc chẹn beta (được sử dụng rộng rãi cho đau thắt ngực, cao huyết áp hoặc lo âu), thuốc trị đau nửa đầu chứa ergotamine hoặc methysergide, [bleomycin](https://dermnetnz.org/topics/bleomycin) và các [tác nhân hóa trị liệu](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs) khác (cho điều trị ung thư), clonidine (cho cao huyết áp, đau nửa đầu hoặc đỏ mặt), bromocriptine (cho Parkinson và một số tình trạng khác), imipramine (cho trầm cảm), và hiếm khi, [thuốc tránh thai uống](https://dermnetnz.org/topics/oral-contraceptive). Nếu thuốc là nguyên nhân, ngừng sử dụng có thể dẫn đến cải thiện nhanh chóng.
+
+### Bệnh động mạch
+
+Hiện tượng Raynaud đôi khi có thể chỉ ra xơ vữa động mạch tiềm ẩn và [bệnh Buerger](https://dermnetnz.org/topics/thromboangiitis-obliterans), đặc biệt ở những người hút thuốc.
+
+### Rối loạn thần kinh
+
+Hiện tượng Raynaud có thể phát triển ở một chi bị ảnh hưởng bởi đột quỵ và cũng có thể xảy ra trong đa xơ cứng và bại liệt. Hiếm khi, hiện tượng Raynaud là do một xương sườn thừa gây chèn ép lên dây thần kinh và mạch máu.
+
+### Nghề nghiệp
+
+Các nghề nghiệp liên quan đến hiện tượng Raynaud bao gồm công nhân xây dựng sử dụng công cụ rung (ví dụ, khoan khí nén) và công nhân công nghiệp tiếp xúc với quá trình trùng hợp vinyl chloride. \[xem [Ngón tay trắng do rung](https://dermnetnz.org/topics/vibration-white-finger-hand-arm-vibration-syndrome)\]
+
+### Nguyên nhân khác
+
+Các rối loạn làm tăng độ nhớt (độ dày) của máu cũng có thể gây ra hiện tượng Raynaud, bằng cách giảm lưu lượng máu qua các mạch máu nhỏ ở ngón tay và ngón chân.
+
+Hiện tượng Raynaud đã được liên kết với [suy giáp](https://dermnetnz.org/topics/hypothyroidism).

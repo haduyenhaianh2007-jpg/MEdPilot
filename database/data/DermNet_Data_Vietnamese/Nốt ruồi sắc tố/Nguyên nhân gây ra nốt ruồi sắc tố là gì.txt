@@ -1,0 +1,9 @@
+## Nguyên nhân gây ra nốt ruồi sắc tố?
+
+Mặc dù lý do chính xác cho sự phát triển cục bộ của tế bào nốt ruồi chưa được biết rõ, nhưng rõ ràng rằng số lượng nốt ruồi sắc tố mà một người có phụ thuộc vào các yếu tố di truyền, tiếp xúc với ánh nắng mặt trời và tình trạng miễn dịch.
+
+- Những người có nhiều nốt ruồi sắc tố thường có thành viên gia đình cũng có nhiều tổn thương tương tự.
+- Đột biến soma trong các gen RAS có liên quan đến [nốt ruồi sắc tố bẩm sinh](https://dermnetnz.org/topics/congenital-melanocytic-naevi).
+- Nốt ruồi sắc tố mới có thể xuất hiện sau khi sử dụng các thuốc ức chế BRAF ([vemurafenib](https://dermnetnz.org/topics/vemurafenib), [dabrafenib](https://dermnetnz.org/topics/dabrafenib)).
+- Người sống ở Úc và New Zealand có nhiều nốt ruồi hơn so với người thân của họ sống ở Bắc Âu.
+- [Điều trị ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) dẫn đến sự gia tăng số lượng nốt ruồi.

@@ -1,0 +1,256 @@
+##### Viêm bao quy đầu — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Viêm dương vật
+
+Danh mục:
+
+Viêm
+
+ICD-10:
+
+N48.1
+
+ICD-11:
+
+GB06.0Z, GB06.00, EB60.1, 1F23.11
+
+SNOMED CT:
+
+44882003, 52643007, 403463007, 236745001. 198033005
+
+**[Viêm](https://dermnetnz.org/topics?category=Inflammation)**
+
+# **Viêm bao quy đầu**
+
+Tác giả: Tiến sĩ Casey Paul Schukow, Trường Y Đại học Michigan, Hoa Kỳ. Biên tập bởi Gus Mitchell. Tháng 6 năm 2022
+
+[Giới thiệu](https://dermnetnz.org/topics/balanitis#Introduction) [Nhân khẩu học](https://dermnetnz.org/topics/balanitis#Demographics) [Nguyên nhân](https://dermnetnz.org/topics/balanitis#Causes) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/balanitis#Clinical%20features) [Biến thể trong các loại da](https://dermnetnz.org/topics/balanitis#Variation%20in%20skin%20types) [Biến chứng](https://dermnetnz.org/topics/balanitis#Complications) [Chẩn đoán](https://dermnetnz.org/topics/balanitis#Diagnosis) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/balanitis#Differential%20diagnoses) [Điều trị](https://dermnetnz.org/topics/balanitis#Treatment) [Phòng ngừa](https://dermnetnz.org/topics/balanitis#Prevention) [Kết quả](https://dermnetnz.org/topics/balanitis#Outcome)
+
+## Viêm bao quy đầu là gì?
+
+Viêm bao quy đầu là tình trạng viêm của quy đầu dương vật (đầu dương vật).
+
+Viêm thường liên quan đến bao quy đầu, hoặc da quy đầu, được gọi chính xác hơn là viêm bao quy đầu. Nhiều lần khám tại phòng khám tiết niệu là do viêm bao quy đầu, có thể do nhiễm trùng, chấn thương, kích ứng quy đầu dương vật và viêm da dị ứng. Viêm bao quy đầu không được điều trị có thể dẫn đến nhiều biến chứng, chẳng hạn như hẹp niệu đạo, hẹp bao quy đầu và ung thư.
+
+[Bấm vào đây để xem hình ảnh về Viêm bao quy đầu](https://dermnetnz.org/topics/balanitis-images)
+
+## Ai bị viêm bao quy đầu?
+
+Viêm bao quy đầu xuất hiện ở khoảng 6% nam giới trẻ tuổi và có tỷ lệ phổ biến tổng thể khoảng 3-11%.
+
+- Nam giới chưa cắt bao quy đầu có nguy cơ cao hơn (tăng khoảng 68% tỷ lệ mắc bệnh suốt đời) vì vi sinh vật, mảnh vụn biểu mô và dịch tiết có thể tích tụ giữa quy đầu dương vật và bao quy đầu.
+
+  - Khó phân biệt viêm quy đầu dương vật so với liên quan đến bao quy đầu ở nam giới chưa cắt bao quy đầu; do đó thường được chẩn đoán là viêm bao quy đầu.
+
+Các yếu tố nguy cơ khác bao gồm:
+
+- Béo phì bệnh lý
+- Sử dụng ống thông bao cao su
+- Tiểu đường không kiểm soát
+- Nghèo đói
+- Vệ sinh kém
+- Một số loại thuốc ví dụ như trimethoprim/sulfamethoxazole
+- Các tình trạng tự viêm ví dụ như [lichen phẳng](https://dermnetnz.org/topics/lichen-planus) và [vảy nến](https://dermnetnz.org/topics/psoriasis).
+
+## Nguyên nhân gây viêm bao quy đầu là gì?
+
+Viêm bao quy đầu có thể được phân loại tốt nhất là nguyên nhân nhiễm trùng so với không nhiễm trùng.
+
+Nguyên nhân nhiễm trùng bao gồm, nhưng không giới hạn:
+
+- Nhiễm nấm (nguyên nhân phổ biến nhất)
+  - [Candida](https://dermnetnz.org/topics/candida)
+  - [Nấm da](https://dermnetnz.org/topics/tinea-corporis)
+- Nhiễm khuẩn (nguyên nhân phổ biến thứ hai)
+
+  - [Streptococci tan huyết](https://dermnetnz.org/topics/streptococcal-skin-infections)
+  - [Staphylococci epidermidis/aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection)
+- Nhiễm virus
+  - [Virus herpes simplex (HSV)](https://dermnetnz.org/topics/herpes-simplex)
+  - [Virus varicella zoster (VZV)](https://dermnetnz.org/topics/chickenpox)
+  - [Virus papilloma ở người (HPV)](https://dermnetnz.org/topics/non-sexually-acquired-human-papillomavirus-infection)
+  - [Bệnh đậu mùa khỉ](https://dermnetnz.org/topics/mpox)
+- Nguyên sinh động vật
+  - [Trichomonas vaginalis](https://dermnetnz.org/topics/trichomoniasis)
+- Ký sinh trùng
+  - [_Sarcoptes scabiei var. hominis_ (ghẻ)](https://dermnetnz.org/topics/scabies)
+  - [Chấy rận](https://dermnetnz.org/topics/lice).
+
+Nguyên nhân không nhiễm trùng bao gồm, nhưng không giới hạn:
+
+- Các tình trạng viêm
+  - Viêm bao quy đầu vòng ( [viêm khớp phản ứng](https://dermnetnz.org/topics/reactive-arthropathy))
+  - [Lichen phẳng](https://dermnetnz.org/topics/lichen-planus)
+  - [Viêm bao quy đầu Zoon](https://dermnetnz.org/topics/balanitis)
+  - [Vảy nến](https://dermnetnz.org/topics/psoriasis)
+  - [Lichen sclerosus](https://dermnetnz.org/topics/lichen-sclerosus-in-men) (viêm bao quy đầu xơ hóa, BXO)
+  - [Viêm bao quy đầu giả biểu mô, sừng hóa và có vảy](https://dermnetnz.org/topics/pseudoepitheliomatous-keratotic-and-micaceous-balanitis-pathology)
+- Các tình trạng tiền ác tính
+
+  - [Erythroplasia của Queyrat](https://dermnetnz.org/topics/penile-intraepithelial-neoplasia)
+  - [Bowenoid papulosis](https://dermnetnz.org/topics/bowenoid-papulosis)
+  - [Bệnh Bowen](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma)
+- Các tình trạng ác tính
+
+  - [Ung thư biểu mô tế bào vảy (SCC)](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- Khác
+  - Chấn thương
+  - Vệ sinh bộ phận sinh dục kém
+  - [Phản ứng thuốc cố định](https://dermnetnz.org/topics/fixed-drug-eruption)
+  - Do hóa trị liệu ví dụ như [fluorouracil (5FU)](https://dermnetnz.org/topics/5-fluorouracil-cream)
+  - [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) ( [kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) và [dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis)).
+
+## Các đặc điểm lâm sàng của viêm bao quy đầu là gì?
+
+Các đặc điểm lâm sàng của viêm bao quy đầu thay đổi tùy thuộc vào nguyên nhân cụ thể.
+
+Nhìn chung, các đặc điểm lâm sàng bao gồm, nhưng không giới hạn:
+
+- Đau dương vật
+- Tiểu khó
+- Ngứa, chảy máu và đỏ quy đầu dương vật.
+
+Các đặc điểm lâm sàng cụ thể có thể được đặc trưng bởi các ví dụ sau.
+
+- Viêm bao quy đầu Candida — đỏ loang lổ với các nốt sần đỏ nhỏ “vệ tinh” hoặc các vùng đỏ khô.
+- Nhiễm trùng kỵ khí — viêm có mùi hôi và khó chịu có hoặc không có dịch tiết; có thể kèm theo hạch bẹn đau.
+- Nhiễm trùng hiếu khí — có thể thấy đỏ đồng đều và phù nề cục bộ.
+- Trichomonas vaginalis — xói mòn bề mặt có thể dẫn đến hẹp bao quy đầu (rút lại bao quy đầu dương vật ở người chưa cắt bao quy đầu).
+- HSV — các mụn nước nhóm trên nền đỏ có thể vỡ, để lộ các vết loét nông, xám đau.
+- HPV — nhiều tổn thương vòng màu da và/hoặc đỏ trở nên trắng sau khi bôi axit axetic 5%.
+- Viêm bao quy đầu vòng — các nốt sần vòng màu xám-trắng hợp nhất thành các vùng “địa lý” được bao quanh bởi một viền trắng-đỏ trên quy đầu dương vật. Thường đi kèm với các đặc điểm khác của viêm khớp phản ứng (như viêm kết mạc và viêm khớp).
+- Viêm bao quy đầu Zoon — các “đốm tiêu cayenne” đối xứng và đỏ cam trên quy đầu dương vật do xuất huyết vi mạch và lắng đọng hemosiderin.
+- Lichen phẳng sinh dục — các nốt sần và mảng vòng màu tím trên quy đầu dương vật và bìu; đôi khi đi kèm với các “vệt Wickham” trắng tuyến tính với trung tâm tăng sắc tố.
+- BXO — còn được gọi là lichen sclerosus dương vật; tăng sừng của niêm mạc vảy và quy đầu quanh lỗ niệu đạo xuất hiện dưới dạng các nốt sần trắng hợp nhất hoặc các tổn thương nốt sần trắng ngà.
+- Viêm bao quy đầu giả biểu mô sừng hóa và có vảy — vảy dày được xác định rõ ràng như mica trên quy đầu
+- Viêm bao quy đầu do thuốc — đỏ, phù nề và/hoặc phồng rộp rõ ràng của quy đầu dương vật; có thể có màu tím; có tiền sử sử dụng thuốc kích thích trước khi khởi phát.
+
+[Bấm vào đây để xem hình ảnh về Viêm bao quy đầu](https://dermnetnz.org/topics/balanitis-images)
+
+## Các đặc điểm lâm sàng thay đổi như thế nào trong các loại da khác nhau?
+
+Đỏ và viêm có thể xuất hiện màu tím sẫm/xanh đậm thay vì đỏ ở bệnh nhân có [loại da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) tối màu hơn.
+
+## Các biến chứng của viêm bao quy đầu là gì?
+
+- Đau và loét.
+- Viêm lan rộng để bao gồm bao quy đầu (viêm bao quy đầu).
+- Dính giữa quy đầu và bao quy đầu.
+- Hẹp bao quy đầu — co thắt lỗ bao quy đầu ngăn cản việc rút lại vượt quá quy đầu dương vật.
+
+  - Do viêm và phù nề bao quy đầu mãn tính.
+  - Có thể dẫn đến khó tiểu và rối loạn chức năng tình dục.
+  - Rút lại mạnh có thể dẫn đến nghẹt bao quy đầu; một trường hợp khẩn cấp về tiết niệu.
+- Nghẹt bao quy đầu — kẹt bao quy đầu gần quy đầu dương vật hạn chế lưu thông máu. Tăng kích thước và đau trong vài phút đến vài giờ sau khi bị kẹt; đây là một trường hợp khẩn cấp về tiết niệu cần giải phóng sự co thắt (bằng phẫu thuật rạch lưng).
+- Nhiễm trùng sinh dục tái phát (như nấm men) không phổ biến ở những người khỏe mạnh và có thể cần sàng lọc các tình trạng suy giảm miễn dịch ( [HIV](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome), tiểu đường, ung thư).
+
+## Viêm bao quy đầu được chẩn đoán như thế nào?
+
+- Chẩn đoán lâm sàng, lịch sử đầy đủ (bao gồm lịch sử tình dục, tự miễn dịch) và khám thực thể là cần thiết.
+- Lấy mẫu để kiểm tra vi sinh (vi khuẩn, nấm men, nấm và virus).
+- [Dermoscopy](https://dermnetnz.org/topics/dermoscopy) và [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) để đánh giá thêm viêm bao quy đầu không đáp ứng với điều trị và/hoặc loại trừ ung thư.
+
+## Chẩn đoán phân biệt cho viêm bao quy đầu là gì?
+
+- [Viêm bao quy đầu nhiễm trùng (Candida, HSV)](https://dermnetnz.org/topics/candida)
+- Viêm bao quy đầu
+- [Lichen phẳng](https://dermnetnz.org/topics/lichen-planus)
+- [Vảy nến](https://dermnetnz.org/topics/psoriasis)
+- [Chàm](https://dermnetnz.org/topics/dermatitis)
+- Tiền ác tính ( [Erythroplasia của Queyrat](https://dermnetnz.org/topics/penile-intraepithelial-neoplasia), [Bowenoid papulosis](https://dermnetnz.org/topics/bowenoid-papulosis), bệnh Bowen)
+- [Ác tính (SCC)](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- [Viêm bao quy đầu Zoon](https://dermnetnz.org/topics/zoon-balanitisvulvitis-pathology)
+- Viêm bao quy đầu vòng
+- [Phản ứng thuốc cố định](https://dermnetnz.org/topics/fixed-drug-eruption).
+
+## Điều trị viêm bao quy đầu là gì?
+
+### Biện pháp chung
+
+- Thường xuyên rút lại bao quy đầu và nhẹ nhàng làm sạch bằng nước ấm, và nếu muốn, với một [chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) nhẹ.
+- Lau khô hoàn toàn quy đầu dương vật và bao quy đầu.
+- Tắm nước muối, ngâm [kali permanganate](https://dermnetnz.org/topics/potassium-permanganate) pha loãng hoặc dung dịch Burow có ích trong việc làm khô quy đầu trong các điều kiện tiết dịch.
+- Nhiều bệnh nhân sẽ thử [kem chống nấm không kê đơn](https://dermnetnz.org/topics/topical-antifungal-medication) và có thể xuất hiện viêm bao quy đầu không đáp ứng nếu nguyên nhân ban đầu không phải là nấm hoặc nấm men (Candida).
+
+### Biện pháp cụ thể
+
+Nhiễm trùng lây truyền qua đường tình dục nên được loại trừ, đặc biệt ở những người có hoạt động tình dục. [HIV](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome) nên được loại trừ trong các trường hợp không đáp ứng với liệu pháp và/hoặc biểu hiện không điển hình.
+
+Nguyên nhân nấm:
+
+- [Thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) (ví dụ: clotrimazole, miconazole, nystatin)
+
+Nguyên nhân không nhiễm trùng do chàm:
+
+- [Kem steroid nhẹ-vừa tại chỗ](https://dermnetnz.org/topics/topical-steroid).
+
+Đối với các nguyên nhân viêm nghiêm trọng hơn của viêm bao quy đầu (như viêm bao quy đầu Zoon, lichen phẳng sinh dục, BXO):
+
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) mạnh hơn (clobetasol 0.05%) và/hoặc
+- [Thuốc ức chế calcineurin tại chỗ](https://dermnetnz.org/topics/calcineurin-inhibitors) ( [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) 1% thuốc mỡ).
+
+Viêm bao quy đầu do vảy nến:
+
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) vừa
+- [Dẫn xuất Vitamin D3 tại chỗ](https://dermnetnz.org/topics/vitamin-d)( [calcipotriol thuốc mỡ](https://dermnetnz.org/topics/calcipotriol)) và/hoặc
+- [Thuốc ức chế calcineurin tại chỗ](https://dermnetnz.org/topics/calcineurin-inhibitors) ( [tacrolimus thuốc mỡ](https://dermnetnz.org/topics/tacrolimus)).
+
+Viêm bao quy đầu do thuốc:
+
+- Corticosteroid tại chỗ vừa-cao được khuyến nghị
+- Ngừng sử dụng thuốc gây kích thích.
+
+Nguyên nhân tiền ác tính của viêm bao quy đầu (như [erythroplaisa của Queyrat](https://dermnetnz.org/topics/penile-intraepithelial-neoplasia)):
+
+- [5-fluorouracil 5% tại chỗ](https://dermnetnz.org/topics/5-fluorouracil-cream) và/hoặc
+- [Imiquimod 5% tại chỗ](https://dermnetnz.org/topics/imiquimod) kem
+
+## Làm thế nào để ngăn ngừa viêm bao quy đầu?
+
+- Duy trì vệ sinh đúng cách là cần thiết, đặc biệt là ở trẻ em; thay tã thường xuyên được khuyến nghị.
+- Tránh rửa dương vật và bao quy đầu thường xuyên bằng xà phòng; sử dụng chất làm mềm nhẹ và lau khô khu vực trước khi mặc quần áo.
+- Ở những bệnh nhân chưa cắt bao quy đầu, kéo bao quy đầu để lộ hoàn toàn quy đầu khi đi tiểu và rửa (nước ấm) để ngăn chặn sự tích tụ chất lỏng giữa bao quy đầu và quy đầu.
+- Ở những người có hoạt động tình dục, thực hành tình dục an toàn (ví dụ: sử dụng bao cao su) là quan trọng.
+
+## Kết quả của viêm bao quy đầu là gì?
+
+Hầu hết các cá nhân bị viêm bao quy đầu hồi phục mà không có biến chứng với điều trị thích hợp và các biện pháp vệ sinh bộ phận sinh dục. Ở những người chưa cắt bao quy đầu, không hiếm khi viêm bao quy đầu tái phát.
+
+Hẹp bao quy đầu và nghẹt bao quy đầu là các biến chứng khẩn cấp của viêm bao quy đầu và phải được đánh giá bởi bác sĩ tiết niệu.
+
+[Bấm vào đây để xem hình ảnh về Viêm bao quy đầu](https://dermnetnz.org/topics/balanitis-images)
+
+### Thư mục
+
+- Arunkumar S, Murugan B, Sowdhamanai B, Sureshkumar. Viêm bao quy đầu và viêm bao quy đầu – Bài viết đánh giá. Int J Res Health Sci. 2014;2(1):375–92.
+- Javaid AA, Powell K, Awad K Hướng dẫn đánh giá NICE Clinical Knowledge Summary: viêm bao quy đầu ở trẻ em. Archives of Disease in Childhood - Education and Practice. 2022;107:131–2. [Hướng dẫn](https://ep.bmj.com/content/107/2/131.long)
+- Lam K, Cook DK. Viêm bao quy đầu mãn tính: Khi nào chúng ta nên lo lắng?. Aust J Gen Pract. 2020;49(12):839–41. doi:10.31128/AJGP-03-20-5283. [Tạp chí](https://www1.racgp.org.au/ajgp/2020/december/chronic-balanitis/)
+- Nemirovsky DR, Singh R, Jalalian A, Malik RD. Da liễu tiết niệu: một cuộc khám phá toàn diện về các nguyên nhân không nhiễm trùng của viêm bao quy đầu. Int J Dermatol. 2021;10.1111/ijd.15985. doi:10.1111/ijd.15985. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/ijd.15985)
+- Pandya I, Shinojia M, Vadukul D, Marfatia YS. Tiếp cận viêm bao quy đầu/viêm bao quy đầu: Hướng dẫn hiện tại. Indian J Sex Transm Dis AIDS. 2014;35(2):155–7. doi:10.4103/0253-7184.142415. [Tạp chí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4553848/)
+
+### Trên DermNet
+
+- [Hình ảnh viêm bao quy đầu](https://dermnetnz.org/topics/balanitis-images)
+- [Candida](https://dermnetnz.org/topics/candida)
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis)
+- [Vấn đề da sinh dục](https://dermnetnz.org/topics/genital-skin-problems)
+- [Lichen phẳng sinh dục](https://dermnetnz.org/topics/erosive-lichen-planus)
+- [Vảy nến](https://dermnetnz.org/topics/psoriasis)
+- [Viêm bao quy đầu Zoon/ Viêm bao quy đầu tế bào plasma](https://dermnetnz.org/topics/plasma-cell-balanitisvulvitis)
+
+### Các trang web khác
+
+- [Dương vật và bao quy đầu](https://www.rch.org.au/clinicalguide/guideline_index/The_penis_and_foreskin/) — Bệnh viện Nhi Hoàng gia, Melbourne
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ dàng_ \- phiên bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

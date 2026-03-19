@@ -1,0 +1,29 @@
+##### Viêm quanh móng — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Chín mé, Viêm quanh móng
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B37.2, L03.0, L03.1, B00.89
+
+ICD-11:
+
+EE12.0, 1F23.13, EE13.2, 1F00.0Y
+
+SNOMED CT:
+
+71906005, 200744008, 187017007, 247517004, 402930002, 773296007
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Viêm quanh móng**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1997. Cập nhật bởi Dr Jannet Gomez, tháng 8 năm 2017.
+
+[Giới thiệu](https://dermnetnz.org/topics/paronychia#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/paronychia#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/paronychia#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/paronychia#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/paronychia#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/paronychia#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/paronychia#Treatment%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/paronychia#Outlook)

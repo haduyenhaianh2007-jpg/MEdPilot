@@ -1,0 +1,253 @@
+##### Lentigo maligna và lentigo maligna melanoma — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Tàn nhang Hutchinson
+
+Danh mục:
+
+Tổn thương (ung thư)
+
+ICD-10:
+
+D03.9, C43.9
+
+ICD-11:
+
+2E63.00, 2C30.2
+
+SNOMED CT:
+
+302836005, 302837001
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics?category=Lesions%20(cancerous))**
+
+# **Lentigo maligna và lentigo maligna melanoma**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 2011.
+
+[Giới thiệu](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma#Introduction%3Cbr%20/%3E) [Dân số học](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma#Demographics%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma#Clinical%20features%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma#Causes%3Cbr%20/%3E) [Xét nghiệm](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma#Tests%3Cbr%20/%3E) [Điều trị - lentigo maligna](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma#Treatment%20-%20lentigo%20maligna%3Cbr%20/%3E) [Điều trị - lentigo maligna melanoma](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma#Treatment%20-%20lentigo%20maligna%20melanoma%3Cbr%20/%3E) [Giai đoạn melanoma](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma#Staging%20melanoma%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma#Outlook)
+
+## Lentigo maligna là gì?
+
+Lentigo maligna là tiền thân của lentigo maligna melanoma, một dạng [ung thư da](https://dermnetnz.org/topics/skin-cancer) có thể nghiêm trọng. Lentigo maligna còn được gọi là tàn nhang melanotic Hutchinson.
+
+Lentigo maligna là một dạng sớm của [melanoma](https://dermnetnz.org/topics/melanoma) trong đó các tế bào ác tính bị giới hạn trong mô gốc, tức là lớp biểu bì, do đó thường được báo cáo là [melanoma ‘in situ’](https://dermnetnz.org/topics/melanoma-in-situ). Nó xuất hiện trên da bị tổn thương do ánh nắng mặt trời nên thường được tìm thấy trên mặt hoặc cổ, đặc biệt là mũi và má. Nó phát triển chậm về đường kính trong khoảng 5 đến 20 năm hoặc lâu hơn.
+
+Lentigo maligna melanoma được chẩn đoán khi các tế bào melanoma đã xâm nhập vào lớp bì và các lớp da sâu hơn. Lentigo maligna có tỷ lệ chuyển đổi thành melanoma xâm lấn thấp hơn so với các dạng melanoma in situ khác (dưới 5% tổng thể). Tuy nhiên, nguy cơ melanoma xâm lấn lớn hơn ở các tổn thương lớn hơn, với tới 50% trong số những tổn thương có đường kính lớn hơn 4 cm được báo cáo có một điểm xâm lấn.
+
+_Quản lý melanoma đang phát triển. Để có khuyến nghị cập nhật, tham khảo Hướng dẫn thực hành lâm sàng của Hội đồng Ung thư Úc về chẩn đoán và quản lý melanoma._
+
+## Ai có thể bị lentigo maligna?
+
+Theo dữ liệu từ Đăng ký Ung thư New Zealand, 2256 trường hợp melanoma xâm lấn đã được chẩn đoán vào năm 2008 và khoảng 10% trong số đó là lentigo maligna melanoma về mặt bệnh lý. Tỷ lệ của tiền thân, lentigo maligna, không được báo cáo bởi các đăng ký ung thư quốc gia nhưng được cho là biến thể phổ biến nhất của melanoma in situ ở New Zealand và Úc.
+
+Nguy cơ lentigo maligna liên quan đến tổn thương do ánh nắng mặt trời. Do đó, lentigo maligna phổ biến hơn ở những người làm việc ngoài trời, ở người lớn tuổi và liên quan đến tổn thương do ánh nắng mặt trời và ung thư da tế bào sừng ( [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma), [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)). Mặc dù thường xảy ra ở những người có làn da rất sáng ( [loại da](https://dermnetnz.org/topics/skin-phototype) 1 và 2), nó cũng có thể xảy ra ở những người dễ dàng rám nắng (loại da 3). Nó hiếm gặp ở da nâu hoặc đen (loại da 4-6).
+
+Lentigo maligna phổ biến hơn ở nam giới so với nữ giới. Phần lớn bệnh nhân bị lentigo maligna trên 40 tuổi, và độ tuổi chẩn đoán cao nhất là từ 60 đến 80 tuổi.
+
+Không giống như [melanoma lan rộng bề mặt](https://dermnetnz.org/topics/superficial-spreading-melanoma), lentigo maligna không liên quan đến số lượng nốt ruồi melanocytic ( [nốt ruồi](https://dermnetnz.org/topics/melanocytic-naevus)) hoặc [nốt ruồi không điển hình](https://dermnetnz.org/topics/atypical-melanocytic-naevus).
+
+## Lentigo maligna trông như thế nào?
+
+Lentigo maligna xuất hiện dưới dạng một mảng da đổi màu phát triển hoặc thay đổi chậm. Ban đầu, nó thường giống như tàn nhang thông thường hoặc các vết nâu ( [lentigines](https://dermnetnz.org/topics/lentigo)). Theo thời gian, nó trở nên đặc biệt và [không điển hình](https://dermnetnz.org/topics/atypical-solar-lentigo), thường phát triển đến vài centimet trong vài năm hoặc thậm chí hàng thập kỷ. Giống như các dạng melanoma phẳng khác, nó có thể được nhận biết bằng quy tắc ABCDE: Không đối xứng, Đường viền không đều, Biến đổi màu sắc, Đường kính lớn và Tiến triển.
+
+Các đặc điểm của lentigo maligna bao gồm:
+
+- Kích thước lớn: >6 mm và thường vài centimet đường kính khi chẩn đoán
+- Hình dạng không đều
+- Sắc tố biến đổi – màu sắc có thể bao gồm nâu nhạt hoặc nâu vàng, nâu đậm, hồng, đỏ hoặc trắng
+- Bề mặt mịn.
+
+![Lentigo maligna](https://dermnetnz.org/assets/Uploads/lesions/w/lm1.jpg)
+
+Lentigo maligna
+
+![Lentigo maligna](https://dermnetnz.org/assets/Uploads/lesions/w/lm3.jpg)
+
+Lentigo maligna
+
+![Lentigo maligna](https://dermnetnz.org/assets/Uploads/lesions/lm6.jpg)
+
+Lentigo maligna
+
+Melanoma xâm lấn được báo cáo phát sinh trong lentigo maligna trong 3-10% trường hợp. Có thể khó xác định liệu điều này đã xảy ra chỉ từ vẻ ngoài, nhưng các đặc điểm sau rất đáng nghi ngờ.
+
+- Dày lên của một phần tổn thương
+- Tăng số lượng màu sắc, đặc biệt là xanh hoặc đen
+- Loét hoặc chảy máu
+- Ngứa hoặc châm chích
+
+![Lentigo maligna](https://dermnetnz.org/assets/Uploads/lesions/w/lm2.jpg)
+
+Lentigo maligna
+
+![Lentigo maligna](https://dermnetnz.org/assets/Uploads/lesions/lm4.jpg)
+
+Lentigo maligna
+
+![Lentigo maligna](https://dermnetnz.org/assets/Uploads/lesions/lm5.jpg)
+
+Lentigo maligna
+
+[Xem thêm hình ảnh về lentigo maligna melanoma](https://dermnetnz.org/images/lentigo-maligna-melanoma-images) ...
+
+## Nguyên nhân của lentigo maligna là gì?
+
+Lentigo maligna là sự tăng sinh của các tế bào sắc tố ác tính (melanocytes) dọc theo lớp đáy của biểu bì và trong nang lông. Nguyên nhân kích hoạt các tế bào trở nên ác tính chưa được biết nhưng đột biến di truyền có thể bắt đầu trong các tế bào gốc nguyên thủy.
+
+Tổn thương do ánh nắng mặt trời dẫn đến một mức độ dung nạp miễn dịch, cho phép các tế bào bất thường phát triển không kiểm soát.
+
+## Những xét nghiệm nào nên được thực hiện nếu tôi có lentigo maligna?
+
+Điều cần thiết là chẩn đoán chính xác lentigo maligna và lentigo maligna melanoma. Chẩn đoán lâm sàng được hỗ trợ bởi dermoscopy và ở một số trung tâm, bởi [kính hiển vi hội tụ](https://dermnetnz.org/procedures/rcm.html). Các kỹ thuật mới đang được đánh giá để giúp xác định ranh giới của lentigo maligna trước khi sinh thiết cắt bỏ.
+
+Các xét nghiệm khác không cần thiết ở phần lớn bệnh nhân nhưng những người có melanoma xâm lấn dày hơn 1 mm có thể được khuyên nên thực hiện các nghiên cứu hình ảnh, sinh thiết hạch bạch huyết và xét nghiệm máu.
+
+Các xét nghiệm mới đang được phát triển để xác định các đột biến di truyền cụ thể với lentigo maligna melanoma, có thể thông báo cho liệu pháp nhắm mục tiêu trong tương lai.
+
+### Dermoscopy của lentigo maligna
+
+[Dermoscopy](https://dermnetnz.org/procedures/dermoscopy.html) (còn gọi là dermatoscopy), hoặc việc sử dụng dermatoscope, bởi bác sĩ da liễu hoặc bác sĩ khác được đào tạo về việc sử dụng nó, có thể rất hữu ích trong việc phân biệt lentigo maligna với các loại tổn thương da khác. Tuy nhiên, hình ảnh dermoscopic của lentigo maligna sớm có thể khó phân biệt với các tổn thương sắc tố khác, đặc biệt là trên mặt.
+
+- Nốt ruồi melanocytic ( [nốt ruồi](https://dermnetnz.org/lesions/moles.html))
+- [Lentigines do ánh nắng mặt trời](https://dermnetnz.org/lesions/lentigines.html)
+- [Keratoses sắc tố do ánh nắng](https://dermnetnz.org/lesions/solar-keratoses.html)
+- [Keratoses tiết bã](https://dermnetnz.org/lesions/seborrhoeic-keratosis.html)
+
+Các tổn thương sắc tố trên mặt được đặc trưng bởi mạng lưới giả - đây là sắc tố phát sinh xung quanh các nang lông nổi bật trên mặt, và một số loại tổn thương da có thể trông khá giống với lentigo maligna. Tuy nhiên, lentigo maligna cho thấy sự biến đổi lớn hơn về độ dày của các đường tạo nên mạng lưới, thường tạo thành một mẫu hình thoi không điển hình liên quan đến các chấm xám, cấu trúc có xu hướng không đều, và có sự biến đổi về màu sắc.
+
+### Sinh thiết cắt bỏ chẩn đoán của tổn thương nghi ngờ melanoma
+
+Nếu một tổn thương da nghi ngờ lâm sàng là lentigo maligna, tốt nhất là cắt bỏ ( [sinh thiết cắt bỏ](https://dermnetnz.org/procedures/excision.html)) với một rìa 2–3 mm. [Sinh thiết](https://dermnetnz.org/procedures/biopsy.html) một phần ít chính xác hơn so với sinh thiết cắt bỏ hoàn chỉnh, vì một sinh thiết nhỏ có thể bỏ sót một điểm ác tính. Tuy nhiên, đôi khi tổn thương rất lớn, và trước khi thực hiện phẫu thuật đáng kể, một sinh thiết một phần được sắp xếp để xác nhận chẩn đoán. Bác sĩ nên loại bỏ một hình elip dài của da, lấy sinh thiết từ nhiều vị trí hoặc cạo cẩn thận một khu vực đại diện để làm mô học.
+
+[Chẩn đoán bệnh lý của melanoma](https://dermnetnz.org/pathology/melanoma-path.html) và tiền thân của nó có thể rất khó khăn. Một số tổn thương điển hình lâm sàng của lentigo maligna được báo cáo chỉ cho thấy sự tăng sinh melanocytic tại chỗ (có hoặc không có không điển hình), những tổn thương khác có tiêu chí để chẩn đoán melanoma in situ, và một số ít cho thấy ung thư xâm lấn.
+
+[Các đặc điểm mô học của lentigo maligna](https://dermnetnz.org/pathology/melanoma-path.html#lm) bao gồm sự tăng sinh chủ yếu tại chỗ của melanocytes và mở rộng dọc theo các cấu trúc phụ. [Solar elastosis](https://dermnetnz.org/dermal-infiltrative/solar-elastosis.html) (thoái hóa mô đàn hồi trong lớp bì) thường nổi bật. Các vết nhuộm miễn dịch như SAC R21 có thể cải thiện độ chính xác của chẩn đoán trong các trường hợp biên giới.
+
+### Báo cáo bệnh lý trong melanoma
+
+Báo cáo của nhà bệnh lý học nên bao gồm mô tả vĩ mô của mẫu vật và melanoma (quan sát bằng mắt thường), và mô tả vi mô. Các đặc điểm sau nên được báo cáo nếu có melanoma xâm lấn.
+
+- Chẩn đoán melanoma nguyên phát
+- Độ dày Breslow đến 0.1 mm gần nhất
+- Mức độ xâm lấn Clark
+- Rìa cắt bỏ tức là mô bình thường xung quanh khối u
+- Tỷ lệ phân bào – một thước đo tốc độ tế bào phân chia
+- Có hay không có loét
+
+Báo cáo cũng có thể bao gồm nhận xét về loại tế bào và kiểu tăng trưởng của nó, xâm lấn mạch máu hoặc dây thần kinh, phản ứng viêm, thoái hóa và liệu có bệnh in-situ liên quan hay không.
+
+### Độ dày Breslow là gì?
+
+Độ dày Breslow được báo cáo cho các melanoma xâm lấn. Nó được đo theo chiều dọc bằng milimet từ đỉnh của lớp hạt (hoặc đáy của loét bề mặt) đến điểm sâu nhất của sự tham gia của khối u. Nó là một dự đoán mạnh mẽ về kết quả; melanoma càng dày, khả năng di căn (lan rộng) càng cao.
+
+### Mức độ xâm lấn Clark là gì?
+
+Mức độ Clark chỉ ra mặt phẳng giải phẫu của sự xâm lấn.
+
+|     |     |
+| --- | --- |
+| Mức độ | Đặc điểm |
+| Mức độ 1 | Melanoma in situ |
+| Mức độ 2 | Melanoma đã xâm nhập vào lớp bì nhú |
+| Mức độ 3 | Melanoma đã lấp đầy lớp bì nhú |
+| Mức độ 4 | Melanoma đã xâm nhập vào lớp bì lưới |
+| Mức độ 5 | Melanoma đã xâm nhập vào mô dưới da |
+
+Mức độ Clark càng sâu, nguy cơ di căn (lan rộng thứ cấp) càng lớn. Nó hữu ích trong việc dự đoán kết quả trong các khối u mỏng, và ít hữu ích hơn cho các khối u dày hơn so với giá trị của độ dày Breslow.
+
+## Điều trị lentigo maligna là gì?
+
+Trong hầu hết các trường hợp, lentigo maligna nên được phẫu thuật [cắt bỏ](https://dermnetnz.org/procedures/excision.html). Điều này có nghĩa là cắt bỏ nó và sửa chữa khuyết tật bằng cách đơn giản đóng vết thương và khâu lại, tạo một [vạt](https://dermnetnz.org/procedures/flaps.html) hoặc bằng [ghép da](https://dermnetnz.org/procedures/graft.html).
+
+Lentigo maligna có nguy cơ tái phát cao bất thường (lên đến 20%). Vì lý do này, nó thường được loại bỏ với một rìa mô khỏe mạnh, điều này có thể khó đạt được trên da mặt. Rìa lý tưởng cho tất cả các dạng melanoma in situ là 5-10mm, tùy thuộc vào mức độ xác định rõ ràng của các cạnh của tổn thương. Các rìa được khuyến nghị cho melanoma xâm lấn dựa trên độ dày của nó: nó là 1 cm nếu ít hơn 1 mm và 1-2 cm nếu melanoma sâu hơn 1 mm. Nếu rìa và phạm vi của lentigo maligna không rõ ràng, có thể được khuyến nghị cắt bỏ nối tiếp được lập bản đồ (kiểm soát rìa, [phẫu thuật vi mô Mohs](https://dermnetnz.org/procedures/mohs.html) hoặc 'Mohs chậm'), nhằm loại bỏ tất cả các tế bào ác tính và bảo vệ da khỏe mạnh.
+
+Các nghiên cứu đã chỉ ra sự cải thiện sống sót đặc hiệu với bệnh với phẫu thuật Mohs so với [cắt bỏ rộng tại chỗ](https://dermnetnz.org/topics/how-is-melanoma-removed).
+
+Các phương pháp điều trị khác cho lentigo maligna có thể được xem xét nếu khó loại bỏ tổn thương bằng phẫu thuật, hoặc phẫu thuật sẽ rất biến dạng, hoặc có một chống chỉ định lớn đối với phẫu thuật:
+
+- [Xạ trị](https://dermnetnz.org/procedures/radiotherapy.html) — tia X bề mặt hoặc electron
+- [Liệu pháp lạnh](https://dermnetnz.org/procedures/cryotherapy.html) — thực hiện bởi chuyên gia
+- [Kem Imiquimod](https://dermnetnz.org/treatments/imiquimod.html) — chưa được đánh giá đầy đủ.
+
+Tuy nhiên, các phương pháp điều trị này không cung cấp tỷ lệ chữa khỏi cao như cắt bỏ phẫu thuật hoàn chỉnh.
+
+Vì nguy cơ melanoma xâm lấn là nhỏ, một lựa chọn ở những bệnh nhân rất cao tuổi với lentigo maligna lớn là chỉ đơn giản chụp ảnh và theo dõi tổn thương cẩn thận, sinh thiết bất kỳ khu vực nào nghi ngờ bệnh xâm lấn do thay đổi lâm sàng hoặc dermoscopic.
+
+## Điều trị lentigo maligna melanoma là gì?
+
+Lentigo maligna melanoma nên được loại bỏ hoàn toàn bằng phẫu thuật. Nếu có thể, nên có một rìa 1 cm của da bình thường xung quanh khối u, nhưng rìa có thể phụ thuộc vào vị trí của tổn thương và mức độ gần của nó với các cấu trúc quan trọng như miệng, mắt hoặc mũi. Nếu các hạch bạch huyết địa phương bị phì đại do melanoma, chúng cũng nên được loại bỏ hoàn toàn, điều này đòi hỏi một thủ tục phẫu thuật lớn dưới gây mê toàn thân.
+
+## Giai đoạn melanoma
+
+Giai đoạn melanoma có nghĩa là tìm hiểu xem melanoma đã lan từ vị trí ban đầu trên da hay chưa. Hầu hết các chuyên gia melanoma tham khảo hướng dẫn giai đoạn melanoma da của Ủy ban Hỗn hợp Ung thư Hoa Kỳ (AJCC) (2009). Về cơ bản, các giai đoạn là:
+
+| Giai đoạn | Đặc điểm |
+| --- | --- |
+| Giai đoạn 0 | Melanoma in situ bao gồm lentigo maligna |
+| Giai đoạn 1 | Melanoma mỏng 2 mm độ dày |
+| Giai đoạn 2 | Melanoma dày > 2 mm độ dày |
+| Giai đoạn 3 | Melanoma lan đến hạch bạch huyết địa phương |
+| Giai đoạn 4 | Di căn xa đã được phát hiện |
+
+## Triển vọng cho bệnh nhân mắc melanoma là gì?
+
+Lentigo maligna không nguy hiểm; nó chỉ trở nên có khả năng đe dọa tính mạng nếu một melanoma xâm lấn phát triển trong đó.
+
+Theo dõi lâu dài bao gồm xem xét khu vực đã điều trị và kiểm tra da toàn diện để xác định các tổn thương mới đáng lo ngại. Nếu tổn thương là xâm lấn, các hạch bạch huyết khu vực cũng nên được kiểm tra. Có thể cần thiết để sinh thiết bất kỳ tổn thương nào phát sinh trong hoặc gần vị trí cắt bỏ.
+
+Nguy cơ lan rộng ( [melanoma di căn](https://dermnetnz.org/lesions/metastatic-melanoma.html)) từ melanoma xâm lấn phụ thuộc vào một số yếu tố, nhưng yếu tố chính là độ dày của melanoma tại thời điểm nó được loại bỏ bằng phẫu thuật.
+
+Hướng dẫn Melanoma của Úc và New Zealand báo cáo rằng di căn hiếm gặp đối với melanoma < 0.75mm và nguy cơ đối với khối u dày 0.75–1 mm là khoảng 5%. Nguy cơ tăng dần với độ dày để melanoma > 4 mm dẫn đến tỷ lệ sống sót 10 năm khoảng 50%, theo thống kê của Ủy ban Hỗn hợp Ung thư Hoa Kỳ (AJCC).
+
+### Tài liệu tham khảo
+
+- Balch CM, et al. Phiên bản cuối cùng của 2009 AJCC Melanoma Staging and Classification. J Clin Oncol 2009; 27: 6199–206. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2793035/)
+- Hướng dẫn Thực hành Lâm sàng về Quản lý Melanoma ở Úc và New Zealand 2008. PDF. Có sẵn từ: [www.health.govt.nz/system/files/documents/publications/melanoma-guideline-nov08-v2.pdf](https://www.health.govt.nz/system/files/documents/publications/melanoma-guideline-nov08-v2.pdf) \[truy cập ngày 10 tháng 8 năm 2020\]
+- Bộ Y tế. 2011. Ung thư: Đăng ký mới và tử vong 2008. Wellington: Bộ Y tế. Có sẵn từ: [www.health.govt.nz/publication/cancer-new-registrations-and-deaths-2008](https://www.health.govt.nz/publication/cancer-new-registrations-and-deaths-2008) \[truy cập ngày 10 tháng 8 năm 2020\]
+- O’Hern, K., & Demer, A. M. (2025). Sống sót bằng một rìa: Mohs vượt trội so với cắt bỏ rộng tại chỗ cho lentigo maligna. British Journal of Dermatology, 192(2), 188–189. doi:10.1093/bjd/ljae422. [Journal](https://academic.oup.com/bjd/article-abstract/192/2/188/7840504?redirectedFrom=fulltext)
+
+- Richardson A, Fletcher L, Sneyd M, Cox B, Reeder AI. Tỷ lệ mắc và độ dày của melanoma ác tính trên da ở New Zealand 1994–2004. NZ Med J 2008; 121: 1279. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18709044/)
+
+### Trên DermNet
+
+- [Melanoma – bệnh lý](https://dermnetnz.org/topics/melanoma-pathology)
+- [Melanoma](https://dermnetnz.org/topics/melanoma)
+- [Melanoma lentiginous](https://dermnetnz.org/topics/lentiginous-melanoma)
+- [Melanoma in situ](https://dermnetnz.org/topics/melanoma-in-situ)
+- [Melanoma lan rộng bề mặt](https://dermnetnz.org/topics/superficial-spreading-melanoma)
+- [Melanoma lentiginous acral](https://dermnetnz.org/topics/acral-lentiginous-melanoma)
+- [Melanoma dưới móng](https://dermnetnz.org/topics/melanoma-of-the-nail-unit)
+- [Melanoma nốt](https://dermnetnz.org/topics/nodular-melanoma)
+- [Melanoma desmoplastic](https://dermnetnz.org/topics/desmoplastic-melanoma)
+- [Melanoma mắt](https://dermnetnz.org/topics/ocular-melanoma)
+- [Di truyền học của melanoma](https://dermnetnz.org/topics/genetics-of-melanoma)
+- [Melanoma niêm mạc](https://dermnetnz.org/topics/mucosal-melanoma)
+- [Melanoma di căn](https://dermnetnz.org/topics/metastatic-melanoma)
+- [Ung thư da](https://dermnetnz.org/topics/skin-cancer)
+- [Tàn nhang](https://dermnetnz.org/topics/brown-spots-and-freckles)
+- [Lentigines](https://dermnetnz.org/topics/lentigo)
+- [Melanoma trên da màu](https://dermnetnz.org/topics/melanoma-in-skin-of-colour)
+
+### Các trang web khác
+
+- [Lentigo Maligna Melanoma](http://emedicine.medscape.com/article/279839-overview) — Medscape Reference
+- [Melanoma ác tính](http://emedicine.medscape.com/article/280245-overview) — Medscape Reference
+- [Melanoma da](http://emedicine.medscape.com/article/1100753-overview) — Medscape Reference
+- [Melanoma](http://www.nlm.nih.gov/medlineplus/melanoma.html) — MedlinePlus
+- [Melanoma New Zealand](http://www.melanoma.org.nz/)
+- [Lentigo maligna và melanoma in situ](https://www.bad.org.uk/pils/lentigo-maligna/) — Hiệp hội Da liễu Anh
+- [Công cụ đánh giá nguy cơ melanoma](https://www.melanomarisk.org.au/) — Viện Melanoma Úc
+- [Giáo dục melanoma](https://melanomaeducation.org.au/) — Viện Melanoma Úc
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

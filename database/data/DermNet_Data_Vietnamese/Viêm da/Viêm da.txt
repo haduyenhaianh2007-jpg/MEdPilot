@@ -1,0 +1,304 @@
+##### Viêm da — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Chàm
+
+Danh mục:
+
+Phát ban, Thuật ngữ
+
+ICD-10:
+
+L20-L30
+
+ICD-11:
+
+EA8Z
+
+SNOMED CT:
+
+703938007, 26435006, 34936997, 53107009, 414492009
+
+**[Phát ban](https://dermnetnz.org/topics?category=Rashes) [Thuật ngữ](https://dermnetnz.org/topics?category=Terminology)**
+
+# **Viêm da**
+
+Tác giả: Bác sĩ Ian Coulson, Bác sĩ Da liễu Tư vấn, Burnley, Lancashire, Vương quốc Anh. Tháng 4 năm 2022. Tác giả trước: Bác sĩ Amanda Oakley, Bác sĩ Da liễu, New Zealand, 1997. Biên tập bởi Gus Mitchell.
+
+[Giới thiệu](https://dermnetnz.org/topics/dermatitis#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/dermatitis#Demographics%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/dermatitis#Clinical%20features%3Cbr%20/%3E) [Biến thể trong các loại da](https://dermnetnz.org/topics/dermatitis#Variation%20in%20skin%20types%3Cbr%20/%3E) [Các loại](https://dermnetnz.org/topics/dermatitis#Types%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/dermatitis#Differential%20diagnosis%3Cbr%20/%3E) [Điều tra](https://dermnetnz.org/topics/dermatitis#Investigation%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/dermatitis#Treatment%3Cbr%20/%3E) [Bài giảng điện tử](https://dermnetnz.org/topics/dermatitis#E-lecture)
+
+## Viêm da là gì?
+
+Viêm da đề cập đến một nhóm các tình trạng viêm ngứa đặc trưng bởi sự thay đổi biểu bì.
+
+Viêm da có thể được phân loại theo nhiều cách khác nhau. Nó có thể được phân loại theo:
+
+- Nguyên nhân ví dụ, [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis), [viêm da nhạy cảm ánh sáng](https://dermnetnz.org/topics/photosensitivity)
+- Hình thức lâm sàng ví dụ, [viêm da dạng đĩa](https://dermnetnz.org/topics/discoid-eczema), [viêm da tăng sừng](https://dermnetnz.org/topics/hyperkeratotic-palmar-dermatitis), và [pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema)
+- Vị trí ưa thích ví dụ, [viêm da tay](https://dermnetnz.org/topics/hand-dermatitis), [viêm da mí mắt](https://dermnetnz.org/topics/eyelid-contact-dermatitis), hoặc [viêm da chân dưới](https://dermnetnz.org/topics/rashes-affecting-the-lower-legs).
+
+Trong nhiều trường hợp, các yếu tố khác nhau có thể cùng hoạt động như các tác nhân kích thích tiềm ẩn (dị ứng, kích ứng và các yếu tố nội sinh, đặc biệt là trong [viêm da tay](https://dermnetnz.org/topics/hand-dermatitis)).
+
+Các thuật ngữ viêm da và chàm thường được sử dụng thay thế cho nhau. Tất cả chàm đều là viêm da, nhưng không phải tất cả viêm da đều là chàm.
+
+- Viêm da, nói một cách chính xác, bao gồm bất kỳ nguyên nhân nào gây viêm da ảnh hưởng đến biểu bì.
+- Chàm có nguồn gốc từ từ Hy Lạp có nghĩa là "sôi hoặc sủi bọt", biểu hiện bệnh lý là phù nề trong biểu bì (gọi là spongiosis).
+
+Thuật ngữ viêm da đôi khi bị nhầm lẫn là chàm do yếu tố nghề nghiệp gây ra; điều này là sai lầm.
+
+![Viêm da tiếp xúc cấp tính do dị ứng băng dính](https://dermnetnz.org/assets/collection/Allergic-contact-dermatitis/allergic-contact-dermatitis-0003.jpg)
+
+Viêm da tiếp xúc cấp tính do dị ứng băng dính
+
+![Viêm da tiếp xúc dị ứng do niken ở hai bên gọng kính của cô ấy](https://dermnetnz.org/assets/collection/Allergic-contact-dermatitis/allergic-contact-dermatitis-0024.jpg)
+
+Viêm da tiếp xúc dị ứng do niken ở hai bên gọng kính của cô ấy
+
+![Chàm tĩnh mạch kết hợp với dị ứng tiếp xúc với thành phần băng](https://dermnetnz.org/assets/collection/Allergic-contact-dermatitis/allergic-contact-dermatitis-0025.jpg)
+
+Chàm tĩnh mạch kết hợp với dị ứng tiếp xúc với thành phần băng
+
+![Chàm cấp tính bị trầy xước ở mặt ngoài của đầu gối (mẫu ngược)](https://dermnetnz.org/assets/collection/Atopic-dermatitis/atopic-dermatitis-0002.jpg)
+
+Chàm cấp tính bị trầy xước ở mặt ngoài của đầu gối (mẫu ngược)
+
+![Nứt nẻ trên khớp ngón tay trong chàm tay lưng dị ứng](https://dermnetnz.org/assets/collection/Atopic-hand-dermatitis/atopic-hand-dermatitis-0001.jpg)
+
+Nứt nẻ trên khớp ngón tay trong chàm tay lưng dị ứng
+
+![Tổn thương chảy nước của chàm dạng đĩa trên chân](https://dermnetnz.org/assets/collection/Discoid-eczema/discoid-eczema-0001.jpg)
+
+Tổn thương chảy nước của chàm dạng đĩa trên chân
+
+![Chàm dạng đĩa chảy nước và nhiễm trùng trên chân](https://dermnetnz.org/assets/collection/Discoid-eczema/discoid-eczema-0002.jpg)
+
+Chàm dạng đĩa chảy nước và nhiễm trùng trên chân
+
+![Nứt nẻ, tăng sừng và mụn nước trong viêm da đầu ngón tay mãn tính](https://dermnetnz.org/assets/collection/Hand-dermatitis/hand-dermatitis-0001.jpg)
+
+Nứt nẻ, tăng sừng và mụn nước trong viêm da đầu ngón tay mãn tính
+
+![Mẫu chàm dạng đĩa trên tay lưng](https://dermnetnz.org/assets/collection-O/Hand-dermatitis/hand-dermatitis-00018.jpg)
+
+Mẫu chàm dạng đĩa trên tay lưng
+
+![Chàm tay trên mặt sau của tay - hỗn hợp các yếu tố kích thích trong người dị ứng này](https://dermnetnz.org/assets/collection-O/Hand-dermatitis/hand-dermatitis-00019.jpg)
+
+Chàm tay trên mặt sau của tay - hỗn hợp các yếu tố kích thích trong người dị ứng này
+
+![Giảm sắc tố và vảy mịn trên má trong pityriasis alba](https://dermnetnz.org/assets/collection/Pityriasis-alba/pityriasis-alba-0001.jpg)
+
+Giảm sắc tố và vảy mịn trên má trong pityriasis alba
+
+![Đỏ và vảy ở má và nếp gấp mũi trong viêm da tiết bã](https://dermnetnz.org/assets/collection/Seborrhoeic-dermatitis/seborrhoeic-dermatitis-0050.jpg)
+
+Đỏ và vảy ở má và nếp gấp mũi trong viêm da tiết bã
+
+## Ai bị viêm da?
+
+Viêm da rất phổ biến, ảnh hưởng đến khoảng một trong năm người ở một giai đoạn nào đó trong cuộc đời.
+
+Các loại viêm da khác nhau phổ biến hơn ở các giai đoạn khác nhau của cuộc đời, ví dụ:
+
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) và [pityriasis alba](https://dermnetnz.org/topics/pityriasis-alba) phổ biến hơn ở trẻ em
+- [Chàm tay](https://dermnetnz.org/topics/hand-dermatitis) phổ biến hơn ở người lớn trẻ và trung niên
+- [Chàm tĩnh mạch hoặc chàm trọng lực](https://dermnetnz.org/topics/venous-eczema), [viêm da asteatotic](https://dermnetnz.org/topics/asteatotic-eczema), và [chàm nummular](https://dermnetnz.org/topics/discoid-eczema) phổ biến hơn ở nhóm tuổi trung niên và cao tuổi.
+
+Không có yếu tố chủng tộc nhất quán ảnh hưởng đến tần suất bệnh.
+
+## Các đặc điểm lâm sàng của viêm da là gì?
+
+Viêm da có thể là cấp tính hoặc mãn tính, và mặc dù cơ chế phát triển viêm da có thể giống nhau, nhưng hình thức có thể khác biệt rõ rệt.
+
+- Viêm da cấp tính sẽ cho thấy đỏ hoặc sưng, nổi mụn, mụn nước, rỉ nước và chảy nước, và thậm chí phồng rộp.
+- Chàm mãn tính sẽ cho thấy da dày lên với sự nhấn mạnh của các nếp gấp da, tăng sừng, vảy, nứt nẻ, trầy xước, và tăng sắc tố.
+- Viêm da bán cấp sẽ cho thấy các đặc điểm của cả hai.
+
+## Các đặc điểm lâm sàng thay đổi như thế nào trong các nhóm chủng tộc khác nhau?
+
+Đỏ có thể khó nhận thấy hơn ở các loại da tối màu.
+
+[Giảm sắc tố và tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) phổ biến hơn ở các loại da tối màu.
+
+## Các loại viêm da là gì?
+
+**Viêm da ngoại sinh** là kết quả của một yếu tố hoặc tổn thương bên ngoài gây viêm da. Các nguyên nhân phổ biến bao gồm:
+
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) — do sự nhạy cảm miễn dịch của một cá nhân với một chất gây dị ứng, thường ở nồng độ thấp, như niken, thuốc nhuộm tóc, cao su, hoặc nước hoa; được xác định bằng thử nghiệm miếng dán.
+- [Viêm da tiếp xúc kích thích](https://dermnetnz.org/topics/irritant-contact-dermatitis) — sẽ xảy ra ở bất kỳ ai tiếp xúc với chất kích thích ở nồng độ đủ cao trong thời gian đủ lâu; các chất kích thích bao gồm xà phòng, chất tẩy rửa, dung môi hữu cơ, chất tẩy nhờn, chất mài mòn, chất làm khô, bụi, nước tiểu, và thậm chí là nước
+- [Viêm da nhạy cảm ánh sáng](https://dermnetnz.org/topics/photosensitivity) — kích hoạt bởi ánh sáng hoặc bức xạ UV
+- Viêm da sau chấn thương — do các chấn thương vật lý như trầy xước, bỏng, hoặc phẫu thuật (ví dụ, [viêm da mất tự chủ thần kinh tự động](https://dermnetnz.org/topics/autonomic-denervation-dermatitis))
+- Viêm da do nhiễm trùng da cục bộ như vi khuẩn, nấm, và virus ví dụ như molluscum contagiosum và bệnh HTLV-1
+- Viêm da do thuốc.
+
+**Viêm da nội sinh** xảy ra do các yếu tố nội tại thường không rõ ràng. Các loại phổ biến bao gồm:
+
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) — một dạng viêm da phổ biến xảy ra ở trẻ em và người lớn, và thường xảy ra trong các gia đình có tiền sử hen suyễn và viêm mũi dị ứng
+- [Viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) — chàm mãn tính phổ biến ảnh hưởng đến mặt, da đầu, tai và các nếp gấp chính, do phản ứng với nấm men cư trú trên da
+- [Viêm da dạng đĩa (nummular)](https://dermnetnz.org/topics/discoid-eczema) — các mảng viêm da hình đồng xu thường ảnh hưởng đến các chi
+- [Lichen simplex](https://dermnetnz.org/topics/lichen-simplex) — viêm da mãn tính dày lên do gãi liên tục
+- [Pityriasis alba](https://dermnetnz.org/topics/pityriasis-alba) — các mảng viêm da nhạt màu ảnh hưởng đến má
+- [Viêm da tay](https://dermnetnz.org/topics/hand-dermatitis) — các yếu tố kích thích nội, ngoại và dị ứng có thể đóng vai trò ngay cả trong một cá nhân
+- [Viêm da mí mắt](https://dermnetnz.org/topics/eyelid-contact-dermatitis) — một lần nữa, thường có nguyên nhân hỗn hợp
+- [Viêm tai ngoài](https://dermnetnz.org/topics/otitis-externa) — viêm da ảnh hưởng đến ống tai và vành tai
+- [Viêm da tĩnh mạch hoặc trọng lực](https://dermnetnz.org/topics/venous-eczema) — viêm da do sự suy giảm chức năng của van tĩnh mạch chân dưới
+- [Viêm da lòng bàn chân trẻ em](https://dermnetnz.org/topics/juvenile-plantar-dermatosis) — chàm lòng bàn chân bóng và nứt nẻ xảy ra ở trẻ em
+- [Viêm da chuyển hóa](https://dermnetnz.org/topics/metabolic-syndrome) — thấy trong một số rối loạn dinh dưỡng và nội tiết
+- [Viêm da vảy nông mãn tính](https://dermnetnz.org/topics/chronic-superficial-scaly-dermatitis) — các mảng chàm hình ngón tay xảy ra trên thân
+- [Viêm da asteatotic](https://dermnetnz.org/topics/asteatotic-eczema) — viêm da hình lát gạch do tẩy nhờn da từ việc tắm rửa và sử dụng xà phòng quá mức trên chân ở người cao tuổi
+- [Viêm da vòng hào quang hoặc Meyerson naevus](https://dermnetnz.org/topics/meyerson-naevus) — có thể bao quanh một nốt ruồi lành tính
+- [Viêm da đỏ da](https://dermnetnz.org/topics/erythrodermic-psoriasis) — viêm da nghiêm trọng khi hơn 80% da bị ảnh hưởng.
+
+## Chẩn đoán phân biệt viêm da là gì?
+
+- [Nhiễm trùng vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) — [chốc lở](https://dermnetnz.org/topics/impetigo), [erythrasma](https://dermnetnz.org/topics/erythrasma)
+- [Nhiễm trùng nấm](https://dermnetnz.org/topics/fungal-skin-infections)
+- Bệnh mô liên kết — [lupus ban đỏ](https://dermnetnz.org/topics/systemic-lupus-erythematosus) và [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis)
+- [Rosacea](https://dermnetnz.org/topics/rosacea)
+- [Bệnh phồng rộp](https://dermnetnz.org/topics/blistering-skin-conditions) — [pemphigoid bóng nước](https://dermnetnz.org/topics/bullous-pemphigoid)
+- Khối u da — [bệnh Bowen](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma), [ung thư biểu mô tế bào đáy nông](https://dermnetnz.org/images/superficial-basal-cell-carcinoma-images)
+- [Lymphoma tế bào T da](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma).
+
+## Viêm da được điều tra như thế nào?
+
+Một lịch sử chi tiết và khám nghiệm có thể là tất cả những gì cần thiết để đưa ra chẩn đoán chính xác.
+
+Các cuộc điều tra sau đây đôi khi có thể cần thiết:
+
+- [Cạo da](https://dermnetnz.org/topics/fungal-skin-infections) để loại trừ nhiễm trùng nấm giả mạo viêm da
+- [Lấy mẫu da](https://dermnetnz.org/topics/bacterial-skin-infections) để tìm nhiễm trùng vi khuẩn hoặc virus
+- [Thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) để xác định chất gây dị ứng tiếp xúc
+- [Thử nghiệm ánh sáng](https://dermnetnz.org/topics/phototesting) nếu nghi ngờ viêm da nhạy cảm ánh sáng
+- Sinh thiết da để loại trừ các bệnh giả mạo viêm da
+- Xét nghiệm máu — IgE (thường tăng cao trong viêm da dị ứng), chức năng tuyến giáp (trong một số viêm da tay và viêm da asteatotic).
+
+## Viêm da được điều trị như thế nào?
+
+Nguyên tắc chung được đề cập ở đây. Quản lý cụ thể của các loại viêm da cụ thể được chi tiết trên các trang liên quan.
+
+- Xác định và tránh các chất gây dị ứng tiềm năng — dựa trên lịch sử ví dụ như sở thích, sản phẩm sử dụng, và nghề nghiệp. Thử nghiệm miếng dán sẽ xác nhận.
+- Xác định và tránh các chất kích thích tiềm năng — tránh xà phòng, gel tắm, bụi, dung môi hữu cơ, và các chất làm khô.
+- Bảo vệ da với [thiết bị bảo hộ cá nhân](https://dermnetnz.org/topics/personal-protective-equipment) — đặc biệt là viêm da tay, bằng cách sử dụng găng tay cotton cho công việc khô, và cotton với găng tay kín phù hợp với chất gây dị ứng hoặc chất kích thích nghi ngờ.
+
+### Liệu pháp bôi ngoài
+
+- [Chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) — cả thay thế xà phòng, sau khi tắm hoặc rửa, và bất kỳ lúc nào nếu da cảm thấy khô.
+- [Ngâm kali permanganate](https://dermnetnz.org/topics/potassium-permanganate) — hữu ích để làm khô chàm cấp tính chảy nước hoặc phồng rộp.
+- [Băng dán](https://dermnetnz.org/topics/synthetic-wound-dressings) — hữu ích để giúp steroid bôi ngoài thấm vào da, làm dịu, và giảm tổn thương da do gãi.
+- [Steroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid) — thường sử dụng dạng mỡ nếu da khô, và dạng kem nếu da ướt và chảy nước.
+  - Hầu hết hoạt động tốt nếu chỉ bôi một lần mỗi ngày.
+  - Giúp giảm viêm da gây ra chàm, và nên bôi nơi da bị viêm (đỏ và ngứa).
+  - Sản phẩm mạnh thường được sử dụng trong 7–14 ngày, sau đó tần suất bôi giảm xuống cách ngày, sau đó hai lần mỗi tuần, và giảm độ mạnh của steroid.
+  - Điều trị steroid hai lần mỗi tuần thường được khuyến nghị để ngăn ngừa tái phát bệnh, và ngăn ngừa bùng phát trong thời gian dài.
+- Tác nhân chống viêm bôi ngoài
+
+  - Chất ức chế calcineurin như [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) và [tacrolimus](https://dermnetnz.org/topics/tacrolimus) ức chế chàm và không có tác dụng phụ lâu dài của steroid mạnh, đặc biệt là đối với mặt.
+  - Các phân tử nhỏ mới như [chất ức chế JAK](https://dermnetnz.org/topics/janus-kinase-inhibitors) ( [ruxolitinib](https://dermnetnz.org/topics/ruxolitinib)) đã được phê duyệt hoặc đang được phát triển để điều trị viêm da.
+
+### Liệu pháp vật lý
+
+- [Tia cực tím B và Psoralens UVA (PUVA)](https://dermnetnz.org/topics/puva-photochemotherapy) có thể có giá trị cho viêm da dị ứng và viêm da dạng đĩa khó chữa.
+
+### Tác nhân hệ thống
+
+- [Thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) — để ức chế ngứa của chàm, một thuốc kháng histamin gây buồn ngủ, thay vì một tác nhân không gây buồn ngủ thường được cần.
+- Kháng sinh và thuốc kháng virus — nên được xem xét nếu chàm bị nhiễm trùng thêm với vi khuẩn ( _Staphylococcus_) và [herpes simplex](https://dermnetnz.org/topics/herpes-simplex).
+- Liệu pháp ức chế miễn dịch — ít hơn 2% người bị chàm mãn tính sẽ không được kiểm soát đầy đủ với các liệu pháp trên. Các tác nhân giảm phản ứng miễn dịch quá mức thấy trong viêm da có thể giúp ích. [Methotrexate](https://dermnetnz.org/topics/methotrexate), [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine), và [ciclosporin](https://dermnetnz.org/topics/ciclosporin) là các tác nhân thường được xem xét.
+- [Liệu pháp sinh học](https://dermnetnz.org/topics/biologics) — các liệu pháp kháng thể đặc biệt chặn các chất trung gian chính của viêm trong viêm da (cytokine) đang được sử dụng và phát triển tích cực cho viêm da nghiêm trọng. Các liệu pháp tiêm này bao gồm [dupilumab](https://dermnetnz.org/topics/dupilumab), [tralokinumab](https://dermnetnz.org/topics/tralokinumab), [lebrikizumab](https://dermnetnz.org/topics/lebrikizumab), và [nemolizumab](https://dermnetnz.org/topics/nemolizumab).
+- [Phân tử nhỏ uống](https://dermnetnz.org/topics/janus-kinase-inhibitors) — [baricitinib](https://dermnetnz.org/topics/baricitinib), [upadacitinib](https://dermnetnz.org/topics/upadacitinib), và abrocitanib đã được cấp phép hoặc đang được xem xét cấp phép và sử dụng trong viêm da dị ứng trung bình/nặng ở nhiều quốc gia. Các tác nhân này chặn các đường dẫn [JAK](https://dermnetnz.org/topics/janus-kinase-inhibitors)/STAT mà từ đó điều chỉnh sản xuất cytokine.
+
+Chàm: Tổng quan Hoàn chỉnh - YouTube
+
+[Hình ảnh của DermNet](https://www.youtube.com/channel/UCj4I5L1l7jT64IuMZJirfhQ?embeds_referring_euri=https%3A%2F%2Fdermnetnz.org%2F)
+
+DermNet
+
+4K người đăng ký
+
+[Chàm: Tổng quan Hoàn chỉnh](https://www.youtube.com/watch?v=XEMJTssM7P0)
+
+DermNet
+
+Tìm kiếm
+
+Xem sau
+
+Chia sẻ
+
+Sao chép liên kết
+
+Thông tin
+
+Mua sắm
+
+Nhấn để tắt tiếng
+
+Nếu phát lại không bắt đầu ngay, hãy thử khởi động lại thiết bị của bạn.
+
+Nhiều video hơn
+
+## Nhiều video hơn
+
+Bạn đã đăng xuất
+
+Các video bạn xem có thể được thêm vào lịch sử xem của TV và ảnh hưởng đến các đề xuất của TV. Để tránh điều này, hãy hủy và đăng nhập vào YouTube trên máy tính của bạn.
+
+HủyXác nhận
+
+Chia sẻ
+
+Bao gồm danh sách phát
+
+Đã xảy ra lỗi khi truy xuất thông tin chia sẻ. Vui lòng thử lại sau.
+
+[Xem trên](https://www.youtube.com/watch?v=XEMJTssM7P0&embeds_referring_euri=https%3A%2F%2Fdermnetnz.org%2F)
+
+0:00
+
+0:00 / 58:00
+•Trực tiếp
+
+•
+
+### Trên Dermnet
+
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Viêm da nummular](https://dermnetnz.org/topics/discoid-eczema)
+- [Viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis)
+- [Viêm da tay](https://dermnetnz.org/topics/hand-dermatitis)
+- [Pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema)
+- [Viêm da tiếp xúc kích thích](https://dermnetnz.org/topics/irritant-contact-dermatitis)
+- [Viêm da liên quan đến tiểu không tự chủ](https://dermnetnz.org/topics/incontinence-associated-dermatitis)
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- [Pityriasis alba](https://dermnetnz.org/topics/pityriasis-alba)
+- [Viêm da vảy nông mãn tính](https://dermnetnz.org/topics/chronic-superficial-scaly-dermatitis)
+- [Viêm da lòng bàn chân trẻ em](https://dermnetnz.org/topics/juvenile-plantar-dermatosis)
+- [Viêm da mất tự chủ thần kinh tự động](https://dermnetnz.org/topics/autonomic-denervation-dermatitis)
+- [Tình trạng da phồng rộp](https://dermnetnz.org/topics/blistering-skin-conditions)
+- [Steroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid)
+- [Chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers)
+- [Thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests)
+- [Băng dán](https://dermnetnz.org/topics/synthetic-wound-dressings)
+- [Kali permanganate](https://dermnetnz.org/topics/potassium-permanganate)
+
+### Các trang web khác
+
+- [Chàm](https://medlineplus.gov/eczema.html) — Medline Plus
+- [Dị ứng New Zealand](http://www.allergy.org.nz/): nhóm hỗ trợ địa phương
+- [Hiệp hội Chàm New Zealand](https://www.eczema.org.nz/)
+- [Hiệp hội Chàm Quốc gia về Khoa học và Giáo dục](https://nationaleczema.org/): một tổ chức hỗ trợ bệnh nhân Mỹ
+- [Thông tin bệnh nhân: Viêm da tiếp xúc (Cơ bản)](https://nationaleczema.org/) — UpToDate (dành cho người đăng ký)
+- [Chàm/phản ứng da](https://www.aha.ch/swiss-allergy-centre/skin) — Trung tâm Dị ứng Thụy Sĩ AHA!
+- [Chàm](https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/self-care) — Học viện Da liễu Mỹ
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

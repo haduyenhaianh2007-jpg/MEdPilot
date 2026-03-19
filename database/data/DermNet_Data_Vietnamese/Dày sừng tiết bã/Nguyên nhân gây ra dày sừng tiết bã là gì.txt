@@ -1,0 +1,16 @@
+## Nguyên nhân gây ra dày sừng tiết bã?
+
+Nguyên nhân chính xác của dày sừng tiết bã chưa được biết rõ.
+
+Tên gọi này gây hiểu lầm, vì chúng không giới hạn ở vùng phân bố tiết bã (da đầu, giữa mặt, ngực, lưng trên) như trong [viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis), cũng không được hình thành từ tuyến bã nhờn, như trong trường hợp [tăng sản tuyến bã](https://dermnetnz.org/topics/sebaceous-hyperplasia), và cũng không liên quan đến bã nhờn — chất nhờn.
+
+Dày sừng tiết bã được coi là có tính chất thoái hóa. Theo thời gian, dày sừng tiết bã trở nên nhiều hơn. Một số người thừa hưởng xu hướng phát triển một số lượng rất lớn các nốt này. Các nhà nghiên cứu đã ghi nhận:
+
+- Dày sừng tiết bã bùng phát có thể xảy ra sau [cháy nắng](https://dermnetnz.org/topics/sunburn) hoặc [viêm da](https://dermnetnz.org/topics/dermatitis).
+- Ma sát da có thể là lý do chúng xuất hiện ở các nếp gấp cơ thể.
+- Nguyên nhân [virus](https://dermnetnz.org/topics/viral-skin-infections) (ví dụ như virus papilloma ở người) dường như không có khả năng.
+- Đột biến ổn định và dòng hoặc kích hoạt các gen FRFR3, PIK3CA, RAS, AKT1 và EGFR được tìm thấy trong dày sừng tiết bã.
+- Dày sừng tiết bã có thể phát sinh từ [nám da do ánh nắng](https://dermnetnz.org/topics/solar-lentigo).
+- Đột biến FRFR3 cũng xuất hiện trong nám da do ánh nắng. Những đột biến này liên quan đến tuổi tác tăng và vị trí trên đầu và cổ, gợi ý vai trò của bức xạ tia cực tím trong các tổn thương này.
+- Dày sừng tiết bã không chứa đột biến gen ức chế khối u.
+- [Các chất ức chế thụ thể yếu tố tăng trưởng biểu bì](https://dermnetnz.org/topics/egfr-and-protein-kinase-inhibitors) (được sử dụng để điều trị ung thư) thường dẫn đến sự gia tăng dày sừng dạng mụn cóc.

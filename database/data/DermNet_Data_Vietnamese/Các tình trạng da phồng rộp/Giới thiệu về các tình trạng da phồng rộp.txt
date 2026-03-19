@@ -1,0 +1,25 @@
+##### Các tình trạng da phồng rộp — thông tin bổ sung
+
+Danh mục:
+
+Viêm
+
+ICD-10:
+
+R23.8, L13.9
+
+ICD-11:
+
+ME62.6, ME63.3
+
+SNOMED CT:
+
+721542002
+
+**[Viêm](https://dermnetnz.org/topics?category=Inflammation)**
+
+# **Các tình trạng da phồng rộp**
+
+Tác giả: Bác sĩ Amanda Oakley, Chuyên khoa Da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 9 năm 2015.
+
+[Giới thiệu](https://dermnetnz.org/topics/blistering-skin-conditions#Introduction%3Cbr%20/%3E) [Các bệnh phồng rộp cấp tính](https://dermnetnz.org/topics/blistering-skin-conditions#Acute%20blistering%20diseases%3Cbr%20/%3E) [Các bệnh phồng rộp mãn tính](https://dermnetnz.org/topics/blistering-skin-conditions#Chronic%20blistering%20diseases%3Cbr%20/%3E) [Bài giảng điện tử](https://dermnetnz.org/topics/blistering-skin-conditions#E-lecture)

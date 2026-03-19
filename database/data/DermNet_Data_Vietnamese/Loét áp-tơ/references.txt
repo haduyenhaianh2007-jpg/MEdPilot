@@ -1,0 +1,32 @@
+### References
+
+- Akintoye SO, Greenberg MS. Recurrent aphthous stomatitis. Dent Clin North Am. 2014;58(2):281–97. [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964366/) doi:10.1016/j.cden.2013.12.002
+- Al-Maweri SA, Halboub E, Ashraf S, et al. Single application of topical doxycycline in management of recurrent aphthous stomatitis: a systematic review and meta-analysis of the available evidence. BMC Oral Health. 2020;20(1):231. doi:10.1186/s12903-020-01220-5. [Journal](https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-020-01220-5)
+- Cui RZ, Bruce AJ, Rogers RS 3rd. Recurrent aphthous stomatitis. Clin Dermatol. 2016;34(4):475-81. doi:10.1016/j.clindermatol.2016.02.020. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27343962/)
+- Giannetti L, Murri Dello Diago A, Lo Muzio L. Recurrent aphtous stomatitis. Minerva Stomatol. 2018;67(3):125-8. doi:10.23736/S0026-4970.18.04137-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29332375/)
+- Kolios AGA, Yawalkar N, Feusi A, Kündig T, Boyman O, Nilsson J. Apremilast in treatment-refractory recurrent aphthous stomatitis. N Engl J Med. 2019;381(20):1975-7. doi:10.1056/NEJMc1901987. [Journal](https://www.nejm.org/doi/pdf/10.1056/NEJMc1901987?articleTools=true)
+- Letsinger JA, McCarty MA, Jorizzo JL. Complex aphthosis: a large case series with evaluation algorithm and therapeutic ladder from topicals to thalidomide. J Am Acad Dermatol. 2005;52(3 Pt 1):500-8. doi:10.1016/j.jaad.2004.10.863. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15761429/)
+
+### On DermNet
+
+- [Behcet disease](https://dermnetnz.org/topics/behcet-disease)
+- [Differential diagnosis of vulval ulcers](https://dermnetnz.org/topics/differential-diagnosis-of-vulval-ulcers)
+- [Erosions and ulcers](https://dermnetnz.org/topics/erosions-and-ulcers)
+- [Mouth ulcers](https://dermnetnz.org/topics/mouth-ulcer)
+- [Non-sexually acquired genital ulceration](https://dermnetnz.org/topics/non-sexually-acquired-genital-ulceration)
+- [Oral manifestations of inflammatory bowel disease](https://dermnetnz.org/topics/oral-manifestations-of-inflammatory-bowel-disease)
+
+### Other websites
+
+- [Aphthous Ulcers](http://emedicine.medscape.com/article/867080-overview) — Medscape Reference
+
+### Books about skin diseases
+
+- [Books about the skin](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- second edition](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Other recommended articles
+
+![close](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

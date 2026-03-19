@@ -1,0 +1,342 @@
+##### Rụng tóc từng mảng — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Rụng tóc tự miễn
+
+Danh mục:
+
+Tự miễn/tự viêm
+
+ICD-10:
+
+L63, L63.0, L63.1, L63.2, L63.8, L63.9
+
+ICD-11:
+
+ED70.2, ED70.20, ED70.21, ED70.2Y, ED70.2Z
+
+SNOMED CT:
+
+68225006, 19754005, 46586006, 5860029, 86166000
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics?category=Autoimmune/autoinflammatory)**
+
+# **Rụng tóc từng mảng**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ Da liễu, 1997; Cập nhật: Dr Harriet Bell, Bác sĩ Nội trú, New Zealand, Tháng 5 năm 2022. Cập nhật nhỏ bởi Ian Coulson, Bác sĩ Da liễu. Biên tập bởi Gus Mitchell. Tháng 7 năm 2024
+
+[Giới thiệu](https://dermnetnz.org/topics/alopecia-areata#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/alopecia-areata#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/alopecia-areata#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/alopecia-areata#Clinical%20features%3Cbr%20/%3E) [Biến thể trong các loại da](https://dermnetnz.org/topics/alopecia-areata#Variation%20in%20skin%20types%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/alopecia-areata#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/alopecia-areata#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/alopecia-areata#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/alopecia-areata#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/alopecia-areata#Prevention%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/alopecia-areata#Outcome)
+
+## Rụng tóc từng mảng là gì?
+
+Rụng tóc từng mảng là một tình trạng tự miễn ảnh hưởng đến nang tóc gây ra rụng tóc. Nó thường xuất hiện với các mảng hói riêng biệt trên da đầu nhưng có thể gây rụng tóc từ tất cả các vùng có lông trên cơ thể.
+
+Rụng tóc là một thuật ngữ Latin có nghĩa là rụng tóc, và areata đề cập đến tính chất từng mảng của việc rụng tóc. Thuật ngữ rụng tóc từng mảng được coi là một thuật ngữ bao trùm, bao gồm một số biến thể như rụng tóc từng mảng toàn bộ hoặc toàn thân, ophiasis, ophiasis inversus, và [rụng tóc từng mảng lan tỏa](https://dermnetnz.org/topics/diffuse-alopecia).
+
+![Một mảng rụng tóc từng mảng](https://dermnetnz.org/assets/collection/Alopecia-areata/alopecia-areata-00004.jpg)
+
+Một mảng rụng tóc từng mảng (AA-bệnh nhân1)
+
+![Rụng tóc từng mảng rộng](https://dermnetnz.org/assets/collection/Alopecia-areata/alopecia-areata-00001.jpg)
+
+Rụng tóc từng mảng rộng
+
+![Rụng tóc toàn bộ](https://dermnetnz.org/assets/collection/Alopecia-areata/alopecia-areata-00023.jpg)
+
+Rụng tóc toàn bộ
+
+![Mẫu rụng tóc từng mảng kiểu ophiasis](https://dermnetnz.org/assets/collection/Alopecia-areata/alopecia-areata-00028.jpg)
+
+Mẫu rụng tóc từng mảng kiểu ophiasis (AA-bệnh nhân5)
+
+![Rụng tóc từng mảng rộng với sự giữ lại của tóc bạc](https://dermnetnz.org/assets/collection/Alopecia-areata/alopecia-areata-00019.jpg)
+
+Rụng tóc từng mảng rộng với sự giữ lại của tóc bạc
+
+![Hình ảnh soi da của rụng tóc từng mảng với tóc dấu chấm than](https://dermnetnz.org/assets/collection/Alopecia-areata/alopecia-areata-00009.jpg)
+
+Hình ảnh soi da của rụng tóc từng mảng với tóc dấu chấm than
+
+[Bấm vào đây để xem thêm hình ảnh](https://dermnetnz.org/images/alopecia-areata-images)
+
+## Ai bị rụng tóc từng mảng?
+
+Nguy cơ suốt đời của rụng tóc từng mảng là khoảng 2%. Nó ảnh hưởng đến trẻ em và người lớn ở mọi màu da và tóc. Tỷ lệ mắc cao nhất xảy ra trong thập kỷ thứ hai và thứ ba và hầu hết bệnh nhân trải qua khởi phát trước thập kỷ thứ tư. Rụng tóc từng mảng không có sự ưu tiên đáng kể về giới tính hay sắc tộc.
+
+Các yếu tố sau có thể làm tăng nguy cơ rụng tóc từng mảng:
+
+- Rối loạn nhiễm sắc thể như [hội chứng Down](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome)
+- Hội chứng tự miễn đa tuyến loại 1
+- Các tình trạng tự miễn khác như [bạch biến](https://dermnetnz.org/topics/vitiligo) và [bệnh tuyến giáp](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease)
+- Tiền sử gia đình có rụng tóc từng mảng
+- Một số gen nhạy cảm nhất định (xem bên dưới).
+
+## Nguyên nhân gây ra rụng tóc từng mảng là gì?
+
+Một nang tóc bình thường trải qua nhiều giai đoạn:
+
+- Anagen là giai đoạn tăng trưởng tích cực kéo dài từ một đến tám năm
+- Catagen là giai đoạn thoái hóa ngắn kéo dài vài tuần
+- Telogen là giai đoạn nghỉ kéo dài vài tháng
+- Exogen là sự rụng tóc.
+
+Cơ chế chính xác gây ra rụng tóc trong rụng tóc từng mảng vẫn chưa rõ ràng. Người ta giả thuyết rằng mất đặc quyền miễn dịch trong các nang tóc anagen đóng vai trò quan trọng trong cơ chế bệnh sinh, và sự nhạy cảm di truyền cũng được cho là góp phần.
+
+#### Giả thuyết đặc quyền miễn dịch
+
+- Các nang tóc anagen bình thường được cho là thể hiện đặc quyền miễn dịch, khiến chúng miễn dịch khỏi sự giám sát miễn dịch và được bảo vệ chống lại sự tấn công tự miễn.
+- Đặc quyền miễn dịch bảo vệ có thể bị mất trong rụng tóc từng mảng, cho phép các tự kháng nguyên của nang tóc được trình bày cho các tế bào T CD8+ tự phản ứng.
+- Sự tấn công tự miễn sau đó của nang anagen gây ra sự chuyển đổi sớm của nang vào giai đoạn telogen với sự mất tóc cuối cùng.
+
+Giả thuyết này được hỗ trợ bởi quan sát về sự thâm nhập dày đặc của tế bào T quanh nang trên xét nghiệm mô học của các nang anagen trong rụng tóc từng mảng; một khu vực thường thưa thớt các tế bào miễn dịch.
+
+#### Yếu tố di truyền
+
+- Rụng tóc từng mảng có thành phần di truyền mạnh.
+- Ít nhất 16 vị trí nguy cơ di truyền đã được phát hiện.
+  - Bao gồm nhiều kháng nguyên bạch cầu người (HLA) lớp I và II, và một số alen của các gen liên quan đến các con đường miễn dịch, sắc tố tóc, và phản ứng với stress oxy hóa.
+- Chế độ di truyền dường như phức tạp, với các ảnh hưởng môi trường cũng đóng vai trò.
+
+## Các đặc điểm lâm sàng của rụng tóc từng mảng là gì?
+
+Khởi phát rụng tóc cấp tính có thể biểu hiện theo một số mẫu.
+
+Rụng tóc từng mảng là mẫu phổ biến nhất, tạo ra:
+
+- Rụng tóc khu trú
+- Các mảng tròn/oval đơn lẻ hoặc nhiều mảng da bình thường được phân định rõ ràng.
+
+Da đầu là nơi thường bị ảnh hưởng nhất, nhưng cũng có thể ảnh hưởng đến:
+
+- Râu
+- Lông mày
+- Lông mi
+- Bất kỳ vùng nào khác có lông.
+
+Các mẫu ít phổ biến hơn bao gồm:
+
+- Rụng tóc toàn bộ – mất hoàn toàn tóc trên da đầu
+  - Ảnh hưởng đến tối đa 5% bệnh nhân bị rụng tóc tự miễn
+- Rụng tóc toàn thân – mất hoàn toàn lông trên cơ thể
+  - Ảnh hưởng đến dưới 1%
+- Ophiasis — rụng tóc dạng dải trên các mép da đầu chẩm và thái dương
+- Sisaipho (ophiasis inversus) — rụng tóc trên da đầu trán, thái dương, và đỉnh đầu có thể bắt chước rụng tóc kiểu nam
+- [Rụng tóc từng mảng lan tỏa](https://dermnetnz.org/topics/diffuse-alopecia) (rụng tóc từng mảng không rõ ràng) — rụng tóc nhanh và lan rộng.
+- Tóc bạc đột ngột — mất tóc có sắc tố, dẫn đến việc lộ ra tóc bạc hiện có (“trắng qua đêm”).
+
+#### Các đặc điểm khác
+
+Tóc [“dấu chấm than”](https://dermnetnz.org/topics/trichoscopy) đặc trưng có thể được quan sát, đặc biệt ở rìa các mảng hói. Một sợi tóc dấu chấm than là một sợi tóc bị gãy với phần xa tương đối dày và phần gần mỏng khi nó đi vào da đầu. Chúng là kết quả của sự ngừng anagen và ngừng hình thành trục tóc, với sự yếu đi và thu nhỏ của trục.
+
+Một số bệnh nhân có thể trải qua cảm giác ngứa hoặc ngứa cục bộ trước khi rụng tóc (trichodynia).
+
+Khi tóc mọc lại, tóc có thể ban đầu thiếu sắc tố và do đó mọc lại thành màu trắng hoặc vàng.
+
+Thay đổi móng có thể được thấy ở khoảng 10–40% bệnh nhân và có xu hướng liên quan đến bệnh nặng hơn.
+
+- Rỗ móng và rãnh là phổ biến nhất.
+- Các đặc điểm móng khác bao gồm [koilonychia](https://dermnetnz.org/topics/nail-terminology), [trachyonychia](https://dermnetnz.org/topics/trachyonychia), đường Beau, [onychorrhexis](https://dermnetnz.org/topics/nail-terminology), onychomadesis, [onycholysis](https://dermnetnz.org/topics/onycholysis), và các đốm đỏ trong lunula.
+
+[Bấm vào đây để xem hình ảnh](https://dermnetnz.org/images/alopecia-areata-images)
+
+## Các đặc điểm lâm sàng thay đổi như thế nào trong các loại da khác nhau?
+
+Không có sự khác biệt về đặc điểm lâm sàng của rụng tóc ở bệnh nhân có màu da.
+
+## Các biến chứng của rụng tóc từng mảng là gì?
+
+- Chất lượng cuộc sống liên quan đến sức khỏe kém do căng thẳng.
+- Tỷ lệ cao hơn của trầm cảm và rối loạn lo âu tổng quát; rối loạn điều chỉnh cũng phổ biến.
+- Các tình trạng tự miễn khác có thể được quan sát thấy thường xuyên hơn ở bệnh nhân bị rụng tóc từng mảng ví dụ như [bệnh tuyến giáp](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease), [bạch biến](https://dermnetnz.org/topics/vitiligo), [vảy nến](https://dermnetnz.org/topics/psoriasis), [đái tháo đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus), và dị ứng.
+
+## Rụng tóc từng mảng được chẩn đoán như thế nào?
+
+Rụng tóc từng mảng thường được chẩn đoán dựa trên các đặc điểm lâm sàng, tuy nhiên các xét nghiệm bổ sung có thể hỗ trợ chẩn đoán.
+
+- [Soi tóc](https://dermnetnz.org/topics/trichoscopy):
+  - Kiểm tra nang tóc, trục tóc, và da đầu bằng kính soi da
+  - Các đặc điểm của bệnh hoạt động bao gồm tóc dấu chấm than, tóc gãy hoặc loạn dưỡng, các đốm vàng và đốm đen.
+- [Thử nghiệm kéo tóc](https://dermnetnz.org/topics/hair-and-scalp):
+  - Có thể giúp xác nhận rụng tóc và thường dương tính trong rụng tóc từng mảng
+  - Bao gồm việc nắm 40–60 sợi tóc gần nhau và áp dụng lực kéo nhẹ
+  - Dương tính khi hơn 10% tóc dễ dàng bị kéo ra.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy):
+  - Có thể cần thiết nếu chẩn đoán không chắc chắn
+  - Trong rụng tóc từng mảng cấp tính, mô học tiết lộ một “mẫu ong vỡ tổ” của sự thâm nhập dày đặc của tế bào lympho xung quanh các nang tóc anagen
+  - Tăng catagen và telogen so với các nang anagen, và thu nhỏ nang với sự tiến triển của bệnh.
+
+## Mức độ nghiêm trọng của rụng tóc từng mảng được đánh giá như thế nào?
+
+Rụng tóc từng mảng trên da đầu được đánh giá dựa trên tỷ lệ phần trăm của da đầu bị ảnh hưởng - đây là điểm SALT.
+
+SALT 0 có nghĩa là không có rụng tóc do rụng tóc từng mảng.
+
+SALT 50 có nghĩa là 50% da đầu bị ảnh hưởng bởi rụng tóc từng mảng. SALT 40 được coi là rụng tóc từng mảng nghiêm trọng bởi người bệnh và bác sĩ da liễu.
+
+Rụng tóc mi và lông mày có thể khó che giấu và làm tăng gánh nặng của tình trạng này.
+
+Điểm ASAMI (Chỉ số Mức độ nghiêm trọng và Bệnh lý Rụng tóc Từng mảng) đã được phát triển gần đây để tính đến không chỉ các vị trí và mức độ rụng tóc, mà còn các triệu chứng tập trung vào người bệnh như khó khăn trong việc ngụy trang, ảnh hưởng đến công việc giải trí, mối quan hệ, và sức khỏe tinh thần.
+
+## Chẩn đoán phân biệt cho rụng tóc từng mảng là gì?
+
+- [Trichotillomania](https://dermnetnz.org/topics/trichotillomania)
+- [Rụng tóc tam giác thái dương](https://dermnetnz.org/topics/temporal-triangular-alopecia)
+- [Rụng tóc trung tâm ly tâm](https://dermnetnz.org/topics/central-centrifugal-cicatricial-alopecia)
+- [Lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus) ảnh hưởng đến da đầu
+- [Tinea capitis](https://dermnetnz.org/topics/tinea-capitis)
+- [Telogen effluvium](https://dermnetnz.org/topics/telogen-effluvium) (có thể bắt chước [rụng tóc từng mảng lan tỏa](https://dermnetnz.org/topics/diffuse-alopecia))
+- [Rụng tóc androgenetic](https://dermnetnz.org/topics/male-pattern-hair-loss) (có thể bắt chước mẫu sisaipho)
+- Giang mai thứ phát (rụng tóc giang mai)
+- [Lichen planopilaris](https://dermnetnz.org/topics/lichen-planopilaris)
+- [Rụng tóc trán xơ hóa](https://dermnetnz.org/topics/frontal-fibrosing-alopecia).
+
+## Điều trị cho rụng tóc từng mảng là gì?
+
+Không có cách chữa trị cho rụng tóc từng mảng. Rụng tóc trong rụng tóc từng mảng liên quan đến các tác động vật lý có hại tối thiểu và có thể tự khỏi.
+
+Tuy nhiên, tác động tâm lý có thể đáng kể, do đó cần điều trị. Nhiều liệu pháp đã được sử dụng với phản ứng biến đổi và bằng chứng chất lượng cao còn thiếu.
+
+### Điều trị cho rụng tóc từng mảng nhẹ (dưới 50% da đầu bị ảnh hưởng)
+
+**[Tiêm corticosteroid nội tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection)**
+
+- Tiêm triamcinolone vào các vùng rụng tóc từng mảng trên da đầu, râu, hoặc lông mày có tác dụng ức chế miễn dịch và có thể tăng tốc độ mọc lại tóc.
+- Lặp lại bốn đến sáu tuần một lần và dừng lại khi mọc lại hoàn toàn.
+
+Điều trị tại chỗ
+
+- [Dung dịch, kem, hoặc thuốc mỡ corticosteroid mạnh](https://dermnetnz.org/topics/topical-steroid)
+  - Có lợi nhất nếu sử dụng với băng dán kín
+- [Dung dịch Minoxidil](https://dermnetnz.org/topics/minoxidil-solution) - Lý tưởng khi kết hợp với các liệu pháp khác
+- [Kem hoặc thuốc mỡ Anthralin](https://dermnetnz.org/topics/dithranol) (dithranol) - Sử dụng hạn chế ở những người có tóc sáng màu do nhuộm nâu da và tóc.
+
+### Điều trị cho rụng tóc từng mảng rộng (hơn 50% da đầu bị ảnh hưởng, rụng tóc toàn bộ, hoặc toàn thân)
+
+Liệu pháp miễn dịch tại chỗ
+
+- Các hóa chất như [diphenylcyclopropenone](https://dermnetnz.org/topics/diphenylcyclopropenone) được áp dụng lên các vùng bị ảnh hưởng để gây ra [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis), có thể kích thích mọc lại tóc.
+
+  - Các tế bào T được giả thuyết là bị “phân tâm” khỏi việc tấn công các nang tóc do cạnh tranh kháng nguyên.
+  - [Viêm da nghiêm trọng](https://dermnetnz.org/topics/dermatitis), [mề đay](https://dermnetnz.org/topics/urticaria-an-overview), [hạch bạch huyết](https://dermnetnz.org/topics/loefgren-syndrome), và mất sắc tố là các tác dụng phụ tiềm năng và có thể hạn chế sử dụng.
+
+[Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+
+- Thường được dành cho sử dụng ngắn hạn trong các trường hợp khó điều trị hoặc nghiêm trọng.
+- Bị hạn chế bởi các tác dụng phụ đã biết rõ.
+
+[Chất ức chế Janus kinase (JAK)](https://dermnetnz.org/topics/janus-kinase-inhibitors)
+
+- Vào tháng 6 năm 2022, FDA đã phê duyệt [baricitinib](https://dermnetnz.org/topics/baricitinib) sử dụng trong rụng tóc từng mảng nghiêm trọng.
+- Các thử nghiệm lâm sàng đang diễn ra, nhưng kết quả sơ bộ cũng cho thấy triển vọng cho các chất ức chế JAK khác.
+- Chất ức chế JAK ngăn chặn phản ứng viêm qua trung gian tế bào T được cho là chịu trách nhiệm cho tổn thương nang tóc.
+- Một số chất ức chế JAK uống hiệu quả hơn so với các chế phẩm tại chỗ, và hiệu quả hơn đáng kể so với giả dược được sử dụng trong các thử nghiệm lâm sàng lớn.
+- Baricitinib đã nhận được sự chấp thuận của FDA để sử dụng tại Mỹ.
+- Ritlecitinib đã nhận được sự chấp thuận của FDA và NICE - sau 24 tuần, gần một phần tư bệnh nhân đạt được điểm SALT ≤20. Tỷ lệ đáp ứng tăng lên hơn 40% sau một năm điều trị.
+- Deuruxolitinib đã nhận được sự chấp thuận của FDA cho rụng tóc từng mảng nghiêm trọng ở người lớn.
+- Brepocitinib có thể hiệu quả hơn một chút so với ritlecitinib, nhưng trong một thử nghiệm, nó đã gây ra một tình trạng viêm nghiêm trọng của cơ xương ở hai người nhận.
+- [Abrocitinib](https://dermnetnz.org/topics/abrocitinib) đã chứng minh tiềm năng hiệu quả trong điều trị các trường hợp khó điều trị, theo một nghiên cứu hồi cứu nhỏ (46% đạt được điểm SALT ≤20 sau ít nhất ba tháng điều trị).
+- Dữ liệu theo dõi dài hạn, kết quả sau khi ngừng thuốc, và an toàn dài hạn vẫn cần được trả lời. Chúng có thể hiệu quả hơn ở những người chưa mắc bệnh trong vài năm, và ở những người không bị rụng tóc toàn bộ hoặc toàn thân. Mọc lại lông mày và mi đã được ghi nhận. Chúng là các loại thuốc đắt tiền.
+
+Khác
+
+Cải thiện sau nhiều phương pháp điều trị khác ít phổ biến và ít được nghiên cứu hơn đã được báo cáo.
+
+- Ví dụ toàn thân bao gồm:
+
+  - [Dupilumab](https://dermnetnz.org/topics/dupilumab)
+  - [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+  - Ezetimibe-simvastatin
+  - Thuốc chống trầm cảm.
+- Ví dụ tại chỗ bao gồm:
+  - [Retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids)
+  - [Huyết tương giàu tiểu cầu](https://dermnetnz.org/topics/platelet-rich-plasma-dermatological-applications)
+  - [Vi kim](https://dermnetnz.org/topics/skin-needling).
+
+### Giáo dục và tư vấn
+
+Bệnh nhân nên được thông báo rằng không có cách chữa trị và phản ứng với các phương pháp điều trị là biến đổi.
+
+- Rụng tóc từng mảng có thể tự khỏi, kéo dài, tái phát, và/hoặc tiến triển. Giải thích các khả năng khác nhau của quá trình bệnh có thể giúp quản lý kỳ vọng.
+- Một số bệnh nhân có thể hưởng lợi từ tư vấn chuyên nghiệp để điều chỉnh với khía cạnh thay đổi ngoại hình của rối loạn và lấy lại sự tự tin.
+- Cân nhắc các nhóm hỗ trợ bệnh nhân.
+
+### Ngụy trang
+
+Ngụy trang rụng tóc có thể hữu ích cho bệnh nhân quyết định không điều trị bằng thuốc hoặc ở những người có phản ứng không hoàn chỉnh.
+
+- Một bộ phận giả có thể được sử dụng để che giấu rụng tóc trên da đầu.
+  - Các lựa chọn bao gồm một bộ tóc giả đầy đủ, tóc giả (kẹp hoặc dán vào tóc hiện có), hoặc hệ thống tích hợp lưới (đơn vị tùy chỉnh với phần mở rộng tóc ở các khu vực rụng tóc).
+- Các sản phẩm tạo kiểu như gel, mousse, bột, và xịt giúp giữ tóc tại chỗ, đạt được độ che phủ da đầu, và tăng thêm độ dày.
+
+- [Lông mi giả hoặc lông mày nhân tạo](https://dermnetnz.org/topics/false-eyelashes-and-eyebrows)
+  - Xăm lông mày hoặc vi khắc có thể hữu ích.
+  - Bút chì lông mày không thấm nước hoặc bút kẻ mắt là một lựa chọn ít vĩnh viễn hơn.
+
+## Làm thế nào để ngăn ngừa rụng tóc từng mảng?
+
+Chúng tôi chưa biết cách ngăn ngừa rụng tóc từng mảng.
+
+## Kết quả cho rụng tóc từng mảng là gì?
+
+Rụng tóc từng mảng theo một quá trình không thể đoán trước. Mọc lại tóc tự nhiên và phục hồi có thể xảy ra và phổ biến trong một số báo cáo. Tái phát cũng phổ biến, tuy nhiên, và bệnh nhân có thể có nhiều giai đoạn rụng tóc và mọc lại sau đó. Nguy cơ tiến triển đến rụng tóc toàn bộ hoặc rụng tóc toàn thân là khoảng 5–10%, từ đó phục hồi là không thể.
+
+Phản ứng với điều trị là rất biến đổi và rụng tóc có thể tái phát khi ngừng điều trị.
+
+Các yếu tố tiên lượng xấu bao gồm:
+
+- Tuổi khởi phát trẻ hơn
+- Bệnh lan rộng hơn
+- Rụng tóc kéo dài hơn một năm
+- Loạn dưỡng móng
+- Mẫu ophiasis
+- Tiền sử gia đình có rụng tóc từng mảng
+- Sự hiện diện của dị ứng hoặc các bệnh tự miễn khác.
+
+[Bấm vào đây để xem hình ảnh](https://dermnetnz.org/images/alopecia-areata-images)
+
+### Thư mục
+
+- Nhóm Nghiên cứu Khảo sát Đồng thuận ASAMI, Moussa A, Bennett M, et al. Nghiên cứu Chỉ số Mức độ nghiêm trọng và Bệnh lý Rụng tóc Từng mảng (ASAMI): Kết quả từ một cuộc tập huấn đồng thuận chuyên gia toàn cầu về các yếu tố quyết định mức độ nghiêm trọng của rụng tóc từng mảng. JAMA Dermatol. 2024;160(3):341–50. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38324292/)
+- Darwin E, Hirt P, Fertig R, Doliner B, Delcanto G, Jimenez J. Rụng tóc từng mảng: Đánh giá về dịch tễ học, đặc điểm lâm sàng, cơ chế bệnh sinh, và các lựa chọn điều trị mới. Int J Trichol. 2018;10(2):51. doi:10.4103/ijt.ijt\_99\_17. [Tạp chí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5939003/)
+- Dillon KAL. Đánh giá toàn diện về chất ức chế JAK trong điều trị rụng tóc từng mảng. CCID. 2021;Volume 14:691–714. doi:10.2147/CCID.S309215. [Tạp chí](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8242127/)
+- Gilhar A, Etzioni A, Paus R. Rụng tóc từng mảng. N Engl J Med. 2012;366(16):1515–25. doi:10.1056/NEJMra1103442. [Tạp chí](https://www.nejm.org/doi/full/10.1056/NEJMra1103442)
+- Harries MJ, Ascott A, Asfour L, et al. Hướng dẫn sống của Hiệp hội Da liễu Anh cho quản lý người bị rụng tóc từng mảng 2024. Br J Dermatol. 2025;192(2):190-205. doi:10.1093/bjd/ljae385 [Tạp chí](https://academic.oup.com/bjd/article/192/2/190/7829170)
+- Lattouf C, Jimenez JJ, Tosti A, et al. Điều trị rụng tóc từng mảng với simvastatin/ezetimibe. J Am Acad Dermatol. 2015;72(2):359–61. doi:10.1016/j.jaad.2014.11.006. [Tạp chí](https://www.jaad.org/article/S0190-9622(14)02131-8/fulltext)
+- King B, Guttman-Yassky E, Peeva E, et al. Một nghiên cứu ngẫu nhiên, có đối chứng giả dược giai đoạn 2a để đánh giá hiệu quả và an toàn của các chất ức chế Janus kinase uống ritlecitinib và brepocitinib trong rụng tóc từng mảng: Kết quả 24 tuần. J Am Acad Dermatol. 2021;85(2):379–87. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33757798/)
+- King B, Zhang X, Harcha WG, et al. Hiệu quả và an toàn của ritlecitinib ở người lớn và thanh thiếu niên bị rụng tóc từng mảng: một thử nghiệm ngẫu nhiên, mù đôi, đa trung tâm, giai đoạn 2b-3 \[sửa chữa đã xuất hiện trong Lancet. 2023 Jun 10;401(10392):1928\]. Lancet. 2023;401(10387):1518–29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37062298/)
+- Messenger AG, McKillop J, Farrant P, et al. Hướng dẫn của Hiệp hội Da liễu Anh cho quản lý rụng tóc từng mảng 2012. Tạp chí Da liễu Anh. 2012;166(5):916–26. doi:10.1111/j.1365-2133.2012.10955.x. [Tạp chí](https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2133.2012.10955.x)
+- Miteva M, Villasante A. Dịch tễ học và gánh nặng của rụng tóc từng mảng: một đánh giá hệ thống. CCID. Được xuất bản trực tuyến tháng 7 năm 2015:397. doi:10.2147/CCID.S53985. [Đánh giá](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4521674/)
+- Rajabi F, Drake LA, Senna MM, Rezaei N. Rụng tóc từng mảng: một đánh giá về cơ chế bệnh sinh. Br J Dermatol. 2018;179(5):1033–48. doi:10.1111/bjd.16808. [Tạp chí](https://onlinelibrary.wiley.com/doi/full/10.1111/bjd.16808?casa_token=XuFbmvwD5WUAAAAA%3AH6TQkd5B2jsK9UzPXQYD1HFuJrx6BODzzjC84jxP1XgkUD_DDbTk4OQwNOK8VHuiTEJWXpbUpTO8054)
+- Strazzulla LC, Wang EHC, Avila L, et al. Rụng tóc từng mảng. Tạp chí Học viện Da liễu Hoa Kỳ. 2018;78(1):1–12. doi:10.1016/j.jaad.2017.04.1141. [Tạp chí](https://pubmed.ncbi.nlm.nih.gov/29241771/)
+- Wasserman D, Guzman-Sanchez DA, Scott K, McMichael A. Rụng tóc từng mảng: Rụng tóc từng mảng. Tạp chí Da liễu Quốc tế. 2007;46(2):121–31. doi:10.1111/j.1365-4632.2007.03193.x. [Tạp chí](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-4632.2007.03193.x?casa_token=d6FOwZCWHxcAAAAA%3AMuY1YK18UtG4ufCLNyWufl75BsHloHihG2Jpj433KMi0dJxgId7mZV6SPcNfGHGXlbBXHhuN67p3Ojk)
+- Zhang Y, Wang F, Li X, et al. Abrocitinib uống để điều trị rụng tóc từng mảng khó điều trị: Một nghiên cứu hồi cứu. J Am Acad Dermatol. 2025;92(1):153-155. [Tạp chí](https://www.jaad.org/article/S0190-9622(24)02876-7/fulltext)
+
+### Trên DermNet
+
+- [Rụng tóc từng mảng ở trẻ em](https://dermnetnz.org/topics/alopecia-areata-in-children)
+- [Kính soi da](https://dermnetnz.org/topics/dermoscopy)
+- [Rụng tóc lan tỏa](https://dermnetnz.org/topics/diffuse-alopecia)
+- [Rụng tóc](https://dermnetnz.org/topics/hair-loss)
+- [Soi tóc](https://dermnetnz.org/topics/trichoscopy)
+- [Soi tóc của rụng tóc không sẹo tổng quát](https://dermnetnz.org/topics/trichoscopy-of-generalised-noncicatricial-hair-loss)
+- [Soi tóc của rụng tóc không sẹo cục bộ](https://dermnetnz.org/topics/trichoscopy-of-localised-noncicatricial-hair-loss)
+
+### Các trang web khác
+
+- [Quỹ Rụng tóc Từng mảng Quốc gia](https://www.naaf.org/)
+- [Rụng tóc New Zealand](https://www.alopecianz.co.nz/)
+- [Quỹ Rụng tóc Từng mảng Úc](https://aaaf.org.au/)
+- [Dự án Rụng tóc Trẻ em](https://www.childrensalopeciaproject.org/)
+- [Thế giới Rụng tóc](http://www.alopeciaworld.com/) nhóm hỗ trợ
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ hiểu_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

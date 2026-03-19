@@ -1,0 +1,29 @@
+##### Viêm nang lông — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Viêm nang lông
+
+Danh mục:
+
+Nhiễm trùng, Rối loạn nang lông
+
+ICD-10:
+
+L73.9
+
+ICD-11:
+
+1B74.Z, 1B74.Y, 1B75, EK5Y, ED81.Y, EH67.5, 1F2D.1, 1G07.0, 1B74.0, ED9Y, 1C62.1
+
+SNOMED CT:
+
+13600006, 707220001, 399008001, 123687007, 240894003, 123688002, 53651004, 399324997, 428172002, 267812007, 721268005, 23838009, 238493000, 9115004, 402921005, 95333004
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections) [Rối loạn nang lông](https://dermnetnz.org/topics?category=Follicular%20disorder)**
+
+# **Viêm nang lông**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Cập nhật bởi Dr Oakley và Clare Morrison, Biên tập viên. Tháng 4 năm 2014.
+
+[Giới thiệu](https://dermnetnz.org/topics/folliculitis#Introduction%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/folliculitis#Causes%3Cbr%20/%3E) [Viêm nang lông do nhiễm trùng](https://dermnetnz.org/topics/folliculitis#Folliculitis%20due%20to%20infection%3Cbr%20/%3E) [Viêm nang lông do kích ứng từ lông mọc lại](https://dermnetnz.org/topics/folliculitis#Folliculitis%20due%20to%20irritation%20from%20regrowing%20hairs%3Cbr%20/%3E) [Viêm nang lông do phản ứng tiếp xúc](https://dermnetnz.org/topics/folliculitis#Folliculitis%20due%20to%20contact%20reactions%3Cbr%20/%3E) [Viêm nang lông do suy giảm miễn dịch](https://dermnetnz.org/topics/folliculitis#Folliculitis%20due%20to%20immunosuppression%3Cbr%20/%3E) [Viêm nang lông do thuốc](https://dermnetnz.org/topics/folliculitis#Folliculitis%20due%20to%20drugs%3Cbr%20/%3E) [Viêm nang lông do bệnh da viêm](https://dermnetnz.org/topics/folliculitis#Folliculitis%20due%20to%20inflammatory%20skin%20diseases%3Cbr%20/%3E) [Viêm nang lông ở mông](https://dermnetnz.org/topics/folliculitis#Buttock%20folliculitis)

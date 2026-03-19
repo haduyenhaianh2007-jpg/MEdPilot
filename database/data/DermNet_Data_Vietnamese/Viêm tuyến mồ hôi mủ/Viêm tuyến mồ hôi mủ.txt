@@ -1,0 +1,298 @@
+##### Hidradenitis suppurativa — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Mụn trứng cá ngược, Hidradenitis axillaris, Mụn trứng cá apocrine, Bệnh Verneuil, Hidradenitis mủ, Apocrinitis
+
+Danh mục:
+
+Tự miễn/dị ứng tự phát
+
+ICD-10:
+
+L73.2
+
+ICD-11:
+
+ED92.0
+
+SNOMED CT:
+
+59393003, 402826001, 402827005, 402828000
+
+**[Tự miễn/dị ứng tự phát](https://dermnetnz.org/topics?category=Autoimmune/autoinflammatory)**
+
+# **Hidradenitis suppurativa**
+
+Tác giả: Vanessa Ngan, Nhà văn, Bác sĩ Amanda Oakley, Bác sĩ Da liễu, New Zealand, 1997. Cập nhật tháng 12 năm 2015. Sửa đổi bởi: Bác sĩ Abdulhadi Jfri, Bác sĩ Nội trú Da liễu PGY-5, Khoa Da liễu, Đại học McGill, Montreal, Canada. Bác sĩ Elizabeth O’Brien, Trợ lý Giáo sư Da liễu, Đại học McGill, Montreal, Canada, tháng 1 năm 2021. Sửa đổi nhỏ bởi Ian Coulson, Bác sĩ Da liễu, tháng 2 năm 2025
+
+[Giới thiệu](https://dermnetnz.org/topics/hidradenitis-suppurativa#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/hidradenitis-suppurativa#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/hidradenitis-suppurativa#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/hidradenitis-suppurativa#Clinical%20features%3Cbr%20/%3E) [Đánh giá](https://dermnetnz.org/topics/hidradenitis-suppurativa#Assessment%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/hidradenitis-suppurativa#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/hidradenitis-suppurativa#Diagnosis%3Cbr%20/%3E) [Chẩn đoán phân biệt](https://dermnetnz.org/topics/hidradenitis-suppurativa#Differential%20diagnoses%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/hidradenitis-suppurativa#Treatment%3Cbr%20/%3E) [Kết quả](https://dermnetnz.org/topics/hidradenitis-suppurativa#Outcome)
+
+**Xem [Quản lý hidradenitis suppurativa: tuyên bố đồng thuận của Úc](https://dermnetnz.org/topics/hidradenitis-suppurativa-guidelines)**
+
+## Hidradenitis suppurativa là gì?
+
+Hidradenitis suppurativa (HS), còn được gọi là mụn trứng cá ngược, là một tình trạng viêm da mãn tính ảnh hưởng đến da có tuyến apocrine ở nách, bẹn và dưới ngực. Nó được đặc trưng bởi các nốt sần giống như nhọt dai dẳng hoặc tái phát và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) dẫn đến dịch mủ, xoang và sẹo.
+
+HS có thể có tác động tâm lý đáng kể, và nhiều bệnh nhân chịu đựng lo âu, trầm cảm và suy giảm hình ảnh cơ thể.
+
+![Giai đoạn Hurley I hidradenitis suppurativa](https://dermnetnz.org/assets/Uploads/hs-axilla-002.jpg)
+
+Giai đoạn Hurley I hidradenitis suppurativa
+
+![Giai đoạn Hurley II hidradenitis suppurativa](https://dermnetnz.org/assets/Uploads/hs-axilla-051.jpg)
+
+Giai đoạn Hurley II hidradenitis suppurativa
+
+![Giai đoạn Hurley III hidradenitis suppurativa](https://dermnetnz.org/assets/Uploads/hs-axilla-063.jpg)
+
+Giai đoạn Hurley III hidradenitis suppurativa
+
+## Ai bị hidradenitis suppurativa?
+
+Hidradenitis suppurativa thường bắt đầu ở tuổi dậy thì, hoạt động mạnh nhất trong độ tuổi từ 20 đến 40, và ở phụ nữ có thể giảm khi mãn kinh. Nó phổ biến gấp ba lần ở nữ giới so với nam giới. Các yếu tố liên quan và nguy cơ bao gồm:
+
+- Tiền sử gia đình có HS; 30–40% báo cáo ít nhất một thành viên gia đình khác bị ảnh hưởng
+- Béo phì và kháng insulin ([hội chứng chuyển hóa](https://dermnetnz.org/topics/metabolic-syndrome))
+- [Hút thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Dân tộc châu Phi
+- [Hội chứng tắc nghẽn nang lông](https://dermnetnz.org/topics/follicular-occlusion-syndrome): [mụn trứng cá conglobata](https://dermnetnz.org/topics/nodulocystic-acne), [viêm mô tế bào phân tách](https://dermnetnz.org/topics/perifolliculitis-capitis-abscedens-et-suffodiens), [xoang pilonidal](https://dermnetnz.org/topics/pilonidal-sinus-pathology)
+- Bệnh viêm ruột, đặc biệt là [bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease)
+- Các rối loạn da khác: [vảy nến](https://dermnetnz.org/topics/psoriasis), [mụn trứng cá](https://dermnetnz.org/topics/acne), [rậm lông](https://dermnetnz.org/topics/hirsutism)
+- Bệnh đồng mắc: tăng huyết áp, đái tháo đường, rối loạn lipid máu, rối loạn tuyến giáp, bệnh khớp, [hội chứng buồng trứng đa nang](https://dermnetnz.org/topics/polycystic-ovary-syndrome), kết quả tim mạch bất lợi
+- Thuốc: [lithium](https://dermnetnz.org/topics/lithium), [sirolimus](https://dermnetnz.org/topics/sirolimus), [sinh học](https://dermnetnz.org/topics/biologics)
+- Hội chứng
+  - [Hội chứng PAPA](https://dermnetnz.org/topics/papa-syndrome)
+  - Hội chứng PASH ([pyoderma gangrenosum](https://dermnetnz.org/topics/pyoderma-gangrenosum), mụn trứng cá, hidradenitis suppurativa)
+  - Hội chứng PAPASH (viêm khớp mủ, pyoderma gangrenosum, mụn trứng cá, hidradenitis suppurativa).
+
+Hidradenitis phát triển ở độ tuổi trẻ trong thời thơ ấu hoặc đầu tuổi vị thành niên có thể là chỉ báo của dậy thì sớm tiềm ẩn.
+
+## Nguyên nhân gây ra hidradenitis suppurativa là gì?
+
+Mặc dù 'hidradenitis' ngụ ý một bệnh viêm của các tuyến mồ hôi, chúng ta hiện biết rằng HS là một [hội chứng tự viêm](https://dermnetnz.org/topics/autoinflammatory-syndromes). Cơ chế bệnh sinh chính xác chưa được hiểu rõ. Các yếu tố liên quan đến sự phát triển của mụn trứng cá ngược bao gồm:
+
+- Tắc nghẽn nang lông
+- Vi sinh vật da hoặc nang lông bất thường
+- Giải phóng cytokine tiền viêm
+- Viêm gây vỡ thành nang lông, phá hủy tuyến bã nhờn và tuyến apocrine và ống dẫn.
+
+## Các đặc điểm lâm sàng của hidradenitis suppurativa là gì?
+
+Mụn trứng cá ngược có thể ảnh hưởng đến một hoặc nhiều khu vực ở nách, cổ, nếp gấp dưới vú và đùi trên bên trong. Sự tham gia của vùng hậu môn-sinh dục thường ảnh hưởng đến bẹn, mu, âm hộ, bìu, đáy chậu, mông và nếp gấp quanh hậu môn.
+
+HS được đặc trưng lâm sàng bởi:
+
+- Mụn đầu đen hai đầu mở
+- Nốt sần và nốt cứng đau
+- Mụn mủ, nang giả dao động và áp xe
+- Xoang dẫn lưu liên kết các tổn thương viêm
+- Sẹo phì đại và teo.
+
+![Mụn đầu đen trong hidradenitis suppurativa](https://dermnetnz.org/assets/Uploads/hs-comedones-086.jpg)
+
+Mụn đầu đen trong hidradenitis suppurativa
+
+![Tổn thương viêm trong hidradenitis suppurativa](https://dermnetnz.org/assets/Uploads/hs-inflammatory-112.jpg)
+
+Tổn thương viêm trong hidradenitis suppurativa
+
+![Sẹo trong hidradenitis suppurativa](https://dermnetnz.org/assets/Uploads/hs-scars-100.jpg)
+
+Sẹo trong hidradenitis suppurativa
+
+### Các kiểu hình lâm sàng của hidradenitis suppurativa (HS)
+
+|     |     |
+| --- | --- |
+| Kiểu hình | Đặc điểm lâm sàng |
+| HS thông thường | - Dạng phổ biến nhất<br>  <br>- Tổn thương viêm tái phát ở các vị trí điển hình trong ít nhất 6 tháng |
+| Nhọt do ma sát | - HS thông thường cộng với nhiều nốt sâu và áp xe ở các vị trí tiếp xúc với ma sát tăng cường (bụng, đùi, mông) |
+| Viêm nang lông có sẹo | - HS thông thường cộng với mụn mủ, nang, nốt nông, sẹo cribriform lõm và mụn đầu đen hai đầu<br>  <br>- Sẹo đáng kể |
+| Conglobata | - Hình thành nang và tổn thương mụn trứng cá conglobata ở lưng và mặt |
+| Hội chứng | - HS kết hợp với các đặc điểm hội chứng (PAPA, PASH, PAPASH) |
+
+![Hidradenitis suppurativa thông thường](https://dermnetnz.org/assets/Uploads/hs-axilla-057.jpg)
+
+Hidradenitis suppurativa thông thường
+
+![Nhọt do ma sát trên mông](https://dermnetnz.org/assets/Uploads/hs-buttocks-118.jpg)
+
+Nhọt do ma sát trên mông
+
+![Viêm nang lông có sẹo](https://dermnetnz.org/assets/Uploads/hs-axilla-071.jpg)
+
+Viêm nang lông có sẹo
+
+[Xem thêm hình ảnh về hidradenitis suppurativa](https://dermnetnz.org/images/hidradenitis-suppurativa-images)
+
+## Làm thế nào để đánh giá mức độ nghiêm trọng của hidradenitis suppurativa?
+
+Mức độ nghiêm trọng và phạm vi của bệnh được đo bằng đánh giá lâm sàng và siêu âm tại thời điểm chẩn đoán và khi theo dõi đáp ứng điều trị. Có một số thang đo mức độ nghiêm trọng cho HS \[xem hướng dẫn về [Hidradenitis suppurativa: đánh giá mức độ nghiêm trọng](https://dermnetnz.org/topics/hidradenitis-suppurativa-severity-assessment)\].
+
+Hệ thống Hurley, công cụ đánh giá được sử dụng rộng rãi nhất, mô tả ba giai đoạn lâm sàng.
+
+- Giai đoạn I: hình thành áp xe đơn độc hoặc nhiều mà không có đường xoang hoặc sẹo.
+- Giai đoạn II: Áp xe tái phát, tổn thương đơn lẻ hoặc nhiều cách xa nhau, với hình thành đường xoang.
+- Giai đoạn III: Sự tham gia lan rộng của một khu vực với nhiều đường xoang và áp xe liên kết.
+
+![Hidradenitis suppurativa của nách](https://dermnetnz.org/assets/Uploads/hs-axilla-064.jpg)
+
+Hidradenitis suppurativa của nách
+
+![Hidradenitis suppurativa của bẹn](https://dermnetnz.org/assets/Uploads/hs-groin-129.jpg)
+
+Hidradenitis suppurativa của bẹn
+
+![Hidradenitis suppurativa của nách](https://dermnetnz.org/assets/Uploads/hs-axilla-068.jpg)
+
+Hidradenitis suppurativa của nách
+
+## Các biến chứng của hidradenitis suppurativa là gì?
+
+Các biến chứng của HS có thể bao gồm:
+
+- Nhiễm trùng thứ phát
+- Ảnh hưởng tâm lý và tác động tiêu cực đến chất lượng cuộc sống
+- [U hạt sinh mủ](https://dermnetnz.org/topics/pyogenic-granuloma)
+- [Phù bạch huyết](https://dermnetnz.org/topics/lymphoedema) — sinh dục nữ
+- [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) — hậu môn-sinh dục nam
+- Thiếu máu do bệnh mãn tính
+- Tăng nhẹ tỷ lệ phình động mạch chủ bụng.
+
+## Làm thế nào để chẩn đoán hidradenitis suppurativa?
+
+Chẩn đoán mụn trứng cá ngược yêu cầu đáp ứng đủ ba thành phần của bộ ba:
+
+- Tổn thương đặc trưng
+- Phân bố điển hình
+- Sự hiện diện và tái phát của tổn thương.
+
+Các mẫu bệnh phẩm để xét nghiệm vi khuẩn thường âm tính, đây là một manh mối để chẩn đoán. Các cuộc điều tra rộng rãi hiếm khi cần thiết. Các cuộc điều tra có thể được chỉ định để loại trừ chẩn đoán phân biệt, cho các biến chứng có thể xảy ra, để xác định bệnh đồng mắc, hoặc cho kế hoạch điều trị.
+
+## Chẩn đoán phân biệt cho hidradenitis suppurativa là gì?
+
+Chẩn đoán phân biệt cho hidradenitis suppurativa có thể bao gồm các tình trạng sau.
+
+- [Nhiễm trùng da do tụ cầu](https://dermnetnz.org/topics/staphylococcal-skin-infection), bao gồm áp xe, nhọt và [mụn nhọt](https://dermnetnz.org/topics/boil).
+- Nang, như nang Bartholin hoặc [nang biểu bì](https://dermnetnz.org/topics/epidermoid-cyst).
+- [Bệnh Crohn da](https://dermnetnz.org/topics/crohn-skin-disease).
+- [Bệnh Crohn hậu môn-sinh dục](https://dermnetnz.org/topics/genital-crohn-disease).
+
+## Điều trị cho hidradenitis suppurativa là gì?
+
+Để có đánh giá chi tiết dựa trên bằng chứng về điều trị cho HS, xem [Quản lý hidradenitis suppurativa: tuyên bố đồng thuận của Úc](https://dermnetnz.org/topics/hidradenitis-suppurativa-guidelines). Dưới đây là các biện pháp chung quan trọng và các điều trị y tế bổ sung.
+
+### Biện pháp chung
+
+Các biện pháp chung để điều trị bệnh nhân bị hidradenitis suppurativa bao gồm:
+
+- Giảm cân
+- Ngừng hút thuốc
+- Quần áo rộng rãi
+- Băng thấm hút
+- Thuốc giảm đau
+- Quản lý lo âu và trầm cảm; bao gồm trấn an rằng tình trạng này không lây nhiễm hoặc do vệ sinh kém.
+
+### Biện pháp y tế cụ thể
+
+Các biện pháp y tế cụ thể để điều trị hidradenitis suppurativa bao gồm:
+
+#### Điều trị tại chỗ
+
+- Rửa bằng Triclosan/ [benzoyl peroxide](https://dermnetnz.org/topics/benzoyl-peroxide)
+- Phosphate [clindamycin](https://dermnetnz.org/topics/clindamycin) 1% tại chỗ với benzoyl peroxide
+- Kháng sinh tại chỗ: [axit fusidic](https://dermnetnz.org/topics/topical-fusidic-acid), [dapsone](https://dermnetnz.org/topics/dapsone), [metronidazole](https://dermnetnz.org/topics/metronidazole).
+
+#### Điều trị toàn thân
+
+**Kháng sinh cho nhiễm khuẩn**
+
+- Khóa học ngắn hạn bằng đường uống cho áp xe tụ cầu cấp tính
+- Tetracyclines như một tác nhân đơn lẻ
+- Khóa học kéo dài ít nhất ba tháng của kháng sinh kết hợp: clindamycin cộng với [rifampicin](https://dermnetnz.org/topics/rifampicin); [tetracyclines](https://dermnetnz.org/topics/tetracycline) cộng với rifampicin; fluoroquinolone cộng với metronidazole cộng với rifampicin
+- Ertapenem tiêm tĩnh mạch - có thể tự quản lý tại nhà qua ống thông lưu trú trong 12 tuần với cải thiện cả về đau và chỉ số mức độ nghiêm trọng của HS.
+
+**Các điều trị uống khác**
+
+- Liệu pháp hormone: oestrogens, [liệu pháp chống androgen](https://dermnetnz.org/topics/anti-androgen-therapy), leuprolide acetate
+- Điều trị điều hòa miễn dịch: [steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) cho các đợt bùng phát cấp tính, và các tác nhân tiết kiệm steroid bao gồm [ciclosporin](https://dermnetnz.org/topics/ciclosporin), [methotrexate](https://dermnetnz.org/topics/methotrexate), và [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- Sinh học: adalimumab là sinh học duy nhất được phê duyệt ở Úc và New Zealand để điều trị hidradenitis suppurativa \[xem [Chất ức chế yếu tố hoại tử khối u](https://dermnetnz.org/topics/tumour-necrosis-factor-inhibitors)\]
+
+  - Những người khác đang được điều tra trong các thử nghiệm lâm sàng
+  - Adalimumab và các sinh học khác đã được báo cáo gây kích hoạt mụn trứng cá ngược một cách nghịch lý
+  - Ở một số quốc gia châu Âu, sekukinumab đã nhận được giấy phép
+- Các điều trị y tế toàn thân khác được sử dụng ngoài nhãn: metformin, [acitretin](https://dermnetnz.org/topics/acitretin), [dapsone](https://dermnetnz.org/topics/dapsone), [colchicine](https://dermnetnz.org/topics/colchicine), và kẽm gluconate.
+
+**Biện pháp phẫu thuật và thủ tục khác**
+
+- Rạch và dẫn lưu áp xe cấp tính
+- Cắt bỏ cục bộ các nốt sần, áp xe và xoang dai dẳng
+- Cắt bỏ và nạo áp xe và xoang dai dẳng
+- Phẫu thuật cắt bỏ triệt để toàn bộ khu vực bị ảnh hưởng
+- Đốt laser (CO2) các nốt sần, áp xe và xoang
+- Tẩy lông bằng laser/ánh sáng.
+
+## Kết quả cho hidradenitis suppurativa là gì?
+
+Hidradenitis suppurativa có xu hướng cải thiện trong thai kỳ ở những người thường có đợt bùng phát trong kỳ kinh nguyệt. Sinh thường qua đường âm đạo là có thể trừ khi bệnh nhân có tổn thương sinh dục đau đớn rộng rãi.
+
+HS là một tình trạng sẹo mãn tính. Sự thuyên giảm tự phát có thể xảy ra theo thời gian, nhưng sẹo vẫn tồn tại.
+
+Chẩn đoán và điều trị sớm là cần thiết để giảm thiểu tổn thương lâu dài.
+
+### Thư mục
+
+- Faivre C, Villani AP, Aubin F, et al. Hidradenitis suppurativa (HS): một hiệu ứng nghịch lý không được công nhận của các tác nhân sinh học (BA) được sử dụng trong các bệnh viêm mãn tính. J Am Acad Dermatol. 2016;74(6):1153–9. doi:10.1016/j.jaad.2016.01.018. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26965410/)
+- Goldburg SR, Strober BE, Payette MJ. Hidradenitis suppurativa: dịch tễ học, trình bày lâm sàng và cơ chế bệnh sinh. J Am Acad Dermatol. 2020;82(5):1045–58. doi:10.1016/j.jaad.2019.08.090. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31604104/)
+- Goldburg SR, Strober BE, Payette MJ. Hidradenitis suppurativa: các phương pháp điều trị hiện tại và mới nổi. J Am Acad Dermatol. 2020;82(5):1061–82. doi:10.1016/j.jaad.2019.08.089. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31604100/)
+- Kimball AB, Jemec GBE, Alavi A, et al. Secukinumab trong hidradenitis suppurativa từ trung bình đến nặng (SUNSHINE và SUNRISE): kết quả tuần 16 và tuần 52 của hai thử nghiệm giai đoạn 3 ngẫu nhiên, đối chứng giả dược, mù đôi, đa trung tâm giống hệt nhau \[sửa đổi được xuất bản xuất hiện trong Lancet. 2024 Feb 17;403(10427):618\]. Lancet. 2023;401(10378):747-61. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36746171/)
+- Kohorst JJ, Baum CL, Otley CC, et al. Quản lý phẫu thuật của hidradenitis suppurativa: kết quả của 590 bệnh nhân liên tiếp. Dermatol Surg. 2016;42(9):1030–40. doi:10.1097/DSS.0000000000000806. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27340739/)
+- Lee JH, Kwon HS, Jung HM, Kim GM, Bae JM. Tỷ lệ mắc và bệnh đồng mắc liên quan đến hidradenitis suppurativa ở Hàn Quốc: một nghiên cứu dựa trên dân số toàn quốc. J Eur Acad Dermatol Venereol. 2018;32(10):1784–90. doi:10.1111/jdv.15071. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29761904/)
+- Lim SYD, Oon HH. Đánh giá có hệ thống về các liệu pháp điều hòa miễn dịch cho hidradenitis suppurativa. Sinh học. 2019;13:53–78. doi:10.2147/BTT.S199862. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31190730/)
+- Mastacouris N, Midgette B, Strunk A, Garg A. Dậy thì sớm ở trẻ em và thanh thiếu niên bị Hidradenitis Suppurativa. JAMA Dermatol. 2024;160(11):1245–1246. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39292442/)
+- Nosrati A, Ch'en PY, Torpey ME, et al. Hiệu quả và độ bền của liệu pháp Ertapenem tiêm tĩnh mạch cho Hidradenitis Suppurativa khó chữa. JAMA Dermatol. 2024;160(3):312–8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38353987/)
+- Ring HC, Thorsen J, Saunte DM, et al. Vi sinh vật da nang lông ở bệnh nhân bị hidradenitis suppurativa và người khỏe mạnh. JAMA Dermatol. 2017;153(9):897–905. doi:10.1001/jamadermatol.2017.0904. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28538949/)
+- Schrader AM, Deckers IE, van der Zee HH, Boer J, Prens EP. Hidradenitis suppurativa: một nghiên cứu hồi cứu trên 846 bệnh nhân Hà Lan để xác định các yếu tố liên quan đến mức độ nghiêm trọng của bệnh. J Am Acad Dermatol. 2014;71(3):460–7. doi:10.1016/j.jaad.2014.04.001. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24880664/)
+- van der Zee HH, Boer J, Prens EP, Jemec GB. Tác động của điều trị kết hợp với clindamycin uống và rifampicin uống ở bệnh nhân bị hidradenitis suppurativa. Dermatology. 2009;219(2):143–7. doi:10.1159/000228337. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19590174/)
+- Vossen AR, van Straalen KR, Prens EP, van der Zee HH. Kinh nguyệt và thai kỳ ảnh hưởng đến triệu chứng trong hidradenitis suppurativa: một nghiên cứu cắt ngang. J Am Acad Dermatol. 2017;76(1):155–6. doi:10.1016/j.jaad.2016.07.024. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27986138/)
+- Wendland, Z., Rypka, K., Herzog, C., Greenlund, L., Fulk, T., Gravely, A., Westanmo, A., Garg, A., & Goldfarb, N. (2025). Tỷ lệ phình động mạch chủ bụng ở bệnh nhân bị hidradenitis suppurativa trong Hệ thống Chăm sóc Sức khỏe Cựu chiến binh. British Journal of Dermatology, 192(1), 160–162. doi:10.1093/bjd/ljae325. [Journal](https://academic.oup.com/bjd/article-abstract/192/1/160/7734042?redirectedFrom=fulltext)
+
+### Trên DermNet
+
+- [Hình ảnh hidradenitis suppurativa](https://dermnetnz.org/images/hidradenitis-suppurativa-images)
+- [Hội chứng tắc nghẽn nang lông](https://dermnetnz.org/topics/follicular-occlusion-syndrome)
+- [Hidradenitis suppurativa: đánh giá mức độ nghiêm trọng](https://dermnetnz.org/topics/hidradenitis-suppurativa-severity-assessment)
+- [Quản lý hidradenitis suppurativa: tuyên bố đồng thuận của Úc](https://dermnetnz.org/topics/hidradenitis-suppurativa-guidelines)
+- [Hút thuốc và tác động của nó lên da](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+
+### Các trang web khác
+
+- [Đăng ký HS COVID-19 toàn cầu](https://hscovid.ucsf.edu/) — Các chuyên gia y tế hoàn thành lịch sử trường hợp không định danh của bệnh nhân bị hidradenitis suppurativa với COVID-19 được xác nhận hoặc nghi ngờ
+- [HS-Online cho NZ](http://www.hs-online.co.nz/)
+- [Hidradenitis suppurativa](http://ghr.nlm.nih.gov/condition/hidradenitis-suppurativa) Thư viện Y học Quốc gia Hoa Kỳ Tham khảo Di truyền
+- [Hidradenitis Suppurativa](http://www.nlm.nih.gov/medlineplus/hidradenitissuppurativa.html) — Medline Plus
+- [HS-online](http://www.hs-online.com.au/)
+- [Quỹ Hidradenitis Suppurativa](http://www.ba-hs.org.uk/)
+- [HS-USA](http://hs-usa.webs.com/) Nhóm Hỗ trợ
+- [Quỹ Hidradenitis Suppurativa, Inc](http://www.hs-foundation.org/)
+- [Nhận thức về Hidradenitis Suppurativa](https://www.facebook.com/groups/hssufferersinaustralia/) — Nhóm Facebook — Úc
+- [Hidradenitis Suppurativa Úc/New Zealand](https://www.facebook.com/groups/101870120150148/) Nhóm Facebook
+- [Biểu hiện Da liễu của Hidradenitis Suppurativa](http://emedicine.medscape.com/article/1073117-overview) — Medscape
+- [Hidradenitis Suppurativa](https://www.bad.org.uk/pils/hidradenitis-suppurativa/) — Hiệp hội Da liễu Anh
+- [Adalimumab để điều trị hidradenitis suppurativa từ trung bình đến nặng](https://www.nice.org.uk/guidance/ta392) — Hướng dẫn đánh giá công nghệ NICE, tháng 6 năm 2016
+- [Hidradenitis suppurativa và chế độ ăn uống: Được khuyến nghị gì?](http://www.mayoclinic.org/diseases-conditions/hidradenitis-suppurativa/expert-answers/hidradenitis-suppurativa-diet/faq-20182593) — Mayo Clinic
+- [Hidradenitis suppurativa, chế độ ăn uống và PCOS](https://www.pcosnutrition.com/hidradenitis-suppurativa/) — Trung tâm Dinh dưỡng PCOS
+- [Hidradenitis suppurativa](https://www.aad.org/public/diseases/a-z/hidradenitis-suppurativa-overview) — Học viện Da liễu Hoa Kỳ
+- [Đánh giá có hệ thống về hidradenitis suppurativa](https://www.nottingham.ac.uk/research/groups/cebd/resources/hs-systematic-reviews.aspx) — Đại học Nottingham
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu Dễ dàng_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

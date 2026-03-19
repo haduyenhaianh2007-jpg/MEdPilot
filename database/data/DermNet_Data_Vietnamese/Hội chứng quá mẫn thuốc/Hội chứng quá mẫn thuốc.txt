@@ -1,0 +1,222 @@
+##### Hội chứng quá mẫn thuốc — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Phản ứng thuốc với tăng bạch cầu ái toan và triệu chứng toàn thân, DRESS, Hội chứng quá mẫn do thuốc, DIHS, Hội chứng DRESS
+
+Danh mục:
+
+Phản ứng
+
+ICD-10:
+
+T88.7
+
+ICD-11:
+
+EH65
+
+SNOMED CT:
+
+702809001
+
+**[Phản ứng](https://dermnetnz.org/topics?category=Reactions)**
+
+# **Hội chứng quá mẫn thuốc**
+
+Tác giả: Phó Giáo sư Marius Rademaker, Bác sĩ Da liễu, Hamilton, New Zealand, 2004. Cập nhật bởi Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, tháng 1 năm 2016.
+
+[Giới thiệu](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome#Introduction%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome#Demographics%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome#Causes%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome#Clinical%20features%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome#Complications%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome#Diagnosis%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome#Prevention%3Cbr%20/%3E) [Triển vọng](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome#Outlook)
+
+## Hội chứng quá mẫn thuốc là gì?
+
+Hội chứng quá mẫn thuốc là một phản ứng đặc biệt, nghiêm trọng và không mong đợi đối với một loại thuốc, ảnh hưởng đến nhiều hệ cơ quan cùng một lúc. Nó thường gây ra sự kết hợp của:
+
+- Sốt cao
+- [Phát ban dạng sởi](https://dermnetnz.org/topics/morbilliform-drug-reaction)
+- Bất thường huyết học
+- Hạch bạch huyết
+- Viêm một hoặc nhiều cơ quan nội tạng.
+
+Hội chứng quá mẫn thuốc đôi khi cũng được gọi là phản ứng thuốc với tăng bạch cầu ái toan và triệu chứng toàn thân (DRESS), và hội chứng quá mẫn do thuốc (DIHS).
+
+Hội chứng này được phân loại là một [phản ứng da nghiêm trọng (SCAR)](https://dermnetnz.org/topics/severe-cutaneous-adverse-reaction). Nó có thể có các đặc điểm chồng chéo với [hội chứng Stevens–Johnson / hoại tử biểu bì nhiễm độc (SJS/TEN)](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis) và [viêm da mủ cấp tính lan tỏa (AGEP)](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis).
+
+## Ai có thể mắc hội chứng quá mẫn thuốc?
+
+Hội chứng quá mẫn thuốc tương đối hiếm. Nó chủ yếu ảnh hưởng đến người lớn và tỷ lệ mắc bệnh là ngang nhau ở nam và nữ. Đã tìm thấy sự nhạy cảm di truyền và liên kết HLA đối với một số loại thuốc gây ra.
+
+Các loại thuốc phổ biến nhất gây ra phản ứng này là một số [thuốc chống co giật](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-anticonvulsant-drugs) (đặc biệt là carbamazepine, phenobarbital và phenytoin), thuốc chống [gút](https://dermnetnz.org/topics/gout), allopurinol, olanzapine, và nhóm sulphonamide của [kháng sinh](https://dermnetnz.org/topics/antibiotics). Ước tính ít nhất 1 trong mỗi 10.000 bệnh nhân được điều trị bằng thuốc chống co giật sẽ phát triển hội chứng quá mẫn thuốc.
+
+Nguy cơ hội chứng quá mẫn thuốc ở bệnh nhân dùng allopurinol phụ thuộc vào liều lượng allopurinol, bệnh thận liên quan và thuốc lợi tiểu thiazide đồng thời.
+
+Nó hiếm khi được báo cáo với nhiều loại thuốc khác. Có thể rất khó xác định nguyên nhân chính xác của hội chứng quá mẫn thuốc nếu nhiều loại thuốc đã được bắt đầu trong những tuần trước đó. Trong khoảng 10% trường hợp, thuốc gây ra không bao giờ được xác định.
+
+Hội chứng quá mẫn thuốc xảy ra trong vòng 2 tuần sau khi bắt đầu dùng thuốc chịu trách nhiệm có khả năng cao nhất với kháng sinh beta-lactam hoặc phương tiện tương phản iod. Khởi phát bị trì hoãn hơn 2 tuần với thuốc chống co giật và allopurinol.
+
+## Nguyên nhân gây ra hội chứng quá mẫn thuốc là gì?
+
+Hội chứng quá mẫn thuốc là một phản ứng T tế bào chậm. Tổn thương mô là do tế bào T gây độc tế bào và giải phóng cytokine.
+
+- Có một sự nhạy cảm di truyền đối với hội chứng quá mẫn thuốc.
+- Một khiếm khuyết trong cách gan chuyển hóa thuốc có thể là nguyên nhân.
+- Tái hoạt động của virus herpes người 6 (HHV6, nguyên nhân gây [roseola](https://dermnetnz.org/topics/roseola)) hoặc [virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus) (EBV) cũng có thể quan trọng.
+
+## Các đặc điểm lâm sàng của hội chứng quá mẫn thuốc là gì?
+
+Hội chứng quá mẫn thuốc thường phát triển trong vài ngày, với khởi phát 2-8 tuần sau khi bắt đầu dùng thuốc chịu trách nhiệm.
+
+Sốt cao từ 38–40 C thường được nhận thấy đầu tiên. Điều này nhanh chóng được theo sau bởi phát ban da lan rộng. Đặc điểm của phát ban rất đa dạng.
+
+- [Phát ban dạng sởi](https://dermnetnz.org/reactions/morbilliform.html) ảnh hưởng đến 80% trường hợp, với hình thái đa dạng bao gồm tổn thương [dạng mục tiêu](https://dermnetnz.org/reactions/target-lesion.html), mụn nước và mụn mủ
+- [Erythroderma](https://dermnetnz.org/reactions/erythroderma.html) hoặc viêm da tróc vảy (liên quan đến > 90% diện tích bề mặt cơ thể) có thể xảy ra trong khoảng 10%
+- Sưng mặt ảnh hưởng đến 30%
+- Liên quan đến niêm mạc ảnh hưởng đến 25% (môi, miệng, họng, bộ phận sinh dục)
+
+Phát ban có thể kéo dài nhiều tuần.
+
+![Phát ban thuốc](https://dermnetnz.org/assets/Uploads/reactions/drug-rash1.jpg)
+
+Phát ban thuốc
+
+![Phát ban thuốc](https://dermnetnz.org/assets/Uploads/reactions/drug-rash2.jpg)
+
+Phát ban thuốc
+
+![Phát ban thuốc](https://dermnetnz.org/assets/Uploads/reactions/drug-rash3.jpg)
+
+Phát ban thuốc
+
+### Liên quan đến hệ thống trong hội chứng quá mẫn thuốc
+
+Các triệu chứng có thể trở nên tồi tệ hơn sau khi ngừng thuốc và có thể tiếp tục trong nhiều tuần, hoặc thậm chí nhiều tháng, mặc dù đã ngừng thuốc. Mức độ nghiêm trọng của phát ban không nhất thiết tương quan với mức độ liên quan của cơ quan nội tạng. Các triệu chứng sau đó phụ thuộc vào các cơ quan nội tạng bị ảnh hưởng. Chúng có thể bao gồm:
+
+- Hạch bạch huyết mở rộng ở nhiều vị trí (75%)
+- Rối loạn huyết học: tăng bạch cầu (hoặc ít thường xuyên hơn, giảm bạch cầu), tăng bạch cầu ái toan (trong 30% trường hợp này là > 2.0 x 109/L), tế bào lympho không điển hình, giảm tiểu cầu, thiếu máu, hội chứng thực bào
+- Gan to, viêm gan, và hiếm khi hoại tử gan với suy gan. Xét nghiệm chức năng gan bất thường được tìm thấy trong 70–90%.
+- Thận bị ảnh hưởng trong khoảng 10%, và thường là viêm thận kẽ nhẹ. Suy thận là hiếm.
+- Viêm tim (viêm cơ tim) hoặc viêm màng ngoài tim gây đau ngực, khó thở và huyết áp thấp
+- Liên quan đến phổi gây khó thở và ho (viêm phổi kẽ, viêm màng phổi, viêm phổi và hội chứng suy hô hấp cấp tính)
+- Liên quan đến thần kinh có thể dẫn đến viêm màng não và viêm não, viêm đa dây thần kinh, gây đau đầu, co giật, hôn mê và liệt
+- Triệu chứng tiêu hóa: viêm dạ dày ruột, viêm tụy, chảy máu và mất nước. Trong trường hợp nghiêm trọng, viêm đại tràng cấp tính và viêm tụy có thể xảy ra, và bệnh ruột mãn tính có thể theo sau.
+- Bất thường nội tiết: viêm tuyến giáp và tiểu đường
+- Viêm cơ
+- Viêm màng bồ đào.
+
+## Các biến chứng của hội chứng quá mẫn thuốc là gì?
+
+Nguyên nhân gây tử vong từ hội chứng quá mẫn thuốc bao gồm:
+
+- Suy gan cấp tính gây ra vấn đề đông máu, vàng da và suy giảm ý thức
+- Suy đa cơ quan
+- Viêm cơ tim cấp tính
+- Thực bào.
+
+## Hội chứng quá mẫn thuốc được chẩn đoán như thế nào?
+
+Chẩn đoán hội chứng quá mẫn thuốc dựa trên bộ ba lâm sàng của:
+
+- Sốt cao
+- Phát ban da rộng
+- Liên quan đến cơ quan.
+
+Nó được hỗ trợ bởi tăng bạch cầu ái toan và xét nghiệm chức năng gan bất thường.
+
+Vì hội chứng quá mẫn thuốc có thể xảy ra lên đến tám tuần sau lần tiếp xúc đầu tiên với thuốc chịu trách nhiệm, cần phải rất cẩn thận khi xác định thuốc chịu trách nhiệm. Mối liên hệ thời gian giữa việc sử dụng thuốc và sự khởi đầu của hội chứng là bằng chứng mạnh nhất.
+
+Cơ quan Đăng ký Châu Âu về Phản ứng Da Nghiêm trọng với Thuốc và Thu thập Mẫu Sinh học (RegiSCAR) đã đưa ra tiêu chí chẩn đoán để hỗ trợ chẩn đoán hội chứng quá mẫn thuốc. Tiêu chí bao gồm của RegiSCAR cho các trường hợp tiềm năng yêu cầu ít nhất 3 trong số các điều sau:
+
+- Nhập viện
+- Phản ứng nghi ngờ liên quan đến thuốc
+- Phát ban da cấp tính
+- Sốt trên 38C
+- Hạch bạch huyết mở rộng ở hai vị trí
+- Liên quan đến ít nhất một cơ quan nội tạng
+- Bất thường số lượng máu như tiểu cầu thấp, tăng bạch cầu ái toan, hoặc số lượng tế bào lympho bất thường.
+
+Nỗ lực xác nhận thuốc nào đã gây ra hội chứng quá mẫn thuốc có thể bao gồm [thử nghiệm miếng dán](https://dermnetnz.org/procedures/patch-tests.html). Thử nghiệm miếng dán đã được báo cáo là thành công nhất đối với thuốc chống co giật, với 50% phản ứng dương tính. Nó không hữu ích cho allopurinol, với 0% phản ứng dương tính. Thử nghiệm chuyển đổi tế bào lympho có sẵn ở một số trung tâm, nơi mà sự giải thích chuyên gia có thể tiết lộ thuốc gây ra trong phần lớn các trường hợp.
+
+### Điều tra trong hội chứng quá mẫn thuốc
+
+Sau khi lấy lịch sử cẩn thận và thực hiện khám da và tổng quát, các xét nghiệm sau có thể được yêu cầu.
+
+[Sinh thiết da](https://dermnetnz.org/procedures/biopsy.html) thường cho thấy sự xâm nhập dày đặc của các tế bào viêm, bao gồm tế bào lympho và bạch cầu ái toan, hồng cầu thoát mạch, và phù nề.
+
+Xét nghiệm máu có thể bao gồm:
+
+- Số lượng máu và nghiên cứu đông máu
+- Xét nghiệm hóa sinh: ít nhất chức năng gan, chức năng thận, enzyme cơ
+- Huyết thanh học virus: viêm gan B, C, EBV, CMV, HHV-6
+- Chức năng nội tiết: tuyến giáp, mức đường huyết
+- Xét nghiệm nhạy cảm di truyền.
+
+Phân tích nước tiểu được thực hiện để đánh giá tổn thương thận.
+
+Đánh giá tim và phổi có thể bao gồm điện tâm đồ (ECG), siêu âm tim và X-quang ngực. Quét có thể được thực hiện để đánh giá gan, thận và não tùy thuộc vào phát hiện lâm sàng và kết quả của các xét nghiệm ban đầu.
+
+## Điều trị hội chứng quá mẫn thuốc là gì?
+
+Điều trị bao gồm ngừng ngay lập tức tất cả các loại thuốc nghi ngờ, sau đó theo dõi cẩn thận và chăm sóc hỗ trợ. Điều rất quan trọng đối với bệnh nhân xuất hiện với sốt cao và phát ban, nơi mà chẩn đoán hội chứng quá mẫn thuốc được xem xét, để có xét nghiệm máu càng sớm càng tốt.
+
+[Corticosteroid toàn thân](https://dermnetnz.org/treatments/systemic-steroids.html) (ví dụ, prednisone) thường được sử dụng trong các trường hợp nghiêm trọng hơn của hội chứng quá mẫn thuốc với viêm da tróc vảy đáng kể, viêm phổi và/hoặc viêm gan. Tuy nhiên, lợi ích của corticosteroid chưa được biết đến do thiếu các thử nghiệm lâm sàng có kiểm soát. Một khi có hiệu quả, chúng nên được rút rất chậm vì hội chứng có thể tái phát khi liều giảm.
+
+[Ciclosporin](https://dermnetnz.org/topics/ciclosporin) đã được báo cáo là một phương pháp điều trị thay thế và hiệu quả cho hội chứng quá mẫn thuốc.
+
+Điều trị bổ sung có thể bao gồm [immunoglobulin tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin), [plasmapheresis](https://dermnetnz.org/topics/plasmapheresis-for-skin-disease), và các thuốc điều hòa miễn dịch như [cyclophosphamide](https://dermnetnz.org/treatments/cyclophosphamide.html), [mycophenolate,](https://dermnetnz.org/treatments/mycophenolate.html) và [rituximab](https://dermnetnz.org/treatments/rituximab.html).
+
+Điều trị hỗ trợ cho phát ban da có thể bao gồm:
+
+- Băng
+- [Steroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid)
+- [Chất làm mềm da](https://dermnetnz.org/treatments/emollients.html)
+- [Thuốc kháng histamine](https://dermnetnz.org/treatments/antihistamines.html).
+
+Lượng chất lỏng, điện giải và calo có thể cần được chú ý. Một môi trường ấm áp và chăm sóc điều dưỡng chuyên gia là cần thiết. Nhiễm trùng thứ cấp có thể yêu cầu [kháng sinh](https://dermnetnz.org/treatments/antibiotics.html).
+
+## Làm thế nào để phòng ngừa hội chứng quá mẫn thuốc?
+
+Bệnh nhân phát triển hội chứng quá mẫn thuốc phải tránh dùng lại thuốc gây ra.
+
+Phản ứng chéo là phổ biến giữa ba loại thuốc chống co giật thơm chính (phenytoin, carbamazepine, phenobarbitone). Bệnh nhân đã trải qua hội chứng quá mẫn thuốc với bất kỳ loại thuốc nào trong số này phải tránh cả ba.
+
+Vì các yếu tố di truyền được nghi ngờ trong hội chứng quá mẫn thuốc, người thân cấp một nên được cảnh báo về nguy cơ cao của họ phát triển phản ứng quá mẫn với cùng loại thuốc.
+
+## Triển vọng cho hội chứng quá mẫn thuốc là gì?
+
+Hầu hết bệnh nhân hồi phục hoàn toàn khỏi quá mẫn thuốc trong vòng vài tuần đến vài tháng. Tái phát sau khi cải thiện ban đầu là phổ biến.
+
+Bệnh nhân hồi phục từ hội chứng quá mẫn thuốc được cho là có nguy cơ phát triển các bệnh tự miễn dịch.
+
+Tỷ lệ tử vong từ hội chứng quá mẫn thuốc ước tính khoảng 8%.
+
+### Thư mục
+
+- [Hội chứng quá mẫn thuốc](http://www.medsafe.govt.nz/profs/puarticles/dhs.htm) Bài viết cập nhật của Medsafe Prescriber
+- Husain Z, Reddy B, Schwartz R. Hội chứng DRESS. Phần I. Quan điểm lâm sàng. J Am Acad Dermatol 2013; 68: 693–705. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23602182)
+- Husain Z, Reddy B, Schwartz R. Hội chứng DRESS. Phần II. Quản lý và điều trị. J Am Acad Dermatol 2013; 68: 709–17. [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/23602183)
+- Nguyen E, Yanes D, Imadojemu S, Kroshinsky D. Đánh giá cyclosporine cho điều trị hội chứng DRESS. JAMA Dermatol. 2020 Mar 11. doi: 10.1001/jamadermatol.2020.0048. [Journal](https://jamanetwork.com/journals/jamadermatology/fullarticle/2762709)
+- Soria A, Bernier C, Veyrac G, Barbaud A, Puymirat E, Milpied B. Phản ứng thuốc với tăng bạch cầu ái toan và triệu chứng toàn thân có thể xảy ra trong vòng 2 tuần sau khi tiếp xúc với thuốc: Một nghiên cứu hồi cứu. J Am Acad Dermatol. 2020;82(3):606-11. doi:10.1016/j.jaad.2019.09.036[PubMed: 31562941](https://pubmed.ncbi.nlm.nih.gov/31562941/)
+
+### Trên DermNet
+
+- [Phát ban thuốc](https://dermnetnz.org/reactions/drug-eruptions.html)
+- [Phát ban thuốc dạng bọng nước](https://dermnetnz.org/reactions/bullous-drug-reactions.html)
+- [Giải thích về dị ứng](https://dermnetnz.org/topics/allergies-explained)
+- [Các tình trạng da phồng rộp](https://dermnetnz.org/topics/blistering-skin-conditions)
+
+### Các trang web khác
+
+- [Hiểu về phát ban thuốc](https://www.youtube.com/watch?v=qVaP9skHsh0&t=1s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Các trường hợp khẩn cấp về da liễu](https://www.youtube.com/watch?v=FLulWftTPBk&t=1s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Phát ban thuốc](https://emedicine.medscape.com/article/1049474-overview) — Medscape
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Da liễu dễ hiểu_ - ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết được đề xuất khác
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

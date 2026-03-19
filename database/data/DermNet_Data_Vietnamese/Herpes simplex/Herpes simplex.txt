@@ -1,0 +1,226 @@
+##### Herpes simplex — thông tin bổ sung
+
+Từ đồng nghĩa:
+
+Virus herpes simplex, HSV1, HSV2, Virus herpes ở người 1, HHV1, Virus herpes ở người 2, HHV2, Nhiễm trùng do HSV, Mụn rộp môi, Mụn rộp do sốt
+
+Danh mục:
+
+Nhiễm trùng
+
+ICD-10:
+
+B00, B00.9, B00.89, B00.1, B00.2, A60.9
+
+ICD-11:
+
+1F00.0, 1F00.01, 1F00.02, 1F00.03, 1F00.0Y, 1A94.Z
+
+SNOMED CT:
+
+88594005, 10965007, 407450002, 407451003, 33839006, 1475003, 40981003, 235056002, 43891009, 402892009
+
+**[Nhiễm trùng](https://dermnetnz.org/topics?category=Infections)**
+
+# **Herpes simplex**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 10 năm 2015.
+
+[Giới thiệu](https://dermnetnz.org/topics/herpes-simplex#Introduction%3Cbr%20/%3E) [Nguyên nhân](https://dermnetnz.org/topics/herpes-simplex#Causes%3Cbr%20/%3E) [Nhân khẩu học](https://dermnetnz.org/topics/herpes-simplex#Demographics%3Cbr%20/%3E) [Đặc điểm lâm sàng](https://dermnetnz.org/topics/herpes-simplex#Clinical%20features%3Cbr%20/%3E) [Chẩn đoán](https://dermnetnz.org/topics/herpes-simplex#Diagnosis%3Cbr%20/%3E) [Biến chứng](https://dermnetnz.org/topics/herpes-simplex#Complications%3Cbr%20/%3E) [Điều trị](https://dermnetnz.org/topics/herpes-simplex#Treatment%3Cbr%20/%3E) [Phòng ngừa](https://dermnetnz.org/topics/herpes-simplex#Prevention)
+
+## Herpes simplex là gì?
+
+Herpes simplex là một nhiễm trùng virus phổ biến xuất hiện với các mụn nước cục bộ. Nó ảnh hưởng đến hầu hết mọi người trong một hoặc nhiều lần trong cuộc đời.
+
+Herpes simplex thường được gọi là mụn rộp môi hoặc mụn rộp do sốt, vì các đợt tái phát thường được kích hoạt bởi một bệnh sốt, chẳng hạn như cảm lạnh.
+
+![Herpes labialis](https://dermnetnz.org/assets/collection-O/Herpes-simplex-SOC/herpes-simplex-00019.jpg)
+
+Herpes labialis
+
+![Herpes simplex trên má](https://dermnetnz.org/assets/Uploads/viral/hsimplex.jpg)
+
+Herpes simplex trên má
+
+![Herpetic whitlow](https://dermnetnz.org/assets/Uploads/viral/hsimplex2.jpg)
+
+Herpetic whitlow
+
+## Nguyên nhân gây ra herpes simplex là gì?
+
+Herpes simplex được gây ra bởi một trong hai loại virus herpes simplex (HSV), thành viên của họ [Herpesvirales](https://dermnetnz.org/topics/herpes-viruses) của các virus DNA sợi đôi.
+
+- HSV loại 1 chủ yếu liên quan đến nhiễm trùng miệng và mặt
+- HSV loại 2 chủ yếu liên quan đến nhiễm trùng sinh dục và trực tràng ([herpes sinh dục](https://dermnetnz.org/topics/genital-herpes))
+
+Tuy nhiên, bất kỳ loại virus nào cũng có thể ảnh hưởng đến hầu hết mọi khu vực da hoặc màng nhầy.
+
+Sau đợt nhiễm trùng đầu tiên, HSV tồn tại ở trạng thái tiềm ẩn trong các dây thần kinh gốc lưng cột sống cung cấp cảm giác cho da. Trong một đợt tái phát, virus theo các dây thần kinh đến da hoặc màng nhầy, nơi nó nhân lên, gây ra tổn thương lâm sàng. Sau mỗi đợt tấn công và suốt đời, nó đi vào trạng thái nghỉ ngơi.
+
+Trong một đợt tấn công, virus có thể được cấy vào các vị trí mới trên da, nơi có thể phát triển mụn nước cũng như vị trí nhiễm trùng ban đầu.
+
+## Ai bị herpes simplex?
+
+Các đợt tấn công đầu tiên của nhiễm trùng HSV loại 1 xảy ra chủ yếu ở trẻ sơ sinh và trẻ nhỏ. Ở những khu vực đông đúc, kém phát triển trên thế giới, gần như tất cả trẻ em đã bị nhiễm trước 5 tuổi. Ở những nơi ít đông đúc hơn, tỷ lệ mắc bệnh thấp hơn; ví dụ, chưa đến một nửa số sinh viên đại học ở Anh đã bị nhiễm. Nhiễm trùng HSV loại 2 xảy ra chủ yếu sau tuổi dậy thì và thường được truyền qua đường tình dục.
+
+HSV được truyền qua tiếp xúc trực tiếp hoặc gián tiếp với người có herpes simplex hoạt động, có khả năng lây nhiễm trong 7–12 ngày. Sự phát tán không triệu chứng của virus trong nước bọt hoặc dịch tiết sinh dục cũng có thể dẫn đến sự truyền HSV, nhưng điều này không thường xuyên, vì lượng phát tán từ các tổn thương không hoạt động ít hơn 100 đến 1000 lần so với khi nó hoạt động. Thời gian ủ bệnh là 2–12 ngày.
+
+Chấn thương nhỏ giúp cấy HSV vào da. Ví dụ:
+
+- Một người mút ngón tay cái có thể truyền virus từ miệng sang ngón tay cái.
+- Một nhân viên y tế có thể phát triển [herpetic whitlow](https://dermnetnz.org/topics/herpetic-whitlow)
+- Một cầu thủ bóng bầu dục có thể bị một cụm mụn nước trên một bên má (‘scrumpox’).
+
+## Các đặc điểm lâm sàng của herpes simplex là gì?
+
+### Herpes simplex nguyên phát
+
+Nhiễm trùng nguyên phát với HSV có thể nhẹ hoặc không có triệu chứng, nhưng nhiễm trùng có triệu chứng có xu hướng nghiêm trọng hơn so với các đợt tái phát. HSV loại 2 thường có triệu chứng hơn so với HSV loại 1.
+
+HSV loại 1 nguyên phát thường xuất hiện dưới dạng viêm lợi miệng, ở trẻ em từ 1 đến 5 tuổi. Các triệu chứng bao gồm sốt, có thể cao, bồn chồn và chảy nước dãi quá mức. Uống và ăn đau đớn, và hơi thở có mùi hôi. Nướu sưng và đỏ và dễ chảy máu. Các mụn nước trắng tiến triển thành các vết loét vàng trên lưỡi, họng, vòm miệng và bên trong má. Các hạch bạch huyết địa phương to và đau.
+
+Sốt giảm sau 3–5 ngày và hồi phục thường hoàn tất trong vòng 2 tuần.
+
+HSV loại 2 nguyên phát thường xuất hiện dưới dạng herpes sinh dục sau khi bắt đầu hoạt động tình dục. Các mụn nước đau, loét, đỏ và sưng kéo dài từ 2 đến 3 tuần, nếu không được điều trị, và thường đi kèm với sốt và hạch bạch huyết bẹn đau.
+
+Ở nam giới, herpes thường ảnh hưởng đến quy đầu, bao quy đầu và thân dương vật. Herpes hậu môn phổ biến hơn ở nam giới có quan hệ tình dục với nam giới hơn là với bạn tình khác giới.
+
+Ở nữ giới, herpes thường xuất hiện trên âm hộ và trong âm đạo. Nó thường đau hoặc khó đi tiểu. Nhiễm trùng cổ tử cung có thể tiến triển thành loét nghiêm trọng.
+
+### Herpes simplex tái phát
+
+Sau khi nhiễm trùng ban đầu, dù có triệu chứng hay không, có thể không có biểu hiện lâm sàng nào khác trong suốt cuộc đời. Khi miễn dịch virus không đủ, các đợt tái phát thường xuyên, đặc biệt là với herpes sinh dục loại 2.
+
+Các đợt tái phát có thể được kích hoạt bởi:
+
+- Chấn thương nhỏ, phẫu thuật hoặc thủ thuật đến khu vực bị ảnh hưởng
+- Nhiễm trùng đường hô hấp trên
+- Tiếp xúc với ánh nắng mặt trời
+- Các yếu tố nội tiết (ở phụ nữ, các đợt bùng phát không hiếm trước kỳ kinh nguyệt)
+- Căng thẳng cảm xúc
+
+Trong nhiều trường hợp, không có lý do rõ ràng cho sự bùng phát.
+
+Các mụn nước có xu hướng nhỏ hơn và nhóm lại gần nhau hơn trong herpes tái phát, so với herpes nguyên phát. Chúng thường trở lại gần như cùng vị trí với nhiễm trùng ban đầu.
+
+- HSV loại 1 tái phát có thể xảy ra ở bất kỳ vị trí nào, thường xuyên nhất là trên mặt, đặc biệt là môi (herpes simplex labialis).
+- HSV loại 2 tái phát cũng có thể xảy ra ở bất kỳ vị trí nào, nhưng thường ảnh hưởng đến bộ phận sinh dục hoặc mông.
+
+Ngứa hoặc rát thường xuất hiện sau một hoặc hai giờ bởi một cụm không đều của các mụn nước nhỏ, thường có lõm ở giữa, trên nền đỏ. Chúng thường lành trong 7–10 ngày mà không để lại sẹo. Người bị ảnh hưởng có thể cảm thấy khỏe hoặc bị sốt, đau và có hạch bạch huyết địa phương to.
+
+Các mụn nước herpetic đôi khi được sắp xếp thành một hàng giống như [zona](https://dermnetnz.org/topics/herpes-zoster) [và được cho là có phân bố dạng zosteriform, đặc biệt khi ảnh hưởng đến ngực dưới hoặc vùng thắt lưng.](https://dermnetnz.org/topics/herpes-simplex-images)
+
+Các mảng trắng hoặc sẹo có thể xuất hiện tại vị trí của các đợt tấn công HSV tái phát và rõ ràng hơn ở những người có màu da.
+
+![](https://dermnetnz.org/assets/Uploads/viral/hsimpl2.jpg)
+
+![Mụn mủ do herpes simplex](https://dermnetnz.org/assets/Uploads/herpes-simplex-vesicles-1.jpg)
+
+Mụn mủ do herpes simplex
+
+![Các mụn nước nhóm lại, do HSV, đã bị phá vỡ thành các vết xói mòn trên nếp gấp móng gần](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/a/herpes-simplex-paronychia.jpg)
+
+Các mụn nước nhóm lại, do HSV, đã bị phá vỡ thành các vết xói mòn trên nếp gấp móng gần
+
+[Xem thêm hình ảnh về herpes simplex](https://dermnetnz.org/topics/herpes-simplex-images).
+
+## Herpes simplex được chẩn đoán như thế nào?
+
+Nếu có nghi ngờ lâm sàng, HSV có thể được xác nhận bằng nuôi cấy hoặc PCR của một mẫu virus lấy từ các mụn nước mới. Xét nghiệm huyết thanh HSV không cung cấp nhiều thông tin, vì nó dương tính ở hầu hết các cá nhân và do đó không đặc hiệu cho tổn thương mà họ trình bày.
+
+## Các biến chứng của herpes simplex là gì?
+
+### Nhiễm trùng mắt
+
+Herpes simplex có thể gây sưng [mí mắt](https://dermnetnz.org/site-age-specific/eyelids.html) và viêm kết mạc với mờ và loét bề mặt giác mạc (loét hình cây, tốt nhất được nhìn thấy sau khi nhuộm fluorescein của giác mạc).
+
+### Nhiễm trùng họng
+
+Nhiễm trùng họng có thể rất đau và cản trở việc nuốt.
+
+### Eczema herpeticum
+
+Ở những bệnh nhân có tiền sử [viêm da dị ứng](https://dermnetnz.org/dermatitis/atopic.html) hoặc [bệnh Darier](https://dermnetnz.org/scaly/darier.html), HSV có thể dẫn đến nhiễm trùng nghiêm trọng và lan rộng, được gọi là eczema herpeticum. Bệnh da có thể đang hoạt động hoặc đã có trong quá khứ. Nhiều mụn nước bùng phát trên mặt hoặc nơi khác, kèm theo hạch bạch huyết sưng và sốt.
+
+### Erythema multiforme
+
+Một đợt duy nhất hoặc tái phát [erythema multiforme](https://dermnetnz.org/reactions/erythema-multiforme.html) là một phản ứng không phổ biến đối với herpes simplex. Phát ban của erythema multiforme xuất hiện dưới dạng các mảng đối xứng trên tay, cẳng tay, chân và cẳng chân. Nó được đặc trưng bởi [tổn thương mục tiêu](https://dermnetnz.org/reactions/target-lesion.html), đôi khi có mụn nước ở trung tâm. Các tổn thương niêm mạc có thể được quan sát thấy.
+
+### Hệ thần kinh
+
+Các dây thần kinh sọ/mặt có thể bị nhiễm HSV, gây tê liệt tạm thời các cơ bị ảnh hưởng. Hiếm khi, đau thần kinh có thể xuất hiện trước mỗi đợt tái phát của herpes từ 1 đến 2 ngày (hội chứng Maurice). Viêm màng não là hiếm.
+
+### Nhiễm trùng lan rộng
+
+Nhiễm trùng lan rộng và/hoặc loét kéo dài do HSV có thể nghiêm trọng ở những bệnh nhân suy yếu hoặc suy giảm miễn dịch, ví dụ như ở những người nhiễm virus suy giảm miễn dịch ở người (HIV).
+
+![Loét hình cây](https://dermnetnz.org/assets/Uploads/dendritic-ulcer-01.jpg)
+
+Loét hình cây
+
+![Eczema herpeticum](https://dermnetnz.org/assets/Uploads/dermatitis/ecz-herp2.jpg)
+
+Eczema herpeticum
+
+![Erythema multiforme](https://dermnetnz.org/assets/Uploads/reactions/ermulti1.jpg)
+
+Erythema multiforme
+
+## Điều trị herpes simplex là gì?
+
+Các đợt bùng phát nhẹ, không phức tạp của herpes simplex không cần điều trị. Các mụn nước có thể được che phủ nếu muốn, ví dụ bằng một miếng dán hydrocolloid. Nhiễm trùng nghiêm trọng có thể cần điều trị bằng thuốc kháng virus.
+
+Các loại thuốc kháng virus được sử dụng cho herpes simplex và liều thông thường của chúng là:
+
+- Aciclovir — 200 mg 5 lần mỗi ngày trong năm ngày
+- Valaciclovir — 500 mg hai lần mỗi ngày trong năm ngày
+- Famciclovir — một liều duy nhất 3 x 500 mg
+
+Ở New Zealand, famciclovir hiện không được PHARMAC tài trợ (tháng 4 năm 2019).
+
+Liều cao hơn và/hoặc liệu trình dài hơn của thuốc kháng virus có thể được sử dụng cho bệnh nhân suy giảm miễn dịch, eczema herpeticum, hoặc cho herpes simplex lan rộng.
+
+Aciclovir hoặc penciclovir bôi tại chỗ có thể rút ngắn các đợt tấn công của herpes simplex tái phát, với điều kiện kem được bắt đầu đủ sớm.
+
+## Herpes simplex có thể được ngăn ngừa không?
+
+Vì tiếp xúc với ánh nắng mặt trời thường kích hoạt herpes simplex trên mặt, [bảo vệ khỏi ánh nắng mặt trời](https://dermnetnz.org/treatments/sun-protection.html) bằng cách sử dụng kem chống nắng có chỉ số bảo vệ cao [sunscreens](https://dermnetnz.org/treatments/sunscreens.html) và các biện pháp khác là quan trọng.
+
+Các loại thuốc kháng virus sẽ ngăn chặn HSV nhân lên khi nó đến da hoặc màng nhầy nhưng không thể tiêu diệt virus khỏi giai đoạn nghỉ ngơi trong các tế bào thần kinh. Do đó, chúng có thể rút ngắn và ngăn chặn các đợt tấn công nhưng một liệu trình duy nhất không thể ngăn chặn các đợt tấn công trong tương lai. Các liệu trình lặp lại có thể được kê đơn, hoặc thuốc có thể được dùng liên tục để ngăn chặn các đợt tấn công thường xuyên.
+
+### Trên DermNet
+
+- [Herpes sinh dục](https://dermnetnz.org/topics/genital-herpes)
+- [Eczema herpeticum](https://dermnetnz.org/topics/eczema-herpeticum)
+- [Herpetic whitlow](https://dermnetnz.org/topics/herpetic-whitlow)
+- [Nhiễm trùng da do virus](https://dermnetnz.org/topics/viral-skin-infections)
+- [Erythema multiforme](https://dermnetnz.org/topics/erythema-multiforme)
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Herpangina](https://dermnetnz.org/topics/herpangina)
+- [Bệnh lý virus herpes](https://dermnetnz.org/topics/herpes-virus-infection-pathology)
+- [Peptide kháng khuẩn](https://dermnetnz.org/topics/antimicrobial-peptides)
+- [Các tình trạng da có mụn nước](https://dermnetnz.org/topics/blistering-skin-conditions)
+
+### Các trang web khác
+
+- [Rối loạn có mụn nước](https://www.youtube.com/watch?v=xvBTdPl0uao&t=1s) — Bài giảng điện tử DermNet \[Youtube\]
+- [Quỹ Herpes New Zealand](http://www.herpes.org.nz/)
+- [Biểu hiện da liễu của Herpes Simplex](http://emedicine.medscape.com/article/1132351-overview) — Tham khảo Y học
+- [Nhiễm trùng virus của miệng](http://emedicine.medscape.com/article/1079920-overview) – Tham khảo Medscape
+- [Mụn rộp môi](http://www.emedicinehealth.com/cold_sores/article_em.htm) — EmedicineHealth
+- [Hướng dẫn Herpes.ca](http://www.herpesguide.ca/) — SkinCareGuide.com
+- [Herpes Simplex](https://www.bad.org.uk/pils/herpes-simplex/) — Hiệp hội Da liễu Anh
+- [Liên minh Herpes](http://www.herpesalliance.org/)
+- [Hiệp hội Virus Herpes](http://www.herpes.org.uk/) UK
+- [Herpes simplex](https://www.aad.org/public/diseases/contagious-skin-diseases/herpes-simplex) — Học viện Da liễu Hoa Kỳ
+
+### Sách về bệnh da
+
+- [Sách về da](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- ấn bản thứ hai](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Các bài viết khác được đề xuất
+
+![đóng](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

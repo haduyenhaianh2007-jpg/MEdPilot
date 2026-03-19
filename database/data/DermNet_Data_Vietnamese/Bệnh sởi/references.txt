@@ -1,0 +1,43 @@
+### Bibliography
+
+- Fragkou PC, Thomas K, Sympardi S, et al. Clinical characteristics and outcomes of measles outbreak in adults: A multicenter retrospective observational study of 93 hospitalized adults in Greece. J Clin Virol. 2020;131:104608. doi:10.1016/j.jcv.2020.104608. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32877891/)
+- Huiming Y, Chaomin W, Meng M. Vitamin A for treating measles in children. Cochrane Database Syst Rev. 2005;2005(4):CD001479. doi:10.1002/14651858.CD001479.pub3. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16235283/)
+- Hummel KB, Lowe L, Bellini WJ, Rota PA. Development of quantitative gene-specific real-time RT-PCR assays for the detection of measles virus in clinical specimens. J Virol Methods. 2006;132(1-2):166–73. doi:10.1016/j.jviromet.2005.10.006. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16274752/)
+- Pal G. Effects of ribavirin on measles. J Indian Med Assoc. 2011;109(9):666-7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22480102/)
+- Patel M, Lee AD, Clemmons NS, et al. National update on measles cases and outbreaks - United States, January 1-October 1, 2019. MMWR Morb Mortal Wkly Rep. 2019;68(40):893–6. doi:10.15585/mmwr.mm6840e2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31600181/)
+- Perry RT, Halsey NA. The clinical significance of measles: a review. J Infect Dis. 2004;189 Suppl 1:S4–S16. doi:10.1086/377712. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15106083/)
+- Ratnam S, Tipples G, Head C, Fauvel M, Fearon M, Ward BJ. Performance of indirect immunoglobulin M (IgM) serology tests and IgM capture assays for laboratory diagnosis of measles. J Clin Microbiol. 2000;38(1):99-104. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10618071/)
+- Sudfeld CR, Navar AM, Halsey NA. Effectiveness of measles vaccination and vitamin A treatment. Int J Epidemiol. 2010;39 Suppl 1(Suppl 1):i48–i55. doi:10.1093/ije/dyq021. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20348126/)
+- White SJ, Boldt KL, Holditch SJ, Poland GA, Jacobson RM. Measles, mumps, and rubella. Clin Obstet Gynecol. 2012;55(2):550–9. doi:10.1097/GRF.0b013e31824df256. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22510638/)
+- [https://www.who.int/news/item/05-12-2019-more-than-140-000-die-from-measles-as-cases-surge-worldwide](https://www.who.int/news/item/05-12-2019-more-than-140-000-die-from-measles-as-cases-surge-worldwide) (accessed 23/10/2020)
+
+### On DermNet
+
+- [Images of measles](https://dermnetnz.org/topics/measles-images)
+- [Viral infections](https://dermnetnz.org/topics/viral-skin-infections)
+- [Exanthem](https://dermnetnz.org/topics/exanthems)
+
+### Other websites
+
+- [Measles](http://blog.kudoybook.com/morbilli/) — translation of DermNet page into Ukrainian language, 3 September 2015 by Viktoriya Parnak
+- [Корь](http://car--reviews.com/morbilli.html) — translation of DermNet page into Russian language, 3 September 2015 by Viktoriya Parnak
+- [Masalas](http://www.autoteileprofi.de/science/2017/02/06/masalas/) — translation of DermNet page into Latvian language, 08 February 2017 by Arija Liepkalnietis
+- [Measles](http://www.nlm.nih.gov/medlineplus/measles.html) — Medline Plus
+- [Measles](http://www.health.govt.nz/system/files/documents/publications/imm-handbook-11-measles-may17_1.pdf) — Immunisation Handbook 2017, Ministry of Health, NZ
+- [Measles](http://www.immune.org.nz/?t=753) — Immunisation Advisory Centre, University of Auckland
+- [Measles](http://www.who.int/topics/measles/en/) World Health Organization (WHO)
+- [Measles, rubeola](http://emedicine.medscape.com/article/966220-overview) — Medscape Reference
+- [Measles](http://www.emedicinehealth.com/articles/15569-1.asp) — emedicinehealth
+- [Measles](http://www.nhs.uk/conditions/measles/Pages/Introduction.aspx) — NHS Choices
+- [https://www.who.int/en/news-room/fact-sheets/detail/measles](https://www.who.int/en/news-room/fact-sheets/detail/measles)
+
+### Books about skin diseases
+
+- [Books about the skin](https://dermnetnz.org/topics/books-about-the-skin/)
+- [_Dermatology Made Easy_ \- second edition](https://www.amazon.com/Dermatology-Made-second-Amanda-Oakley-dp-1914961161/dp/1914961161/ref=dp_ob_title_bk?&_encoding=UTF8&tag=nzdermnet-20&linkCode=ur2&linkId=2addc7901a76f7726fa42eeeea7a28ea&camp=1789&creative=9325)
+
+### Other recommended articles
+
+![close](https://dermnetnz.org/_resources/themes/mercury/dist/images/svg/close.svg)
+
+reCAPTCHA

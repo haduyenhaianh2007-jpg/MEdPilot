@@ -1,0 +1,11 @@
+## Nguyên nhân gây nhiễm nấm móng?
+
+Onychomycosis có thể do nhiễm [dermatophytes](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) hoặc [non-dermatophytes](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis) như nấm mốc và nấm men.
+
+- Dermatophytes (hơn 75% trường hợp): _Trichophyton rubrum_, _Epidermophyton floccosum_, các loài _Microsporum_, _Trichophyton verrucosum_, _Trichophyton tonsurans_, _Trichophyton violaceum_, _Trichophyton soudanense_, _Trichophyton krajdenii_, _Trichophyton equinum_, và các loài _Arthoderma_.
+- Non-dermatophyte
+  - Nấm mốc (10% trường hợp): các loài _Aspergillus_, các loài _Scopulariopsis_, các loài _Fusarium_, các loài _Acremonium_, các loài _Syncephalastrum_, các loài _Scytalidium_, các loài _Paecilomyces_, các loài _Neoscytalidium_, các loài _Chaetomium_, các loài _Onchocola_, và các loài _Alternaria_.
+  - Nấm men (hiếm gặp): _[Candida albicans](https://dermnetnz.org/topics/candida)_, và hiếm khi [nấm men candida không phải albicans](https://dermnetnz.org/topics/non-albicans-candida-infections) (ví dụ, tropicalis, hoặc parapsilosis)
+  - Để biết thêm thông tin, xem [onychomycosis nấm mốc không phải dermatophyte](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis).
+
+Bằng chứng mới nổi về vai trò của biofilm trong bệnh nấm móng có thể giải thích cho [kháng thuốc chống nấm](https://dermnetnz.org/topics/antifungal-drug-resistance) và tăng cường độc lực.

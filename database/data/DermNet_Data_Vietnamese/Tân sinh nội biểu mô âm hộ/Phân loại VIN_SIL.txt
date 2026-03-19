@@ -1,0 +1,9 @@
+## Phân loại VIN/SIL
+
+[Phân loại uVIN/SIL](https://dermnetnz.org/topics/lower-anogenital-squamous-terminology) đã phát triển qua nhiều năm. Thuật ngữ được Hiệp hội Quốc tế Nghiên cứu Bệnh lý Âm hộ Âm đạo ([ISSVD](https://www.issvd.org/)) thông qua vào năm 2015 là:
+
+1. Tổn thương biểu mô vảy trong lớp thấp (mụn cóc phẳng hoặc tác động của HPV) (LSIL)
+2. Tổn thương biểu mô vảy trong lớp cao (loại VIN thông thường) (HSIL), trước đây được gọi là VIN 2 và VIN 3
+3. Tân sinh trong biểu mô, loại biệt hóa (dVIN)
+
+HSIL và dVIN có khả năng tiến triển thành [ung thư âm hộ](https://dermnetnz.org/topics/vulval-cancer) xâm lấn, trong khi các tổn thương LSIL có nguy cơ thấp và không phải là tân sinh. Các loại ung thư liên quan đến HSIL thường có bề ngoài sần sùi.
