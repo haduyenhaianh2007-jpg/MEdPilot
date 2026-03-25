@@ -1,0 +1,3 @@
+# QUICK REFERENCE - Chạy Test Local → E2E → Interactive
+
+...existing code...

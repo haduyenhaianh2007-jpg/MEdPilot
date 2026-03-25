@@ -1,0 +1,3 @@
+# QUICK START - Optimized MedPilot
+
+...existing code...

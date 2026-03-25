@@ -1,0 +1,9 @@
+{"query": "i chưa hiểu rõ về bệnh ngứa do kiến ba khoang đốt", "mode": "patient", "payload": {"query": "i chưa hiểu rõ về bệnh ngứa do kiến ba khoang đốt", "user_role": "patient"}}
+{"query": "nh Ngứa do kiến ba khoang đốt là gì", "mode": "patient", "payload": {"message": "nh Ngứa do kiến ba khoang đốt là gì", "conversation_id": null, "top_k": 3}}
+{"query": "Dạo gần đây da tay tôi bị ngứa và hơi đỏ, nguyên nhân có thể do đâu?", "mode": "patient", "payload": {"message": "Dạo gần đây da tay tôi bị ngứa và hơi đỏ, nguyên nhân có thể do đâu?", "conversation_id": null, "top_k": 3}}
+{"query": "Tôi bị ngứa ở phần bẹn, vấn đề là gì", "mode": "patient", "payload": {"message": "Tôi bị ngứa ở phần bẹn, vấn đề là gì", "conversation_id": null, "top_k": 3}}
+{"query": "Tôi bị ngứa ở bẹn háng, vấn đề là gì", "mode": "patient", "payload": {"message": "Tôi bị ngứa ở bẹn háng, vấn đề là gì", "conversation_id": null, "top_k": 3}}
+{"query": "Tôi bị ngứa ở bẹn, vấn đề là gì", "mode": "patient", "payload": {"message": "Tôi bị ngứa ở bẹn, vấn đề là gì", "conversation_id": null, "top_k": 3}}
+{"query": "Tôi bị ngứa ở bẹn, lí do là gì", "mode": "patient", "payload": {"message": "Tôi bị ngứa ở bẹn, lí do là gì", "conversation_id": null, "top_k": 3}}
+{"query": "Tôi bị ngứa ở bẹn, lí do là gì", "mode": "patient", "payload": {"message": "Tôi bị ngứa ở bẹn, lí do là gì", "conversation_id": null, "top_k": 3}}
+{"query": "Tôi bị ngứa ở bẹn, lí do là do đâu", "mode": "patient", "payload": {"message": "Tôi bị ngứa ở bẹn, lí do là do đâu", "conversation_id": null, "top_k": 3}}
