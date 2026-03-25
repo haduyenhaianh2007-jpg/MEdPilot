@@ -1,3 +1,0 @@
-## Triệu chứng chủ quan
-
-Triệu chứng chủ quan (ngứa và mất ngủ), được bệnh nhân hoặc người thân đánh giá bằng thang đo tương tự trực quan, trong đó 0 là không ngứa (hoặc không mất ngủ) và 10 là ngứa (hoặc mất ngủ) tồi tệ nhất có thể tưởng tượng. Các điểm số này được cộng lại để cho ra 'C' (tối đa là 20).

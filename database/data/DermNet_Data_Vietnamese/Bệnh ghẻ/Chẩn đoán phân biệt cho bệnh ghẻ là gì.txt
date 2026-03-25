@@ -1,9 +1,0 @@
-## Chẩn đoán phân biệt cho bệnh ghẻ là gì?
-
-- [Rối loạn da bóng nước](https://dermnetnz.org/topics/blistering-skin-conditions)
-- [Viêm da](https://dermnetnz.org/topics/dermatitis)
-- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis)
-- [Mề đay dạng sẩn](https://dermnetnz.org/topics/papular-urticaria)
-- [Ngứa dạng sẩn (bán cấp)](https://dermnetnz.org/topics/prurigo)
-- [Vảy nến](https://dermnetnz.org/topics/psoriasis)
-- [Bệnh mụn mủ ở trẻ sơ sinh](https://dermnetnz.org/topics/acropustulosis-of-infancy)

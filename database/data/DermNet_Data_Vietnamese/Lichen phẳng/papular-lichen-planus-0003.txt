@@ -1,1 +1,0 @@
-Một mảng lichen phẳng hiển thị các vạch Wickham

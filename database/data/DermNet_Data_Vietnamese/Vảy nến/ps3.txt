@@ -1,1 +1,0 @@
-Mảng bám được phân định rõ với vảy bạc trong bệnh vảy nến mảng bám mãn tính.

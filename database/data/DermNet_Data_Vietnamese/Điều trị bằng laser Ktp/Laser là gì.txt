@@ -1,7 +1,0 @@
-## Laser là gì?
-
-Thuật ngữ [LASER](https://dermnetnz.org/procedures/lasers.html) là viết tắt của sự khuếch đại ánh sáng bằng phát xạ kích thích của bức xạ. [Laser](https://dermnetnz.org/procedures/lasers.html) tạo ra một chùm ánh sáng mạnh với một màu sắc và bước sóng cụ thể có thể thay đổi về cường độ và thời gian xung.
-
-Laser có thể được sử dụng để điều trị các tình trạng da liễu khác nhau tùy thuộc vào bước sóng, đặc điểm xung và fluence (năng lượng đầu ra) của laser.
-
-Có nhiều loại laser khác nhau; chúng được phân biệt bởi môi trường tạo ra chùm laser và bước sóng được tạo ra.

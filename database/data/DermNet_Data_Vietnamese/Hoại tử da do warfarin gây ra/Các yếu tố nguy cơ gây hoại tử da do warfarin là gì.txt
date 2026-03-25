@@ -1,8 +1,0 @@
-## Các yếu tố nguy cơ gây hoại tử da do warfarin là gì?
-
-Các yếu tố nguy cơ gây hoại tử da do warfarin bao gồm:
-
-1. Thiếu hụt di truyền Protein C, Protein S hoặc Yếu tố V Leiden
-2. Đột biến gen methylene tetrahydrofolate reductase gây tăng homocysteine máu
-3. Thiếu hụt Antithrombin III
-4. Kháng thể kháng phospholipid.

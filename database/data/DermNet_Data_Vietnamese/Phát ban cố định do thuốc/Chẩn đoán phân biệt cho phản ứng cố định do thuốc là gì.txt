@@ -1,6 +1,0 @@
-## Chẩn đoán phân biệt cho phát ban cố định do thuốc là gì?
-
-- Tập đầu tiên của một hoặc vài tổn thương — phản ứng bóng nước do [côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings), [pemphigoid bóng nước](https://dermnetnz.org/topics/bullous-pemphigoid) và các rối loạn bóng nước tự miễn khác
-- Tổn thương dạng mục tiêu — [ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
-- Nhiều tổn thương bóng nước — [hội chứng Stevens-Johnson/hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis)
-- Tổn thương miệng — [herpes simplex](https://dermnetnz.org/topics/herpes-simplex), [loét áp tơ](https://dermnetnz.org/topics/aphthous-ulcer), [bệnh bóng nước tự miễn ở miệng](https://dermnetnz.org/topics/oral-blistering-diseases)

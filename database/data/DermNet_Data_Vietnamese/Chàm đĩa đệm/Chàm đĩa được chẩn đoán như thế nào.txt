@@ -1,7 +1,0 @@
-## Chàm đĩa được chẩn đoán như thế nào?
-
-Trong hầu hết các trường hợp, hình dạng của chàm đĩa khá đặc trưng.
-
-- Các mẫu vi khuẩn có thể tiết lộ sự xâm nhập hoặc nhiễm trùng của _[Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection)_.
-- Thường lấy mẫu cạo để kiểm tra [nấm học](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections), vì chàm đĩa có thể trông rất giống với [nấm da thân](https://dermnetnz.org/topics/tinea-corporis) (nhiễm nấm vòng).
-- [Thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) nên được xem xét trong trường hợp chàm đĩa mãn tính vì dị ứng tiếp xúc với kim loại, như niken và cromat, đã được báo cáo phổ biến.

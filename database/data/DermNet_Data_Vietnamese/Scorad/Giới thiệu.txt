@@ -1,3 +1,0 @@
-## Giới thiệu
-
-SCORAD là một công cụ lâm sàng được sử dụng để đánh giá mức độ và độ nghiêm trọng của bệnh chàm (Đánh giá Viêm da Cơ địa). Các bác sĩ da liễu có thể sử dụng công cụ này trước và sau khi điều trị để xác định liệu việc điều trị có hiệu quả hay không.

@@ -1,9 +1,0 @@
-## Làm thế nào để chẩn đoán phát ban cố định do thuốc?
-
-Phát ban cố định do thuốc nên được xem xét dựa trên tiền sử và khám lâm sàng, nhưng có thể khó khăn trong lần đầu tiên. Trong các lần tái phát sau, một lịch sử chi tiết về việc tiêu thụ trong 24 giờ trước đó có thể xác định được nguyên nhân.
-
-Các xét nghiệm có thể bao gồm:
-
-- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) — cho thấy viêm da giao diện trong tổn thương sớm với các tế bào sừng chết rải rác, thoái hóa không bào, phù nề lớp bì, và thâm nhiễm lympho-eosinophil quanh mạch nông. Nếu có, các bọng nước nằm dưới biểu bì. Tổn thương muộn cho thấy các tế bào thực bào melanin ở lớp bì trên.
-- Thử nghiệm kích thích bằng đường uống — với liều thấp của thuốc nghi ngờ mặc dù thường có một giai đoạn kháng cự trong đó vết phát ban sẽ không bùng phát. Điều này chống chỉ định ở bệnh nhân có phát ban cố định do thuốc dạng bóng nước toàn thân.
-- [Thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) — sử dụng thuốc nghi ngờ trong paraffin mềm bôi lên vị trí tổn thương dương tính trong 50% trường hợp. Thử nghiệm chích và thử nghiệm miếng dán trên da bình thường thường âm tính.

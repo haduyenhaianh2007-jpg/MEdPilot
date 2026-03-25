@@ -1,7 +1,0 @@
-## Làm thế nào để chẩn đoán bệnh rubella?
-
-Vì rubella thường nhẹ và tự giới hạn, chẩn đoán ở trẻ em khỏe mạnh dựa trên tiền sử đặc trưng và khám lâm sàng.
-
-Chẩn đoán rubella ở người lớn, đặc biệt là phụ nữ trong độ tuổi sinh đẻ, nên được xác nhận bằng xét nghiệm trong phòng thí nghiệm, vì chẩn đoán chỉ dựa trên biểu hiện lâm sàng là không đáng tin cậy. Xét nghiệm phổ biến nhất là huyết thanh học IgG và IgM. Virus rubella có thể được phân lập từ mẫu ngoáy họng, máu, nước tiểu và dịch não tủy bằng xét nghiệm phản ứng chuỗi polymerase (PCR) và phân loại phân tử.
-
-Các xét nghiệm khác bao gồm CBC, để phát hiện giảm tiểu cầu và giảm bạch cầu, và LFT, để phát hiện viêm gan do virus.

@@ -1,3 +1,0 @@
-## Chỉ số Tia cực tím
-
-[Chỉ số Tia cực tím (UVI)](https://dermnetnz.org/topics/global-solar-ultraviolet-index) là một thước đo độ mạnh của tia UVR gây ra ban đỏ ([cháy nắng](https://dermnetnz.org/topics/sunburn)). Nếu UVI > 10, tia UVR là cực kỳ mạnh, và nếu < 3, thì là thấp.

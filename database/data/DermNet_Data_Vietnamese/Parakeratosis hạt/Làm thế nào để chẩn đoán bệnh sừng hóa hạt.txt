@@ -1,7 +1,0 @@
-## Làm thế nào để chẩn đoán bệnh sừng hóa hạt?
-
-Bệnh sừng hóa hạt được chẩn đoán bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy). Có một mô hình phản ứng đặc trưng trên [mô bệnh học](https://dermnetnz.org/topics/dermatopathological-terminology) (sừng hóa, tăng hạt (do đó có tên gọi của nó), tăng gai, tăng nhú và mạch máu nổi bật).
-
-Các khu vực bị ảnh hưởng nên được lấy mẫu và bất kỳ mầm bệnh nào cũng nên được điều trị bằng [kháng sinh](https://dermnetnz.org/topics/antibiotics).
-
-[Thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) có thể hữu ích trong việc xác định một [chất gây dị ứng tiếp xúc](https://dermnetnz.org/topics/contact-allergens).

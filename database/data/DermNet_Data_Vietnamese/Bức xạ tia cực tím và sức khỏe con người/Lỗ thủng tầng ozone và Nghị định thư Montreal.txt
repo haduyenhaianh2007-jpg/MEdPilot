@@ -1,8 +1,0 @@
-## Lỗ thủng tầng ozone và Nghị định thư Montreal
-
-- Các chất làm suy giảm ozone (ODS) như chlorofluorocarbons (CFCs; còn được gọi là Freons) và Halons, từng được sử dụng trong tủ lạnh, bình xịt và bình chữa cháy, đã làm giảm lượng ozone trong tầng bình lưu.
-- Khi CFCs lên đến tầng khí quyển cao, chúng tiếp xúc với tia cực tím (UVR), gây ra sự phân hủy và hình thành khí clo. Clo phản ứng với các nguyên tử oxy trong ozone và phá vỡ phân tử ozone.
-- Hơn 50% lượng ozone trong tầng bình lưu Nam Cực đã bị suy giảm, dẫn đến sự hình thành của 'lỗ thủng ozone' vào mùa xuân. Trong mùa hè, không khí bị suy giảm ozone từ lỗ thủng ozone có thể trôi dạt sang Nam Mỹ và New Zealand, dẫn đến mức độ UVR cao hơn bình thường cho vĩ độ đó.
-- Mức độ UVR cao hơn vào mùa đông ở Úc đã được ghi nhận trong những năm 1990 so với những năm 1970, dẫn đến dự đoán rằng tỷ lệ mắc [ung thư da](https://dermnetnz.org/topics/skin-cancer) liên quan đến UVR sẽ tăng do mức độ ozone bị suy giảm.
-
-'Nghị định thư Montreal về các chất làm suy giảm tầng ozone' đã được ký kết vào năm 1987. Đây là một thỏa thuận môi trường quốc tế nhằm bảo vệ tầng ozone bằng cách giảm sản xuất và sử dụng các ODS như CFCs. Kể từ khi được khởi xướng, mức độ ODS trong khí quyển đã giảm đáng kể và tầng ozone trong tầng bình lưu dự kiến sẽ phục hồi hoàn toàn vào năm 2050.

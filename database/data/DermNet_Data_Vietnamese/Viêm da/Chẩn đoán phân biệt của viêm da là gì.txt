@@ -1,9 +1,0 @@
-## Chẩn đoán phân biệt của viêm da là gì?
-
-- [Nhiễm khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) — [chốc lở](https://dermnetnz.org/topics/impetigo), [erythrasma](https://dermnetnz.org/topics/erythrasma)
-- [Nhiễm nấm](https://dermnetnz.org/topics/fungal-skin-infections)
-- Bệnh mô liên kết — [lupus ban đỏ](https://dermnetnz.org/topics/systemic-lupus-erythematosus) và [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis)
-- [Trứng cá đỏ](https://dermnetnz.org/topics/rosacea)
-- [Bệnh phồng rộp](https://dermnetnz.org/topics/blistering-skin-conditions) — [pemphigoid bóng nước](https://dermnetnz.org/topics/bullous-pemphigoid)
-- U da — [bệnh Bowen](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma), [ung thư biểu mô tế bào đáy bề mặt](https://dermnetnz.org/images/superficial-basal-cell-carcinoma-images)
-- [U lympho T tế bào da](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma).

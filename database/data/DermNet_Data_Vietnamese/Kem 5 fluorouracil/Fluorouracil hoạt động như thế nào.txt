@@ -1,3 +1,0 @@
-## Fluorouracil hoạt động như thế nào?
-
-Fluorouracil là một chất tương tự pyrimidine liên kết không thể đảo ngược trong tế bào với thymidylate synthetase. Điều này ngăn chặn sự tích hợp uracil vào nuclearRNA, từ đó tiêu diệt các tế bào ung thư bất thường.

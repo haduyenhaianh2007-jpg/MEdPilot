@@ -1,6 +1,0 @@
-## Thử nghiệm lâm sàng
-
-- [ClinicalTrials.gov](https://www.clinicaltrials.gov/) Viện Y tế Quốc gia Hoa Kỳ
-- [Thử nghiệm lâm sàng trong Da liễu](http://www.centerwatch.com/clinical-trials/listings/therapeutic-area/3/dermatology) Dịch vụ danh sách Thử nghiệm lâm sàng CenterWatch™
-- [Mạng lưới Thử nghiệm lâm sàng Da liễu Vương quốc Anh](http://www.ukdctn.org/)
-- [Đăng ký Thử nghiệm lâm sàng Úc và New Zealand](http://www.anzctr.org.au/)

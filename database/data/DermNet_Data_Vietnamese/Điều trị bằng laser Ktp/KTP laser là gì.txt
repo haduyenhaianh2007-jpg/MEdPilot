@@ -1,3 +1,0 @@
-## Laser KTP là gì?
-
-Laser KTP là một loại laser trạng thái rắn sử dụng tinh thể kali titanyl phosphate (KTP) làm thiết bị nhân đôi tần số. Tinh thể KTP được kích hoạt bởi một chùm tia được tạo ra bởi laser neodymium:yttrium aluminium garnet (Nd: YAG). Chùm tia này được hướng qua tinh thể KTP để tạo ra một chùm tia trong phổ ánh sáng xanh lá cây với bước sóng 532 nm.

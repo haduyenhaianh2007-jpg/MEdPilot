@@ -1,7 +1,0 @@
-## Điều tra
-
-Chẩn đoán hoại tử da do warfarin được thực hiện lâm sàng.
-
-[Một sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể hỗ trợ trong việc chẩn đoán. [Mô bệnh học của hoại tử warfarin](https://dermnetnz.org/topics/warfarin-necrosis-pathology) thường cho thấy sự đông máu trong các mạch máu ở da mà không có bất kỳ viêm nhiễm nào. Warfarin cũng có thể gây ra [calciphylaxis](https://dermnetnz.org/topics/calciphylaxis), được nhận biết qua sinh thiết bằng sự lắng đọng canxi trong da bị ảnh hưởng.
-
-Các xét nghiệm máu để kiểm tra mức độ protein C và protein S rất quan trọng để đánh giá các nguyên nhân có khả năng gây ra.

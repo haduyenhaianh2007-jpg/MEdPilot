@@ -1,5 +1,0 @@
-## Dựa trên điều gì để xác định loại da theo Fitzpatrick?
-
-Loại da Fitzpatrick (hoặc loại quang học) phụ thuộc vào lượng sắc tố melanin trong da. Điều này được xác định bởi màu sắc tự nhiên (da trắng, nâu, hoặc đen) và tác động của việc tiếp xúc với bức xạ tia cực tím (quá trình rám nắng). Da nhợt nhạt hoặc trắng dễ bị cháy nắng và rám nắng chậm và kém: cần nhiều [bảo vệ chống lại việc tiếp xúc với ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection). Da tối màu ít bị cháy nắng hơn và dễ rám nắng hơn. Nó cũng dễ phát triển [sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) sau khi bị tổn thương (vết nâu).
-
-Loại da theo Fitzpatrick là một đặc điểm tự nhiên có từ khi sinh ra. Lưu ý rằng những người có [nhạy cảm với ánh sáng](https://dermnetnz.org/topics/photosensitivity) có thể dễ bị cháy nắng khi tiếp xúc với ánh nắng mặt trời do một bệnh, tình trạng hoặc thuốc; tuy nhiên, khả năng rám nắng của họ không bị ảnh hưởng bởi sự nhạy cảm với ánh sáng.

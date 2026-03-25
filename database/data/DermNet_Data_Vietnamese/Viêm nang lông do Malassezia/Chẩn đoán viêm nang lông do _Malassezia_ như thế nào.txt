@@ -1,8 +1,0 @@
-## Chẩn đoán viêm nang lông do _Malassezia_ như thế nào?
-
-Khám lâm sàng giúp đưa ra chẩn đoán. [Các xét nghiệm trong phòng thí nghiệm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) trên mẫu cạo da, dán băng, tăm bông, hoặc [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) xác nhận sự hiện diện của nấm men vì [viêm nang lông do vi khuẩn](https://dermnetnz.org/topics/bacterial-folliculitis) và [mụn trứng cá do steroid](https://dermnetnz.org/topics/steroid-acne) có thể có biểu hiện lâm sàng tương tự.
-
-- Chuẩn bị dung dịch kali hydroxit từ mẫu cạo da có thể phát hiện nấm men đang nảy chồi. Hiếm khi thấy sợi nấm.
-- Các loại thuốc nhuộm khác như thuốc nhuộm May-Grünwald-Giema ít được sử dụng hơn.
-- Nuôi cấy các loài _Malassezia_ thường cần môi trường đặc biệt để phát triển, do đó không được thực hiện thường xuyên.
-- Nấm men được nhìn thấy trong nang lông và có thể trong lớp bì xung quanh qua [khám nghiệm mô học.](https://dermnetnz.org/topics/malassezia-pityrosporum-folliculitis-pathology)

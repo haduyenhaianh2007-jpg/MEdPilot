@@ -1,9 +1,0 @@
-## Nguyên nhân gây ra bệnh vẩy nến là gì?
-
-Bệnh vẩy nến có nhiều yếu tố gây ra. Nó được phân loại là một bệnh da di truyền do hệ miễn dịch gây ra.
-
-Điều này liên quan đến sự tương tác phức tạp giữa hệ miễn dịch bẩm sinh và hệ miễn dịch thích ứng.
-
-Các nghiên cứu liên kết toàn bộ hệ gen báo cáo rằng phức hợp tương hợp mô HLA-C\*06:02 (trước đây được biết đến là HLA-Cw6) có liên quan đến bệnh vẩy nến khởi phát sớm và [bệnh vẩy nến giọt](https://dermnetnz.org/topics/guttate-psoriasis). Phức hợp tương hợp mô chính này không liên quan đến [viêm khớp vẩy nến](https://dermnetnz.org/topics/psoriatic-arthritis), [bệnh vẩy nến móng](https://dermnetnz.org/topics/nail-psoriasis), hoặc bệnh vẩy nến khởi phát muộn.
-
-Các yếu tố miễn dịch và cytokine viêm (protein truyền tin) như IL1β và TNFα, IL-23, và IL-17 chịu trách nhiệm cho các đặc điểm lâm sàng của bệnh vẩy nến. Do đó, chúng đã trở thành mục tiêu cho các loại thuốc sinh học và đã dẫn đến thành công trong quản lý thuốc.

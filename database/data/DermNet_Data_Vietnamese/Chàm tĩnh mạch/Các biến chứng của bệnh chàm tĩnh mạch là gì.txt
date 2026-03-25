@@ -1,6 +1,0 @@
-## Các biến chứng của chàm tĩnh mạch là gì?
-
-- [Nhiễm trùng mủ](https://dermnetnz.org/topics/impetigo) — nhiễm trùng thứ cấp với _Staphylococcus aureus_ dẫn đến vảy màu vàng
-- [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) — nhiễm trùng với _Streptococcus pyogenes_: có thể có đỏ, sưng, đau, sốt, vệt đỏ chạy dọc chân và hạch sưng ở bẹn
-- [Chàm thứ cấp](https://dermnetnz.org/topics/disseminated-secondary-eczema) — chàm lan ra các khu vực khác trên cơ thể
-- [Dị ứng tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis) với một hoặc nhiều thành phần của thuốc mỡ hoặc kem được sử dụng
